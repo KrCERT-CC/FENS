@@ -1,0 +1,4207 @@
+{
+	"md5": "13612c99a38b2b07575688c9758b72cc",
+	"data": {
+		"String": [
+			{
+				"type": "Unicode C-Style",
+				"string": "mscoree.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "CorExitProcess"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlsAlloc"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlsFree"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlsGetValue"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlsSetValue"
+			},
+			{
+				"type": "C-Style",
+				"string": "InitializeCriticalSectionEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateEventExW"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateSemaphoreExW"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetThreadStackGuarantee"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateThreadpoolTimer"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetThreadpoolTimer"
+			},
+			{
+				"type": "C-Style",
+				"string": "WaitForThreadpoolTimerCallbacks"
+			},
+			{
+				"type": "C-Style",
+				"string": "CloseThreadpoolTimer"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateThreadpoolWait"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetThreadpoolWait"
+			},
+			{
+				"type": "C-Style",
+				"string": "CloseThreadpoolWait"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlushProcessWriteBuffers"
+			},
+			{
+				"type": "C-Style",
+				"string": "FreeLibraryWhenCallbackReturns"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetCurrentProcessorNumber"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLogicalProcessorInformation"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateSymbolicLinkW"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetDefaultDllDirectories"
+			},
+			{
+				"type": "C-Style",
+				"string": "EnumSystemLocalesEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "CompareStringEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetDateFormatEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLocaleInfoEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetTimeFormatEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetUserDefaultLocaleName"
+			},
+			{
+				"type": "C-Style",
+				"string": "IsValidLocaleName"
+			},
+			{
+				"type": "C-Style",
+				"string": "LCMapStringEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetCurrentPackageId"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetTickCount64"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetFileInformationByHandleExW"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetFileInformationByHandleW"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6002\r\n- floating point support not loaded\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6008\r\n- not enough space for arguments\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6009\r\n- not enough space for environment\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6010\r\n- abort() has been called\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6016\r\n- not enough space for thread data\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6017\r\n- unexpected multithread lock error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6018\r\n- unexpected heap error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6019\r\n- unable to open console device\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6024\r\n- not enough space for _onexit/atexit table\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6025\r\n- pure virtual function call\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6026\r\n- not enough space for stdio initialization\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6027\r\n- not enough space for lowio initialization\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6028\r\n- unable to initialize heap\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6030\r\n- CRT not initialized\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6031\r\n- Attempt to initialize the CRT more than once.\nThis indicates a bug in your application.\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6032\r\n- not enough space for locale information\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6033\r\n- Attempt to use MSIL code from this assembly during native code initialization\nThis indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6034\r\n- inconsistent onexit begin-end variables\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DOMAIN error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SING error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TLOSS error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "runtime error "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Runtime Error!\n\nProgram: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "<program name unknown>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Microsoft Visual C++ Runtime Library"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ja-JP"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-CN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ko-KR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-TW"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "USER32.DLL"
+			},
+			{
+				"type": "C-Style",
+				"string": "MessageBoxW"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetActiveWindow"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLastActivePopup"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetUserObjectInformationW"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetProcessWindowStation"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-CHS"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-SA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bg-BG"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ca-ES"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "cs-CZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "da-DK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-DE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "el-GR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-US"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fi-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-FR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "he-IL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hu-HU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "is-IS"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "it-IT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nl-NL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nb-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pl-PL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pt-BR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ro-RO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ru-RU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hr-HR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sk-SK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sq-AL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sv-SE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "th-TH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tr-TR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ur-PK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "id-ID"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uk-UA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "be-BY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sl-SI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "et-EE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lv-LV"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lt-LT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fa-IR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "vi-VN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hy-AM"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "az-AZ-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "eu-ES"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mk-MK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tn-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "xh-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zu-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "af-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ka-GE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fo-FO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hi-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mt-MT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ms-MY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kk-KZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ky-KG"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sw-KE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uz-UZ-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tt-RU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bn-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pa-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "gu-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ta-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "te-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kn-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ml-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mr-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sa-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mn-MN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "cy-GB"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "gl-ES"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kok-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "syr-SY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "div-MV"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-BO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ns-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mi-NZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-IQ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-CH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-GB"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-MX"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-BE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "it-CH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nl-BE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nn-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pt-PT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-SP-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sv-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "az-AZ-Cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-SE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ms-BN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uz-UZ-Cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-EC"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-EG"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-HK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-AT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-AU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ES"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-CA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-SP-Cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-PE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-LY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-SG"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-LU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-CA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-GT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-CH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hr-BA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smj-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-DZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-MO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-LI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-NZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-CR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-LU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bs-BA-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smj-SE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-MA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-IE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-PA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-MC"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-BA-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sma-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-TN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-DO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-BA-Cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sma-SE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-OM"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-JM"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-VE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sms-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-YE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-CB"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-CO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smn-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-SY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-BZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-PE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-JO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-TT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-AR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-LB"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ZW"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-EC"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-KW"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-PH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-CL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-AE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-UY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-BH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-PY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-QA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-BO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-SV"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-HN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-NI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-PR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-CHT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "af-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-ae"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-bh"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-dz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-eg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-iq"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-jo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-kw"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-lb"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-ly"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-ma"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-om"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-qa"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-sa"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-sy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-tn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-ye"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "az-az-cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "az-az-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "be-by"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bg-bg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bn-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bs-ba-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ca-es"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "cs-cz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "cy-gb"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "da-dk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-at"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-ch"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-de"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-li"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-lu"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "div-mv"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "el-gr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-au"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-bz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ca"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-cb"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-gb"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ie"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-jm"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-nz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ph"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-tt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-us"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-zw"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ar"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-bo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-cl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-co"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-cr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-do"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ec"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-es"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-gt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-hn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-mx"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ni"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-pa"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-pe"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-pr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-py"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-sv"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-uy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ve"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "et-ee"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "eu-es"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fa-ir"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fi-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fo-fo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-be"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-ca"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-ch"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-fr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-lu"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-mc"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "gl-es"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "gu-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "he-il"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hi-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hr-ba"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hr-hr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hu-hu"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hy-am"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "id-id"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "is-is"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "it-ch"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "it-it"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ja-jp"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ka-ge"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kk-kz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kn-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kok-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ko-kr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ky-kg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lt-lt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lv-lv"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mi-nz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mk-mk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ml-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mn-mn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mr-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ms-bn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ms-my"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mt-mt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nb-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nl-be"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nl-nl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nn-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ns-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pa-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pl-pl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pt-br"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pt-pt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-bo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-ec"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-pe"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ro-ro"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ru-ru"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sa-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-se"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sk-sk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sl-si"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sma-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sma-se"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smj-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smj-se"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smn-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sms-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sq-al"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-ba-cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-ba-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-sp-cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-sp-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sv-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sv-se"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sw-ke"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "syr-sy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ta-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "te-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "th-th"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tn-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tr-tr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tt-ru"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uk-ua"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ur-pk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uz-uz-cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uz-uz-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "vi-vn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "xh-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-chs"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-cht"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-cn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-hk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-mo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-sg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-tw"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zu-za"
+			},
+			{
+				"type": "C-Style",
+				"string": "Sunday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Monday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Tuesday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Wednesday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Thursday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Friday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Saturday"
+			},
+			{
+				"type": "C-Style",
+				"string": "January"
+			},
+			{
+				"type": "C-Style",
+				"string": "February"
+			},
+			{
+				"type": "C-Style",
+				"string": "March"
+			},
+			{
+				"type": "C-Style",
+				"string": "April"
+			},
+			{
+				"type": "C-Style",
+				"string": "August"
+			},
+			{
+				"type": "C-Style",
+				"string": "September"
+			},
+			{
+				"type": "C-Style",
+				"string": "October"
+			},
+			{
+				"type": "C-Style",
+				"string": "November"
+			},
+			{
+				"type": "C-Style",
+				"string": "December"
+			},
+			{
+				"type": "C-Style",
+				"string": "MM/dd/yy"
+			},
+			{
+				"type": "C-Style",
+				"string": "dddd, MMMM dd, yyyy"
+			},
+			{
+				"type": "C-Style",
+				"string": "HH:mm:ss"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Sunday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Monday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Tuesday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Wednesday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Thursday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Friday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Saturday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "January"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "February"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "March"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "April"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "August"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "September"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "October"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "November"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "December"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "MM/dd/yy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "dddd, MMMM dd, yyyy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "HH:mm:ss"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "         (((((                  H"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CONOUT$"
+			},
+			{
+				"type": "C-Style",
+				"string": "e+000"
+			},
+			{
+				"type": "C-Style",
+				"string": "1#SNAN"
+			},
+			{
+				"type": "C-Style",
+				"string": "1#IND"
+			},
+			{
+				"type": "C-Style",
+				"string": "1#INF"
+			},
+			{
+				"type": "C-Style",
+				"string": "1#QNAN"
+			},
+			{
+				"type": "C-Style",
+				"string": "/c reg add HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run /v httpsrvlog /t REG_SZ /d "
+			},
+			{
+				"type": "C-Style",
+				"string": "cmd.exe"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SHELL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SHLWAPI.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "abcdefghijklmnopqrstuvwxyz"
+			},
+			{
+				"type": "C-Style",
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+			},
+			{
+				"type": "C-Style",
+				"string": "abcdefghijklmnopqrstuvwxyz"
+			},
+			{
+				"type": "C-Style",
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2013)",
+		"linker": "Microsoft Linker(12.0*)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "6144:2oghh6nh3H+NcHz22QwODXguefATWOQjNUYb6viL02CH3456Q:LIQnhX6cf9ODQvIKtNUYbMLXDQ",
+		"section Fuzzyhash(.data)": "48:FmBPItTUTk4TkGkrW10D2AvXUhoSjgbv3:8BgtA5haW10DpUhoSkb/",
+		"rich header": "44616e530000000000000000000000009ea0c700010000000d52e100180000000d52df000f0000000d52e00069000000ddffcb00070000000000010056000000b59ee500010000000d52db0001000000b59ede0001000000",
+		"PE Image": "binary_13612c99a38b2b07575688c9758b72cc.jpg",
+		"bytecode": "binary_13612c99a38b2b07575688c9758b72cc.byte",
+		"opcode": "push,mov,sub,mov,xor,mov,push,push,push,mov,mov,mov,lea,push,lea,push,push,call,push,lea,push,push,call,add,push,push,push,call,mov,jz,lea,push,push,call,mov,jz,push,push,call,jz,push,call,mov,jz,push,lea,mov,mov,lea,push,push,mov,call,mov,add,sub,jz,dec,jnz,lea,push,push,call,lea,add,dec,mov,lea,jnz,mov,lea,mov,mov,lea,mov,inc,jnz,lea,sub,dec,mov,inc,jnz,mov,shr,mov,jmp,lea,push,push,call,push,push,push,lea,push,push,lea,push,push,push,call,lea,push,lea,push,call,push,push,push,push,push,push,lea,push,call,mov,cmp,jz,mov,lea,push,push,add,mov,push,lea,push,push,call,push,call,mov,cmp,jnz,lea,mov,mov,inc,jnz,lea,sub,dec,mov,inc,jnz,mov,shr,push,mov,lea,push,push,push,jmp,cmp,jnz,push,push,push,lea,push,push,push,call,inc,push,push,push,mov,call,mov,jnz,mov,pop,pop,pop,xor,call,mov,pop,call,push,call,push,mov,mov,mov,pop,push,push,mov,mov,jmp,mov,jz,call,add,cmp,jb,pop,pop,push,push,mov,mov,jmp,mov,jz,call,add,cmp,jb,pop,pop,push,mov,push,call,pop,push,mov,mov,mov,pop,push,mov,mov,mov,pop,push,call,push,mov,mov,mov,pop,jmp,push,call,pop,xor,push,mov,mov,mov,pop,push,mov,sub,mov,xor,mov,mov,push,mov,push,push,mov,xor,mov,push,mov,call,mov,mov,call,mov,cmp,jnz,push,push,push,call,mov,jnz,call,cmp,jnz,push,push,push,call,mov,jz,push,push,call,jz,push,call,push,push,mov,call,push,call,push,push,mov,call,push,call,push,push,mov,call,push,call,mov,jz,push,push,call,push,call,mov,mov,call,jz,mov,jz,push,call,cmp,jz,push,pop,jmp,cmp,jz,push,call,push,jmp,mov,mov,cmp,jz,cmp,jz,push,call,push,mov,call,mov,mov,jz,jz,call,jz,lea,push,push,lea,push,push,push,call,jz,jnz,mov,jmp,mov,cmp,jz,push,call,jz,call,mov,jz,mov,cmp,jz,push,call,jz,push,call,mov,mov,push,call,jz,push,push,push,push,call,jmp,xor,mov,pop,pop,xor,pop,call,mov,pop,pop,push,call,pop,mov,cmp,jz,cmp,jz,push,call,mov,mov,mov,jnz,mov,mul,push,mov,sub,mov,xor,mov,mov,push,push,push,xor,mov,mov,mov,mov,mov,sub,mov,mov,mov,shl,mov,mov,cmp,jnz,mov,mov,cmp,jnz,inc,cmp,jl,jmp,xor,lea,push,pop,jmp,mov,lea,lea,mov,dec,mov,push,mov,lea,mov,pop,add,sar,mov,jns,dec,inc,sub,xor,inc,mov,mov,shl,push,pop,jz,mov,shl,not,jmp,cmp,jnz,inc,cmp,jl,jmp,mov,push,pop,add,mov,sar,jns,dec,inc,sub,mov,xor,inc,shl,mov,mov,mov,add,mov,cmp,mov,mov,push,pop,jb,cmp,jnb,xor,inc,mov,mov,dec,js,jz,mov,mov,mov,lea,cmp,mov,mov,jb,cmp,jnb,xor,inc,mov,mov,dec,jns,mov,mov,mov,shl,lea,cmp,jge,lea,mov,lea,sub,xor,mov,cmp,jz,inc,mov,mov,sub,cmp,jge,xor,lea,mov,jmp,cmp,jg,sub,lea,mov,lea,mov,add,sar,mov,mov,jns,dec,inc,mov,mov,mov,mov,mov,shl,not,push,mov,pop,sub,push,mov,pop,mov,mov,mov,shr,mov,shl,mov,inc,mov,cmp,jl,mov,lea,shl,xor,push,sub,mov,pop,cmp,jl,mov,mov,mov,jmp,mov,sub,dec,jns,mov,inc,mov,add,sar,mov,jns,dec,inc,push,pop,sub,mov,xor,mov,inc,shl,jz,mov,shl,not,jmp,cmp,jnz,inc,cmp,jl,jmp,mov,mov,push,pop,add,sar,jns,dec,inc,mov,sub,xor,inc,shl,mov,mov,add,mov,cmp,mov,push,pop,jb,cmp,jnb,xor,inc,mov,dec,js,jz,mov,mov,lea,cmp,mov,mov,jb,cmp,jnb,xor,inc,mov,dec,jns,mov,mov,mov,shl,inc,cmp,jge,lea,mov,lea,sub,xor,mov,inc,mov,add,sar,mov,jns,dec,inc,mov,mov,shl,push,mov,not,mov,pop,sub,mov,mov,mov,mov,mov,shr,mov,mov,mov,shl,mov,mov,inc,mov,cmp,jl,mov,lea,mov,shl,push,sub,xor,pop,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,jmp,cmp,jl,mov,lea,xor,mov,add,sar,mov,jns,dec,inc,mov,push,shl,pop,sub,mov,not,mov,mov,mov,shr,mov,shl,mov,mov,inc,mov,cmp,jl,mov,lea,mov,shl,push,sub,xor,pop,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,mov,xor,add,inc,jmp,mov,add,mov,mov,mov,add,sar,mov,jns,dec,inc,push,mov,mov,shl,mov,pop,sub,mov,not,mov,mov,mov,mov,shr,mov,shl,mov,inc,mov,cmp,jl,mov,lea,mov,mov,shl,push,sub,xor,pop,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,mov,push,pop,sub,mov,mov,shl,neg,sbb,mov,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,mov,mov,pop,pop,xor,pop,call,mov,pop,push,mov,sub,mov,xor,mov,mov,push,push,push,xor,mov,mov,mov,mov,mov,sub,mov,mov,mov,shl,mov,mov,cmp,jnz,mov,mov,cmp,jnz,inc,cmp,jl,jmp,xor,lea,push,pop,jmp,mov,lea,lea,mov,dec,mov,push,mov,lea,mov,pop,add,sar,mov,jns,dec,inc,sub,xor,inc,mov,mov,shl,push,pop,jz,mov,shl,not,jmp,cmp,jnz,inc,cmp,jl,jmp,mov,push,pop,add,mov,sar,jns,dec,inc,sub,mov,xor,inc,shl,mov,mov,mov,add,mov,cmp,mov,mov,push,pop,jb,cmp,jnb,xor,inc,mov,mov,dec,js,jz,mov,mov,mov,lea,cmp,mov,mov,jb,cmp,jnb,xor,inc,mov,mov,dec,jns,mov,mov,mov,shl,lea,cmp,jge,lea,mov,lea,sub,xor,mov,cmp,jz,inc,mov,mov,sub,cmp,jge,xor,lea,mov,jmp,cmp,jg,sub,lea,mov,lea,mov,add,sar,mov,mov,jns,dec,inc,mov,mov,mov,mov,mov,shl,not,push,mov,pop,sub,push,mov,pop,mov,mov,mov,shr,mov,shl,mov,inc,mov,cmp,jl,mov,lea,shl,xor,push,sub,mov,pop,cmp,jl,mov,mov,mov,jmp,mov,sub,dec,jns,mov,inc,mov,add,sar,mov,jns,dec,inc,push,pop,sub,mov,xor,mov,inc,shl,jz,mov,shl,not,jmp,cmp,jnz,inc,cmp,jl,jmp,mov,mov,push,pop,add,sar,jns,dec,inc,mov,sub,xor,inc,shl,mov,mov,add,mov,cmp,mov,push,pop,jb,cmp,jnb,xor,inc,mov,dec,js,jz,mov,mov,lea,cmp,mov,mov,jb,cmp,jnb,xor,inc,mov,dec,jns,mov,mov,mov,shl,inc,cmp,jge,lea,mov,lea,sub,xor,mov,inc,mov,add,sar,mov,jns,dec,inc,mov,mov,shl,push,mov,not,mov,pop,sub,mov,mov,mov,mov,mov,shr,mov,mov,mov,shl,mov,mov,inc,mov,cmp,jl,mov,lea,mov,shl,push,sub,xor,pop,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,jmp,cmp,jl,mov,lea,xor,mov,add,sar,mov,jns,dec,inc,mov,push,shl,pop,sub,mov,not,mov,mov,mov,shr,mov,shl,mov,mov,inc,mov,cmp,jl,mov,lea,mov,shl,push,sub,xor,pop,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,mov,xor,add,inc,jmp,mov,add,mov,mov,mov,add,sar,mov,jns,dec,inc,push,mov,mov,shl,mov,pop,sub,mov,not,mov,mov,mov,mov,shr,mov,shl,mov,inc,mov,cmp,jl,mov,lea,mov,mov,shl,push,sub,xor,pop,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,mov,push,pop,sub,mov,mov,shl,neg,sbb,mov,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,mov,mov,pop,pop,xor,pop,call,mov,pop",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "386df858b3b68314783e7b0a7a98edc5"
+			},
+			{
+				"section": ".rdata",
+				"md5": "d885c8843660cd1c55085059d0e1cb6b"
+			},
+			{
+				"section": ".data",
+				"md5": "bb5d58be086dd65b3813dc5378509385"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "bc66c5da6df7ce5cdec9c95e86464157"
+			},
+			{
+				"section": ".reloc",
+				"md5": "bd0d886e8c89801bdfd514246624916c"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "13612c99a38b2b07575688c9758b72cc",
+		"SHA1": "e7ef3b033c34f2ac2772c15ad53aa28599f93a51",
+		"SHA256": "042271aadf2191749876fc99997d0e6bdd3b89159e7ab8cd11a9f13ae65fa6b1",
+		"EntryPoint": "401734",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 668672,
+		"Original FileName": "",
+		"Entropy": 6.226,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-03-04 17:24:34(2022-03-04 08:24:34 UTC)",
+		"Import Hash": "d5b906cff940c3d7f50324ef7090a0e3",
+		"Section Info": [
+			".text:0x1000:0xa3f2:0x400:0xa400:6.69259372204",
+			".rdata:0xc000:0x4736:0xa800:0x4800:4.5857100659",
+			".data:0x11000:0x303c:0xf000:0x1200:3.25140980266",
+			".rsrc:0x15000:0x922c6:0x10200:0x92400:6.15686101163",
+			".reloc:0xa8000:0xc9c:0xa2600:0xe00:6.28460076185"
+		],
+		"Resource": [
+			"RT_ICON:0x152d4:0x42028:dBase III DBT, version number 0, next free block index 40::",
+			"RT_ICON:0x572fc:0x4228:dBase IV DBT of \\200.DBF, blocks size 0, block length 16896, next free block index 40, next free block 57599, next used block 4294905600::",
+			"RT_ICON:0x5b524:0x25a8:data::",
+			"RT_ICON:0x5dacc:0x1a68:data::",
+			"RT_ICON:0x5f534:0x10a8:data::",
+			"RT_ICON:0x605dc:0x988:data::",
+			"RT_ICON:0x60f64:0x6b8:data::",
+			"RT_ICON:0x6161c:0x468:GLS_BINARY_LSB_FIRST::",
+			"RT_RCDATA:0x61a84:0x42db9:data:English:Caribbean",
+			"RT_RCDATA:0xa4840:0x308:data:English:Caribbean",
+			"RT_RCDATA:0xa4b48:0x2706:data:English:Caribbean",
+			"RT_GROUP_ICON:0xa7250:0x76:data::"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\System\\Acrobatbrokerserverdispatchercpp789"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Acrobat Reader\\DC\\NoTimeOut"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Acrobat Reader\\DC\\ToolsSearch"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Acrobat Reader\\DC\\SessionManagement\\cWindowsCurrent\\cWin0"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Adobe Synchronizer\\DC\\WebServers"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Acrobat Reader\\DC\\AVGeneral",
+				"name": "aDefaultRHPViewModeL"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Acrobat Reader\\DC\\AVGeneral",
+				"name": "bExpandRHPInViewer"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Acrobat Reader\\DC\\NoTimeOut",
+				"name": "smailto"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Acrobat Reader\\DC\\ToolsSearch",
+				"name": "iSearchHintIndex"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Acrobat Reader\\DC\\SessionManagement\\cWindowsCurrent\\cWin0",
+				"name": "iTabCount"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Adobe\\Acrobat Reader\\DC\\SessionManagement\\cWindowsCurrent",
+				"name": "iWinCount"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "httpsrvlog"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "httpshelper"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe' 'C:\\Users\\user\\AppData\\Local\\Temp\\#2163_02_33-2022.pdf'"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\cmd.exe' /c reg add HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run /v httpsrvlog /t REG_SZ /d C:\\Users\\user\\AppData\\Local\\Temp\\officecleaner.bat"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe' --type=renderer  'C:\\Users\\user\\AppData\\Local\\Temp\\#2163_02_33-2022.pdf'"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\RdrCEF.exe' --backgroundcolor=16514043"
+			},
+			{
+				"cmdline": "reg  add HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run /v httpsrvlog /t REG_SZ /d C:\\Users\\user\\AppData\\Local\\Temp\\officecleaner.bat"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\RdrCEF.exe' --type=renderer --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --touch-events=enabled --field-trial-handle=1148,10993674615171937938,9112823858053043424,131072 --disable-features=NetworkService,VizDisplayCompositor --disable-gpu-compositing --lang=en-US --disable-pack-loading --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --log-severity=disable --product-version='ReaderServices/20.13.20074 Chrome/80.0.0.0' --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=9846373807435178977 --renderer-client-id=2 --mojo-platform-channel-handle=1164 --allow-no-sandbox-job /prefetch:1"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\RdrCEF.exe' --type=gpu-process --field-trial-handle=1148,10993674615171937938,9112823858053043424,131072 --disable-features=NetworkService,VizDisplayCompositor --disable-pack-loading --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --log-severity=disable --product-version='ReaderServices/20.13.20074 Chrome/80.0.0.0' --lang=en-US --gpu-preferences=KAAAAAAAAADgACAgAQAAAAAAAAAAAGAAAAAAABAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --use-gl=swiftshader-webgl --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --service-request-channel-token=7088895058043455827 --mojo-platform-channel-handle=1236 --allow-no-sandbox-job --ignored=' --type=renderer ' /prefetch:2"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\RdrCEF.exe' --type=renderer --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --touch-events=enabled --field-trial-handle=1148,10993674615171937938,9112823858053043424,131072 --disable-features=NetworkService,VizDisplayCompositor --disable-gpu-compositing --lang=en-US --disable-pack-loading --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --log-severity=disable --product-version='ReaderServices/20.13.20074 Chrome/80.0.0.0' --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16297960638239862385 --renderer-client-id=4 --mojo-platform-channel-handle=1436 --allow-no-sandbox-job /prefetch:1"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\RdrCEF.exe' --type=renderer --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --touch-events=enabled --field-trial-handle=1148,10993674615171937938,9112823858053043424,131072 --disable-features=NetworkService,VizDisplayCompositor --disable-gpu-compositing --lang=en-US --disable-pack-loading --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --log-severity=disable --product-version='ReaderServices/20.13.20074 Chrome/80.0.0.0' --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2809215204478082321 --renderer-client-id=5 --mojo-platform-channel-handle=1448 --allow-no-sandbox-job /prefetch:1"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\RdrCEF.exe' --type=gpu-process --field-trial-handle=1148,10993674615171937938,9112823858053043424,131072 --disable-features=NetworkService,VizDisplayCompositor --disable-pack-loading --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --log-severity=disable --product-version='ReaderServices/20.13.20074 Chrome/80.0.0.0' --lang=en-US --gpu-preferences=KAAAAAAAAADgACAgAQAAAAAAAAAAAGAAAAAAABAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --use-gl=swiftshader-webgl --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --service-request-channel-token=11639061646597548118 --mojo-platform-channel-handle=1280 --allow-no-sandbox-job --ignored=' --type=renderer ' /prefetch:2"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\RdrCEF.exe' --type=gpu-process --field-trial-handle=1148,10993674615171937938,9112823858053043424,131072 --disable-features=NetworkService,VizDisplayCompositor --disable-pack-loading --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --log-severity=disable --product-version='ReaderServices/20.13.20074 Chrome/80.0.0.0' --lang=en-US --gpu-preferences=KAAAAAAAAADgACAgAQAAAAAAAAAAAGAAAAAAABAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --use-gl=swiftshader-webgl --log-file='C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\debug.log' --service-request-channel-token=10778171603445883948 --mojo-platform-channel-handle=1852 --allow-no-sandbox-job --ignored=' --type=renderer ' /prefetch:2"
+			},
+			{
+				"cmdline": "C:\\Windows\\system32\\cmd.exe  /S /D /c' echo '"
+			},
+			{
+				"cmdline": "C:\\Windows\\system32\\cmd.exe  /S /D /c' set /p='MZ' 1>C:\\Users\\user\\AppData\\Local\\Temp\\httpshelper.dll'"
+			},
+			{
+				"cmdline": "reg  add HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run /v 'httpshelper' /d 'c:\\windows\\system32\\rundll32.exe C:\\Users\\user\\AppData\\Local\\Temp\\httpshelper.dll,OAService' /f"
+			},
+			{
+				"cmdline": "c:\\windows\\system32\\rundll32.exe  C:\\Users\\user\\AppData\\Local\\Temp\\httpshelper.dll,OAService"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\56#U0457.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\reg.exe"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroCEF\\RdrCEF.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\reg.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\#2163_02_33-2022.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\officecleaner.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\officecleaner.dat"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\Acrobat\\DC"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\acrord32_sbx"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\Linguistics"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Adobe\\Acrobat\\DC"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Color"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Adobe\\Linguistics"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Adobe\\LogTransport2"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Adobe\\Headlights"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Speech"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\acrocef_low"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\Acrobat\\DC\\ReaderMessages-journal"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\Acrobat\\DC\\assets"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\acrord32_sbx\\A9Rkchznp_eopoi7_190.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\acrord32_sbx\\A9R1310b9y_eopoi8_190.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Local\\06D44608"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Local\\06D44830"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\CEF"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\blob_storage\\098c67e3-2e7b-4fc8-8ab9-c4ca8615ff63"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0786087c3c360803_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\4a0e94571d979b3c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\2a426f11fd8ebe18_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\bba29d2e6197e2f4_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\aba6710fde0876af_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\LOG.old~RFbb2be4.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\72d9f526d2e2e7c8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8e417e79df3bf0e9_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\560e9c8bff5008d8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\983b7a3da8f39a46_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\92c56fa2a6c4d5ba_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8c84d92a9dbce3e0_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\86b8040b7132b608_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\946896ee27df7947_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f941376b2efdd6e6_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\febb41df4ea2b63a_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\index"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_2"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_3"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\fd17b2d8331c91e8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8c159cc5880890bc_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\78bff3512887b83d_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\7120c35b509b0fae_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\230e5fe3e6f82b2c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\4ca3cb58378aaa3f_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\d449e58cb15daaf1_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0998db3a32ab3f41_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f971b7eda7fa05c3_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\71febec55d5c75cd_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\6fb6d030c4ebbc21_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\b6d5deb4812ac6e9_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\91cec06bb2836fa5_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\927a1596c37ebe5e_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0f25049d69125b1e_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\56c4cd218555ae2b_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\2798067b152b83c7_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\cf3e34002cde7e9c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\05349744be1ad4ad_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f0cf6dfa8a1afa3d_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0ace9ee3d914a5c0_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\64766d63a539c3ca_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\e58e492b0f04240a_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\index-dir\\temp-index"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\index-dir\\the-real-index~RFbb9d6b.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\httpshelper.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\Acrobat\\DC\\ReaderMessages-journal"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\acrord32_sbx\\A9Rkchznp_eopoi7_190.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\acrord32_sbx\\A9R1310b9y_eopoi8_190.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\blob_storage\\e25e9270-d866-4010-b3ae-cff7c49c1c22"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0786087c3c360803_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\4a0e94571d979b3c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\2a426f11fd8ebe18_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\bba29d2e6197e2f4_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\aba6710fde0876af_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\LOG.old~RFbb2be4.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\72d9f526d2e2e7c8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8e417e79df3bf0e9_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\560e9c8bff5008d8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_983b7a3da8f39a46_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_92c56fa2a6c4d5ba_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_8c84d92a9dbce3e0_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_86b8040b7132b608_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_946896ee27df7947_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_f941376b2efdd6e6_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_febb41df4ea2b63a_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\983b7a3da8f39a46_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\92c56fa2a6c4d5ba_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8c84d92a9dbce3e0_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\86b8040b7132b608_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\946896ee27df7947_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f941376b2efdd6e6_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\febb41df4ea2b63a_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\fd17b2d8331c91e8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8c159cc5880890bc_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\78bff3512887b83d_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\7120c35b509b0fae_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\230e5fe3e6f82b2c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\4ca3cb58378aaa3f_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_0998db3a32ab3f41_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_f971b7eda7fa05c3_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_71febec55d5c75cd_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\6fb6d030c4ebbc21_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\b6d5deb4812ac6e9_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\todelete_91cec06bb2836fa5_0_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\927a1596c37ebe5e_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0f25049d69125b1e_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\56c4cd218555ae2b_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\cf3e34002cde7e9c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\2798067b152b83c7_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\05349744be1ad4ad_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f0cf6dfa8a1afa3d_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0998db3a32ab3f41_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f971b7eda7fa05c3_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\91cec06bb2836fa5_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\71febec55d5c75cd_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\index-dir\\the-real-index~RFbb9d6b.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\officecleaner.dat"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\#2163_02_33-2022.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\officecleaner.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\officecleaner.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\SOPHIA\\Reader\\SOPHIA.json"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\SOPHIA\\Reader\\Files\\TESTING"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\UserCache.bin"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\Acrobat\\DC\\ReaderMessages-journal"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\Acrobat\\DC\\ReaderMessages"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Visited Links"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0786087c3c360803_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\4a0e94571d979b3c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\2a426f11fd8ebe18_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\bba29d2e6197e2f4_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\aba6710fde0876af_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\72d9f526d2e2e7c8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8e417e79df3bf0e9_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\560e9c8bff5008d8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\983b7a3da8f39a46_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\92c56fa2a6c4d5ba_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8c84d92a9dbce3e0_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\86b8040b7132b608_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\946896ee27df7947_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f941376b2efdd6e6_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\febb41df4ea2b63a_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\index"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_2"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_3"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\fd17b2d8331c91e8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8c159cc5880890bc_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\78bff3512887b83d_0"
+			},
+			{
+				"path": "unknown"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\230e5fe3e6f82b2c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\7120c35b509b0fae_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\4ca3cb58378aaa3f_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\d449e58cb15daaf1_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0998db3a32ab3f41_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f971b7eda7fa05c3_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\71febec55d5c75cd_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\6fb6d030c4ebbc21_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\b6d5deb4812ac6e9_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\91cec06bb2836fa5_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\927a1596c37ebe5e_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0f25049d69125b1e_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\56c4cd218555ae2b_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\2798067b152b83c7_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\cf3e34002cde7e9c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\05349744be1ad4ad_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f0cf6dfa8a1afa3d_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0ace9ee3d914a5c0_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\64766d63a539c3ca_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\e58e492b0f04240a_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\index-dir\\temp-index"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\httpshelper.dll"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Searches\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Videos\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Pictures\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Contacts\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Links\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Saved Games\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shdocvw.dll"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\UserCache.bin"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\#2163_02_33-2022.pdf"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Viewer.aapp"
+			},
+			{
+				"path": "C:\\Windows\\win.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\IconCacheRdr65536.dat"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\AdobeCMapFnt20.lst"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\AdobeSysFnt20.lst"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\Cache\\AcroFnt20.lst"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\Acrobat\\DC\\ReaderMessages"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\SOPHIA\\Reader\\SOPHIA.json"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Adobe\\Acrobat\\DC\\Security\\ES_session_storei"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Adobe\\Acrobat\\DC\\Security\\ES_session_storek"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Adobe\\Acrobat\\DC\\Security\\ES_session_store"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\EPDF_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\version.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\variant.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Adobe\\Acrobat\\DC\\SharedDataEvents"
+			},
+			{
+				"path": "\\pipe\\com.adobe.reader.rna.b3c"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\Acrobat\\DC\\ReaderMessages-journal"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\CPDF_Full.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\EPDF_Full.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Comments.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\FillSign.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\CollectSignatures.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\TrackedSend.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Stamp.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Certificates_R.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Measure.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\AppCenter_R.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Home.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\InAppSign.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\UnifiedShare.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\CPDF_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\ConvertPDF_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\ConvertPDF_Full.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Combine_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Developer_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Pages_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Edit_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Edit_R_Full.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Edit_R_Menu.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\MoreTools.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Index_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\RichMedia_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Redact_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Protect_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\OptimizePDF_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\OptimizePDF_R_CTX.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Review_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Scan_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Edit_R_Exp_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Accessibility_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Actions_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Compare_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\CreateCustom_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Standards_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\PrintProduction_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroApp\\ENU\\Forms_R_RHP.aapp"
+			},
+			{
+				"path": "C:\\Windows\\System32\\spool\\drivers\\color\\sRGB Color Space Profile.icm"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\reg.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Visited Links"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\index"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\index-dir\\the-real-index"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\index.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cookie\\Cookies"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.1044.14537064662550487376"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.2872.12360710620649436132"
+			},
+			{
+				"path": "\\pipe\\com.adobe.reader.rna.user.DC.0"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.2872.6705288933531033334"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.2872.5726536458556528437"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.1044.6681055875237827711"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.2872.18297073265960565445"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.1044.11604555299322627000"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.2872.5662213026895563679"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\init.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\plugins.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\base_uris.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\4a0e94571d979b3c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\2a426f11fd8ebe18_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0786087c3c360803_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\libs\\require\\2.1.15\\require.min.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\bba29d2e6197e2f4_0"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.2872.5851290380465106059"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.2872.18425082518034743320"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\aba6710fde0876af_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\rna-main.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\CURRENT"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\MANIFEST-000001"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\000003.log"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\libs\\microsoftGraph\\microsoft-graph-js-sdk-web.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\72d9f526d2e2e7c8_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\css\\main-cef.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\css\\main-cef-ui-theme.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\css\\main-cef-win.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\config.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\desktop.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8e417e79df3bf0e9_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\560e9c8bff5008d8_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\desktop-connector-files\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\desktop-connector-files-select\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\desktop-connector-files\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\desktop-connector-files-select\\css\\main.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\983b7a3da8f39a46_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\my-files\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\92c56fa2a6c4d5ba_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8c84d92a9dbce3e0_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\86b8040b7132b608_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f941376b2efdd6e6_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\febb41df4ea2b63a_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\desktop-connector-files\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\946896ee27df7947_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\desktop-connector-files-select\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\my-files\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\my-files-select\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\desktop-connector-files\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\desktop-connector-files-select\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\fd17b2d8331c91e8_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\8c159cc5880890bc_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\78bff3512887b83d_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\7120c35b509b0fae_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\230e5fe3e6f82b2c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\4ca3cb58378aaa3f_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\home\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\sign-services-auth\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\unified-share\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\home\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\sign-services-auth\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\unified-share\\css\\main.css"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.2872.2917101087270600665"
+			},
+			{
+				"path": "\\pipe\\mojo.2288.2872.4304957409775378807"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\home\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\sign-services-auth\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\unified-share\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\home\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\sign-services-auth\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\unified-share\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\index"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_2"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Cache\\data_3"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\aicuc\\css\\plugin-selectors.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\aicuc\\js\\plugins\\rhp\\exportpdf-rna-selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\tracked-send\\js\\plugins\\tracked-send\\css\\home-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\scan-files\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\my-computer\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\add-account\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\activity-badge\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0998db3a32ab3f41_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f971b7eda7fa05c3_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\71febec55d5c75cd_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\6fb6d030c4ebbc21_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\b6d5deb4812ac6e9_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\91cec06bb2836fa5_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\app-center\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\tracked-send\\js\\plugins\\tracked-send\\css\\home-view.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\scan-files\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\my-computer\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\reviews\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\signatures\\css\\main.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\927a1596c37ebe5e_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\56c4cd218555ae2b_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\0f25049d69125b1e_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\cf3e34002cde7e9c_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\2798067b152b83c7_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\05349744be1ad4ad_0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\js\\f0cf6dfa8a1afa3d_0"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\tracked-send\\js\\plugins\\tracked-send\\js\\home-view\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\scan-files\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\my-computer\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\add-account\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\activity-badge\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\reviews\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\signatures\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\app-center\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\tracked-send\\js\\plugins\\tracked-send\\js\\home-view\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\scan-files\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\my-computer\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\reviews\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\signatures\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\aicuc\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\aicuc\\js\\plugins\\rhp\\exportpdf-rna-tool-view.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\images\\core_icons.png"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\aicuc\\images\\rhp_world_icon.png"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\task-handler\\css\\main-selector.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\task-handler\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\task-handler\\js\\selector.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\js\\plugins\\task-handler\\js\\plugin.js"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\WebResources\\Resource1\\static\\images\\spectrum_spinner.svg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\officecleaner.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\httpshelper.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\officecleaner.dat"
+			},
+			{
+				"path": "stdin"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\{100184D2-BDC3-477a-B8D3-65548B67914C}_2536"
+			},
+			{
+				"name": "unknown"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\Global\\{100184D2-BDC3-477a-B8D3-65548B67914C}_3052"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\com.adobe.acrobat.rna.RdrCefBrowserLock.DC"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://www.google.com.br/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.chol.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.mercadolivre.com.br/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.merlin.com.pl/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.ebay.de/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.mtv.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.rambler.ru/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.nifty.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.dailymail.co.uk/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www3.fnac.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://buscar.ya.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.sogou.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400c601f1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://asp.usatoday.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://fr.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://rover.ebay.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400c52ec2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400c10eba$",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://in.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400cc6cd3Q",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://img.shopzilla.com/shopzilla/shopzilla.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.ebay.in/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400c10eba7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://image.excite.co.jp/jp/favicon/lep.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://%s.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://msk.afisha.ru/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.igbusca.com.br//app/static/images/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com.tw/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400bba01a0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.rediff.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ya.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400c81d10",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.etmall.com.tw/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://it.search.dada.net/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.naver.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.ru/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.hanafos.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cgi.search.biglobe.ne.jp/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400c81d106",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.abril.com.br/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.daum.net/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400cd389fCo",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.naver.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.msn.co.jp/results.aspx?q=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.clarin.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://buscar.ozu.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://kr.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.about.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.igbusca.com.br/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.microsofttranslator.com/BVPrev.aspx?ref=IE8Activity",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ask.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.priceminister.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400ccb3ees",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.cjmall.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.centrum.cz/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://suche.t-online.de/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.it/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.auction.co.kr/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ceneo.pl/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.amazon.de/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://sads.myspace.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.buscape.com.br/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400c5bba1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.pchome.com.tw/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://browse.guardian.co.uk/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://google.pchome.com.tw/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://list.taobao.com/browse/search_visual.htm?n=15&amp;q=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.rambler.ru/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://uk.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://espanol.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ozu.es/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400bcd3b8",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.sify.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://openimage.interpark.com/interpark.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.co.jp/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.ebay.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.gmarket.co.kr/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.nifty.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://searchresults.news.com.au/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400cac4ffAZ",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.si/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.cz/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.soso.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.univision.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400cac4ff",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.ebay.it/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://images.joins.com/ui_c/fvc_joins.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.asharqalawsat.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.orange.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cnweb.search.live.com/results.aspx?q=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://auto.search.msn.com/response.asp?MT=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.co.jp",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.target.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400c414d6",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://buscador.terra.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002420a05a733400bd1a76",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.orange.co.uk/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.iask.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.tesco.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.24",
+				"country": ""
+			}
+		],
+		"Classification": "Trojan / Bot,Evader",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_ShellExecuteA_CreateFileA_WriteFile_RtlDecodePointer_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "T1566.002",
+		"ATT&CK(Execution)": "T1059,T1064",
+		"ATT&CK(Persistence)": "T1547.001",
+		"ATT&CK(Privilege Escalation)": "T1055,T1547.001",
+		"ATT&CK(Defense Evasion)": "T1036,T1112,T1218.011,T1055,T1064",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1057,T1083,T1082,T1018",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

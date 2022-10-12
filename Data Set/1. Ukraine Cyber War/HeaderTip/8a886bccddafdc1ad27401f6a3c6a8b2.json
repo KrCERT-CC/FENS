@@ -1,0 +1,1153 @@
+{
+	"md5": "8a886bccddafdc1ad27401f6a3c6a8b2",
+	"data": {
+		"MD5": "8a886bccddafdc1ad27401f6a3c6a8b2",
+		"SHA1": "a9a881f216efe9d8d38785e3912fe7954767679d",
+		"SHA256": "e0f1d23d9e0a302b5e4e7080305e9849e73dc3f15e4eeeecda8a3a625c24a49f",
+		"EntryPoint": "10002605",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "10000000",
+		"FileSize": 10240,
+		"Original FileName": "",
+		"Entropy": 5.571,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE, DLL",
+		"Timestamp": "1970-01-01 09:00:00(1970-01-01 00:00:00 UTC)",
+		"Import Hash": "0f6fccc240def4149697616b285c3442",
+		"Section Info": [
+			".text:0x1000:0x16b4:0x400:0x1800:6.23085795496",
+			".rdata:0x3000:0x5fc:0x1c00:0x600:4.57694138427",
+			".data:0x4000:0x102d8:0x2200:0x200:0",
+			".reloc:0x15000:0x336:0x2400:0x400:3.70682087326"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "cmd.exe /C rundll32.exe 'C:\\Users\\user\\Desktop\\squ1LiBcb4.dll',#1"
+			},
+			{
+				"cmdline": "rundll32.exe C:\\Users\\user\\Desktop\\squ1LiBcb4.dll,HttpsInit"
+			},
+			{
+				"cmdline": "rundll32.exe 'C:\\Users\\user\\Desktop\\squ1LiBcb4.dll',HttpsInit"
+			},
+			{
+				"cmdline": "rundll32.exe  'C:\\Users\\user\\Desktop\\squ1LiBcb4.dll',#1"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007322da",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007331af0eC",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734b71",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007350c0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007321e0=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400733307bs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400732a3dbsrC",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007331519",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007340b3",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734b71J",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400732c31",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a73340073346e",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007333a36.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a73340071d01b3",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400732887.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007323a5",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400731d5c3",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400732e25",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734a77",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340073414f3",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400732693D",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007320b7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400733c0f",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400732c9e",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734c6bC",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734566",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340073449bJ",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734fc63n",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400733dc5",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734602",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007336efM",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734bde1d",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734e9ddu",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734f59",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007323a5E",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a73340071d01b",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400731c33",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007348c1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007337e9S",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400733b737",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734c6bX",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400732fbb0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734f59z",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734dd2TL",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400731fbd0J",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400732d2bd0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340073494e1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007338b49t",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007341ebp",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007346fc7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734825",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400733539",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734dd2M",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007346fc2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a73340073514d",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340071cf7fC",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a73340073324b",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400731e56",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734e9d2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400732b08",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007347c7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007335f59Q",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400733f8a",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400732d98F",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007343a14",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734bde65",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007328e5C",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007329b0rPC",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734d07",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007325f7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400731ec3O",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400733a4a",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340073514d4j",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400732ef0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340073226d0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400734a775",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734fc6",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.c",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400731f50p",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340073397fa:",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400733fb9",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a7334007327eb",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400732173",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007324ceS",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340073494eb",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a7334007342a7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a73340073274frb",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400733e905",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400733d09",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a733400733691a=s",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734ae4",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734d07X",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340071cf7f",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ebook.port25.biz:443/00003120a05a73340073255bx86",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400733ad7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://edate.proxydns.com:443/00003120a05a733400734314",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.31",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Dynamic Link Library (generic) (1002004/3)",
+		"API Sequence": "CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_Sleep_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_Sleep",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1546.011",
+		"ATT&CK(Privilege Escalation)": "T1055,T1546.011",
+		"ATT&CK(Defense Evasion)": "T1497,T1055,T1218.011",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1018,T1016,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573",
+		"String": [
+			{
+				"string": "%016I64x%08x",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Loader",
+				"type": "C-Style"
+			},
+			{
+				"string": "ebook.port25.biz;edate.proxyDNS.com",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADVAPI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "MSVCRT.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHLWAPI.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "IPHLPAPI.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "WS2_32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "httpshelper.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "HttpsInit",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2008)[msvcrt]",
+		"linker": "Microsoft Linker(9.0)[DLL32]",
+		"PDB path": "",
+		"full Fuzzyhash": "192:UvsU/oLC+cua8VmKsEAovHE/fg428M9SO:0sU/LunRDa442D9S",
+		"section Fuzzyhash(.data)": "3::",
+		"rich header": "44616e530000000000000000000000006f1f0400020000006f1f0a000400000027c67b000d000000000001003b0000001e528400050000001e529200010000001e52910001000000",
+		"PE Image": "binary_8a886bccddafdc1ad27401f6a3c6a8b2.jpg",
+		"bytecode": "binary_8a886bccddafdc1ad27401f6a3c6a8b2.byte",
+		"opcode": "push,lea,sub,push,push,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,mov,push,pop,mov,xor,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jz,inc,jmp,push,mov,lea,push,call,mov,cmp,jnz,xor,jmp,push,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,push,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,mov,push,pop,mov,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jnz,lea,push,call,mov,cmp,jz,lea,push,push,call,mov,xor,inc,jmp,xor,pop,pop,pop,add,push,mov,cmp,jnz,push,push,push,push,push,push,push,push,call,mov,jnz,pop,xor,inc,pop,push,mov,sub,push,push,pop,push,mov,call,pop,jz,push,xor,cmp,jnz,push,lea,push,push,push,push,call,add,push,mov,push,push,push,push,mov,lea,push,push,push,call,mov,cmp,jz,push,lea,push,push,push,mov,call,jz,push,lea,push,push,push,call,lea,push,lea,push,push,push,mov,call,push,lea,push,push,push,call,push,push,push,push,push,call,cmp,jnz,push,lea,push,lea,push,push,push,call,jz,cmp,jz,mov,push,jmp,mov,mov,push,push,push,push,call,jnz,push,call,push,mov,call,mov,xor,jmp,cmp,jnz,cmp,jz,push,push,push,push,push,push,call,cmp,jnz,push,call,mov,xor,inc,pop,pop,push,mov,sub,push,mov,call,pop,jnz,mov,push,xor,cmp,jz,push,lea,push,mov,push,lea,push,push,jmp,cmp,jz,lea,push,push,lea,push,push,mov,call,jnz,push,call,mov,pop,push,lea,push,push,push,push,call,add,push,push,push,push,push,lea,push,push,push,call,mov,cmp,jz,cmp,mov,jnz,push,lea,push,push,push,push,push,push,call,push,lea,push,push,push,call,push,lea,push,push,push,call,push,push,push,push,push,call,jz,push,lea,push,lea,push,push,push,call,jz,cmp,jz,call,push,call,push,mov,call,mov,xor,jmp,xor,inc,pop,push,mov,sub,push,xor,lea,push,push,mov,mov,mov,call,cmp,jnz,push,push,call,mov,pop,cmp,jz,lea,push,push,call,jz,push,call,pop,jmp,mov,mov,mov,mov,mov,mov,pop,mov,mov,mov,jnz,push,lea,push,call,push,push,push,xor,push,mov,lea,push,push,push,lea,push,call,mov,mov,mov,jnz,mov,pop,push,mov,push,push,xor,cmp,jz,mov,sub,mov,lea,push,mov,add,push,call,pop,pop,jz,add,cmp,jnz,jmp,xor,mov,pop,mov,push,call,push,push,mov,lea,mov,jz,push,call,lea,mov,jz,push,push,call,pop,pop,push,mov,sub,push,mov,push,mov,lea,push,mov,shl,push,push,push,call,jnz,xor,jmp,lea,push,lea,push,push,push,push,push,mov,call,jnz,push,call,jmp,mov,mov,shr,push,lea,push,push,call,xor,add,inc,pop,pop,push,mov,sub,push,xor,push,lea,push,push,mov,call,mov,shr,push,push,mov,lea,push,mov,mov,mov,call,add,lea,push,push,push,mov,push,lea,push,push,call,jnz,push,call,xor,jmp,mov,mov,xor,inc,pop,push,mov,push,push,mov,push,push,xor,push,mov,call,mov,pop,push,push,push,push,lea,push,call,jnz,call,cmp,jnz,push,push,push,push,lea,push,call,jnz,xor,jmp,mov,mov,xor,inc,pop,pop,pop,push,lea,sub,push,push,mov,xor,push,mov,mov,call,pop,jnz,xor,jmp,lea,push,push,push,call,add,jz,push,xor,mov,add,inc,cmp,jb,lea,push,push,mov,call,pop,pop,jz,push,lea,push,call,pop,pop,mov,cmp,jnz,lea,push,lea,push,push,push,push,push,call,jz,push,call,lea,push,mov,shl,push,push,mov,call,add,jz,push,call,mov,pop,cmp,jnz,push,call,pop,xor,jmp,push,push,push,call,add,push,lea,push,push,push,push,push,push,call,push,mov,call,pop,cmp,jnz,push,call,pop,mov,pop,pop,pop,add,push,mov,sub,push,push,push,push,pop,xor,mov,lea,push,push,mov,push,call,call,lea,push,push,mov,push,mov,mov,call,add,call,mov,mov,call,mov,xor,cmp,push,push,push,push,push,call,mov,cmp,jz,mov,mov,mov,push,mov,mov,mov,mov,call,pop,xor,inc,cmp,jnz,mov,mov,jmp,xor,pop,pop,pop,push,mov,push,mov,push,push,lea,push,call,mov,pop,jz,push,push,push,call,add,cmp,jz,push,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,pop,pop,pop,pop,mov,add,push,mov,call,pop,push,mov,sub,lea,push,push,call,pop,pop,jnz,mov,mov,mov,mov,mov,mov,mov,mov,push,mov,mov,jz,push,call,pop,mov,jz,push,push,call,pop,pop,jnz,push,call,pop,xor,jmp,xor,inc,pop,push,mov,push,push,mov,push,xor,push,mov,cmp,jz,xor,jmp,push,add,push,push,call,mov,pop,pop,cmp,jz,push,push,push,call,add,jnz,lea,push,lea,push,lea,push,lea,push,call,add,jz,mov,cmp,push,jnz,push,push,push,call,add,push,mov,cmp,jnz,call,cmp,pop,mov,jz,lea,push,lea,push,lea,push,lea,push,call,add,jnz,push,call,pop,jmp,call,pop,push,call,cmp,pop,jnz,push,push,push,push,jmp,push,push,call,push,push,push,call,mov,add,cmp,jnz,xor,jmp,push,push,call,push,mov,call,add,mov,pop,pop,pop,push,mov,push,push,push,push,push,push,call,mov,add,jz,add,push,push,call,push,mov,call,add,mov,pop,pop,push,mov,sub,push,push,push,xor,lea,push,push,call,mov,mov,mov,mov,mov,add,mov,mov,mov,call,push,mov,lea,push,push,push,mov,push,call,mov,add,cmp,jnz,xor,jmp,push,push,call,push,mov,call,add,mov,pop,pop,push,mov,push,push,push,push,push,push,call,mov,add,jz,add,push,push,call,push,mov,call,add,mov,pop,pop,cmp,jnz,mov,mov,jmp,mov,imul,mov,xor,mov,mov,add,push,mov,lea,cmp,jnb,mov,pop,push,push,xor,xor,cmp,jnb,imul,add,mov,cmp,jb,mov,add,cmp,jb,inc,cmp,jb,xor,pop,pop,pop,imul,add,mov,sub,add,jmp,push,push,push,push,mov,mov,add,mov,cmp,jz,mov,xor,pop,pop,pop,pop,push,push,call,mov,add,push,push,call,push,push,mov,add,call,add,mov,add,mov,mov,jz,dec,push,push,call,add,push,push,call,add,jnz,add,inc,inc,cmp,jnz,jmp,push,push,push,call,pop,pop,add,push,call,pop,pop,jmp,push,mov,sub,push,mov,jnz,xor,jmp,mov,mov,add,mov,mov,push,mov,push,mov,add,add,add,mov,mov,jnz,sub,mov,add,mov,jmp,mov,mov,jz,mov,dec,add,push,push,call,pop,pop,jz,add,add,cmp,jnz,jmp,mov,mov,mov,add,mov,mov,pop,pop,pop,push,mov,push,push,mov,push,push,jz,cmp,jb,cmp,jnz,cmp,jnz,push,call,mov,pop,jz,push,push,push,push,call,mov,jz,push,push,push,call,add,push,add,call,jz,lea,push,push,push,call,jnz,mov,jmp,xor,pop,pop,pop,push,push,xor,xor,cmp,jnz,push,push,push,call,add,cmp,jz,push,push,call,pop,pop,mov,cmp,jnz,push,pop,push,push,push,push,push,call,mov,add,cmp,jnz,xor,jmp,push,push,call,push,mov,call,add,mov,pop,pop,mov,jmp,cmp,jz,cmp,jz,cmp,jnz,xor,mov,inc,inc,cmp,jnz,xor,mov,mov,mov,inc,inc,jnz,cmp,jnz,mov,push,mov,sub,push,push,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,mov,lea,push,xor,push,push,mov,mov,call,mov,call,cmp,jz,cmp,jz,push,push,push,lea,push,push,call,lea,push,call,lea,push,call,xor,inc,push,call,push,lea,push,mov,mov,call,push,call,lea,push,call,lea,pop,mov,push,mov,push,push,mov,call,mov,add,cmp,jnz,push,call,push,push,push,call,add,mov,mov,cmp,jz,lea,push,lea,push,lea,push,lea,push,call,add,jz,mov,mov,cmp,mov,jz,push,push,push,push,push,call,add,jnz,xor,sub,jz,dec,jz,sub,jz,sub,jz,dec,jz,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,add,mov,jmp,jge,xor,jz,cmp,jz,push,call,pop,jz,cmp,jz,xor,jmp,xor,cmp,jz,cmp,jz,push,call,pop,push,lea,push,call,pop,pop,push,mov,call,jmp,pop,xor,pop,jmp,pop,mov,dec,jnz,mov,push,mov,call,xor,inc",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "ee701a725854bc7d9388bc459ad2a8e4"
+			},
+			{
+				"section": ".rdata",
+				"md5": "6d654081e4313047f9ff47788f8c70c2"
+			},
+			{
+				"section": ".data",
+				"md5": "bf619eac0cdf3f68d496ea9344137e8b"
+			},
+			{
+				"section": ".reloc",
+				"md5": "7f0b5f53aa5d2969495e8bbc98b4deb9"
+			}
+		],
+		"Yara Rule": []
+	}
+}

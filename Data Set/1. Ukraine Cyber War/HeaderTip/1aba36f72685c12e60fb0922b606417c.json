@@ -1,0 +1,1177 @@
+{
+	"md5": "1aba36f72685c12e60fb0922b606417c",
+	"data": {
+		"String": [
+			{
+				"string": "%016I64x%08x",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Loader",
+				"type": "C-Style"
+			},
+			{
+				"string": "product2020.mrbasic.com",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "MSVCRT.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "httpshelper.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "OAService",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2008)[msvcrt]",
+		"linker": "Microsoft Linker(9.0)[DLL32]",
+		"PDB path": "",
+		"full Fuzzyhash": "96:KNk8ArD7siPcuYq8LkVrd+9iekJPvi5qb330jJWMC47LXdwoPP9G55uBe9/:KKx7ewVQzJ1JZBP9GHTh",
+		"section Fuzzyhash(.data)": "3::",
+		"rich header": "44616e530000000000000000000000006f1f0400020000006f1f0a000400000027c67b0007000000000001001d0000001e528400050000001e529200010000001e52910001000000",
+		"PE Image": "binary_1aba36f72685c12e60fb0922b606417c.jpg",
+		"bytecode": "binary_1aba36f72685c12e60fb0922b606417c.byte",
+		"opcode": "push,mov,sub,push,xor,push,lea,push,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,mov,call,cmp,jnz,push,push,call,mov,pop,cmp,jz,lea,push,push,call,jz,push,call,pop,jmp,mov,mov,mov,mov,mov,mov,pop,mov,mov,mov,jnz,push,lea,push,call,push,push,push,xor,push,mov,lea,push,push,push,lea,push,call,mov,mov,mov,jnz,mov,pop,pop,push,push,push,push,mov,mov,add,mov,cmp,jz,mov,xor,pop,pop,pop,pop,push,push,call,mov,add,push,push,call,push,push,mov,add,call,add,mov,add,mov,mov,jz,dec,push,push,call,add,push,push,call,add,jnz,add,inc,inc,cmp,jnz,jmp,push,push,push,call,pop,pop,add,push,call,pop,pop,jmp,mov,jmp,cmp,jz,cmp,jz,cmp,jnz,xor,mov,inc,inc,cmp,jnz,xor,mov,push,mov,push,push,push,push,push,push,call,mov,add,jz,add,push,push,call,push,mov,call,add,mov,pop,pop,mov,add,push,mov,call,pop,mov,mov,inc,inc,jnz,cmp,jnz,mov,push,mov,push,mov,push,push,lea,push,call,mov,pop,jz,push,push,push,call,add,cmp,jz,push,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,pop,pop,pop,pop,push,mov,sub,push,push,push,pop,mov,lea,xor,push,push,push,call,call,lea,push,push,mov,push,mov,mov,call,add,call,mov,mov,call,mov,xor,cmp,push,push,push,push,push,call,mov,cmp,jz,mov,mov,mov,mov,xor,mov,mov,inc,jmp,xor,pop,pop,push,mov,sub,push,push,pop,push,mov,call,pop,jz,push,xor,cmp,jnz,push,lea,push,push,push,push,call,add,push,mov,push,push,push,push,mov,lea,push,push,push,call,mov,cmp,jz,push,lea,push,push,push,mov,call,jz,push,lea,push,push,push,call,lea,push,lea,push,push,push,mov,call,push,lea,push,push,push,call,push,push,push,push,push,call,cmp,jnz,push,lea,push,lea,push,push,push,call,jz,cmp,jz,mov,push,jmp,mov,mov,push,push,push,push,call,jnz,push,call,push,mov,call,mov,xor,jmp,cmp,jnz,push,call,mov,xor,inc,pop,pop,cmp,jnz,mov,mov,jmp,mov,imul,mov,xor,push,mov,push,push,push,push,push,push,call,mov,add,jz,add,push,push,call,push,mov,call,add,mov,pop,pop,push,mov,sub,push,push,pop,push,mov,call,pop,jz,mov,push,xor,cmp,jz,push,lea,push,mov,push,lea,push,push,jmp,cmp,jz,lea,push,push,lea,push,push,mov,call,jnz,push,call,mov,pop,push,lea,push,push,push,push,call,add,push,push,push,push,push,lea,push,push,push,call,mov,cmp,jz,push,lea,push,push,push,mov,call,push,lea,push,push,push,call,push,push,push,push,push,call,jz,push,lea,push,lea,push,push,push,call,jz,cmp,jnz,xor,inc,pop,pop,call,cmp,jnz,push,lea,push,push,push,mov,call,push,lea,push,push,push,call,push,push,push,push,push,call,jnz,call,push,call,push,mov,call,mov,xor,jmp,push,mov,sub,lea,push,push,call,pop,pop,jnz,mov,mov,mov,mov,mov,mov,mov,mov,push,mov,mov,jz,push,call,pop,mov,jz,push,push,call,pop,pop,jnz,push,call,pop,xor,jmp,xor,inc,pop,push,mov,sub,push,mov,jnz,xor,jmp,mov,mov,add,mov,mov,push,mov,push,mov,add,add,add,mov,mov,jnz,sub,mov,add,mov,jmp,mov,mov,jz,mov,dec,add,push,push,call,pop,pop,jz,add,add,cmp,jnz,jmp,mov,mov,mov,add,mov,mov,pop,pop,pop,push,push,xor,xor,cmp,jnz,push,push,push,call,add,cmp,jz,push,push,call,pop,pop,mov,cmp,jnz,push,pop,push,push,push,push,push,call,mov,add,cmp,jnz,xor,jmp,push,push,call,push,mov,call,add,mov,pop,pop,mov,push,call,mov,mov,add,push,mov,lea,cmp,jnb,mov,pop,push,push,xor,xor,cmp,jnb,imul,add,mov,cmp,jb,mov,add,cmp,jb,inc,cmp,jb,xor,pop,pop,pop,imul,add,mov,sub,add,jmp,push,mov,sub,push,push,push,xor,lea,push,push,call,mov,mov,mov,mov,mov,push,mov,lea,push,push,push,mov,push,mov,mov,mov,call,mov,add,cmp,jnz,xor,jmp,push,push,call,push,mov,call,add,mov,pop,pop,push,mov,push,push,xor,cmp,jz,mov,sub,mov,lea,push,mov,add,push,call,pop,pop,jz,add,cmp,jnz,jmp,xor,mov,pop,push,mov,push,push,mov,push,xor,push,mov,cmp,jz,xor,jmp,push,add,push,push,call,mov,pop,pop,cmp,jz,push,push,push,call,add,jnz,lea,push,lea,push,lea,push,lea,push,call,add,jz,mov,cmp,push,jnz,push,push,push,call,add,push,mov,cmp,jnz,call,cmp,pop,mov,jz,lea,push,lea,push,lea,push,lea,push,call,add,jnz,push,call,pop,jmp,call,pop,push,call,cmp,pop,jnz,push,push,push,push,jmp,push,push,call,push,push,push,call,mov,add,cmp,jnz,xor,jmp,push,push,call,push,mov,call,add,mov,pop,pop,pop,push,lea,sub,push,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jz,xor,inc,jmp,lea,push,call,mov,cmp,jz,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,lea,push,push,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jnz,lea,push,call,mov,cmp,jz,lea,push,push,call,mov,lea,push,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,lea,push,push,mov,call,mov,jmp,xor,pop,add,push,mov,cmp,jnz,push,push,push,push,push,push,push,push,call,mov,jnz,pop,xor,inc,pop,push,mov,push,push,mov,push,xor,push,mov,cmp,jz,cmp,jz,cmp,jnz,cmp,jnz,push,call,mov,pop,cmp,jz,push,push,push,push,call,mov,jz,push,push,push,call,add,push,add,call,jz,lea,push,push,push,call,jnz,mov,jmp,xor,pop,pop,pop,mov,xor,jmp,ror,inc,add,mov,jnz,mov,xor,jnz,jmp,inc,inc,ror,add,jnz,push,push,mov,mov,mov,mov,push,call,cmp,jz,mov,cmp,jnz,pop,pop,mov,jmp,push,mov,push,push,push,push,mov,mov,mov,add,mov,mov,push,mov,mov,add,add,add,mov,mov,jbe,mov,mov,add,push,call,cmp,jz,inc,mov,cmp,jb,xor,pop,pop,pop,mov,mov,mov,add,jmp,push,mov,sub,push,push,lea,push,mov,mov,mov,mov,call,push,call,push,call,mov,mov,cmp,jnz,push,call,mov,mov,cmp,jnz,jmp,push,push,call,push,push,mov,call,lea,push,push,mov,mov,mov,mov,mov,mov,mov,call,mov,lea,push,call,pop,lea,push,mov,push,push,mov,push,push,mov,call,mov,add,jnz,push,call,push,push,push,call,add,mov,mov,jz,lea,push,lea,push,lea,push,lea,push,call,add,jz,mov,mov,mov,jz,push,push,push,push,push,call,add,jnz,xor,sub,jz,dec,jz,sub,jz,sub,jz,dec,jz,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,add,mov,jmp,jge,xor,jz,cmp,jz,push,call,pop,jz,cmp,jnz,pop,xor,pop,pop,cmp,jz,cmp,jz,push,call,pop,push,lea,push,call,pop,pop,push,mov,call,jmp,push,mov,sub,push,pop,push,mov,pop,push,mov,pop,push,mov,pop,mov,push,pop,mov,mov,push,pop,mov,push,pop,mov,xor,mov,mov,dec,jnz,mov,push,mov,call,push,lea,push,push,call,lea,push,lea,push,call,pop,pop,jz,xor,inc",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "d8db567762067032b611465073b99340"
+			},
+			{
+				"section": ".rdata",
+				"md5": "3b123cc7fb729e44eed0609539b2e48e"
+			},
+			{
+				"section": ".data",
+				"md5": "bf619eac0cdf3f68d496ea9344137e8b"
+			},
+			{
+				"section": ".reloc",
+				"md5": "7cf7633c879b13ad436770197616719b"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "1aba36f72685c12e60fb0922b606417c",
+		"SHA1": "3552c184281abcc14e3b941841b698cfb0ec9f1d",
+		"SHA256": "63a218d3fc7c2f7fcadc0f6f907f326cc86eb3f8cf122704597454c34c141cf1",
+		"EntryPoint": "100025f3",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "10000000",
+		"FileSize": 9728,
+		"Original FileName": "",
+		"Entropy": 5.494,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE, DLL",
+		"Timestamp": "1970-01-01 09:00:00(1970-01-01 00:00:00 UTC)",
+		"Import Hash": "60d01115d6baa0f214990c6e19339133",
+		"Section Info": [
+			".text:0x1000:0x1696:0x400:0x1800:6.25674742831",
+			".rdata:0x3000:0x33c:0x1c00:0x400:3.64254279468",
+			".data:0x4000:0x102c0:0x2000:0x200:0",
+			".reloc:0x15000:0x2d2:0x2200:0x400:3.70488843757"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "cmd.exe /C rundll32.exe 'C:\\Users\\user\\Desktop\\DgRCHvRifD.dll',#1"
+			},
+			{
+				"cmdline": "rundll32.exe C:\\Users\\user\\Desktop\\DgRCHvRifD.dll,OAService"
+			},
+			{
+				"cmdline": "rundll32.exe  'C:\\Users\\user\\Desktop\\DgRCHvRifD.dll',#1"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Windows\\System32\\drvinst.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Windows\\system32\\catroot"
+			},
+			{
+				"path": "C:\\Windows\\system32\\catroot2"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://search.chol.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.mercadolivre.com.br/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400be05d0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.merlin.com.pl/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c26b8bX",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.dailymail.co.uk/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400cbf532#",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c644b6K",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400cb6882We",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400cdf7b8o",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400945459",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c256002",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400bf4f28?",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400bd1c4a",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400be4c20",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400bcec70",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c935b4",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400cc3bb1A",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://fr.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c717c6",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c83154",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://in.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://img.shopzilla.com/shopzilla/shopzilla.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c5a2c9",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400cd24a9",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c644b6k",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a7334009d2435",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c702c70",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://msk.afisha.ru/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400cc8201g",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400bd7920",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.igbusca.com.br//app/static/images/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ya.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.etmall.com.tw/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400ca08c3",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://it.search.dada.net/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400bed91d",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.hanafos.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cgi.search.biglobe.ne.jp/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c62f88",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.msn.co.jp/results.aspx?q=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://buscar.ozu.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400ca649fi",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.microsofttranslator.com/BVPrev.aspx?ref=IE8Activity",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ask.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c06962",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.it/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.auction.co.kr/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.amazon.de/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://sads.myspace.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400be92cd",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400ca4f13",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400cb2232",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400bfdbd8V",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.pchome.com.tw/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://browse.guardian.co.uk/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://google.pchome.com.tw/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://list.taobao.com/browse/search_visual.htm?n=15&q=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.rambler.ru/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400be05d0x",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://uk.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c7d5f5",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ozu.es/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.sify.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://openimage.interpark.com/interpark.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.co.jp/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.gmarket.co.kr/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.nifty.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.si/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400ba5c7f",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.soso.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c8be42",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c74936y",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400bb8cb2=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.orange.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cnweb.search.live.com/results.aspx?q=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://auto.search.msn.com/response.asp?MT=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.target.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400cd6b09M2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400b9cfcf-",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400ce6ecdQ",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.orange.co.uk/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.iask.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c182e1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400c2f84a",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400ce6ecdW",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.centrum.cz/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://service2.bfast.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400bab9a2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ariadna.elmundo.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.news.com.au/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.cdiscount.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.tiscali.it/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://it.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ceneo.pl/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.servicios.clarin.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400ceb51d",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.daum.net/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://product2020.mrbasic.com:8080/00002520a05a733400cf11b4",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.kkbox.com.tw/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.25",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Dynamic Link Library (generic) (1002004/3)",
+		"API Sequence": "SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_unknown_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_SetupDiCallClassInstaller_unknown_unknown_unknown_unknown_unknown_unknown_SetupCloseFileQueue_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_pSetupDiCrimsonLogDeviceInstall_unknown_unknown_unknown_SetupInstallLogCloseEventGroup_SetupInstallLogCloseEventGroup_SetupInstallLogCloseEventGroup_SetupInstallLogCloseEventGroup_SetupInstallLogCloseEventGroup_SetupInstallLogCloseEventGroup_unknown_RtlExitUserProcess_RtlExitUserProcess_RtlExitUserProcess_RtlExitUserProcess_RtlExitUserProcess_RtlExitUserProcess_RtlExitUserProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "T1547.008",
+		"ATT&CK(Privilege Escalation)": "T1547.008,T1055",
+		"ATT&CK(Defense Evasion)": "T1497,T1218.011,T1055",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1057,T1082,T1018",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

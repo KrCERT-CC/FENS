@@ -1,0 +1,1202 @@
+{
+	"md5": "1a0a511171cbdf89351c1ce0bdea0de6",
+	"data": {
+		"MD5": "1a0a511171cbdf89351c1ce0bdea0de6",
+		"SHA1": "8de6b300e02148165e3f5acdaed8efee33bd5625",
+		"SHA256": "e6ea944b97e1d9c4eacd836932e3112c6e7addc6dde02641463dfa2ff9d3d91e",
+		"EntryPoint": "10001fff",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "10000000",
+		"FileSize": 8704,
+		"Original FileName": "",
+		"Entropy": 5.106,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE, DLL",
+		"Timestamp": "1970-01-01 09:00:00(1970-01-01 00:00:00 UTC)",
+		"Import Hash": "b42b0ab2c6cf94ac4a519775b6611375",
+		"Section Info": [
+			".text:0x1000:0x10ae:0x400:0x1200:6.0403034687",
+			".rdata:0x3000:0x4cc:0x1600:0x600:3.80717954982",
+			".data:0x4000:0x102c0:0x1c00:0x200:0",
+			".reloc:0x15000:0x2dc:0x1e00:0x400:3.4350077405"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "cmd.exe /C rundll32.exe 'C:\\Users\\user\\Desktop\\RvqgnM8BZu.dll',#1"
+			},
+			{
+				"cmdline": "rundll32.exe C:\\Users\\user\\Desktop\\RvqgnM8BZu.dll,HttpsInit"
+			},
+			{
+				"cmdline": "rundll32.exe 'C:\\Users\\user\\Desktop\\RvqgnM8BZu.dll',HttpsInit"
+			},
+			{
+				"cmdline": "rundll32.exe  'C:\\Users\\user\\Desktop\\RvqgnM8BZu.dll',#1"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Windows\\System32\\loaddll32.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007e1bff7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007e1bff9",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008bbca4A4",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007c3f21",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400894386?D",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008a1696",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007ba2a2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340080088ck",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008e35d2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007fa4d1xR",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400821def",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007e2b9fbp",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007ed1b2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007f5e62",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400773cd7U",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007adf71",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006c0774",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340075dd18#%",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008e7c22",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340078e315W:",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007ce5829Q",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006dadb2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007e624f%",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006c9434",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340076f687",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340075503a",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006cda84ab",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007acf93",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400894386",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006f0d90",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008683ba",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006d20e3",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340073b9bbCo0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008b2ff5CG",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340089d036Co",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340081686b",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007e71efWc",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007c9f23#N",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007eeefe",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400880133W",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007c2f52e:",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340085240b",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007eb84e",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008aa345al",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340089edff",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006c4dc4",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340086e7d3",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400880133i",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007af8f5WR",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340072a04c)1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340072139d",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340076bfd7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007e624f)",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008ae995QD",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007a42e3",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400778346y",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007f359c",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007f456b",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400856a5bAS",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007b25c1c",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400842808",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006df402",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007793051.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400799936-AB6y_",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340079b624Y",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340083c40e",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400774ca6le",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008e7c70",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340070271e",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007b25c1m",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400823b89",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400891a92",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007b85b4",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400786605",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400785636",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008450bd%",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340088b65a1E",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400872e23=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340072139dbu",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007c2f52Cot",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006f9a50",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007e4512ER",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334006b7ac5h",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008829aa",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008829aaa",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400780fe6",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400781fb5",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007e71ef",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400888de2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340078ac55&",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007d123f",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340079b624",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400799936",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a73340074d33a",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334008d1c63qG",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007f1812&R",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007de53fK",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a733400884783",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007b5c42al",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://ebook.port25.biz/00003120a05a7334007de53fU",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.33",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.30",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.32",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.31",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.29",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Dynamic Link Library (generic) (1002004/3)",
+		"API Sequence": "LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_Sleep_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1574.002,T1546.011",
+		"ATT&CK(Privilege Escalation)": "T1055,T1574.002,T1546.011",
+		"ATT&CK(Defense Evasion)": "T1218.011,T1497,T1055,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1057,T1497,T1082,T1018,T1016",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1105",
+		"String": [
+			{
+				"string": "%016I64x%08x",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ebook.port25.biz",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "MSVCRT.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHLWAPI.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "IPHLPAPI.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "WS2_32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "httpshelper.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "HttpsInit",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2008)[msvcrt]",
+		"linker": "Microsoft Linker(9.0)[DLL32]",
+		"PDB path": "",
+		"full Fuzzyhash": "96:PvduqC8PbV9J32kvLJ8v+HXk0OVIgnR3tww5rK9ZCQTzcd:97C8LJGkz93mBlK9ZCGzc",
+		"section Fuzzyhash(.data)": "3::",
+		"rich header": "44616e530000000000000000000000006f1f0400020000006f1f0a000400000027c67b000b000000000001002e0000001e528400050000001e529200010000001e52910001000000",
+		"PE Image": "binary_1a0a511171cbdf89351c1ce0bdea0de6.jpg",
+		"bytecode": "binary_1a0a511171cbdf89351c1ce0bdea0de6.byte",
+		"opcode": "push,lea,sub,push,push,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,push,mov,pop,mov,push,pop,mov,xor,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jz,xor,inc,jmp,lea,push,call,mov,cmp,jz,push,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,lea,push,push,call,mov,pop,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jnz,xor,pop,add,push,mov,cmp,jnz,push,push,push,push,push,push,push,push,call,mov,jnz,pop,xor,inc,pop,push,mov,sub,push,push,pop,push,mov,call,pop,jz,push,xor,cmp,jnz,push,lea,push,push,push,push,call,add,push,mov,push,push,push,push,mov,lea,push,push,push,call,mov,cmp,jz,push,lea,push,push,push,mov,call,jz,push,lea,push,push,push,call,lea,push,lea,push,push,push,mov,call,push,lea,push,push,push,call,push,push,push,push,push,call,cmp,jnz,push,lea,push,lea,push,push,push,call,jz,cmp,jz,mov,push,jmp,mov,mov,push,push,push,push,call,jnz,push,call,push,mov,call,mov,xor,jmp,cmp,jnz,push,call,mov,xor,inc,pop,pop,push,mov,sub,push,push,pop,push,mov,call,pop,jz,mov,push,xor,cmp,jz,push,lea,push,mov,push,lea,push,push,jmp,cmp,jz,lea,push,push,lea,push,push,mov,call,jnz,push,call,mov,pop,push,lea,push,push,push,push,call,add,push,push,push,push,push,lea,push,push,push,call,mov,cmp,jz,push,lea,push,push,push,mov,call,push,lea,push,push,push,call,push,push,push,push,push,call,jz,push,lea,push,lea,push,push,push,call,jz,cmp,jnz,xor,inc,pop,pop,call,cmp,jnz,push,lea,push,push,push,mov,call,push,lea,push,push,push,call,push,push,push,push,push,call,jnz,call,push,call,push,mov,call,mov,xor,jmp,push,mov,sub,push,xor,lea,push,push,mov,mov,mov,call,cmp,jnz,push,push,call,mov,pop,cmp,jz,lea,push,push,call,jz,push,call,pop,jmp,mov,mov,mov,mov,mov,mov,pop,mov,mov,mov,jnz,push,lea,push,call,push,push,push,xor,push,mov,lea,push,push,push,lea,push,call,mov,mov,mov,jnz,mov,pop,push,mov,push,push,xor,cmp,jz,mov,sub,mov,lea,push,mov,add,push,call,pop,pop,jz,add,cmp,jnz,jmp,xor,mov,pop,mov,push,call,push,mov,sub,push,push,push,pop,mov,lea,xor,push,push,push,call,call,lea,push,push,mov,push,mov,mov,mov,call,add,call,mov,mov,call,mov,xor,cmp,push,push,push,push,push,call,mov,cmp,jz,mov,mov,mov,mov,xor,mov,mov,inc,jmp,xor,pop,pop,push,mov,push,mov,push,push,lea,push,call,mov,pop,jz,push,push,push,call,add,cmp,jz,push,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,pop,pop,pop,pop,mov,add,push,mov,call,pop,push,mov,sub,lea,push,push,call,pop,pop,jnz,mov,mov,mov,mov,mov,mov,mov,mov,push,mov,mov,jz,push,call,pop,mov,jz,push,push,call,pop,pop,jnz,push,call,pop,xor,jmp,xor,inc,pop,push,mov,push,push,mov,push,xor,push,mov,cmp,jz,xor,jmp,push,add,push,push,call,mov,pop,pop,cmp,jz,push,push,push,call,add,jnz,lea,push,lea,push,lea,push,lea,push,call,add,jz,mov,cmp,push,jnz,push,push,push,call,add,push,mov,cmp,jnz,call,cmp,pop,mov,jz,lea,push,lea,push,lea,push,lea,push,call,add,jnz,push,call,pop,jmp,call,pop,push,call,cmp,pop,jnz,push,push,push,push,jmp,push,push,call,push,push,push,call,mov,add,cmp,jnz,xor,jmp,push,push,call,push,mov,call,add,mov,pop,pop,pop,push,mov,push,push,push,push,push,push,call,mov,add,jz,add,push,push,call,push,mov,call,add,mov,pop,pop,push,mov,sub,push,push,push,xor,lea,push,push,call,mov,mov,mov,mov,mov,add,mov,mov,mov,call,push,mov,lea,push,push,push,mov,push,call,mov,add,cmp,jnz,xor,jmp,push,push,call,push,mov,call,add,mov,pop,pop,push,mov,push,push,push,push,push,push,call,mov,add,jz,add,push,push,call,push,mov,call,add,mov,pop,pop,cmp,jnz,mov,mov,jmp,mov,imul,mov,xor,push,mov,sub,push,push,xor,xor,cmp,jnz,push,lea,push,push,call,lea,push,call,push,lea,push,call,pop,pop,lea,push,lea,push,call,lea,push,call,cmp,jz,push,push,call,mov,cmp,jnz,call,mov,push,push,push,push,push,call,mov,add,cmp,jnz,xor,jmp,push,push,call,push,mov,call,add,mov,pop,pop,mov,jmp,cmp,jz,cmp,jz,cmp,jnz,xor,mov,inc,inc,cmp,jnz,xor,mov,mov,mov,inc,inc,jnz,cmp,jnz,mov,push,mov,sub,push,push,push,push,lea,push,push,mov,mov,call,lea,push,call,lea,push,call,xor,inc,push,call,push,lea,push,mov,mov,call,push,call,lea,push,call,lea,pop,mov,push,mov,push,push,mov,call,mov,add,jnz,push,call,push,push,push,call,mov,add,jz,lea,push,lea,push,lea,push,lea,push,call,add,jz,mov,mov,mov,jz,push,push,push,push,push,call,add,jnz,xor,sub,jz,dec,jz,sub,jz,sub,jz,dec,jz,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,add,mov,jmp,jge,xor,jz,cmp,jz,push,call,pop,jz,cmp,jnz,pop,pop,xor,pop,cmp,jz,cmp,jz,push,call,pop,push,lea,push,call,pop,pop,push,mov,call,jmp,mov,dec,jnz,mov,push,mov,call,xor,inc",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "1dace792f65fb19a472fee9c9ebe50e9"
+			},
+			{
+				"section": ".rdata",
+				"md5": "d02adf9a5ef6b9fe8a77978ac2c2b969"
+			},
+			{
+				"section": ".data",
+				"md5": "bf619eac0cdf3f68d496ea9344137e8b"
+			},
+			{
+				"section": ".reloc",
+				"md5": "7ebfd6788cced4f761280ed32000cc17"
+			}
+		],
+		"Yara Rule": []
+	}
+}
