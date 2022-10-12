@@ -1,0 +1,330 @@
+{
+	"md5": "55b098bb70d8534679539b10837f548c",
+	"data": {
+		"MD5": "55b098bb70d8534679539b10837f548c",
+		"SHA1": "031c72990111941f56ab3ed5a0606019a0dada60",
+		"SHA256": "043ea656c00c0ea5d79d50d588484b3377f540ea92657a12742325e6c7948b45",
+		"EntryPoint": "404fcb",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 117000,
+		"Original FileName": "",
+		"Entropy": 6.551,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2021-12-28 17:37:16(2021-12-28 08:37:16 UTC)",
+		"Import Hash": "4233d97404e1fecedef6a46e0f7c09b9",
+		"Section Info": [
+			".text:0x1000:0x3fcb:0x400:0x4000:7.52079885968",
+			".rdata:0x5000:0x12c0:0x4400:0x1400:4.3936063644",
+			".data:0x7000:0x384:0x5800:0x200:0.753634132671",
+			".rsrc:0x8000:0x15a60:0x5a00:0x15c00:6.20367686463",
+			".reloc:0x1e000:0x390:0x1b600:0x400:6.14910367629"
+		],
+		"Resource": [
+			"RCDATA:0x8354:0x2b6f:MS Compress archive data::",
+			"RCDATA:0xaec4:0x26b0:MS Compress archive data::",
+			"RCDATA:0xd574:0x2acc:MS Compress archive data::",
+			"RCDATA:0x10040:0x259a:MS Compress archive data::",
+			"RT_ICON:0x125dc:0x115a:PNG image data, 256 x 256, 8-bit colormap, non-interlaced:English:United States",
+			"RT_ICON:0x13738:0xea8:data:English:United States",
+			"RT_ICON:0x145e0:0x8a8:dBase IV DBT of @.DBF, block length 1024, next free block index 40, next free block 0, next used block 0:English:United States",
+			"RT_ICON:0x14e88:0x568:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_ICON:0x153f0:0x90b:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced:English:United States",
+			"RT_ICON:0x15cfc:0x4228:dBase IV DBT of \\200.DBF, blocks size 0, block length 16896, next free block index 40, next free block 57599, next used block 4278648832:English:United States",
+			"RT_ICON:0x19f24:0x25a8:data:English:United States",
+			"RT_ICON:0x1c4cc:0x10a8:data:English:United States",
+			"RT_ICON:0x1d574:0x468:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_GROUP_ICON:0x1d9dc:0x84:data:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "Hermetica Digital Ltd",
+		"Digitally signed S/N": "0C48732873AC8CCEBAF8F0E1E8329CEC",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_BaseThreadInitThunk_BaseThreadInitThunk_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1497,T1027.002,T1055,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1057,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "",
+		"String": [
+			{
+				"string": "\\\\.\\PhysicalDrive%u",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "\\\\.\\EPMNTDRV\\%u",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "%s%.2s",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$Bitmap",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$LogFile",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ntuser",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "AppData",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "My Documents",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Desktop",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "\\\\?\\C:\\Documents and Settings",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "\\\\?\\C:\\Windows\\System32\\winevt\\Logs",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "kernel32.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Wow64DisableWow64FsRedirection",
+				"type": "C-Style"
+			},
+			{
+				"string": "Wow64RevertWow64FsRedirection",
+				"type": "C-Style"
+			},
+			{
+				"string": "IsWow64Process",
+				"type": "C-Style"
+			},
+			{
+				"string": "RCDATA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "DRV_X64",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "DRV_X86",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "DRV_XP_X64",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "DRV_XP_X86",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Drivers",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "System32",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "SYSTEM\\CurrentControlSet\\services\\",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Windows",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Program Files",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Program Files(x86)",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "PerfLogs",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "System Volume Information",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "%ws%.2ws",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "%ws%ws",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "SeLoadDriverPrivilege",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ServicesActive",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "SeBackupPrivilege",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "C:\\System Volume Information",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ShowCompColor",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ShowInfoTip",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "SYSTEM\\CurrentControlSet\\Control\\CrashControl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "CrashDumpEnabled",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$ATTRIBUTE_LIST",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$EA_INFORMATION",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$SECURITY_DESCRIPTOR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$DATA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$INDEX_ROOT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$INDEX_ALLOCATION",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$BITMAP",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$REPARSE_POINT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "$LOGGED_UTILITY_STREAM",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "::$INDEX_ALLOCATION",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "SHLWAPI.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "LZ32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "msvcrt.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADVAPI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHELL32.dll",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(14.12, Visual Studio 2017 15.5*)[EXE32,signed]",
+		"PDB path": "",
+		"full Fuzzyhash": "1536:ssYbGeK8fWDurilmw9BgjKu1sPPxaS4jqY:sdnzeDxlPwV16PkS4jqY",
+		"section Fuzzyhash(.data)": "3:0lNllP/I1/zHylV579/+/Ll/X:cu/zSlLIJ",
+		"rich header": "44616e5300000000000000000000000009789500040000000978830005000000097893000f0000000000010062000000eb6409010f000000eb64ff00010000000000970001000000eb64020101000000",
+		"PE Image": "binary_55b098bb70d8534679539b10837f548c.jpg",
+		"bytecode": "binary_55b098bb70d8534679539b10837f548c.byte",
+		"opcode": "sti,adc,push,pop,push,push,push,xchg,push,sbb,add,add,pop,push,push,push,push,pop,mov,pop,mov,pop,push,add,adc,push,mov,inc,adc,push,add,int,add,pop,pop,pop,sub,sbb,pop,pop,clc,sub,mov,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "0ec2631fd3e2cbf59e25cd63c1250005"
+			},
+			{
+				"section": ".rdata",
+				"md5": "479992e081bf4a86292f9b8a7a22e5fd"
+			},
+			{
+				"section": ".data",
+				"md5": "ef90b6137b9fcb8f0238d8e709b680ee"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "16d68310ccf50f7dfef671db2a800bbe"
+			},
+			{
+				"section": ".reloc",
+				"md5": "d3c95ee5e68c69ecab2d60810f332824"
+			}
+		],
+		"Yara Rule": []
+	}
+}

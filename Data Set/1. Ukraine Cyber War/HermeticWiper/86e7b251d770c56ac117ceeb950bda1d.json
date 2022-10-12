@@ -1,0 +1,131 @@
+{
+	"md5": "86e7b251d770c56ac117ceeb950bda1d",
+	"data": {
+		"String": [],
+		"Packer": "UPX(3.08)[LZMA,best]",
+		"compiler": "",
+		"linker": "Microsoft Linker(14.12, Visual Studio 2017 15.5*)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "1536:bu7mJIrSpGlf9gMgqYNP4Zev8Luunouy8OGqC:46IrSpGm7Vhge2uuoutOGqC",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "44616e5300000000000000000000000009789500040000000978830005000000097893000f0000000000010063000000eb6409010f000000eb64ff00010000000000970001000000eb64020101000000",
+		"PE Image": "binary_86e7b251d770c56ac117ceeb950bda1d.jpg",
+		"bytecode": "binary_86e7b251d770c56ac117ceeb950bda1d.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "UPX1",
+				"md5": "a3d07d06f020bb8afb4e8f3110250a1b"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "aea958b933ccc8e3a3dc478efdfc4549"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "86e7b251d770c56ac117ceeb950bda1d",
+		"SHA1": "da41b4eecbaa7c14d7950dc54a9a21f6d61b522d",
+		"SHA256": "d527a8080da73ae940e27dc9af73e48014bb16429718f1c55ed4fd9046066563",
+		"EntryPoint": "4209c0",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 94984,
+		"Original FileName": "",
+		"Entropy": 6.506,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-02-23 18:48:53(2022-02-23 09:48:53 UTC)",
+		"Import Hash": "5430416727c6b98bc50f9326c3f293af",
+		"Section Info": [
+			"UPX0:0x1000:0x16000:0x400:0x0:0",
+			"UPX1:0x17000:0xb000:0x400:0xa600:7.97277414572",
+			".rsrc:0x22000:0xc000:0xaa00:0xba00:4.03548920506"
+		],
+		"Resource": [
+			"RCDATA:0x137f0:0x2b6f:empty::",
+			"RCDATA:0x16360:0x26b0:empty::",
+			"RCDATA:0x18a10:0x2acc:data::",
+			"RCDATA:0x1b4e0:0x259a:data::",
+			"RT_ICON:0x22358:0x115a:PNG image data, 256 x 256, 8-bit colormap, non-interlaced:English:United States",
+			"RT_ICON:0x234b8:0xea8:data:English:United States",
+			"RT_ICON:0x24364:0x8a8:dBase IV DBT of @.DBF, block length 1024, next free block index 40, next free block 0, next used block 0:English:United States",
+			"RT_ICON:0x24c10:0x568:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_ICON:0x2517c:0x90b:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced:English:United States",
+			"RT_ICON:0x25a8c:0x4228:dBase IV DBT of \\200.DBF, blocks size 0, block length 16896, next free block index 40, next free block 57599, next used block 4278648832:English:United States",
+			"RT_ICON:0x29cb8:0x25a8:data:English:United States",
+			"RT_ICON:0x2c264:0x10a8:data:English:United States",
+			"RT_ICON:0x2d310:0x468:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_GROUP_ICON:0x2d77c:0x84:data:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\j6Z3L5LAKZ.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Windows\\system32\\Drivers\\njdr"
+			},
+			{
+				"path": "C:\\Windows\\system32\\Drivers\\njdr.sys"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Windows\\System32\\drivers\\njdr.sys"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\njdr"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Windows\\System32\\drivers\\njdr"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\njdr.sys"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\System32\\drivers\\njdr"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://csc3-2010-aia.verisig",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_VirtualProtect_VirtualProtect_FindFirstFileW_FindFirstFileW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LookupPrivilegeValueW_LdrInitializeThunk_LookupPrivilegeValueW_AdjustTokenPrivileges_RegOpenKeyW_RegSetValueExW_RegCloseKey_CreateFileW_PathFileExistsW_PathFileExistsW_PathFileExistsW_PathFileExistsW_PathFileExistsW_CreateFileW_WriteFile_RtlUserThreadStart_CloseHandle_CreateFileW_StrCmpNW_StrCmpNW_StrCmpNW_StrCmpNW_StrCmpNW_StrCmpNW_StrCmpNW_StrCmpNW_DeviceIoControl_GetDiskFreeSpaceW_GetDiskFreeSpaceW_CreateFileW_DeviceIoControl_RtlAllocateHeap_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_unknown_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_unknown_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_LZOpenFileW_LZOpenFileW_LZOpenFileW_LZOpenFileW_LZOpenFileW_LZOpenFileW_RtlUserThreadStart_RtlUserThreadStart_LZCopy_LZCopy_LZCopy_LZCopy_LZCopy_LZCopy_LZCopy_LZCopy_LZCopy_LZClose_AdjustTokenPrivileges_Sleep_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_CreateFileW_GetDiskFreeSpaceW_GetDiskFreeSpaceW_GetDiskFreeSpaceW_CreateFileW_DeviceIoControl_DeviceIoControl_DeleteFileW_DeleteFileW_DeleteFileW_DeleteFileW_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1569.002",
+		"ATT&CK(Persistence)": "T1543.003,T1542.003,T1547.008",
+		"ATT&CK(Privilege Escalation)": "T1134,T1543.003,T1547.008",
+		"ATT&CK(Defense Evasion)": "T1036,T1134,T1027,T1542.003,T1027.002,T1070.004",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1518.001,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

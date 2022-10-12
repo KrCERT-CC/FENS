@@ -1,0 +1,172 @@
+{
+	"md5": "eec0c3789042f79ccd295dc77525f737",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "wiper1"
+			},
+			{
+				"type": "C-Style",
+				"string": "wiper2"
+			},
+			{
+				"type": "C-Style",
+				"string": "wiper3"
+			},
+			{
+				"type": "C-Style",
+				"string": "Receive the Lord's blessing. The Lord bless you and watch over you.\t\t\t\t\t\t\tThe Lord make his face shine upon you, and be gracious to you. The Lord \t\t\t\t\t\tlook kindly on you and give you peace; In the Name of the Father, and of the \t\t\t\t\t\t\t\tSon + and of the Holy Spirit.\"Congregation: \" Amen."
+			},
+			{
+				"type": "C-Style",
+				"string": "explorer.exe"
+			},
+			{
+				"type": "C-Style",
+				"string": "ntdll.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "RtlAdjustPrivilege"
+			},
+			{
+				"type": "C-Style",
+				"string": "NtSetInformationProcess"
+			},
+			{
+				"type": "C-Style",
+				"string": "Discord.exe"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "VCRUNTIME140.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "api-ms-win-crt-runtime-l1-1-0.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "api-ms-win-crt-string-l1-1-0.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "api-ms-win-crt-math-l1-1-0.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "api-ms-win-crt-stdio-l1-1-0.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "api-ms-win-crt-locale-l1-1-0.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "api-ms-win-crt-heap-l1-1-0.dll"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(-)",
+		"linker": "Microsoft Linker(14.32**)[EXE32,console,admin]",
+		"PDB path": "C:\\Users\\User\\Desktop\\U-Boat-master\\Release\\U-Boat.pdb",
+		"full Fuzzyhash": "3072:eBlV3+WmjDxlPwV16PkS4aBOoa7P2wxlPwV1qPkSFzmRj6YaWm8/0bWCgy:kllyjDxRYTSXApPpxRYDSFznYd1/i",
+		"section Fuzzyhash(.data)": "3:AzFaaaMssltl:Afa01",
+		"rich header": "44616e53000000000000000000000000097893000c000000607a010102000000607a050113000000607a04010c000000607a030101000000146b010105000000000001004d000000647a090101000000647aff00010000000000970001000000647a020101000000",
+		"PE Image": "binary_eec0c3789042f79ccd295dc77525f737.jpg",
+		"bytecode": "binary_eec0c3789042f79ccd295dc77525f737.byte",
+		"opcode": "push,mov,push,push,push,mov,push,sub,push,push,push,mov,xor,xor,push,lea,mov,mov,mov,int,jmp,mov,mov,call,mov,mov,mov,pop,pop,pop,pop,mov,pop,push,mov,push,push,push,mov,push,sub,push,push,push,mov,xor,xor,push,lea,mov,mov,mov,int,jmp,mov,mov,call,mov,mov,mov,pop,pop,pop,pop,mov,pop,push,mov,sub,mov,xor,mov,push,push,push,push,push,mov,mov,call,mov,cmp,jz,lea,mov,push,push,call,jz,cmp,mov,jnz,lea,push,push,call,mov,push,lea,push,call,add,jz,lea,push,push,call,jnz,jmp,mov,mov,push,call,mov,mov,xor,pop,pop,pop,call,mov,pop,push,mov,sub,mov,xor,mov,push,push,push,xor,nop,lea,push,lea,push,push,call,mov,jz,push,push,call,push,push,mov,call,jnz,xor,mov,mov,mov,add,mov,mov,call,push,push,push,call,mov,jz,cmp,jz,mov,push,push,push,push,push,call,mov,jz,mov,push,push,push,push,push,call,jz,lea,mov,push,mov,push,push,push,push,push,push,call,mov,cmp,jz,inc,cmp,jl,cmp,jnz,xor,mov,jz,mov,mov,jz,push,push,push,push,call,mov,jnz,call,mov,call,jmp,mov,push,call,jmp,push,push,push,call,add,push,push,push,push,push,push,call,push,call,add,cmp,jl,xor,pop,pop,pop,mov,xor,call,mov,pop,push,lea,push,push,call,mov,jz,push,push,call,push,push,mov,call,mov,mov,mov,call,push,push,push,call,mov,mov,jz,cmp,jz,push,push,push,push,push,call,mov,jz,push,push,push,push,push,call,jz,push,push,call,mov,cmp,jz,lea,mov,push,push,call,jz,cmp,jz,lea,push,push,call,jnz,jmp,mov,mov,push,call,push,push,push,call,mov,mov,jnz,mov,push,call,xor,inc,jz,inc,cmp,jl,mov,mov,pop,pop,xor,pop,call,mov,pop,push,call,cmp,jnz,push,mov,call,push,call,mov,jmp,lea,push,push,call,jz,mov,mov,lea,push,push,call,jz,push,call,cmp,jnz,push,call,push,mov,jmp,push,call,push,call,mov,mov,jmp,push,mov,push,push,push,mov,push,sub,mov,xor,xor,mov,push,push,push,push,lea,mov,mov,push,call,cmp,jnz,mov,int,jmp,mov,mov,mov,push,call,mov,jz,push,push,mov,call,mov,jz,push,push,call,mov,jz,mov,mov,lea,push,push,push,push,call,push,lea,push,push,call,push,call,push,call,call,push,call,cmp,jz,push,call,mov,sub,push,call,xor,push,call,mov,mov,pop,pop,pop,pop,mov,xor,call,mov,pop,cmp,jnz,jmp,call,xor,call,call,push,call,pop,push,mov,sub,push,call,jz,push,pop,int,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,pushf,pop,mov,mov,mov,mov,lea,mov,mov,mov,mov,mov,mov,mov,mov,push,pop,imul,mov,push,pop,imul,mov,mov,push,pop,shl,mov,mov,push,call,xor,xor,inc,push,call,mov,mov,mov,call,mov,mov,call,mov,mov,xor,cmp,mov,mov,push,mov,sub,push,push,call,jz,mov,int,push,call,mov,lea,push,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,pushf,pop,mov,mov,lea,mov,mov,mov,push,mov,lea,push,push,call,mov,add,mov,mov,mov,call,push,lea,neg,lea,mov,lea,sbb,mov,inc,call,lea,push,call,jnz,jnz,push,call,pop,pop,push,call,jz,mov,cmp,jnz,mov,add,cmp,jnz,mov,cmp,jnz,cmp,jbe,cmp,xor,push,call,push,mov,push,push,mov,mov,cmp,jnz,cmp,jnz,mov,cmp,jz,cmp,jz,cmp,jz,cmp,jz,pop,xor,pop,pop,call,mov,mov,call,mov,call,int,push,push,mov,mov,cmp,jnb,push,mov,jz,mov,call,call,add,cmp,jb,pop,pop,pop,push,push,mov,mov,cmp,jnb,push,mov,jz,mov,call,call,add,cmp,jb,pop,pop,pop,push,mov,sub,push,call,jz,xor,push,push,push,xor,lea,push,mov,pop,nop,mov,mov,mov,xor,mov,mov,mov,mov,xor,mov,xor,mov,mov,xor,mov,xor,inc,push,mov,pop,nop,lea,mov,mov,mov,mov,mov,jnz,mov,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jnz,mov,mov,jmp,mov,mov,push,pop,mov,cmp,jl,xor,push,mov,pop,nop,lea,mov,mov,mov,mov,mov,mov,jz,mov,jmp,mov,mov,mov,mov,jz,mov,mov,jz,jz,xor,mov,mov,mov,mov,push,pop,cmp,jnz,mov,mov,mov,jz,mov,mov,mov,cmp,jnz,mov,mov,mov,cmp,jnz,mov,pop,pop,pop,xor",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "ef67f933b2a3c4603987cd0d1a5cd0bb"
+			},
+			{
+				"section": ".rdata",
+				"md5": "5e3ddb3335c1eed5798322ee947a4612"
+			},
+			{
+				"section": ".data",
+				"md5": "550b6d19eefd3a6f89a89a9be78fdbaf"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "049a3b3851e3f9351be5d13b9ca14051"
+			},
+			{
+				"section": ".reloc",
+				"md5": "4c86f89612a33b566bc99f82e2b75cbf"
+			}
+		],
+		"Yara Rule": [
+			"malware_shellcode_hash"
+		],
+		"MD5": "eec0c3789042f79ccd295dc77525f737",
+		"SHA1": "edf6593edbb57af4d5544a0471f61c3a221d4adb",
+		"SHA256": "d0f7f857f07bc67a1a3d72143d1434040b7e9bb05435afd06f3a95f63b004588",
+		"EntryPoint": "401903",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 468992,
+		"Original FileName": "",
+		"Entropy": 5.661,
+		"Subsystem": "windows cui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-07-07 22:46:37(2022-07-07 13:46:37 UTC)",
+		"Import Hash": "b89301c32fad7918fa6d4d2b2c8f8bc4",
+		"Section Info": [
+			".text:0x1000:0x130b:0x400:0x1400:5.98849022638",
+			".rdata:0x3000:0x103e:0x1800:0x1200:4.63124108116",
+			".data:0x5000:0x3a0:0x2a00:0x200:0.280401167659",
+			".rsrc:0x6000:0x6f708:0x2c00:0x6f800:5.66106967984",
+			".reloc:0x76000:0x21c:0x72400:0x400:4.21172913201"
+		],
+		"Resource": [
+			"WPR0:0x6200:0x1f3a0:PE32 executable (GUI) Intel 80386, for MS Windows:English:United States",
+			"WPR1:0x255a0:0x1f3a0:PE32 executable (GUI) Intel 80386, for MS Windows:English:United States",
+			"WPR2:0x44940:0x8500:MS-DOS executable:English:United States",
+			"WPR3:0x4ce40:0x73a0:PE32 executable (native) Intel 80386, for MS Windows:English:United States",
+			"WPR4:0x541e0:0x213a0:PE32 executable (GUI) Intel 80386, for MS Windows:English:United States",
+			"RT_MANIFEST:0x75580:0x188:XML 1.0 document text:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\GVHOlrsC4R.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_RtlUserThreadStart_SetUnhandledExceptionFilter_GetUserGeoID_GetUserGeoID_GetUserGeoID_GetUserGeoID_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1027.002,T1055,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1518.001,T1057,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

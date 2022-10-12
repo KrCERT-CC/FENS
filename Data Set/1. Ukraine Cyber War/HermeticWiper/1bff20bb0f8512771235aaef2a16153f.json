@@ -1,0 +1,547 @@
+{
+	"md5": "1bff20bb0f8512771235aaef2a16153f",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "NTFS    "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\\\\.\\PhysicalDrive%u"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\\\\.\\EPMNTDRV\\%u"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "%s%.2s"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$Bitmap"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$LogFile"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ntuser"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "AppData"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "My Documents"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Desktop"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\\\\?\\C:\\Documents and Settings"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\\\\?\\C:\\Windows\\System32\\winevt\\Logs"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "Wow64DisableWow64FsRedirection"
+			},
+			{
+				"type": "C-Style",
+				"string": "Wow64RevertWow64FsRedirection"
+			},
+			{
+				"type": "C-Style",
+				"string": "IsWow64Process"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "RCDATA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DRV_X64"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DRV_X86"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DRV_XP_X64"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DRV_XP_X86"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Drivers"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "System32"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SYSTEM\\CurrentControlSet\\services\\"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Windows"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Program Files"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Program Files(x86)"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "PerfLogs"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "System Volume Information"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "%ws%.2ws"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "%ws%ws"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SeLoadDriverPrivilege"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ServicesActive"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SeBackupPrivilege"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "C:\\Windows\\SYSVOL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "C:\\System Volume Information"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ShowCompColor"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ShowInfoTip"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SYSTEM\\CurrentControlSet\\Control\\CrashControl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CrashDumpEnabled"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$ATTRIBUTE_LIST"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$EA_INFORMATION"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$SECURITY_DESCRIPTOR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$DATA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$INDEX_ROOT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$INDEX_ALLOCATION"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$BITMAP"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$REPARSE_POINT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$LOGGED_UTILITY_STREAM"
+			},
+			{
+				"type": "C-Style",
+				"string": "StrStrA"
+			},
+			{
+				"type": "C-Style",
+				"string": "sprintfW"
+			},
+			{
+				"type": "C-Style",
+				"string": "StrCmpNW"
+			},
+			{
+				"type": "C-Style",
+				"string": "StrStrIW"
+			},
+			{
+				"type": "C-Style",
+				"string": "PathAppendW"
+			},
+			{
+				"type": "C-Style",
+				"string": "PathAddBackslashW"
+			},
+			{
+				"type": "C-Style",
+				"string": "rCatBuffW"
+			},
+			{
+				"type": "C-Style",
+				"string": "PathFileExistsW"
+			},
+			{
+				"type": "C-Style",
+				"string": "PathFindExtensionW"
+			},
+			{
+				"type": "C-Style",
+				"string": "PathAddExtensionW"
+			},
+			{
+				"type": "C-Style",
+				"string": "StrToIntW"
+			},
+			{
+				"type": "C-Style",
+				"string": "StrChrW"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetSystemTimeAsFileTime"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateFileW"
+			},
+			{
+				"type": "C-Style",
+				"string": "CloseHandle"
+			},
+			{
+				"type": "C-Style",
+				"string": "tFilePointerEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "adFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "tDiskFreeSpaceW"
+			},
+			{
+				"type": "C-Style",
+				"string": "trlenW"
+			},
+			{
+				"type": "C-Style",
+				"string": "iteFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "ushFileBuffers"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateThread"
+			},
+			{
+				"type": "C-Style",
+				"string": "itForMultipleObjects"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetModuleHandleW"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetProcAddress"
+			},
+			{
+				"type": "C-Style",
+				"string": "tCurrentProcess"
+			},
+			{
+				"type": "C-Style",
+				"string": "rSetConditionMask"
+			},
+			{
+				"type": "C-Style",
+				"string": "VerifyVersionInfoW"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetSystemDirectoryW"
+			},
+			{
+				"type": "C-Style",
+				"string": "WaitForSingleObject"
+			},
+			{
+				"type": "C-Style",
+				"string": "tThreadPriority"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLogicalDriveStringsW"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetModuleFileNameW"
+			},
+			{
+				"type": "C-Style",
+				"string": "tFileAttributesW"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateEventW"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetEvent"
+			},
+			{
+				"type": "C-Style",
+				"string": "ExitProcess"
+			},
+			{
+				"type": "C-Style",
+				"string": "tCurrentProcessId"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetFileInformationByHandle"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "wsprintfW"
+			},
+			{
+				"type": "C-Style",
+				"string": "CharLowerW"
+			},
+			{
+				"type": "C-Style",
+				"string": "USER32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "CryptAcquireContextW"
+			},
+			{
+				"type": "C-Style",
+				"string": "CryptReleaseContext"
+			},
+			{
+				"type": "C-Style",
+				"string": "gDeleteKeyW"
+			},
+			{
+				"type": "C-Style",
+				"string": "enProcessToken"
+			},
+			{
+				"type": "C-Style",
+				"string": "okupPrivilegeValueW"
+			},
+			{
+				"type": "C-Style",
+				"string": "AdjustTokenPrivileges"
+			},
+			{
+				"type": "C-Style",
+				"string": "enSCManagerW"
+			},
+			{
+				"type": "C-Style",
+				"string": "OpenServiceW"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateServiceW"
+			},
+			{
+				"type": "C-Style",
+				"string": "eryServiceStatus"
+			},
+			{
+				"type": "C-Style",
+				"string": "ChangeServiceConfigW"
+			},
+			{
+				"type": "C-Style",
+				"string": "StartServiceW"
+			},
+			{
+				"type": "C-Style",
+				"string": "DeleteService"
+			},
+			{
+				"type": "C-Style",
+				"string": "CloseServiceHandle"
+			},
+			{
+				"type": "C-Style",
+				"string": "ControlService"
+			},
+			{
+				"type": "C-Style",
+				"string": "InitiateSystemShutdownExW"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegQueryInfoKeyW"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegEnumKeyExW"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegOpenKeyW"
+			},
+			{
+				"type": "C-Style",
+				"string": "CommandLineToArgvW"
+			},
+			{
+				"type": "C-Style",
+				"string": "SHELL32.dll"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(14.12, Visual Studio 2017 15.5*)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "1536:yBOoa7N/5tsurilmw9BgjKu1sPPxaSLUqi:yBOoa77tsxlPwV1qPkSIqi",
+		"section Fuzzyhash(.data)": "3:k3llYlF/eltllllyyVlQTl/B9lElT//t:Jf/en//hVW0",
+		"rich header": "44616e5300000000000000000000000009789500040000000978830005000000097893000f0000000000010063000000eb6409010f000000eb64ff00010000000000970001000000eb64020101000000",
+		"PE Image": "binary_1bff20bb0f8512771235aaef2a16153f.jpg",
+		"bytecode": "binary_1bff20bb0f8512771235aaef2a16153f.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "woot!",
+				"md5": "ba89a1d62ff34e1b9c45da08bda91c3c"
+			},
+			{
+				"section": ".rdata",
+				"md5": "5b7821b32a229632ba5d97e582bd03ff"
+			},
+			{
+				"section": ".data",
+				"md5": "c9c78097f05a837f83567866391bee33"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "a314cdfcdc6e513465f7abec26baea16"
+			},
+			{
+				"section": ".reloc",
+				"md5": "35e013e05129e5d7b21e01d6e03139b1"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "1bff20bb0f8512771235aaef2a16153f",
+		"SHA1": "9372fd27ea3af2a65b7236987dc615559c717e0b",
+		"SHA256": "e212b197e5589f503be12df30e1a3dd2fccc8fe6394901e10428cbe6e1102016",
+		"EntryPoint": "403b80",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 116989,
+		"Original FileName": "",
+		"Entropy": 6.388,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-02-23 18:48:53(2022-02-23 09:48:53 UTC)",
+		"Import Hash": "",
+		"Section Info": [
+			"woot!:0x1000:0x3feb:0x400:0x4000:6.3885644881",
+			".rdata:0x5000:0x12fa:0x4400:0x1400:4.46193090433",
+			".data:0x7000:0x384:0x5800:0x200:0.721829912799",
+			".rsrc:0x8000:0x15a80:0x5a00:0x15c00:6.2041911765",
+			".reloc:0x1e000:0x398:0x1b600:0x400:6.22297218271"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Ransomware,Spreading",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "",
+		"ATT&CK(Defense Evasion)": "",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}
