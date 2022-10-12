@@ -1,0 +1,409 @@
+{
+	"md5": "6983f7001de10f4d19fc2d794c3eb534",
+	"data": {
+		"MD5": "6983f7001de10f4d19fc2d794c3eb534",
+		"SHA1": "23873bf2670cf64c2440058130548d4e4da412dd",
+		"SHA256": "3c2fe308c0a563e06263bbacf793bbe9b2259d795fcc36b953793a7e499e7f71",
+		"EntryPoint": "401da6",
+		"EntryPoint Data": "0x0:\tcmp\tbyte ptr gs:[edi + esi], dh\n0x4:\txor\tah, byte ptr [ebp + 0x30]\n0x7:\txor\tbyte ptr [eax], dh\n0x9:\txor\tbyte ptr [ebp + 0x39], ah\n0xc:\tpopal\t\n0xd:\txor\tal, 0x66\n0xf:\tcmp\tbyte ptr gs:[edx + 0x66], ah\n0x17:\txor\tax, 0x3835\n0x1b:\tbound\tesp, qword ptr [ebp + 0x63]\n0x1e:\tcmp\tbyte ptr [ecx], dh\n0x20:\tarpl\tword ptr gs:[edx], si\n0x23:\tcmp\tbyte ptr [eax], dh\n0x25:\txor\tesi, dword ptr [eax]\n0x27:\txor\tbyte ptr [eax], dh\n0x29:\txor\tbyte ptr [ecx + 0x33], ah\n0x2c:\txor\tbyte ptr ss:[esi + 0x33], ah\n0x30:\txor\tal, 0x30\n0x32:\txor\tbyte ptr [eax], dh\n0x34:\tcmp\tbyte ptr [ecx], bh\n0x36:\txor\tbyte ptr [ebp + esi + 0x63], ah\n0x3a:\txor\tsi, word ptr [eax + esi]\n0x3e:\txor\tbyte ptr [eax], dh\n0x40:\tcmp\tbyte ptr [ecx], bh\n0x42:\txor\tdword ptr [0x33663835], esi\n0x48:\txor\tal, 0x30\n0x4a:\txor\tbyte ptr [eax], dh\n0x4c:\tcmp\tbyte ptr [ecx], bh\n0x4e:\txor\tdword ptr [ebp + esi + 0x34], esp\n0x52:\txor\tsi, word ptr [eax + esi]\n0x56:\txor\tbyte ptr [eax], dh\n0x58:\tcmp\tbyte ptr [ecx], bh\n0x5a:\txor\tesi, dword ptr [0x33663035]\n0x60:\txor\tal, 0x30\n0x62:\txor\tbyte ptr [eax], dh\n0x64:\tcmp\tbyte ptr [ecx], bh\n0x66:\txor\tesp, dword ptr [esp + esi + 0x63]\n0x6a:\txor\tsi, word ptr [eax + esi]\n0x6e:\txor\tbyte ptr [eax], dh\n0x70:\tcmp\tbyte ptr ss:[ebx + 0x31], ah\n0x75:\txor\teax, 0x33663837\n0x7a:\txor\tal, 0x30\n0x7c:\txor\tbyte ptr [eax], dh\n0x7e:\tcmp\tbyte ptr ss:[ebx + 0x30], ah\n0x83:\tarpl\tword ptr ss:[esi + 0x33], sp\n0x88:\txor\tal, 0x30\n0x8a:\txor\tbyte ptr [eax], dh\n0x8c:\tcmp\tbyte ptr ss:[ebx + 0x31], ah\n0x91:\txor\tal, 0x38\n0x94:\txor\tsi, word ptr [eax + esi]\n0x98:\txor\tbyte ptr [eax], dh\n0x9a:\tcmp\tbyte ptr ss:[ebx + 0x30], ah\n0x9f:\txor\teax, 0x33663434\n0xa4:\txor\tal, 0x30\n0xa6:\txor\tbyte ptr [eax], dh\n0xa8:\tcmp\tbyte ptr ss:[ebx + 0x32], ah\n0xad:\txor\teax, 0x33663034\n0xb2:\txor\tal, 0x30\n0xb4:\txor\tbyte ptr [eax], dh\n0xb6:\tcmp\tbyte ptr ss:[ebx + 0x32], ah\n0xbb:\txor\tesp, dword ptr fs:[ebx + 0x66]\n0xbf:\txor\tesi, dword ptr [eax + esi]\n0xc2:\txor\tbyte ptr [eax], dh\n0xc4:\tcmp\tdword ptr [ebx + 0x38], esp\n",
+		"ImageBase": "400000",
+		"FileSize": 56320,
+		"Entropy": 6.265,
+		"Subsystem": "windows cui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2012-08-09 23:56:49(2012-08-09 14:56:49 UTC)",
+		"Import Hash": "4749670ac3d28d6761142b0dcb4f5076",
+		"Section Info": [
+			".text:0x1000:0x93c4:0x400:0x9400:6.55212372077",
+			".rdata:0xb000:0x2198:0x9800:0x2200:5.48759210638",
+			".data:0xe000:0x2e2c:0xba00:0x1000:2.0961131439",
+			".rsrc:0x11000:0x1b4:0xca00:0x200:5.10500609928",
+			".reloc:0x12000:0xfa4:0xcc00:0x1000:4.62761070335"
+		],
+		"Resource": [
+			"RT_MANIFEST:0x11058:0x15a:ASCII text, with CRLF line terminators:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\L1FP9oT5qC.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"Original FileName": "",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1035",
+		"ATT&CK(Persistence)": "T1031,T1050",
+		"ATT&CK(Privilege Escalation)": "T1050",
+		"ATT&CK(Defense Evasion)": "T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1063,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1032",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_HeapCreate_HeapCreate_RtlEncodePointer_RtlEncodePointer_RtlEncodePointer_RtlEncodePointer_RtlEncodePointer_RtlEncodePointer_RtlEncodePointer_RtlDecodePointer_RtlDecodePointer_RtlAllocateHeap_GetFileType_GetFileType_GetFileType_GetEnvironmentStringsW_RtlAllocateHeap_RtlEncodePointer_RtlEncodePointer_SetUnhandledExceptionFilter_SetUnhandledExceptionFilter_RtlDecodePointer_RtlDecodePointer_RtlEncodePointer_RtlEncodePointer_RtlAllocateHeap_GetConsoleMode_WriteFile_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_StartServiceCtrlDispatcherA_LdrInitializeThunk_RtlDecodePointer_RtlDecodePointer_RtlEncodePointer_RtlDecodePointer_RtlDecodePointer_RtlDecodePointer_ExitProcess_ExitProcess_ExitProcess",
+		"String": [
+			{
+				"string": "RemComSvc",
+				"type": "C-Style"
+			},
+			{
+				"string": "Service",
+				"type": "C-Style"
+			},
+			{
+				"string": "A service Cannot be started directly.\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "RemCom_stderr",
+				"type": "C-Style"
+			},
+			{
+				"string": "RemCom_stdin",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\\\.\\pipe\\%s%s%d",
+				"type": "C-Style"
+			},
+			{
+				"string": "RemCom_stdout",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\\\.\\pipe\\RemCom_communicaton",
+				"type": "C-Style"
+			},
+			{
+				"string": "EncodePointer",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.DLL",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "DecodePointer",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsFree",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsSetValue",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsGetValue",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsAlloc",
+				"type": "C-Style"
+			},
+			{
+				"string": "CorExitProcess",
+				"type": "C-Style"
+			},
+			{
+				"string": "mscoree.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "(null)",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "(null)",
+				"type": "C-Style"
+			},
+			{
+				"string": "\b`h````",
+				"type": "C-Style"
+			},
+			{
+				"string": "DOMAIN error\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6034\r\nAn application has made an attempt to load the C runtime library incorrectly.\nPlease contact the application's support team for more information.\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6033\r\n- Attempt to use MSIL code from this assembly during native code initialization\nThis indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6032\r\n- not enough space for locale information\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6031\r\n- Attempt to initialize the CRT more than once.\nThis indicates a bug in your application.\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6030\r\n- CRT not initialized\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6028\r\n- unable to initialize heap\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6027\r\n- not enough space for lowio initialization\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6026\r\n- not enough space for stdio initialization\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6025\r\n- pure virtual function call\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6024\r\n- not enough space for _onexit/atexit table\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6019\r\n- unable to open console device\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6018\r\n- unexpected heap error\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6017\r\n- unexpected multithread lock error\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6016\r\n- not enough space for thread data\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "\r\nThis application has requested the Runtime to terminate it in an unusual way.\nPlease contact the application's support team for more information.\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6009\r\n- not enough space for environment\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6008\r\n- not enough space for arguments\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6002\r\n- floating point support not loaded\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "Microsoft Visual C++ Runtime Library",
+				"type": "C-Style"
+			},
+			{
+				"string": "<program name unknown>",
+				"type": "C-Style"
+			},
+			{
+				"string": "Runtime Error!\n\nProgram: ",
+				"type": "C-Style"
+			},
+			{
+				"string": "`h`hhh\b\bxppwpp\b\b",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetProcessWindowStation",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetUserObjectInformationA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetLastActivePopup",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetActiveWindow",
+				"type": "C-Style"
+			},
+			{
+				"string": "MessageBoxA",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "         (((((                  H",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "        h((((                  H",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "dddd, MMMM dd, yyyy",
+				"type": "C-Style"
+			},
+			{
+				"string": "MM/dd/yy",
+				"type": "C-Style"
+			},
+			{
+				"string": "December",
+				"type": "C-Style"
+			},
+			{
+				"string": "November",
+				"type": "C-Style"
+			},
+			{
+				"string": "October",
+				"type": "C-Style"
+			},
+			{
+				"string": "September",
+				"type": "C-Style"
+			},
+			{
+				"string": "August",
+				"type": "C-Style"
+			},
+			{
+				"string": "April",
+				"type": "C-Style"
+			},
+			{
+				"string": "March",
+				"type": "C-Style"
+			},
+			{
+				"string": "February",
+				"type": "C-Style"
+			},
+			{
+				"string": "January",
+				"type": "C-Style"
+			},
+			{
+				"string": "Saturday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Friday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Thursday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Wednesday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Tuesday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Monday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Sunday",
+				"type": "C-Style"
+			},
+			{
+				"string": "SunMonTueWedThuFriSat",
+				"type": "C-Style"
+			},
+			{
+				"string": "JanFebMarAprMayJunJulAugSepOctNovDec",
+				"type": "C-Style"
+			},
+			{
+				"string": "CONOUT$",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADVAPI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "abcdefghijklmnopqrstuvwxyz",
+				"type": "C-Style"
+			},
+			{
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+				"type": "C-Style"
+			},
+			{
+				"string": "abcdefghijklmnopqrstuvwxyz",
+				"type": "C-Style"
+			},
+			{
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2008 SP1)[libcmt]",
+		"linker": "Microsoft Linker(9.0)[EXE32,console]",
+		"PDB path": "",
+		"full Fuzzyhash": "768:8HaGmJqj/DkKqn5FKwQE8IWlReWfDWf9zTjaCuGiyqWE87CYsSHtRpj26:sfqqj/DMFv8I8ReUWflaCoa7CYsIRJ",
+		"section Fuzzyhash(.data)": "48:8mBPItTHeezNTk4TkikAkkkkkkkM2dctvJV:fBgtz9hndkkkkkkkA",
+		"rich header": "44616e530000000000000000000000000978950010000000097883006000000027c67b0005000000000001007000000009788400210000000978910001000000",
+		"PE Image": "binary_6983f7001de10f4d19fc2d794c3eb534.jpg",
+		"bytecode": "binary_6983f7001de10f4d19fc2d794c3eb534.byte",
+		"opcode": "push,push,push,xor,push,push,call,mov,cmp,jz,push,push,push,push,call,mov,cmp,jnz,push,call,pop,pop,pop,push,call,mov,push,push,mov,mov,mov,mov,mov,call,push,mov,call,push,call,pop,pop,pop,push,mov,mov,sub,jz,mov,push,push,jmp,mov,push,call,mov,xor,push,mov,mov,mov,mov,push,call,jnz,call,pop,push,mov,sub,mov,xor,mov,push,push,push,mov,mov,call,xor,push,push,push,mov,mov,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,lea,push,push,push,mov,call,jnz,call,mov,jmp,mov,push,push,call,mov,cmp,jnz,call,mov,jmp,mov,mov,mov,lea,push,push,push,push,push,call,mov,jnz,call,cmp,jz,call,mov,jmp,push,call,mov,push,push,call,mov,jnz,call,mov,jmp,mov,mov,lea,push,push,push,push,push,call,jnz,call,mov,jmp,mov,lea,push,push,push,push,push,push,push,push,push,push,lea,push,call,jnz,call,mov,jmp,lea,push,push,push,push,push,push,push,push,push,push,lea,push,call,jnz,call,mov,jmp,xor,cmp,jbe,lea,lea,mov,mov,mov,push,push,mov,mov,call,jnz,mov,mov,push,push,call,jnz,inc,add,cmp,jb,mov,cmp,jnz,mov,mov,mov,jz,push,call,mov,jz,push,call,jz,push,call,mov,mov,jz,push,call,mov,jz,push,call,mov,mov,pop,pop,xor,pop,call,mov,pop,mov,mov,jmp,mov,mov,jmp,push,xor,push,push,mov,mov,mov,mov,mov,mov,mov,call,mov,cmp,jz,push,push,mov,mov,mov,call,jnz,call,pop,push,push,push,push,call,push,push,push,mov,call,add,pop,push,mov,sub,lea,push,mov,mov,mov,mov,mov,call,add,cmp,jnz,push,call,add,lea,push,call,mov,pop,push,mov,sub,push,push,xor,push,mov,mov,push,lea,push,mov,call,push,push,push,lea,push,call,mov,mov,mov,mov,mov,mov,push,lea,push,push,lea,push,push,mov,mov,mov,call,mov,push,push,push,push,push,call,mov,push,push,push,push,push,call,mov,add,lea,push,push,push,push,push,push,push,push,call,lea,push,push,push,push,push,push,push,push,mov,call,lea,push,push,push,push,push,mov,push,push,push,call,mov,mov,cmp,jz,cmp,jz,cmp,jz,mov,push,push,call,mov,push,push,call,mov,push,push,call,pop,pop,mov,pop,mov,pop,mov,push,call,mov,push,call,mov,push,call,pop,pop,xor,pop,mov,pop,push,mov,sub,mov,xor,mov,push,mov,push,mov,push,lea,push,push,call,lea,push,push,mov,call,add,jnz,pop,mov,pop,mov,xor,call,mov,pop,push,push,lea,push,push,mov,mov,call,add,lea,neg,sbb,lea,push,lea,push,push,mov,push,push,push,push,push,lea,push,push,call,jz,mov,mov,cmp,mov,jnz,push,push,call,push,push,call,mov,pop,pop,pop,mov,xor,call,mov,pop,mov,mov,mov,pop,pop,xor,pop,call,mov,pop,push,mov,mov,call,mov,xor,mov,push,mov,push,call,xor,push,mov,mov,lea,push,push,lea,push,push,call,jz,cmp,jz,lea,push,lea,push,call,add,push,lea,push,push,lea,push,push,mov,call,push,call,push,call,push,call,cmp,pop,jnz,mov,push,call,mov,xor,call,mov,pop,push,mov,sub,push,mov,push,push,mov,xor,mov,mov,push,lea,push,mov,call,push,push,push,lea,push,call,lea,push,push,push,push,push,push,push,lea,push,mov,mov,mov,call,mov,jz,push,push,call,push,push,push,call,add,jmp,push,push,push,push,call,mov,add,mov,push,push,call,jnz,call,mov,push,call,pop,mov,mov,push,mov,mov,mov,pop,mov,call,mov,xor,push,call,xor,mov,push,mov,mov,push,mov,cmp,jnb,mov,jz,call,add,cmp,jb,pop,pop,mov,push,mov,mov,push,mov,cmp,jnb,mov,jz,call,add,cmp,jb,pop,pop,jmp,push,push,push,call,mov,push,call,add,mov,mov,jnz,push,pop,pop,xor,pop,push,call,pop,mov,push,mov,mov,mov,pop,mov,push,mov,mov,mov,pop,mov,push,mov,mov,mov,pop,mov,push,mov,mov,mov,pop,push,call,pop,mov,push,mov,sub,push,push,push,call,cmp,mov,jnz,push,call,mov,jz,mov,push,push,call,jz,push,call,mov,push,mov,call,push,call,mov,push,mov,call,push,call,mov,push,mov,call,push,call,pop,mov,jz,push,push,call,push,call,pop,mov,mov,cmp,jz,cmp,jz,push,call,push,mov,call,pop,pop,mov,jz,jz,call,jz,lea,push,push,lea,push,push,push,call,jz,jnz,jmp,mov,cmp,jz,push,call,pop,jz,call,mov,jz,mov,cmp,jz,push,call,pop,jz,push,call,mov,push,call,pop,jz,push,push,push,push,call,jmp,xor,pop,pop,pop",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "fda6f3f1711a920038629e88ae07536b"
+			},
+			{
+				"section": ".rdata",
+				"md5": "b33fcca5333f0b6bc52efc31b12b6b19"
+			},
+			{
+				"section": ".data",
+				"md5": "6c3933718603e3a01948510a829da530"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "81195ca9b22c050f79e44175e9e7150e"
+			},
+			{
+				"section": ".reloc",
+				"md5": "a60e104d4f406aa16b549a851212d4ac"
+			}
+		],
+		"Yara Rule": []
+	}
+}
