@@ -1,0 +1,298 @@
+{
+	"md5": "19ceeb3f3d616809e83a649c7bf3076f",
+	"data": {
+		"MD5": "19ceeb3f3d616809e83a649c7bf3076f",
+		"SHA1": "174ce47a068882066a3049ed8fc5430656f1f09f",
+		"SHA256": "67a7dc6405acc9887da45e7b5d57413157519265650fa6749b1b2c8c0a8f3d11",
+		"EntryPoint": "401300",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 28160,
+		"Original FileName": "",
+		"Entropy": 6.022,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, DEBUG_STRIPPED, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2022-01-10 19:37:18(2022-01-10 10:37:18 UTC)",
+		"Import Hash": "3a2a2de20daa74d8f6921230416ed4e6",
+		"Section Info": [
+			".text:0x1000:0x3000:0x400:0x2e00:6.04508241529",
+			".data:0x4000:0x3000:0x3200:0x2200:5.71399387758",
+			".rdata:0x7000:0x1000:0x5400:0x400:4.01358823525",
+			".eh_fram:0x8000:0x1000:0x5800:0xa00:4.78088938466",
+			".bss:0x9000:0x1000:0x6200:0x200:0.287322245261",
+			".idata:0xa000:0x1000:0x6400:0x600:5.23243508822",
+			".CRT:0xb000:0x1000:0x6a00:0x200:0.0980041756627",
+			".tls:0xc000:0x20:0x6c00:0x200:0.22482003451"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "\\Device\\Harddisk0\\DR0"
+			}
+		],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindClose_CreateFileW_WriteFile_LdrInitializeThunk_LdrInitializeThunk_WriteFile_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1542.003",
+		"ATT&CK(Privilege Escalation)": "",
+		"ATT&CK(Defense Evasion)": "T1542.003,T1497",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "",
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "Your hard drive has been corrupted.\r\nIn case you want to recover all hard drives\r\nof your organization,\r\nYou should pay us  $10k via bitcoin wallet\r\n1AVNM68gj6PGPFcJuftKATa4WLnzg8fpfv and send message via\r\ntox ID 8BEDC411012A33BA34F49130D0F186993C6A32DAD8976F6A5D82C1ED23054C057ECED5496F65\r\nwith your organization name.\r\nWe will contact you to give further instructions."
+			},
+			{
+				"type": "C-Style",
+				"string": "libgcc_s_dw2-1.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "__register_frame_info"
+			},
+			{
+				"type": "C-Style",
+				"string": "__deregister_frame_info"
+			},
+			{
+				"type": "C-Style",
+				"string": "libgcj-16.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "_Jv_RegisterClasses"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\\\\.\\PhysicalDrive0"
+			},
+			{
+				"type": "C-Style",
+				"string": "Mingw runtime failure:\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "  VirtualQuery failed for %d bytes at address %p"
+			},
+			{
+				"type": "C-Style",
+				"string": "  Unknown pseudo relocation protocol version %d.\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "  Unknown pseudo relocation bit size %d.\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "glob-1.0-mingw32"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (MinGW.org GCC-6.3.0-1) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			},
+			{
+				"type": "C-Style",
+				"string": "GCC: (GNU) 6.3.0"
+			}
+		],
+		"Packer": "",
+		"compiler": "MinGW(GCC: (GNU) 6.3.0)",
+		"linker": "GNU linker ld (GNU Binutils)(2.28)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "384:hIvApUHEZKu08YtQI4GS1dxRBUHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHfskplBD:6vmUHEZ4yVUiiiiiiiiiiiiiii9pe",
+		"section Fuzzyhash(.data)": "192:mA+qrA+qrA+qrA+qrA+qrA+qrA+qrA+qrA+qrA+qrA+qrA+qrA+qrA+qrA+qrA+q:mHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCH",
+		"rich header": "",
+		"PE Image": "binary_19ceeb3f3d616809e83a649c7bf3076f.jpg",
+		"bytecode": "binary_19ceeb3f3d616809e83a649c7bf3076f.byte",
+		"opcode": "sub,mov,mov,mov,cmp,ja,cmp,jnb,cmp,jnz,mov,mov,call,cmp,jz,jnz,lea,xor,add,cmp,jz,cmp,jz,cmp,jnz,mov,mov,call,cmp,jz,jz,mov,call,mov,jmp,mov,mov,call,cmp,jnz,mov,mov,call,mov,jmp,cmp,jnz,mov,mov,call,cmp,jz,jz,mov,call,mov,jmp,mov,call,mov,jmp,mov,mov,call,mov,call,mov,jmp,mov,mov,call,jmp,mov,mov,call,jmp,push,mov,push,sub,mov,jz,mov,mov,mov,call,sub,mov,call,sub,call,mov,mov,call,call,mov,jz,mov,mov,mov,mov,mov,call,mov,mov,mov,mov,call,mov,mov,mov,mov,call,call,mov,mov,call,call,call,mov,mov,mov,mov,mov,mov,call,mov,call,mov,call,sub,lea,mov,mov,mov,mov,mov,mov,lea,mov,call,add,sub,mov,call,call,sub,mov,call,call,jmp,push,mov,push,push,sub,mov,call,sub,jz,mov,mov,call,sub,mov,mov,mov,call,sub,mov,mov,mov,call,sub,mov,jz,mov,mov,call,mov,jz,mov,call,sub,mov,jz,mov,mov,call,sub,mov,jz,mov,call,mov,call,lea,pop,pop,pop,mov,mov,jmp,jmp,push,mov,sub,mov,jz,mov,call,mov,jz,mov,call,sub,push,mov,push,push,push,sub,jz,call,mov,mov,mov,call,lea,shr,shl,call,sub,mov,mov,lea,mov,mov,mov,mov,mov,xor,lea,add,mov,jz,cmp,jz,jg,cmp,jz,cmp,jz,cmp,jnz,mov,sar,jz,add,add,mov,cmp,jnz,cmp,jz,jnz,add,mov,xor,xor,mov,mov,jnz,lea,jz,add,lea,add,mov,cmp,jnz,cmp,jb,mov,jnz,mov,mov,mov,mov,mov,lea,pop,pop,pop,pop,cmp,jz,cmp,jz,cmp,jnz,jnz,lea,mov,jz,lea,mov,lea,lea,add,mov,cmp,jnz,jnz,lea,mov,xor,jmp,mov,lea,mov,jmp,lea,jz,nop,lea,add,mov,cmp,jnz,mov,jnz,mov,cmp,jz,mov,mov,mov,call,jnz,mov,cmp,jz,lea,mov,xor,jmp,lea,jz,mov,cmp,jmp,cmp,jz,add,jmp,jz,mov,sar,jz,add,xchg,add,mov,cmp,jnz,cmp,jz,jnz,xor,mov,xor,mov,jmp,lea,mov,xor,mov,jmp,mov,mov,jz,cmp,jb,mov,jnz,mov,xor,mov,jmp,mov,lea,mov,mov,mov,mov,mov,mov,call,jmp,call,lea,pop,pop,pop,pop,lea,mov,xor,mov,jmp,mov,add,jmp,lea,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,mov,mov,xor,jmp,mov,cmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,pushf,pushf,pop,mov,xor,push,popf,pushf,pop,popf,xor,jz,push,xor,jz,mov,xor,jz,jz,jz,jz,jz,push,mov,sub,mov,xor,mov,xchg,xor,cmp,jnz,jz,jz,jz,mov,mov,cmp,jbe,mov,xor,jns,mov,jz,pop,mov,mov,jz,sub,xchg,call,mov,lea,mov,mov,jnz,add,push,sub,mov,cmp,jz,jz,call,sub,jnz,mov,call,add,pop,xor,jmp,mov,lea,mov,jnz,jmp,mov,jz,mov,jmp,sub,mov,cmp,jz,jz,mov,add,mov,mov,mov,mov,mov,call,mov,add,push,push,sub,cmp,mov,jz,mov,cmp,jz,cmp,jz,add,mov,pop,pop,mov,sub,cmp,jle,xor,mov,jz,call,add,cmp,jnz,add,mov,pop,pop,mov,mov,mov,mov,mov,call,jmp,xor,push,push,sub,mov,call,mov,sub,jz,xchg,mov,mov,call,sub,mov,call,jnz,jz,mov,mov,call,mov,jnz,mov,call,sub,add,pop,pop,push,push,xor,sub,mov,jnz,add,mov,pop,pop,mov,mov,call,mov,jz,mov,mov,mov,mov,mov,call,mov,sub,mov,mov,mov,call,sub,mov,add,pop,pop,mov,jmp,push,sub,mov,mov,jnz,add,xor,pop,mov,call,mov,sub,jz,mov,cmp,jnz,jmp,mov,cmp,jz,mov,mov,jnz,mov,call,sub,add,xor,pop,mov,mov,mov,call,mov,call,sub,jmp,mov,mov,mov,jmp,sub,mov,cmp,jz,jb,cmp,jnz,mov,jnz,mov,add,mov,jnz,mov,cmp,jnz,mov,mov,call,sub,jmp,mov,jz,mov,mov,add,mov,call,sub,jmp,call,jmp,call,jmp,push,push,sub,mov,mov,mov,lea,mov,lea,mov,call,mov,mov,mov,mov,call,call,push,push,mov,push,push,mov,mov,sub,lea,mov,mov,mov,call,sub,jz,mov,cmp,jz,cmp,jnz,mov,mov,mov,call,add,pop,pop,pop,pop,mov,lea,mov,mov,mov,mov,mov,call,sub,mov,mov,mov,mov,mov,call,mov,cmp,jz,cmp,jz,mov,mov,mov,mov,mov,mov,mov,call,sub,add,pop,pop,pop,pop,mov,mov,mov,call,mov,jz,mov,mov,sub,cmp,jle,push,push,push,sub,cmp,jle,mov,jnz,mov,jnz,mov,mov,jz,mov,mov,cmp,jnz,add,cmp,jnb,mov,mov,lea,mov,lea,cmp,jz,cmp,jz,cmp,jz,mov,mov,mov,call,mov,cmp,jnb,mov,mov,add,add,lea,mov,mov,lea,call,cmp,jb,add,pop,pop,pop,mov,mov,jnz,mov,jz,jmp,jns,sub,add,lea,mov,mov,call,jmp,mov,jns,sub,lea,add,mov,mov,call,jmp,sub,add,lea,mov,mov,call,jmp,mov,mov,call,push,push,cmp,lea,jb,sub,sub,cmp,ja,sub,pop,pop,sub,mov,mov,cmp,jz,cmp,jz,jz,cmp,jz,cmp,jz,mov,jz,xor,add,mov,jmp,mov,call,jmp,mov,jmp,jz,push,push,mov,shr,xor,xor,mov,lea,jz,jz,cmp,jz,add,jnz,cmp,jz,cmp,jz,xor,cmp,jnz,mov,pop,pop,cmp,jle,cmp,jz,cmp,add,jmp,cmp,lea,jz,mov,jmp,mov,mov,pop,pop,xor,mov,xor,jmp,jz,push,push,mov,sub,mov,lea,lea,mov,call,mov,mov,mov,jz,mov,mov,jle,nop,lea,sub,mov,jnz,xor,add,pop,pop,xor,push,push,mov,push,push,sub,mov,mov,cmp,mov,jz,cmp,jz,mov,mov,not,mov,mov,sub,mov,jmp,mov,sub,jz,cmp,lea,jz,cmp,jz,jz,cmp,jz,cmp,jz,mov,mov,jnz,mov,mov,call,mov,mov,mov,call,sub,jnz,mov,jmp,add,jz,cmp,jz,cmp,jnz,jnz,add,jmp,cmp,jz,jz,mov,lea,cmp,jge,mov,mov,mov,jmp,mov,lea,jz,cmp,mov,jz,lea,jnz,mov,call,mov,mov,mov,call,sub,jnz,mov,mov,cmp,jz,cmp,jz,add,jnz,add,xor,pop,pop,pop,pop,cmp,jz,add,jmp,mov,mov,jmp,mov,jmp,jnz,add,jmp,add,cmp,jnz,add,lea,pop,pop,pop,pop,mov,add,nop,cmp,jz,cmp,jz,add,jnz,jmp,jnz,add,jmp,add,jmp,add,lea,pop,pop,pop,pop,add,jmp,jle,mov,mov,jmp,mov,lea,jz,cmp,mov,jz,lea,jnz,mov,call,mov,mov,mov,call,sub,jnz,mov,mov,cmp,jz,cmp,jz,add,jnz,jmp,jnz,add,jmp,add,jmp,push,push,mov,push,push,sub,cmp,mov,jz,mov,lea,shr,xor,mov,lea,lea,jz,cmp,jz,cmp,jz,cmp,jz,jz,cmp,jz,mov,jz,jnz,mov,mov,call,mov,mov,call,mov,sub,jz,mov,sub,add,pop,pop,pop,pop,mov,cmp,jnz,nop,lea,add,cmp,jz,xor,jz,mov,jmp,add,cmp,jz,mov,mov,mov,call,jnz,add,pop,pop,pop,pop,jz,cmp,jz,mov,call,mov,jz,add,jmp,cmp,jz,mov,jmp,mov,sub,jmp,cmp,jz,sub,jnz,jmp,lea,mov,mov,call,jz,mov,jmp,add,jnz,jmp,neg,jmp,cmp,jz,mov,jmp,add,jz,cmp,jz,cmp,jnz,jnz,add,jmp,add,jmp,lea,jmp,mov,jmp,xor,jmp,mov,jmp,mov,jmp,lea,jmp,push,push,mov,push,mov,sub,mov,add,lea,mov,mov,mov,call,jz,mov,mov,mov,lea,add,add,mov,mov,mov,add,xor,pop,pop,pop,add,mov,pop,pop,pop,push,push,mov,mov,sub,mov,jz,call,mov,jz,jnz,mov,jz,mov,call,mov,call,add,pop,pop,mov,call,jmp,push,mov,push,push,push,mov,sub,mov,mov,jnz,mov,mov,call,lea,add,shr,shl,call,sub,lea,mov,mov,mov,call,mov,call,mov,mov,lea,mov,call,mov,jnz,mov,mov,mov,call,jz,lea,mov,mov,mov,mov,call,mov,mov,jnz,cmp,jz,cmp,jz,mov,mov,mov,jz,mov,mov,call,add,cmp,jnb,cmp,mov,jz,cmp,jnz,jmp,mov,cmp,jz,cmp,jz,lea,cmp,jnz,mov,mov,cmp,jz,cmp,jnz,mov,jmp,mov,add,cmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jz,mov,call,mov,jz,mov,jz,mov,mov,mov,call,mov,mov,mov,add,mov,lea,lea,mov,call,mov,jz,mov,jz,cmp,jnz,lea,mov,mov,mov,call,jnz,mov,mov,lea,shr,shl,call,sub,mov,mov,lea,jnz,mov,add,mov,mov,mov,add,mov,call,mov,call,add,shr,shl,call,sub,mov,lea,mov,jmp,add,add,mov,jz,cmp,jnz,add,add,add,mov,jnz,mov,call,mov,mov,jz,mov,cmp,sub,mov,mov,jnz,mov,jz,mov,mov,jmp,call,mov,mov,jle,jz,mov,mov,mov,mov,jnz,call,mov,mov,jg,mov,jnz,mov,mov,mov,call,jz,mov,mov,mov,mov,jle,mov,jmp,mov,lea,mov,mov,lea,pop,pop,pop,pop,mov,mov,call,add,shr,shl,call,sub,mov,lea,mov,mov,cmp,jz,cmp,jz,lea,lea,mov,jz,cmp,jz,mov,mov,cmp,jnz,mov,jnz,add,add,jmp,mov,mov,mov,mov,cmp,jz,add,cmp,jz,cmp,jnz,cmp,jnz,sub,jz,mov,add,cmp,jnz,mov,lea,mov,jnz,mov,mov,jmp,cmp,jz,lea,mov,jz,mov,jmp,mov,add,jmp,add,mov,mov,jmp,mov,add,add,jmp,cmp,jnz,mov,mov,lea,cmp,jnz,cmp,jnz,jmp,cmp,jz,mov,lea,cmp,jz,cmp,jz,cmp,jnz,sub,jnz,lea,jmp,add,add,mov,jnz,mov,mov,mov,mov,mov,mov,call,cmp,mov,jz,cmp,jz,mov,jmp,jnz,nop,lea,mov,mov,mov,jmp,add,jmp,mov,jmp,mov,mov,mov,call,add,shr,shl,call,mov,sub,lea,mov,jmp,add,add,mov,jz,cmp,jnz,add,jmp,mov,call,mov,jz,lea,call,mov,jmp,mov,jmp,jnz,mov,mov,mov,jmp,mov,call,mov,jz,mov,mov,call,mov,lea,mov,mov,call,mov,jz,cmp,jz,mov,jmp,mov,jnz,mov,jmp,jz,mov,lea,mov,mov,mov,call,mov,jz,mov,mov,add,mov,call,mov,jnz,mov,mov,mov,mov,mov,call,mov,jmp,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,cmp,jz,cmp,jz,mov,add,mov,mov,mov,jmp,mov,jmp,mov,mov,jmp,mov,mov,call,jmp,mov,jmp,mov,mov,jnz,mov,jmp,mov,mov,jmp,mov,jz,call,mov,mov,mov,mov,mov,call,jz,mov,lea,mov,jmp,mov,mov,jmp,mov,call,jz,mov,mov,mov,jmp,mov,mov,mov,jmp,mov,mov,call,mov,jnz,mov,mov,call,add,shr,shl,call,sub,lea,mov,jmp,add,add,mov,jz,cmp,jnz,add,jmp,mov,call,mov,jz,mov,jz,mov,call,mov,mov,jmp,mov,jmp,mov,mov,jmp,cmp,jz,cmp,mov,jnz,jmp,cmp,jz,mov,jmp,mov,mov,jmp,push,mov,push,push,push,sub,mov,mov,mov,jz,jz,cmp,jz,mov,call,mov,mov,mov,mov,mov,call,cmp,mov,jz,lea,mov,pop,pop,pop,pop,mov,jmp,jz,mov,mov,mov,call,add,shr,shl,call,mov,sub,lea,mov,jmp,add,add,mov,jz,cmp,jnz,add,add,add,mov,jnz,mov,mov,call,mov,mov,jz,mov,mov,call,mov,jmp,push,push,push,sub,mov,cmp,jz,add,pop,pop,pop,mov,mov,lea,lea,jle,mov,sub,mov,add,mov,call,cmp,jnz,mov,mov,add,pop,pop,pop,jmp,push,mov,push,push,push,sub,mov,mov,call,mov,jz,mov,call,mov,mov,mov,call,mov,jz,mov,cmp,jnz,mov,mov,mov,call,lea,mov,mov,mov,call,mov,mov,mov,mov,call,mov,mov,call,mov,call,mov,lea,pop,mov,pop,pop,pop,mov,mov,mov,mov,mov,call,mov,lea,shr,shl,call,sub,mov,mov,lea,mov,mov,call,xor,mov,cmp,mov,mov,mov,jbe,cmp,jz,cmp,jz,cmp,jz,jz,mov,mov,mov,jmp,cmp,mov,jz,lea,jz,cmp,jnz,mov,cmp,jnz,add,cmp,jz,cmp,jz,jz,mov,lea,jnz,cmp,jb,cmp,jz,cmp,jz,mov,mov,mov,mov,add,xor,mov,mov,mov,mov,call,lea,mov,mov,mov,mov,call,mov,mov,mov,mov,mov,mov,call,jmp,mov,jmp,lea,cmp,jnb,mov,cmp,jz,cmp,jz,xor,mov,mov,cmp,jz,cmp,jnz,lea,add,cmp,jz,cmp,jz,mov,sub,cmp,jle,mov,mov,jz,add,cmp,mov,jz,cmp,lea,jz,mov,jnz,mov,xor,mov,mov,mov,mov,mov,call,cmp,mov,jz,mov,mov,mov,call,mov,call,mov,lea,mov,pop,pop,pop,pop,mov,cmp,jz,cmp,jnz,lea,add,cmp,jz,cmp,jz,jmp,cmp,jnz,cmp,jnz,mov,mov,call,mov,call,mov,jmp,cmp,jnz,jmp,lea,mov,mov,jmp,mov,add,jmp,jnz,cmp,jz,cmp,jnz,cmp,jnz,cmp,jz,cmp,jz,mov,jmp,push,push,mov,sub,lea,mov,mov,call,sub,cmp,mov,jz,xor,lea,mov,xor,jmp,add,cmp,mov,adc,mov,jnz,mov,cmp,jbe,mov,add,mov,pop,pop,mov,add,mov,pop,pop,call,mov,call,cmp,mov,jz,call,cmp,jz,call,cmp,jz,call,mov,jmp,call,mov,jmp,call,mov,jmp,push,push,mov,sub,lea,mov,mov,call,sub,mov,jz,xor,lea,mov,xor,jmp,add,cmp,mov,adc,mov,jnz,mov,cmp,ja,mov,add,mov,pop,pop,mov,add,mov,pop,pop,call,cmp,jz,call,mov,add,mov,pop,pop,push,push,push,push,sub,mov,jz,cmp,jz,lea,mov,mov,mov,call,cmp,mov,jz,mov,add,lea,not,jz,jz,mov,add,sbb,sub,cmp,jz,cmp,jz,mov,mov,add,jmp,mov,add,lea,not,jz,jz,mov,add,sbb,sub,mov,mov,mov,mov,add,lea,not,jz,jnz,shr,add,mov,add,sbb,sub,lea,mov,call,mov,jz,lea,add,mov,mov,mov,call,mov,mov,call,cmp,mov,jz,mov,mov,mov,mov,add,mov,pop,pop,pop,pop,shr,add,jmp,shr,add,jmp,call,xor,mov,jmp,call,mov,jmp,call,xor,mov,jmp,mov,xor,call,jmp,push,sub,mov,jz,mov,lea,mov,jle,mov,mov,call,jz,mov,add,pop,call,mov,xor,jmp,push,sub,mov,jz,mov,mov,call,sub,jz,mov,call,xor,add,pop,call,mov,mov,jmp,push,sub,mov,jz,mov,mov,call,sub,jnz,call,mov,add,pop,lea,mov,call,cmp,mov,jz,mov,add,pop,sub,mov,jz,mov,add,call,mov,mov,jmp,push,push,sub,mov,mov,js,mov,call,jz,cmp,jnz,jmp,mov,mov,call,jz,mov,add,cmp,mov,jg,add,pop,pop,call,mov,add,pop,pop,lea,mov,push,push,mov,push,push,push,call,mov,sub,lea,call,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,lea,sub,mov,mov,mov,mov,mov,call,sub,mov,call,push,lea,xor,pop,pop,pop,pop,lea,push,mov,pop,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "2036a3ec8d69332516af7a45bd0e95d1"
+			},
+			{
+				"section": ".data",
+				"md5": "c347e1c3a12f8e09e1bd14dd6a2508c5"
+			},
+			{
+				"section": ".rdata",
+				"md5": "2d7762721cd6d861442eeb34045e7b05"
+			},
+			{
+				"section": ".eh_fram",
+				"md5": "f3fa60eb8140371a44c211d821bb7032"
+			},
+			{
+				"section": ".bss",
+				"md5": "210dd686981e37036a7220db122c084a"
+			},
+			{
+				"section": ".idata",
+				"md5": "43d369e40a9be64d54e2842c4d3ae491"
+			},
+			{
+				"section": ".CRT",
+				"md5": "9613b19b86f9cff884c127d7bedc1359"
+			},
+			{
+				"section": ".tls",
+				"md5": "91bcf9f4179ab79fbfbb4634d5a90f70"
+			}
+		],
+		"Yara Rule": []
+	}
+}

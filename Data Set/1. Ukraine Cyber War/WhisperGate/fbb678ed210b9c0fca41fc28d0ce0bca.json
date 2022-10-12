@@ -1,0 +1,100 @@
+{
+	"md5": "fbb678ed210b9c0fca41fc28d0ce0bca",
+	"data": {
+		"String": [],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(6.0)[DLL32,console]",
+		"PDB path": "",
+		"full Fuzzyhash": "768:bn0YG7ETeUs+zwZeKcgJahmsaCynwomGXNLBcCZlB10vqJAC7+T/QDFpVGKYgC:r0fQdsidKg8sEXNLCih0tC7+LQDF+K",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "8e40b2a772d52c2cf0836fc54e9a9e7c"
+			},
+			{
+				"section": ".reloc",
+				"md5": "6b4d446423b9d2cfd67fc20e702506da"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "fbb678ed210b9c0fca41fc28d0ce0bca",
+		"SHA1": "30d9643212466df08dc7ded7ff14a47894d07c76",
+		"SHA256": "d043766ab9a2b503bd476ce03487e85115740f6852583b85efbf7eefe0e7bffe",
+		"EntryPoint": "41092e",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 60928,
+		"Original FileName": "",
+		"Entropy": 7.946,
+		"Subsystem": "windows cui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, DLL, LINE_NUMS_STRIPPED",
+		"Timestamp": "2022-01-10 23:39:31(2022-01-10 14:39:31 UTC)",
+		"Import Hash": "dae02f32a21e03ce65412f6e56942daa",
+		"Section Info": [
+			".text:0x2000:0xe934:0x200:0xea00:7.98097906441",
+			".reloc:0x12000:0xc:0xec00:0x200:0.0815394123432"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "cmd.exe /C rundll32.exe 'C:\\Users\\user\\Desktop\\qPnEirQBiK.dll',#1"
+			},
+			{
+				"cmdline": "rundll32.exe  'C:\\Users\\user\\Desktop\\qPnEirQBiK.dll',#1"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\qPnEirQBiK.dll"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Dynamic Link Library (generic) Net Framework (1011504/3)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_InitializeCriticalSectionAndSpinCount_InitializeCriticalSectionAndSpinCount_LoadLibraryExW_LoadLibraryExW_RtlAllocateHeap_InitializeCriticalSectionAndSpinCount_GetFileType_GetFileType_LoadLibraryExW_LoadLibraryExW_LCMapStringEx_LCMapStringEx_GetEnvironmentStringsW_SetUnhandledExceptionFilter_SetUnhandledExceptionFilter_RtlAllocateHeap_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LdrInitializeThunk_LdrInitializeThunk_KiUserExceptionDispatcher_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1497,T1218.011,T1027.002,T1055,T1574.002,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

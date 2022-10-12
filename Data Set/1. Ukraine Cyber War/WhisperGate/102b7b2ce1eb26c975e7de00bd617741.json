@@ -1,0 +1,93 @@
+{
+	"md5": "102b7b2ce1eb26c975e7de00bd617741",
+	"data": {
+		"MD5": "102b7b2ce1eb26c975e7de00bd617741",
+		"SHA1": "39ed0acb4107b44bfe72cf5ccc3129ee8ed24dbc",
+		"SHA256": "859efd180b5f8bf1c9cd42d5b293c97422bc4bddb5faf3c142b754e2ac0cefd5",
+		"EntryPoint": "40e3a0",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 10752,
+		"Original FileName": "",
+		"Entropy": 7.535,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, DEBUG_STRIPPED, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2022-01-10 19:37:18(2022-01-10 10:37:18 UTC)",
+		"Import Hash": "c19c5a27cf193c3f49f1a5b91054e502",
+		"Section Info": [
+			"UPX0:0x1000:0xb000:0x200:0x0:0",
+			"UPX1:0xc000:0x3000:0x200:0x2600:7.81359384149",
+			"UPX2:0xf000:0x1000:0x2800:0x200:1.58540993252"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "\\Device\\Harddisk0\\DR0"
+			}
+		],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LoadLibraryA_LoadLibraryA_VirtualProtect_VirtualProtect_SetUnhandledExceptionFilter_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindClose_atexit_CreateFileW_WriteFile_LdrInitializeThunk_LdrInitializeThunk_WriteFile_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1542.003",
+		"ATT&CK(Privilege Escalation)": "",
+		"ATT&CK(Defense Evasion)": "T1542.003,T1497,T1027.002,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "",
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "*libgcc_s_dw2-1.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.DLL"
+			},
+			{
+				"type": "C-Style",
+				"string": "msvcrt.dll"
+			}
+		],
+		"Packer": "UPX(3.96)[NRV,best]",
+		"compiler": "MinGW(-)",
+		"linker": "GNU linker ld (GNU Binutils)(2.28)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "192:70nOQLBDPw7tEvJ2S3syDU7z12AjWUDVX4B6QIwblRNSleBf2:4OcB4RE18yI7z1L9WB6QjzSgs",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_102b7b2ce1eb26c975e7de00bd617741.jpg",
+		"bytecode": "binary_102b7b2ce1eb26c975e7de00bd617741.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "UPX1",
+				"md5": "1ee9af85aa80cea649941203c2c04705"
+			},
+			{
+				"section": "UPX2",
+				"md5": "04ae6345794e7b6f5c2ddfac960166af"
+			}
+		],
+		"Yara Rule": []
+	}
+}

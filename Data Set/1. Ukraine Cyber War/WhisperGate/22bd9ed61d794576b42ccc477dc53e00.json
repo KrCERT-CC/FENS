@@ -1,0 +1,1243 @@
+{
+	"md5": "22bd9ed61d794576b42ccc477dc53e00",
+	"data": {
+		"String": [
+			{
+				"string": "KERNEL32.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "msvcrt.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.dll",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "UPX(3.95)[NRV,brute]",
+		"compiler": "MinGW(-)",
+		"linker": "GNU linker ld (GNU Binutils)(2.28)[EXE32,console]",
+		"PDB path": "",
+		"full Fuzzyhash": "192:V41yhRtPbZDqGOphy9kpysmAX1uFkbnjmNc05h8GHuo/RdBJwh9YF5te:210dbRqDhAsluFKiYkNJY9+5w",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_22bd9ed61d794576b42ccc477dc53e00.jpg",
+		"bytecode": "binary_22bd9ed61d794576b42ccc477dc53e00.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "UPX1",
+				"md5": "a3296d6410231353ac9d179dfa3321f5"
+			},
+			{
+				"section": "UPX2",
+				"md5": "683658f05b9f3b5f68372ff2c2e2142d"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "22bd9ed61d794576b42ccc477dc53e00",
+		"SHA1": "801c2bfe0c28b3b9c22b9e654e6ac1c51c89ab53",
+		"SHA256": "24e9b86b92918c3731fa6126c70532c79507c8041b8e6bf1e1c007aa8a9ac025",
+		"EntryPoint": "40dc50",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 13312,
+		"Original FileName": "",
+		"Entropy": 7.488,
+		"Subsystem": "windows cui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, DEBUG_STRIPPED, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2022-01-10 17:14:38(2022-01-10 08:14:38 UTC)",
+		"Import Hash": "e0cfa00940aaad790d001f70839d2481",
+		"Section Info": [
+			"UPX0:0x1000:0xa000:0x200:0x0:0",
+			"UPX1:0xb000:0x3000:0x200:0x3000:7.71842136445",
+			"UPX2:0xe000:0x1000:0x3200:0x200:1.98631889427"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\Application Data\\Application Data\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\Application Data\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\Application Data\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Documents and Settings\\user\\AppData\\Local\\IconCache.DB"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\abcpy.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\abcpy.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Desert.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Hydrangeas.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Jellyfish.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Koala.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Lighthouse.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Penguins.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Tulips.jpg"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Search\\Data\\Applications\\Windows\\MSS.log"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\User Account Pictures\\guest.bmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\User Account Pictures\\user.bmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Chrysanthemum.jpg"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Search\\Data\\Applications\\Windows\\MSS00004.log"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Search\\Data\\Applications\\Windows\\Windows.edb"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Power Efficiency Diagnostics\\energy-report.html"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Support\\MPLog-07132009-221054.log"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Caches\\{4E4260A4-7E39-442E-BC22-7FF751D1C161}.2.ver0x0000000000000002.db"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Caches\\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x000000000000000e.db"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_Microsoft .NET F_bce628be23626516fa3bfe28a23f8d95483a74_cab_09bdbd0e\\Microsoft .NET Framework 4.8 Setup_20211102_181504750.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\AdobeSFX.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ASPNETSetup_00000.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ASPNETSetup_00001.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\chrome_installer.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_SetupUtility.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredistUI02E8.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredistUI2210.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredistUI2D84.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredistUI2D85.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\user.bmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\JavaDeployReg.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\jawshtml.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\jusched.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\MSI39acc.LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\MSI39cff.LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\MSI39f31.LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\MSI61148.LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\MSI7e915.LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\MSI80c8c.LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\MSI827e4.LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\PrinterSetup.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ProcessList.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\wmsetup.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\IconCache.DB"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\brndlog.bak"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\brndlog.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches\\cversions.1.db"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V01.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V0100003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V0100004.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V0100005.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V0100006.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V0100007.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V0100008.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V0100009.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V010000A.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WebCache\\V010000B.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WindowsUpdate.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\edb.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\edb00001.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Bears.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Bears.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Monet.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Roses.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Roses.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Stars.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Stars.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Tiki.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Sidebar\\Settings.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\bandizip.versioninfo.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredistMSI02E8.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredistMSI2210.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredistMSI2D84.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredistMSI2D85.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_amd64_20211102182637.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_amd64_20211102182644.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_x86_20211102181138.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_x86_20211102181157.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_x86_20211102181302.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_x86_20211102182634.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_x86_20211102182641.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_wcf_CA_smci_20211102_092733_412.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_wcf_CA_smci_20211102_092733_787.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\FireFly(20211102202130C1C).log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\FXSAPIDebugLogFile.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\kjnl2hlg.f43\\unarchiver.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Setup Log 2021-11-02 #001.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Setup Log 2021-11-02 #002.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Setup Log 2021-11-02 #003.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\chrome_shutdown_ms.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension State\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\previews_opt_out.db"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Session Storage\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Sync Data\\LevelDB\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\SkyDrive\\16.4.6012.0828\\CollectSkyDriveLogs.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\SkyDrive\\setup\\logs\\2021-11-02_202400_9e8-51c.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\SkyDrive\\setup\\logs\\2021-11-02_202400_ca0-710.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\SkyDrive\\setup\\logs\\2021-11-02_202400_fe0-d58.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Backup\\new\\edb00001.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Blue_Gradient.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Cave_Drawings.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Connectivity.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Garden.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Garden.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Green Bubbles.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\GreenBubbles.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Hand Prints.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\HandPrints.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Notebook.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Orange Circles.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\OrangeCircles.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Peacock.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Peacock.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Pine_Lumber.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Pretty_Peacock.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Psychedelic.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Sand_Paper.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Shades of Blue.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\ShadesOfBlue.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Small_News.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Soft Blue.htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\SoftBlue.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Stucco.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Tanspecks.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\White_Chocolate.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery\\Wrinkled_Paper.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_ndp48-x86-x64-allos-enu_decompression_log.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\integratedoffice.exe_c2rdll(20211102202130C1C).log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ood_stream.x86.en-us.dat_15.0.4433.1508.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\skype-preview Crashes\\operation_log.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\winword.exe_c2rdll(20220713044251324).log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\C3UHIZOG\\a5ea21[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\b2[1].gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\user[1].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\b2[1].gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\b2[2].gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\put[1].txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\msn[1].gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\sync[1].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\data_reduction_proxy_leveldb\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\heavy_ad_intervention_opt_out.db"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Local Storage\\leveldb\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Platform Notifications\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Site Characteristics Database\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_amd64_20211102182637_0_vcRuntimeMinimum_x64.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_amd64_20211102182637_1_vcRuntimeAdditional_x64.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_amd64_20211102182644_000_vcRuntimeMinimum_x64.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_amd64_20211102182644_001_vcRuntimeAdditional_x64.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_x86_20211102181138_0_vcRuntimeMinimum_x86.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_x86_20211102181138_1_vcRuntimeAdditional_x86.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_x86_20211102181302_001_vcRuntimeMinimum_x86.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\dd_vcredist_x86_20211102181302_002_vcRuntimeAdditional_x86.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft .NET Framework 4.8 Setup_20211102_181504750.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft .NET Framework 4.8 Setup_20211102_182717128.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\17-361657-68ddb2ab[1].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\AA2KrBi[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\AAnuaFQ[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\AAPY3Eo[1].jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\AAPYLWd[1].jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\AAQaIqK[1].jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\AAQcDCh[1].jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\AAQdU1h[1].jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\BB1dVxrL[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\BBM9L9e[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\RWI9yq[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\sync[1].htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\755f86[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\AA3tRJO[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\AA4p1XW[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\AANGjEw[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\AAPXaWR[1].jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\AAQdNvh[1].jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\BB54j52[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\BBiwNf[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\BByZiqb[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\beacon[1].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\C6G30J03\\e151e5[1].gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\17-361657-68ddb2ab[1].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\AA3u3TJ[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\AABJoeH[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\AALjfsg[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\AAQdvr1[1].jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\AAuIjfq[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\AAyNdMB[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\MSNIdSync[1].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\silentpassport[1].htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\52-478955-68ddb2ab[1].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\52-478955-68ddb2ab[2].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\AA6vjcS[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\AAEqn2B[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\AAQe3MK[1].jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\BB11z4bK[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\BB16nHwG[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\BB1aXyiF[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\BB1cEP3G[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\BB1cG73h[1].png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\collect[1].gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\jquery-2.1.1.min[1].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\ko-kr[1].htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches\\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000001.db"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft .NET Framework 4.8 Setup_20211102_182717128-MSI_netfx_Full_x64.msi.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20211102_182631095.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x86 Redistributable Setup_20211102_181134991.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x86 Redistributable Setup_20211102_182629235.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\TaboolaCookieSyncScript[1].js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\R6ULTU1A\\05B58CDE809663A603A59C3D81056247[1].gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Session Storage\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20211102_182631095-MSI_vc_red.msi.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x86 Redistributable Setup_20211102_181134991-MSI_vc_red.msi.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x86 Redistributable Setup_20211102_182629235-MSI_vc_red.msi.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Local Storage\\leveldb\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Platform Notifications\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x86 Redistributable Setup_20211102_182629235-Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219-MSP0.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\HNC\\User\\Common\\90\\Fonts\\ShareFont.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Document Building Blocks\\1033\\15\\built-in building blocks.dotx"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Skype for Desktop\\Local Storage\\leveldb\\000004.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Templates\\Normal.dotm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\0CV3A3VL.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\2TE9HP88.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\30OFQUD6.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\56IDK0R2.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\7TGK73XR.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\98S3GC8Q.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\C3VT37Y9.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\DLRDPEZ2.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\FP4WNP32.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\HHB1X2PM.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\N7PPIWJJ.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\OTBZJX2R.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\P36G7RB3.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\QATJD1QR.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\QJQPGAVX.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\QOJU6DSX.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\R2I1UKNO.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\Low\\T51IMFO5.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\OKAZJZSS.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\XUTMJEGQ.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Themes\\TranscodedWallpaper.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\installs.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\AlternateServices.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\cert9.db"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\ClientAuthRememberList.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\compatibility.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\key4.db"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\pkcs11.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\prefs.js"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\SecurityPreloadState.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\SiteSecurityServiceState.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\profiles.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\BJZFPPWAPT.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\DUUDTUBZFW.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EEGWXUHVUG\\BJZFPPWAPT.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EEGWXUHVUG\\DUUDTUBZFW.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EEGWXUHVUG\\EEGWXUHVUG.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EEGWXUHVUG\\EFOYFBOLXA.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EEGWXUHVUG\\ZGGKNSUKOP.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EEGWXUHVUG.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EEGWXUHVUG.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EFOYFBOLXA\\EFOYFBOLXA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EFOYFBOLXA\\GIGIYTFFYT.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EFOYFBOLXA\\JDDHMPCDUJ.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EFOYFBOLXA\\PALRGUCVEH.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EFOYFBOLXA\\ZGGKNSUKOP.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EFOYFBOLXA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EFOYFBOLXA.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\EFOYFBOLXA.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\GIGIYTFFYT.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\GRXZDKKVDB.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\JDDHMPCDUJ.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NVWZAPQSQL.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\PALRGUCVEH.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SQSJKEBWDT\\EEGWXUHVUG.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SQSJKEBWDT\\EFOYFBOLXA.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SQSJKEBWDT\\GRXZDKKVDB.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SQSJKEBWDT\\NVWZAPQSQL.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SQSJKEBWDT\\SQSJKEBWDT.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SQSJKEBWDT.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZGGKNSUKOP.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZGGKNSUKOP.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\BJZFPPWAPT.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\DUUDTUBZFW.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EEGWXUHVUG\\BJZFPPWAPT.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EEGWXUHVUG\\DUUDTUBZFW.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EEGWXUHVUG\\EEGWXUHVUG.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EEGWXUHVUG\\EFOYFBOLXA.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EEGWXUHVUG\\ZGGKNSUKOP.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EEGWXUHVUG.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EEGWXUHVUG.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EFOYFBOLXA\\EFOYFBOLXA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EFOYFBOLXA\\GIGIYTFFYT.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EFOYFBOLXA\\JDDHMPCDUJ.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EFOYFBOLXA\\PALRGUCVEH.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EFOYFBOLXA\\ZGGKNSUKOP.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EFOYFBOLXA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EFOYFBOLXA.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\EFOYFBOLXA.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\GIGIYTFFYT.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\GRXZDKKVDB.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\JDDHMPCDUJ.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NVWZAPQSQL.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\PALRGUCVEH.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\BlogForm_BookReview.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\BlogForm_MovieReview.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\BlogForm_Recipe.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\calendar_monthly.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\calendar_year.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\classical_literature.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\eMarketing.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\Hyper(hwp2014).hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\interview.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\NewYear_s_Day.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\request.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\shortcut.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\sungeo.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\Textmail.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\treatise sample.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\Trifold_Brochure.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\SQSJKEBWDT\\EEGWXUHVUG.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\SQSJKEBWDT\\EFOYFBOLXA.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\SQSJKEBWDT\\GRXZDKKVDB.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\SQSJKEBWDT\\NVWZAPQSQL.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\SQSJKEBWDT\\SQSJKEBWDT.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\SQSJKEBWDT.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZGGKNSUKOP.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZGGKNSUKOP.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\EEGWXUHVUG.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\EFOYFBOLXA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\EFOYFBOLXA.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\EIVQSAOTAQ.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\EOWRVPQCCS.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\GIGIYTFFYT.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\GRXZDKKVDB.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\GRXZDKKVDB.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\JDDHMPCDUJ.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\NVWZAPQSQL.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\NVWZAPQSQL.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\PALRGUCVEH.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\PALRGUCVEH.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\SQSJKEBWDT.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\ZGGKNSUKOP.pdf"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\config.ini"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\data\\ArkLicense.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\data\\EULA.rtf"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\data\\local.html"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\icons\\default\\_desc.ini"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\VersionNo.ini"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\classfile_constants.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\jawt.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\jdwpTransport.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\jni.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\jvmti.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\jvmticmlr.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\win32\\bridge\\AccessBridgeCallbacks.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\win32\\bridge\\AccessBridgeCalls.c"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\win32\\bridge\\AccessBridgeCalls.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\win32\\bridge\\AccessBridgePackages.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\win32\\jawt_md.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\include\\win32\\jni_md.h"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\javafx-src.zip"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jmc.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\bin\\server\\Xusage.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\charsets.jar"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\deploy\\ffjcext.zip"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\deploy\\splash.gif"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\deploy\\splash@2x.gif"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\deploy\\splash_11-lic.gif"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\deploy\\splash_11@2x-lic.gif"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\deploy.jar"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\ext\\access-bridge-64.jar"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\ext\\cldrdata.jar"
+			}
+		],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Ransomware,Spreading",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose_fwrite_fclose__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite__wfopen_fwrite",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1497,T1055,T1027,T1027.002",
+		"ATT&CK(Credential Access)": "T1003",
+		"ATT&CK(Discovery)": "T1497,T1057,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "T1080",
+		"ATT&CK(Collection)": "T1185,T1005",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

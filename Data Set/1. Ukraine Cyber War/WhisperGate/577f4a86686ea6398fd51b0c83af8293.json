@@ -1,0 +1,84 @@
+{
+	"md5": "577f4a86686ea6398fd51b0c83af8293",
+	"data": {
+		"MD5": "577f4a86686ea6398fd51b0c83af8293",
+		"SHA1": "cca680427e345bbed3b25ba8fc064947adc3fb49",
+		"SHA256": "ba597799b3f5e1e11fc8e91729b133b5576f0fe0cdd9cbaf210d7306ea44b99a",
+		"EntryPoint": "401300",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 12288,
+		"Original FileName": "",
+		"Entropy": 7.607,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, DEBUG_STRIPPED, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2022-01-10 19:37:18(2022-01-10 10:37:18 UTC)",
+		"Import Hash": "09d0478591d4f788cb3e5ea416c25237",
+		"Section Info": [
+			".text:0x1000:0xc000:0x200:0x2400:7.80723422345",
+			".rsrc:0xd000:0x1000:0x2600:0xa00:7.19560341099"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "\\Device\\Harddisk0\\DR0"
+			}
+		],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_RtlUserThreadStart_RtlUserThreadStart_VirtualAlloc_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_VirtualAlloc_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_SetUnhandledExceptionFilter_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_setlocale_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindClose_atexit_CreateFileW_WriteFile_LdrInitializeThunk_LdrInitializeThunk_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1542.003",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1542.003,T1497,T1027.002,T1055,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1057,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "",
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			}
+		],
+		"Packer": "PECompact(3.02.2 or 3.03.21 beta)",
+		"compiler": "MinGW(-)",
+		"linker": "GNU linker ld (GNU Binutils)(2.28)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "192:JaCw8GoWPMV+kCKk3PnAL1rww58oWGLvYi3xW1S/54254RZeIgDOv7zYStrs2P0p:JaC9GoMM2/AL1rwkSZiIg4RZeIgkzYSu",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_577f4a86686ea6398fd51b0c83af8293.jpg",
+		"bytecode": "binary_577f4a86686ea6398fd51b0c83af8293.byte",
+		"opcode": "push,mov,push,adc,inc,sbb,lea,jl,inc,cmp,inc,push,xor,add,inc,sti,mov,mov,xchg,mov,mov,pop,mov,sub,jz,push,dec,mov,jnb,inc,cmp,sub,push,cmp,mov,sub,adc,xchg,add,add,sar,inc,cmp,nop,popa,mov,std,sbb,add,adc,cli,clc,mov,jmp,mov,push,push,mov,xor,mov,push,inc,inc,jo,xchg,inc,xchg,jnz,sbb,add,cli,sal,sub,cwde,xor,sbb,jle,dec,shr,mov,mov,rol,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "3dfdc99074b5405d2eba3d870d89869f"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "4920b29b9a550e739f0dc7a3034d42f9"
+			}
+		],
+		"Yara Rule": []
+	}
+}

@@ -1,0 +1,443 @@
+{
+	"md5": "cc0c53b057a55c6581fe0ec3b305c46c",
+	"data": {
+		"String": [
+			{
+				"type": "Unicode C-Style",
+				"string": "DxownxloxadDxatxxax"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "https://cdn.discordapp.com/attachments/928503440139771947/930108637681184768/Tbopbh.jpg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "powershell"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "-enc UwB0AGEAcgB0AC"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "0AUwBsAGUAZQBwACAALQBzACAAMQAwAA=="
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "WindowsFormsApp12.Properties.Resources"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Ylfwdwgmpilzyaph"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(6.0)[EXE32,signed]",
+		"PDB path": "",
+		"full Fuzzyhash": "3072:vf1GlJZUnjNbGgNQfYySIHiP1WLz4PcSOvG2jxZ:FbGoJ8iP19PjmGyf",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_cc0c53b057a55c6581fe0ec3b305c46c.jpg",
+		"bytecode": "binary_cc0c53b057a55c6581fe0ec3b305c46c.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "bbc53d6782878aae81136b2aedcaf97d"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "7ec99a4a6c5c663e777a12b8c85e78e2"
+			},
+			{
+				"section": ".reloc",
+				"md5": "2643610b4b04c94ccedfaf95c8e92186"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "cc0c53b057a55c6581fe0ec3b305c46c",
+		"SHA1": "83c7940a32e07cdf6e2b6d4e866715e049ea6db9",
+		"SHA256": "1d776e7fb062e153d3a62e1ebe1f2eec30ea13fa4b1b8749935f1856be4182d9",
+		"EntryPoint": "40614e",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 214944,
+		"Original FileName": "Tbopbh.exe",
+		"Entropy": 5.133,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED",
+		"Timestamp": "2022-01-10 23:39:54(2022-01-10 14:39:54 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0x4154:0x200:0x4200:5.88319093634",
+			".rsrc:0x8000:0x24118:0x4400:0x24200:3.54772483226",
+			".reloc:0x2e000:0xc:0x28600:0x200:0.0815394123432"
+		],
+		"Resource": [
+			"RT_ICON:0x8250:0x1d4f:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced::",
+			"RT_ICON:0x9fa0:0x10828:dBase IV DBT, blocks size 0, block length 2048, next free block index 40, next free block 0, next used block 0::",
+			"RT_ICON:0x1a7c8:0x94a8:data::",
+			"RT_ICON:0x23c70:0x4228:dBase IV DBT of \\200.DBF, blocks size 0, block length 16896, next free block index 40, next free block 4043309055, next used block 4294967047::",
+			"RT_ICON:0x27e98:0x25a8:data::",
+			"RT_ICON:0x2a440:0x10a8:data::",
+			"RT_ICON:0x2b4e8:0x468:GLS_BINARY_LSB_FIRST::",
+			"RT_GROUP_ICON:0x2b950:0x68:data::",
+			"RT_VERSION:0x2b9b8:0x3f4:data::",
+			"RT_MANIFEST:0x2bdac:0x36a:XML 1.0 document, UTF-8 Unicode (with BOM) text, with very long lines, with no line terminators::"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASAPI32"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASMANCS"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASAPI32",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASAPI32",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASAPI32",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASAPI32",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASAPI32",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASAPI32",
+				"name": "FileDirectory"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASMANCS",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASMANCS",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASMANCS",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASMANCS",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASMANCS",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\uqYxwy29o8_RASMANCS",
+				"name": "FileDirectory"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe' -enc UwB0AGEAcgB0AC0AUwBsAGUAZQBwACAALQBzACAAMQAwAA=="
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\GE01MMAIS9H2ZWY9QI0T.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\FARNKA1VH7S7KFKZQ89J.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\d93f411851d7c929.customDestinations-ms~RF543139.TMP"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\d93f411851d7c929.customDestinations-ms~RF543139.TMP"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\GE01MMAIS9H2ZWY9QI0T.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\FARNKA1VH7S7KFKZQ89J.temp"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\hryNAVIT"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\uqYxwy29o8.exe"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shdocvw.dll"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows PowerShell\\desktop.ini"
+			},
+			{
+				"path": "\\pipe\\srvsvc"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\getevent.types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Diagnostics.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\WSMan.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Certificate.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\DotNetTypes.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\FileSystem.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Help.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\PowerShellCore.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\PowerShellTrace.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Registry.format.ps1xml"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\d93f411851d7c929.customDestinations-ms"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "https://docs.oracle.com/javase/8/docss",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://cdn.discordapp.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docs:",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docs86",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docssR",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docs86g",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docshttps://docs.oracle.com/javase/8/docs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://cdn.discordapp.com/attachments/928503440139771947/930108637681184768/Tbopbh.jpg",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "Microsoft Corporation",
+		"Digitally signed S/N": "33000002ED2C45E4C145CF48440000000002ED",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_GetNetworkParams_WSASocketW_WSASocketW_WSASocketW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_KiUserExceptionDispatcher_KiUserExceptionDispatcher_KiUserExceptionDispatcher_setsockopt_setsockopt_VirtualProtect_SetErrorMode_SetErrorMode_LoadLibraryExW_SetErrorMode_SetErrorMode_VirtualProtect_unknown_unknown_unknown_VirtualProtect_unknown_unknown_unknown_unknown_VirtualProtect_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_RtlAllocateHeap_RtlAllocateHeap_KiUserExceptionDispatcher_KiUserExceptionDispatcher_RtlAllocateHeap_VirtualAlloc_RegOpenKeyExW_RegOpenKeyExW_RegQueryValueExW_RegQueryValueExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegQueryValueExW_RegQueryValueExW_RegOpenKeyExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_SetErrorMode_SetErrorMode_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_SetErrorMode_SetErrorMode_RegOpenKeyExW_RegOpenKeyExW_RegQueryValueExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegQueryValueExW_RegOpenKeyExW_SetErrorMode_SetErrorMode_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_SetErrorMode_SetErrorMode_GetFileAttributesW_unknown_unknown_unknown_unknown_unknown_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_LdrInitializeThunk",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1059.001",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1134,T1055",
+		"ATT&CK(Defense Evasion)": "T1036,T1562.001,T1497,T1134,T1055,T1140,T1027,T1027.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

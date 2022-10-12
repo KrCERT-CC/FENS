@@ -1,0 +1,181 @@
+{
+	"md5": "08605106bb0573076711e3f857a1e444",
+	"data": {
+		"MD5": "08605106bb0573076711e3f857a1e444",
+		"SHA1": "d61132385dc11362fc56d1a17e5f3301eaa4d0ec",
+		"SHA256": "a2f962b4ac7caf423766f21010846256bf979dff972073e5acde3bd1362b7f40",
+		"EntryPoint": "4dcd9e",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 899072,
+		"Original FileName": "ConsoleApp1.exe",
+		"Entropy": 6.16,
+		"Subsystem": "windows cui",
+		"Image File Characteristics": "EXECUTABLE_IMAGE, LARGE_ADDRESS_AWARE",
+		"Timestamp": "2074-11-27 01:49:12(2074-11-26 16:49:12 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0xdada4:0x200:0xdae00:6.16478150057",
+			".rsrc:0xde000:0x5bc:0xdb000:0x600:4.11222177995",
+			".reloc:0xe0000:0xc:0xdb600:0x200:0.101910425663"
+		],
+		"Resource": [
+			"RT_VERSION:0xde090:0x32c:data::",
+			"RT_MANIFEST:0xde3cc:0x1ea:XML 1.0 document, UTF-8 Unicode (with BOM) text, with CRLF line terminators::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Users\\Public\\Documents\\002.exe' "
+			},
+			{
+				"cmdline": "'C:\\Windows\\notepad.exe' -enc UwB0AGEAcgB0AC0AUwBsAGUAZQBwACAALQBzACAAMQAwAA=="
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\pa8m4gGp7m.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\Public\\Documents\\002.exe"
+			},
+			{
+				"path": "C:\\Users\\Public\\Documents\\Frkmlkdkdubkznbkmcf.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\-enc UwB0AGEAcgB0AC0AUwBsAGUAZQBwACAALQBzACAAMQAwAA==.txt"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\Public\\Documents\\002.exe"
+			},
+			{
+				"path": "C:\\Users\\Public\\Documents\\Frkmlkdkdubkznbkmcf.dll"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\fe2524177eb3088c77be666722039f52\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\e43dd9c73ab5615e461bf5109c3facd6\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Documents\\002.exe"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_unknown_ShellExecuteExW_ShellExecuteExW_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_LdrInitializeThunk_LdrInitializeThunk_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_VirtualProtect_CoUninitialize_unknown_unknown_UnmapViewOfFile_unknown_SleepEx_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_UnmapViewOfFile_UnmapViewOfFile_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1036,T1562.001,T1497,T1055,T1140,T1027,T1027.002,T1070.006",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1057,T1497,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560,T1005",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "",
+		"String": [
+			{
+				"string": "This program was coded for malware analysing purposes.",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ConsoleApp1.Resources.002.exe",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ConsoleApp1.Resources.Frkmlkdkdubkznbkmcf.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "C:\\Users\\Public\\Documents\\002.exe",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "C:\\Users\\Public\\Documents\\Frkmlkdkdubkznbkmcf.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ConsoleApp1.Properties.Resources",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Frkmlkdkdubkznbkmcf",
+				"type": "Unicode C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(48.0)[EXE32,console]",
+		"PDB path": "C:\\Users\\vx\\Desktop\\Nowy folder\\ConsoleApp1\\obj\\Release\\ConsoleApp1.pdb",
+		"full Fuzzyhash": "12288:qrxgDyGljt5zF9xS2j8Km4kYMD/ErxgDyGljt5zF9xS2j8Km4kYMt/:5n1U2viTjn1U2vid",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_08605106bb0573076711e3f857a1e444.jpg",
+		"bytecode": "binary_08605106bb0573076711e3f857a1e444.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "a28548398aa0dd946988393ab41d4e86"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "8ba53cd43be9b07d8af87041ca85fc0f"
+			},
+			{
+				"section": ".reloc",
+				"md5": "4512fa4da77003e801c4b34f920c8922"
+			}
+		],
+		"Yara Rule": []
+	}
+}

@@ -1,0 +1,160 @@
+{
+	"md5": "7dfea9d64055251e7dd646ebe4cc7841",
+	"data": {
+		"String": [
+			{
+				"string": "DxownxloxadDxatxxax",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "file://C:\\Users\\Public\\Documents\\Frkmlkdkdubkznbkmcf.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "C:\\Windows\\notepad.exe",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "-enc UwB0AGEAcgB0AC",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "0AUwBsAGUAZQBwACAALQBzACAAMQAwAA==",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "WindowsFormsApp12.Properties.Resources",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Ylfwdwgmpilzyaph",
+				"type": "Unicode C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(6.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "1536:cjD1GlJNPUHCH9bTmzDMyqZISGH/aP1WLz:cv1GlJZUHCH9bTmzYySIHiP1WLz",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_7dfea9d64055251e7dd646ebe4cc7841.jpg",
+		"bytecode": "binary_7dfea9d64055251e7dd646ebe4cc7841.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "724e4153d6fc0a0050cf265ecff4dcb8"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "19a6d8e2f05ac6c2156828eb57ecba1d"
+			},
+			{
+				"section": ".reloc",
+				"md5": "6fafc9dff9741175d60dbfbd7b16d3e1"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "7dfea9d64055251e7dd646ebe4cc7841",
+		"SHA1": "d0398973b649430345d9e0935f13f5ff25ea7bfa",
+		"SHA256": "f1d7ef93ae7865ada6928a84b271f19a5e1590d2e70c6afb4b467e16687c2119",
+		"EntryPoint": "4060be",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 165888,
+		"Original FileName": "Tbopbh.exe",
+		"Entropy": 3.931,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED",
+		"Timestamp": "2022-01-10 23:39:54(2022-01-10 14:39:54 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0x40c4:0x200:0x4200:5.85359521052",
+			".rsrc:0x8000:0x24116:0x4400:0x24200:3.54772483226",
+			".reloc:0x2e000:0xc:0x28600:0x200:0.0815394123432"
+		],
+		"Resource": [
+			"RT_ICON:0x8250:0x1d4f:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced::",
+			"RT_ICON:0x9fa0:0x10828:dBase IV DBT, blocks size 0, block length 2048, next free block index 40, next free block 0, next used block 0::",
+			"RT_ICON:0x1a7c8:0x94a8:data::",
+			"RT_ICON:0x23c70:0x4228:dBase IV DBT of \\200.DBF, blocks size 0, block length 16896, next free block index 40, next free block 4043309055, next used block 4294967047::",
+			"RT_ICON:0x27e98:0x25a8:data::",
+			"RT_ICON:0x2a440:0x10a8:data::",
+			"RT_ICON:0x2b4e8:0x468:GLS_BINARY_LSB_FIRST::",
+			"RT_GROUP_ICON:0x2b950:0x68:data::",
+			"RT_VERSION:0x2b9b8:0x3f4:data::",
+			"RT_MANIFEST:0x2bdac:0x36a:XML 1.0 document, UTF-8 Unicode (with BOM) text, with very long lines, with no line terminators::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Windows\\notepad.exe' -enc UwB0AGEAcgB0AC0AUwBsAGUAZQBwACAALQBzACAAMQAwAA=="
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\-enc UwB0AGEAcgB0AC0AUwBsAGUAZQBwACAALQBzACAAMQAwAA==.txt"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\ljYvPPeJ"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_VirtualProtect_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1036,T1497,T1562.001,T1027.002,T1055",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1497,T1057,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

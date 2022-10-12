@@ -1,0 +1,222 @@
+{
+	"md5": "e61518ae9454a563b8f842286bbdb87b",
+	"data": {
+		"MD5": "e61518ae9454a563b8f842286bbdb87b",
+		"SHA1": "82d29b52e35e7938e7ee610c04ea9daaf5e08e90",
+		"SHA256": "9ef7dbd3da51332a78eff19146d21c82957821e464e8133e9594a07d716d892d",
+		"EntryPoint": "445da6",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 280064,
+		"Original FileName": "Frkmlkdkdubkznbkmcf.dll",
+		"Entropy": 6.916,
+		"Subsystem": "windows cui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, EXECUTABLE_IMAGE, DLL, LARGE_ADDRESS_AWARE, LINE_NUMS_STRIPPED",
+		"Timestamp": "2022-01-10 23:39:31(2022-01-10 14:39:31 UTC)",
+		"Import Hash": "dae02f32a21e03ce65412f6e56942daa",
+		"Section Info": [
+			".text:0x2000:0x43dac:0x200:0x43e00:6.9383493763",
+			".rsrc:0x46000:0x35c:0x44000:0x400:2.69926905034",
+			".reloc:0x48000:0xc:0x44400:0x200:0.101910425663"
+		],
+		"Resource": [
+			"RT_VERSION:0x46058:0x304:data::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "cmd.exe /C rundll32.exe 'C:\\Users\\user\\Desktop\\DdcuFOCVJX.dll',#1"
+			},
+			{
+				"cmdline": "rundll32.exe  'C:\\Users\\user\\Desktop\\DdcuFOCVJX.dll',#1"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Windows\\System32\\loaddll32.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Dynamic Link Library (generic) Net Framework (1011504/3)",
+		"API Sequence": "CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_FreeLibrary_FreeLibrary_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_unknown_unknown_unknown_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_Sleep_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_FreeLibrary_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1218.011,T1497,T1027.002,T1055,T1140,T1574.002,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1497,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "",
+		"String": [
+			{
+				"string": "#6k>l\"&f4#",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@=\"*FVE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6kA-!sAW)",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k>S!snu.",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k>f!tYJ5",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6kA2!tG>3",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@%!t>82",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k>a\"+(%K",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@N\"\"\"$K",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@m!tbP6",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k?T\"+L=O",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "7c8cb5598e724d34384cce7402b11f0e",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@^\"#'`U",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k?*\"\"jTS",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k>n!u_1?",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@t\"+gOR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k?+\"+UCP",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@E\"#U)Z",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k>A\"%iRo",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k>5\"(VE4",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@b\"*O\\F",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6kA/\"*XbG",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@(\"*=PD",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k?#\"*FVE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k?)\"'5L'",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@H!uq=A",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@J\"&T(!",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "#6k@D\",6gV",
+				"type": "Unicode C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(6.0)[DLL32,console]",
+		"PDB path": "",
+		"full Fuzzyhash": "6144:i9JxgDyGljt5zFSb4rKWFV1y3QXJgGsHYjohn/wkKLwZl8UYrOqvM:irxgDyGljt5zF9xS2j8Km4kYM",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_e61518ae9454a563b8f842286bbdb87b.jpg",
+		"bytecode": "binary_e61518ae9454a563b8f842286bbdb87b.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "2dcd9a374665866884ac7b57671e6206"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "ca397d8d26de21958b220f9136ef155f"
+			},
+			{
+				"section": ".reloc",
+				"md5": "6351aaef2886a323e7b1ca3326da6cbe"
+			}
+		],
+		"Yara Rule": []
+	}
+}

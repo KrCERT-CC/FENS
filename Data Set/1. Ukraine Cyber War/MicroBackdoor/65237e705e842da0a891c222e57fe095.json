@@ -1,0 +1,1625 @@
+{
+	"md5": "65237e705e842da0a891c222e57fe095",
+	"data": {
+		"String": [
+			{
+				"string": ".idata",
+				"type": "C-Style"
+			},
+			{
+				"string": "<unnamed>",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "<unknown>",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "1.2.840.113549.1.1.1",
+				"type": "C-Style"
+			},
+			{
+				"string": "uninst",
+				"type": "C-Style"
+			},
+			{
+				"string": "shell",
+				"type": "C-Style"
+			},
+			{
+				"string": "flist",
+				"type": "C-Style"
+			},
+			{
+				"string": "screenshot",
+				"type": "C-Style"
+			},
+			{
+				"string": "HPxKUpQcMeeHVqaqrPjo",
+				"type": "C-Style"
+			},
+			{
+				"string": "xDxtlzOCjezNr",
+				"type": "C-Style"
+			},
+			{
+				"string": "btTQcqKivFgyenJnYFpqd",
+				"type": "C-Style"
+			},
+			{
+				"string": "pPfxunuNiIHjhrcyppYOenysNvoKfVWky",
+				"type": "C-Style"
+			},
+			{
+				"string": "mAjJolZwtHuYtNsbzITs",
+				"type": "C-Style"
+			},
+			{
+				"string": "OZteGpproSPSrukSBshqZ",
+				"type": "C-Style"
+			},
+			{
+				"string": "bkynKeEazvipJM",
+				"type": "C-Style"
+			},
+			{
+				"string": "skUPqTrDyFLQaGeiJunBrRlAUcW",
+				"type": "C-Style"
+			},
+			{
+				"string": "cCPiQSggnCZSXAM",
+				"type": "C-Style"
+			},
+			{
+				"string": "aPDNMokIEBfOLunp",
+				"type": "C-Style"
+			},
+			{
+				"string": "pamkxuPMpFqOBIeLhaMXAcEU",
+				"type": "C-Style"
+			},
+			{
+				"string": "fwVlLjZpfCjJgjIM",
+				"type": "C-Style"
+			},
+			{
+				"string": "MmUQxJQhlZCwY",
+				"type": "C-Style"
+			},
+			{
+				"string": "fsGPIgIkEPyrqfJUyfpyKumVjzhY",
+				"type": "C-Style"
+			},
+			{
+				"string": "xADJMhlcMSb",
+				"type": "C-Style"
+			},
+			{
+				"string": "TrOflJmzvbfGMeQXhhBE",
+				"type": "C-Style"
+			},
+			{
+				"string": "KSBNIAYdp",
+				"type": "C-Style"
+			},
+			{
+				"string": "OyhNrxhmASDCobTfQmLtqqMSG",
+				"type": "C-Style"
+			},
+			{
+				"string": "smdqMasAo",
+				"type": "C-Style"
+			},
+			{
+				"string": "rXbYCGYNKsNzTenHcYVaNgwiCQ",
+				"type": "C-Style"
+			},
+			{
+				"string": "NroQBgcAtE",
+				"type": "C-Style"
+			},
+			{
+				"string": "uLqLbJOCAwDKLjqirBwXkABUVKHTuW",
+				"type": "C-Style"
+			},
+			{
+				"string": "msvcrt.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "sprintf",
+				"type": "C-Style"
+			},
+			{
+				"string": "vsprintf",
+				"type": "C-Style"
+			},
+			{
+				"string": "_vscprintf",
+				"type": "C-Style"
+			},
+			{
+				"string": "R: Unknown command\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "%s|%s|%d",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "|%s|%d|%d\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "-C56E-472C-8A29-E9F27FD8C985",
+				"type": "C-Style"
+			},
+			{
+				"string": " 65001 > NUL & ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "d.exe /C \"%s%s\"",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "eout occured\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "%.8x}}}\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "D %s\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "D %s\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "0x%I64x %s\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "IsWow64Process",
+				"type": "C-Style"
+			},
+			{
+				"string": "el32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SOFTWARE\\Microsoft\\Cryptography",
+				"type": "C-Style"
+			},
+			{
+				"string": "socks",
+				"type": "C-Style"
+			},
+			{
+				"string": "%s\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+				"type": "C-Style"
+			},
+			{
+				"string": "ProxyServer",
+				"type": "C-Style"
+			},
+			{
+				"string": "CONNECT %s:%d HTTP/1.0\r\n\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "StrStrA",
+				"type": "C-Style"
+			},
+			{
+				"string": "StrToIntExA",
+				"type": "C-Style"
+			},
+			{
+				"string": "StrCmpNA",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHLWAPI.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "CertFreeCertificateContext",
+				"type": "C-Style"
+			},
+			{
+				"string": "CryptHashCertificate",
+				"type": "C-Style"
+			},
+			{
+				"string": "CryptImportPublicKeyInfo",
+				"type": "C-Style"
+			},
+			{
+				"string": "CertNameToStrW",
+				"type": "C-Style"
+			},
+			{
+				"string": "CertGetNameStringW",
+				"type": "C-Style"
+			},
+			{
+				"string": "CryptQueryObject",
+				"type": "C-Style"
+			},
+			{
+				"string": "CRYPT32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "WS2_32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "LocalAlloc",
+				"type": "C-Style"
+			},
+			{
+				"string": "LocalFree",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetLastError",
+				"type": "C-Style"
+			},
+			{
+				"string": "lstrcmpA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetCurrentProcess",
+				"type": "C-Style"
+			},
+			{
+				"string": "CloseHandle",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetVersionExA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetProcAddress",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetProcessHeap",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetCurrentProcessId",
+				"type": "C-Style"
+			},
+			{
+				"string": "ExitProcess",
+				"type": "C-Style"
+			},
+			{
+				"string": "TerminateProcess",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetExitCodeProcess",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetUnhandledExceptionFilter",
+				"type": "C-Style"
+			},
+			{
+				"string": "SwitchToThread",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateThread",
+				"type": "C-Style"
+			},
+			{
+				"string": "WaitForSingleObject",
+				"type": "C-Style"
+			},
+			{
+				"string": "Sleep",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetFileSize",
+				"type": "C-Style"
+			},
+			{
+				"string": "WriteFile",
+				"type": "C-Style"
+			},
+			{
+				"string": "ReadFile",
+				"type": "C-Style"
+			},
+			{
+				"string": "FindClose",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetTickCount",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreatePipe",
+				"type": "C-Style"
+			},
+			{
+				"string": "PeekNamedPipe",
+				"type": "C-Style"
+			},
+			{
+				"string": "lstrlenA",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateMutexA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetLogicalDriveStringsA",
+				"type": "C-Style"
+			},
+			{
+				"string": "LoadLibraryA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetModuleFileNameA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetModuleFileNameW",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetModuleHandleA",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateProcessA",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateProcessW",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetStartupInfoA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetStartupInfoW",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetCommandLineA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetDriveTypeA",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateFileW",
+				"type": "C-Style"
+			},
+			{
+				"string": "FindFirstFileW",
+				"type": "C-Style"
+			},
+			{
+				"string": "FindNextFileW",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetComputerNameW",
+				"type": "C-Style"
+			},
+			{
+				"string": "MultiByteToWideChar",
+				"type": "C-Style"
+			},
+			{
+				"string": "WideCharToMultiByte",
+				"type": "C-Style"
+			},
+			{
+				"string": "AllocConsole",
+				"type": "C-Style"
+			},
+			{
+				"string": "FreeConsole",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetConsoleCP",
+				"type": "C-Style"
+			},
+			{
+				"string": "InitializeCriticalSection",
+				"type": "C-Style"
+			},
+			{
+				"string": "EnterCriticalSection",
+				"type": "C-Style"
+			},
+			{
+				"string": "LeaveCriticalSection",
+				"type": "C-Style"
+			},
+			{
+				"string": "DeleteCriticalSection",
+				"type": "C-Style"
+			},
+			{
+				"string": "lstrcpynA",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32",
+				"type": "C-Style"
+			},
+			{
+				"string": "enProcessToken",
+				"type": "C-Style"
+			},
+			{
+				"string": "tTokenInformation",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateWellKnownSid",
+				"type": "C-Style"
+			},
+			{
+				"string": "tSidSubAuthority",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetSidSubAuthorityCount",
+				"type": "C-Style"
+			},
+			{
+				"string": "CheckTokenMembership",
+				"type": "C-Style"
+			},
+			{
+				"string": "xbeta.online",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]",
+		"PDB path": "",
+		"full Fuzzyhash": "384:lfnpZ5JOW4aQEtVhaBVQTFlSZY66skVytnI2Y1gXT99Nd5FJcdgzcNAnYmSs:rjtLaBOSW9Ek69935FJwNAVSs",
+		"section Fuzzyhash(.data)": "6:QiUl2geKDv/eey/EDVrXah1llA5ZqQDVhJ:QHAgNvyOk/6DVv",
+		"rich header": "44616e5300000000000000000000000009789300130000000000010074000000f25905010a000000f259000101000000f259020101000000",
+		"PE Image": "binary_65237e705e842da0a891c222e57fe095.jpg",
+		"bytecode": "binary_65237e705e842da0a891c222e57fe095.byte",
+		"opcode": "push,mov,sub,push,push,xor,mov,lea,xor,push,push,mov,push,call,add,lea,push,lea,push,mov,push,push,push,push,push,call,jz,push,push,push,call,add,add,inc,cmp,jb,xor,inc,jmp,call,xor,pop,pop,mov,pop,push,mov,sub,push,push,push,mov,xor,jz,mov,mov,mov,mov,mov,lea,push,push,push,push,push,push,push,push,push,lea,mov,push,push,pop,push,call,jz,cmp,jz,mov,mov,mov,add,jnz,mov,mov,add,jnz,mov,mov,add,jnz,mov,lea,push,push,lea,push,push,push,push,call,push,lea,push,mov,push,mov,mov,add,push,push,call,push,lea,push,mov,push,mov,add,push,push,call,lea,push,push,call,pop,pop,jz,jz,mov,mov,jmp,push,call,xor,inc,jmp,push,call,jmp,call,xor,pop,pop,pop,mov,pop,push,mov,push,call,push,push,call,pop,push,mov,push,push,push,lea,xor,push,lea,mov,push,mov,call,pop,pop,jz,push,push,push,call,add,jz,push,push,call,pop,pop,mov,push,push,call,pop,pop,mov,pop,mov,pop,push,mov,push,push,mov,xor,push,mov,lea,push,push,push,push,call,pop,mov,pop,push,mov,push,push,mov,xor,push,push,push,push,push,push,call,mov,jz,push,push,push,push,push,call,jz,xor,inc,jmp,call,push,push,call,jmp,call,mov,xor,mov,pop,pop,pop,pop,push,mov,push,push,push,push,call,pop,push,mov,push,push,push,push,mov,xor,push,push,mov,mov,mov,push,call,jz,xor,jmp,push,push,push,push,mov,lea,push,call,jnz,push,push,push,push,lea,push,call,jnz,call,jmp,lea,push,mov,add,push,push,push,call,jz,push,push,call,mov,mov,jz,push,push,push,call,add,lea,push,push,push,push,push,push,push,call,mov,jz,mov,xor,jz,lea,add,mov,mov,mov,inc,dec,cmp,jb,mov,jmp,call,push,call,jmp,call,push,call,jmp,call,push,push,call,mov,pop,pop,pop,mov,pop,push,mov,push,push,push,mov,push,mov,push,call,jz,xor,jmp,push,push,mov,lea,push,push,xor,push,push,push,mov,call,jnz,push,push,push,push,lea,push,call,jnz,call,jmp,lea,mov,push,mov,add,push,push,push,call,jz,mov,lea,push,push,push,push,push,push,mov,call,jz,push,push,call,mov,jz,lea,push,push,push,push,push,push,call,jz,cmp,jnz,cmp,jnz,cmp,jnz,mov,shr,jmp,call,push,call,jmp,call,push,call,jmp,call,push,push,call,xor,pop,pop,pop,mov,pop,push,mov,push,push,push,xor,push,push,push,push,mov,lea,push,call,mov,mov,jnz,call,cmp,jnz,push,push,push,push,lea,push,call,mov,jnz,call,jmp,push,push,push,call,mov,jnz,call,push,push,call,pop,mov,pop,mov,pop,push,mov,sub,push,push,mov,lea,push,xor,push,push,call,add,mov,lea,push,call,jnz,call,xor,jmp,cmp,jnz,cmp,jbe,lea,mov,push,push,call,push,call,jz,lea,mov,push,push,lea,push,push,push,call,jnz,call,push,call,jmp,cmp,mov,jnz,lea,mov,push,push,lea,push,push,push,call,jz,lea,mov,push,lea,push,push,push,call,jz,lea,mov,push,lea,push,push,call,jz,mov,jmp,call,push,call,jmp,call,mov,push,call,jmp,call,mov,jmp,call,pop,pop,mov,pop,push,mov,sub,push,push,mov,lea,push,xor,push,push,call,add,mov,lea,push,call,jnz,call,xor,jmp,cmp,jnz,cmp,jbe,lea,mov,push,push,call,push,call,jz,push,lea,mov,push,push,push,push,push,call,mov,jnz,call,cmp,jnz,push,push,call,mov,jz,lea,push,push,push,push,push,call,jz,push,call,dec,push,push,call,mov,jmp,call,push,call,jmp,call,push,call,pop,jmp,call,mov,pop,pop,mov,pop,push,mov,push,push,push,call,add,neg,sbb,inc,pop,push,mov,sub,push,push,push,pop,xor,mov,lea,xor,lea,inc,push,lea,push,call,mov,jnz,call,push,lea,mov,push,push,call,add,lea,push,lea,push,call,jnz,call,push,lea,push,push,call,add,lea,push,push,push,call,push,call,push,push,call,mov,jz,call,push,call,neg,sbb,neg,push,lea,push,call,push,lea,push,lea,push,push,push,call,push,push,call,add,xor,push,call,pop,mov,pop,mov,pop,push,mov,call,sub,push,push,push,call,add,neg,sbb,inc,pop,push,mov,sub,xor,push,mov,inc,push,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,push,mov,jz,mov,push,push,call,mov,mov,jnz,call,mov,cmp,mov,jz,push,call,cmp,jz,push,call,cmp,jz,push,call,cmp,jz,push,call,cmp,jz,push,call,cmp,jz,push,call,mov,jz,push,call,jz,push,call,jz,push,call,push,push,push,call,add,mov,push,pop,pop,pop,pop,mov,pop,push,mov,lea,push,lea,push,lea,push,call,jnz,call,mov,jmp,push,lea,push,lea,push,lea,push,call,jz,xor,lea,lea,push,call,mov,xor,mov,xor,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jz,cmp,jnz,cmp,jz,xor,inc,mov,push,push,push,neg,push,sbb,mov,push,push,call,mov,jnz,call,mov,jmp,lea,push,push,call,mov,mov,jz,lea,push,push,push,call,mov,add,push,push,push,push,push,push,call,lea,push,push,call,mov,mov,jz,cmp,mov,mov,mov,push,push,push,push,call,add,lea,push,lea,push,xor,push,push,push,push,push,push,push,push,call,jnz,call,mov,jmp,jnz,mov,call,call,jz,call,mov,call,call,xor,mov,push,lea,mov,push,push,push,push,push,mov,mov,call,mov,jmp,mov,jnz,lea,push,push,call,jz,cmp,jnz,call,sub,cmp,jnb,call,jmp,mov,lea,push,push,mov,cmp,push,push,push,call,jz,mov,jz,jz,xor,push,push,push,push,push,push,call,mov,jle,lea,push,push,mov,call,mov,jz,push,push,push,call,add,push,push,push,push,push,push,call,push,push,call,pop,pop,push,jz,call,jmp,call,jmp,push,push,push,call,add,jz,call,mov,mov,jmp,mov,xor,lea,push,push,push,push,push,push,mov,mov,call,jnz,call,lea,push,push,call,jz,cmp,jnz,push,push,call,jnz,call,jmp,push,push,call,pop,pop,jmp,call,xor,inc,mov,jmp,push,mov,sub,cmp,jnz,xor,inc,jmp,push,push,push,call,mov,xor,mov,jz,push,call,mov,push,xor,lea,lea,push,call,xor,mov,mov,lea,push,lea,push,push,push,push,push,push,push,push,push,call,pop,jz,push,push,call,mov,cmp,jnz,push,push,call,jmp,lea,push,push,call,jnz,call,push,call,push,call,cmp,jnz,mov,jmp,mov,call,push,push,push,call,mov,jz,call,cmp,mov,jz,mov,pop,pop,mov,pop,push,pop,xor,inc,push,mov,sub,push,mov,xor,push,push,mov,jnz,lea,mov,push,push,call,jz,cmp,jz,push,call,mov,jle,cmp,jnz,xor,mov,push,call,jz,push,push,push,call,add,jz,inc,add,cmp,jnz,xor,mov,jmp,xor,inc,jmp,call,jmp,push,push,push,push,push,push,call,mov,jz,lea,push,push,call,mov,mov,jz,lea,push,xor,push,push,call,add,xor,push,push,push,push,push,push,call,mov,cmp,jz,cmp,jnz,xor,mov,lea,xor,mov,lea,cmp,jnz,mov,mov,mov,mov,lea,push,push,call,mov,cmp,jz,mov,mov,lea,mov,cmp,jnz,jz,mov,cmp,jnz,add,add,jnz,xor,jmp,sbb,jz,mov,lea,mov,cmp,jnz,jz,mov,cmp,jnz,add,add,jnz,xor,jmp,sbb,jz,lea,push,lea,jz,push,push,call,add,jmp,push,push,push,push,call,add,lea,push,push,call,pop,pop,jz,lea,push,push,call,jnz,jmp,xor,inc,mov,xor,push,mov,call,jmp,call,push,call,push,push,push,call,add,mov,push,pop,pop,pop,pop,mov,pop,push,mov,sub,push,xor,push,mov,inc,jz,push,mov,mov,push,push,call,mov,jnz,call,jmp,xor,push,push,push,push,push,push,call,mov,jnz,call,jmp,lea,push,push,mov,call,mov,mov,jz,push,push,push,call,add,push,push,push,push,xor,push,push,call,push,push,push,push,push,push,push,call,mov,cmp,jnz,push,lea,push,push,call,add,jz,mov,jmp,lea,mov,push,push,call,mov,mov,mov,mov,lea,push,push,push,call,add,jz,cmp,jb,ja,cmp,jbe,mov,mov,mov,lea,sub,push,push,mov,cmp,push,push,push,call,jz,cmp,jz,push,push,push,call,add,jz,add,adc,cmp,jb,ja,cmp,jb,jmp,call,jmp,mov,mov,cmp,jnz,cmp,mov,jnz,xor,jmp,mov,push,call,push,call,push,call,pop,pop,mov,pop,mov,pop,push,mov,sub,push,xor,push,mov,inc,jz,push,mov,mov,push,push,call,mov,jnz,call,jmp,xor,push,push,push,push,push,push,call,mov,jnz,call,jmp,lea,push,push,mov,call,mov,mov,jz,push,push,push,call,add,push,push,push,push,push,push,call,xor,push,push,push,push,push,push,push,mov,call,mov,cmp,push,lea,push,push,jnz,call,add,jz,xor,jmp,mov,call,add,jz,push,lea,push,push,call,add,jz,cmp,jb,ja,cmp,jbe,mov,mov,mov,mov,sub,cmp,push,push,mov,push,call,add,jz,push,lea,push,push,push,push,call,jz,mov,cmp,jnz,add,adc,cmp,jb,ja,cmp,jb,jmp,call,jmp,mov,mov,cmp,jnz,cmp,mov,jnz,xor,jmp,mov,push,call,push,call,push,call,pop,pop,mov,pop,mov,pop,push,mov,sub,push,push,xor,push,mov,call,mov,push,call,push,mov,call,mov,lea,xor,push,pop,push,push,xor,lea,lea,push,call,add,lea,xor,push,pop,push,call,push,push,mov,call,mov,lea,push,push,push,call,mov,mov,push,mov,mov,call,lea,mov,mov,mov,push,pop,mov,xor,inc,mov,mov,lea,lea,mov,add,mov,sar,imul,push,pop,mov,mov,mov,shl,push,mov,add,lea,sar,imul,call,xor,mov,push,push,lea,push,push,lea,push,push,call,push,push,mov,call,push,push,push,push,push,push,xor,push,push,push,call,lea,push,push,call,mov,mov,push,pop,mov,lea,push,lea,add,lea,push,push,call,lea,push,push,push,lea,mov,call,add,jz,push,mov,push,push,call,add,jmp,mov,push,call,push,call,push,push,call,push,call,pop,pop,xor,pop,mov,pop,push,mov,sub,push,push,push,push,call,mov,mov,jz,call,cmp,jz,push,call,push,call,call,mov,push,call,jz,push,mov,push,call,jz,cmp,jz,push,push,call,pop,pop,push,mov,call,jnz,call,jmp,lea,push,push,call,jz,call,jmp,push,call,push,push,push,call,add,jz,call,mov,mov,push,call,pop,cmp,jz,push,push,call,mov,pop,pop,jz,call,push,mov,call,pop,mov,cmp,jz,cmp,jnz,jnz,push,call,jmp,push,call,push,call,jmp,jnz,push,call,call,mov,jz,push,call,pop,pop,pop,mov,pop,push,mov,push,push,push,push,call,xor,pop,push,mov,sub,cmp,jnb,xor,jmp,lea,push,push,call,pop,pop,jz,lea,mov,push,lea,push,call,jnz,call,jmp,push,push,lea,xor,push,lea,mov,push,mov,mov,call,pop,pop,jz,lea,push,call,push,lea,push,push,call,add,jz,mov,add,push,lea,push,push,call,add,jz,lea,push,push,call,mov,pop,pop,jz,push,mov,push,push,push,call,add,add,inc,cmp,jb,pop,push,push,call,pop,pop,mov,pop,pop,mov,pop,push,mov,sub,xor,push,push,push,push,push,xor,lea,call,push,call,mov,jz,lea,mov,push,call,push,call,cmp,mov,lea,push,push,push,push,push,call,jnz,mov,mov,lea,push,push,lea,mov,push,push,push,push,call,jnz,inc,cmp,jnz,cmp,push,call,pop,mov,pop,pop,mov,pop,push,mov,sub,push,push,push,pop,xor,mov,lea,xor,lea,mov,push,lea,push,mov,push,push,push,push,push,call,jnz,call,xor,jmp,lea,push,push,call,pop,pop,jz,push,push,call,mov,mov,pop,jz,push,push,call,mov,mov,jnz,call,xor,pop,pop,pop,mov,pop,push,push,push,call,push,pop,lea,mov,mov,mov,push,push,push,push,call,add,jz,push,push,push,call,add,mov,push,call,cmp,jz,lea,push,push,pop,lea,push,push,call,add,jz,push,lea,push,push,call,add,jz,lea,lea,mov,cmp,jnz,inc,cmp,jnz,push,lea,push,push,call,push,lea,push,push,call,xor,add,inc,mov,jmp,push,mov,sub,push,push,push,call,mov,jnz,inc,jmp,push,mov,push,xor,push,push,push,call,add,jnz,xor,mov,lea,mov,push,push,push,lea,mov,push,push,mov,call,cmp,jz,jle,lea,push,push,call,jz,push,mov,lea,sub,push,push,push,call,mov,cmp,jz,jz,cmp,jz,push,lea,push,push,call,add,add,cmp,jge,cmp,mov,jnz,mov,cmp,jnz,mov,mov,xor,push,call,jle,cmp,jz,push,inc,call,cmp,jl,jmp,jnz,push,push,call,pop,pop,jmp,push,push,call,pop,pop,cmp,jle,lea,add,mov,mov,xor,cmp,jz,mov,push,push,call,jz,inc,lea,cmp,jnz,mov,push,push,call,pop,pop,jnz,inc,jz,jmp,push,mov,push,call,pop,pop,jmp,call,xor,inc,pop,pop,pop,mov,pop,push,mov,sub,push,push,push,pop,push,mov,call,mov,push,mov,mov,call,push,push,call,pop,pop,cmp,jnz,push,push,push,call,mov,cmp,jz,push,lea,push,push,call,cmp,jz,push,call,pop,jz,mov,jmp,call,push,call,jmp,call,xor,pop,pop,mov,pop,push,mov,sub,push,xor,push,call,lea,push,call,mov,pop,pop,jnz,jmp,push,push,jz,lea,push,push,push,call,mov,add,cmp,jz,push,call,pop,jnz,push,call,inc,add,cmp,jb,pop,pop,pop,mov,pop,push,call,pop,mov,jmp,push,mov,push,mov,push,mov,push,xor,jle,push,mov,sub,push,lea,push,push,call,cmp,jz,jz,add,cmp,jl,cmp,jz,push,push,push,call,add,xor,inc,pop,pop,pop,pop,call,xor,jmp,push,mov,cmp,push,push,jz,cmp,jz,mov,jnz,push,call,mov,jnz,xor,jmp,mov,push,push,call,mov,jz,push,push,call,mov,jz,push,push,call,mov,jz,lea,push,push,call,pop,pop,inc,push,push,call,mov,jz,lea,push,push,push,call,push,push,call,add,mov,push,call,mov,pop,pop,pop,push,mov,push,call,push,push,push,call,add,pop,push,mov,push,mov,push,mov,push,xor,cmp,jz,push,push,push,call,add,jle,push,mov,sub,push,lea,push,push,call,cmp,jz,jz,add,cmp,jl,xor,inc,pop,pop,pop,pop,call,xor,jmp,push,mov,push,push,xor,push,push,push,push,push,push,push,push,call,mov,jle,push,push,push,call,mov,jz,push,push,push,push,push,push,push,push,popa,add,cmp,jnz,dec,push,push,push,call,add,mov,push,call,jmp,call,pop,pop,mov,pop,pop,push,mov,push,push,call,mov,jnz,push,call,cmp,mov,jmp,push,pop,cmp,mov,push,push,lea,push,call,mov,add,mov,pop,push,mov,mov,mov,mov,cmp,jnz,pop,push,call,int,push,mov,sub,push,jnz,push,push,mov,xor,push,push,call,push,call,push,push,call,pop,jnz,cmp,jnz,push,push,push,push,push,push,call,jz,push,call,jmp,push,push,push,push,call,xor,inc,pop,pop,push,mov,sub,push,mov,push,push,jnz,push,call,push,lea,mov,pop,mov,push,call,mov,sub,jz,sub,jz,sub,jz,sub,jnz,push,push,push,call,jmp,push,push,push,call,jmp,push,push,push,call,add,jmp,push,push,push,pop,push,call,mov,cmp,jz,mov,push,mov,call,mov,lea,push,push,push,mov,call,jnz,mov,jmp,call,push,call,jmp,call,pop,pop,pop,mov,pop,push,mov,sub,lea,push,mov,push,push,xor,push,push,mov,call,jnz,push,push,lea,mov,push,push,push,mov,call,mov,jmp,lea,push,lea,push,push,call,add,lea,push,lea,push,push,call,jnz,xor,lea,push,push,push,push,push,push,mov,call,jnz,cmp,jbe,push,push,call,mov,jz,lea,push,push,push,push,push,push,call,jnz,push,push,call,pop,pop,push,call,jmp,call,mov,push,call,push,lea,inc,push,push,push,mov,call,jz,push,call,pop,xor,pop,inc,pop,mov,pop,push,mov,push,mov,cmp,jb,xor,jmp,push,xor,push,cmp,jbe,mov,lea,cmp,jnz,mov,cmp,jnz,push,lea,push,call,jz,mov,inc,add,cmp,jb,imul,lea,push,push,add,push,call,mov,mov,mov,mov,inc,mov,cmp,jnz,cmp,jnb,imul,lea,push,push,add,push,call,mov,mov,inc,xor,inc,pop,pop,pop,pop,xor,jmp,push,mov,sub,push,push,push,push,xor,xor,mov,call,pop,pop,jle,push,mov,lea,push,push,push,push,call,add,jz,push,push,call,pop,pop,cmp,jnz,xor,lea,push,push,push,push,mov,mov,call,add,jz,lea,push,push,push,push,call,add,jz,push,push,call,jnz,xor,inc,jmp,push,push,call,jnz,push,pop,push,push,call,pop,pop,cmp,jnz,xor,lea,push,push,push,push,mov,mov,call,add,jz,lea,push,push,push,push,call,add,jz,lea,push,push,push,call,jz,push,push,push,push,call,add,jz,inc,jmp,call,cmp,jz,push,call,cmp,jz,push,call,mov,cmp,jz,push,call,cmp,jz,push,call,push,call,push,push,inc,mov,call,pop,pop,cmp,jl,pop,mov,pop,pop,mov,pop,push,call,push,mov,push,push,mov,jz,mov,jz,cmp,jz,jbe,cmp,jbe,xor,jmp,push,mov,push,call,push,pop,mov,push,call,pop,jmp,mov,push,call,push,call,xor,inc,pop,pop,pop,push,call,push,mov,sub,push,push,mov,push,call,mov,pop,cmp,jnz,jmp,push,push,push,push,pop,push,call,mov,cmp,jnz,call,jmp,push,mov,call,push,pop,mov,lea,push,push,push,mov,call,jnz,push,push,call,push,lea,push,push,call,add,lea,push,push,call,push,lea,push,push,call,cmp,jz,xor,xor,xor,inc,mov,mov,mov,lea,push,lea,mov,push,push,lea,mov,push,push,call,cmp,jz,jle,lea,push,push,call,jnz,lea,push,push,call,jz,push,lea,push,push,call,add,lea,push,push,push,push,call,mov,cmp,jz,jz,add,mov,cmp,jge,inc,push,push,mov,call,mov,jz,push,push,push,call,add,jle,jz,push,push,push,call,add,push,call,push,mov,lea,push,lea,push,call,mov,add,cmp,jle,push,lea,push,add,push,call,jz,push,pop,push,lea,push,add,push,call,jnz,lea,xor,push,push,push,push,mov,call,add,jz,push,push,call,pop,pop,push,pop,cmp,jle,lea,mov,push,push,push,push,call,add,jz,lea,push,push,push,call,jnz,call,push,call,push,call,jmp,call,jmp,call,jz,push,call,cmp,jnz,mov,jmp,call,push,call,pop,pop,pop,mov,pop,push,mov,sub,push,push,mov,push,call,mov,pop,cmp,jnz,jmp,push,push,push,push,pop,push,call,mov,cmp,jnz,call,jmp,mov,push,mov,call,push,mov,pop,mov,lea,push,push,push,call,jnz,mov,push,push,lea,push,call,mov,add,mov,mov,push,call,push,mov,lea,push,push,push,call,cmp,jz,push,lea,push,push,call,add,cmp,jz,cmp,jnz,cmp,jnz,cmp,jz,cmp,jz,mov,jmp,call,push,call,pop,pop,pop,mov,pop,push,mov,sub,push,push,mov,push,call,mov,pop,cmp,jnz,jmp,push,push,push,push,pop,push,call,mov,cmp,jnz,call,jmp,mov,mov,push,call,push,mov,pop,mov,lea,push,push,push,call,jnz,push,push,lea,push,call,mov,lea,add,mov,push,push,push,push,call,cmp,jz,push,lea,push,push,call,add,cmp,jz,cmp,jnz,cmp,jnz,cmp,jnz,mov,push,mov,mov,call,push,mov,lea,push,push,push,call,cmp,jz,push,lea,push,push,call,add,cmp,jz,cmp,jnz,cmp,jnz,cmp,jnz,cmp,jz,cmp,jz,mov,jmp,call,push,call,pop,pop,pop,mov,pop,push,mov,sub,push,push,mov,xor,inc,mov,push,mov,xor,mov,lea,push,lea,mov,push,push,lea,mov,push,push,mov,call,cmp,jnz,call,mov,pop,pop,pop,mov,pop,jle,lea,push,push,call,jnz,lea,push,push,call,jz,push,push,push,call,add,push,push,push,push,call,cmp,jz,jmp,push,mov,push,push,push,mov,inc,jns,dec,inc,mov,add,jns,dec,inc,mov,mov,mov,mov,add,jns,dec,inc,mov,mov,xor,mov,mov,mov,pop,pop,pop,pop,push,mov,push,xor,cmp,jle,push,mov,lea,push,push,call,inc,pop,pop,cmp,jl,pop,pop,pop,push,mov,push,push,push,mov,xor,mov,mov,mov,inc,cmp,jl,mov,mov,mov,mov,add,add,jns,dec,inc,mov,mov,mov,lea,mov,idiv,inc,mov,cmp,jl,pop,pop,pop,pop,push,mov,push,mov,push,xor,inc,jnz,xor,jmp,push,push,xor,call,jle,mov,cmp,jnz,inc,push,inc,call,cmp,jl,mov,pop,pop,pop,pop,push,mov,push,push,push,push,push,mov,jz,mov,jz,push,mov,call,xor,js,mov,cmp,jz,cmp,jnz,mov,cmp,jz,lea,add,inc,mov,mov,mov,inc,cmp,jle,jmp,sub,add,mov,lea,push,push,call,mov,jz,push,push,push,call,push,push,push,call,add,mov,jmp,xor,pop,pop,pop,mov,pop,push,mov,mov,mov,jz,push,push,mov,mov,sub,mov,mov,inc,sub,jnz,pop,pop,pop,push,mov,mov,jz,push,mov,imul,push,mov,shr,mov,pop,pop,mov,pop,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "278b9c339e0b39da6aa53a4dd8049f14"
+			},
+			{
+				"section": ".data",
+				"md5": "47917f1435475ccd69cc0eae5f7cfffe"
+			},
+			{
+				"section": ".idata",
+				"md5": "0cc1c374f97d6e0106874c6c2c516eb2"
+			},
+			{
+				"section": ".conf",
+				"md5": "119c0c8ae85728e9bd3eb8839eaac8d7"
+			},
+			{
+				"section": ".reloc",
+				"md5": "e3cfe676b4b57bd0525c83e07925032d"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "65237e705e842da0a891c222e57fe095",
+		"SHA1": "166d16091e34550850bae2d7eecd745e366514d4",
+		"SHA256": "9dc79fe03de3d5402aeeff0c2a0da5fdef4cc2220edf05beddc58cfab54a345f",
+		"EntryPoint": "100035f1",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "10000000",
+		"FileSize": 19728,
+		"Original FileName": "",
+		"Entropy": 6.41,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE, DLL",
+		"Timestamp": "2022-01-29 03:46:03(2022-01-28 18:46:03 UTC)",
+		"Import Hash": "d432fdd97dea57ba698c0f3ae5591679",
+		"Section Info": [
+			".text:0x1000:0x33f8:0x2a0:0x3400:6.28889941135",
+			".data:0x5000:0x540:0x36a0:0x110:4.11865266018",
+			".idata:0x6000:0xb74:0x37b0:0xb80:5.03924182206",
+			".conf:0x7000:0x600:0x4330:0x600:5.5423086796",
+			".reloc:0x8000:0x3dc:0x4930:0x3e0:6.58952349103"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "cmd.exe /C rundll32.exe 'C:\\Users\\user\\Desktop\\g9h3oyZKPt.dll',#1"
+			},
+			{
+				"cmdline": "rundll32.exe  'C:\\Users\\user\\Desktop\\g9h3oyZKPt.dll',#1"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drvinst.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Windows\\system32\\catroot"
+			},
+			{
+				"path": "C:\\Windows\\system32\\catroot2"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\rundll32.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\g9h3oyZKPt.dll"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://www.google.com.br/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.chol.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.mercadolivre.com.br/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.merlin.com.pl/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.ebay.de/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.mtv.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.rambler.ru/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.nifty.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.dailymail.co.uk/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www3.fnac.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://buscar.ya.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.sogou.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://asp.usatoday.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://fr.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://rover.ebay.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://in.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://img.shopzilla.com/shopzilla/shopzilla.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.ebay.in/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://image.excite.co.jp/jp/favicon/lep.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://%s.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://msk.afisha.ru/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.igbusca.com.br//app/static/images/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com.tw/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.rediff.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ya.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.etmall.com.tw/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://it.search.dada.net/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.naver.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.ru/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.hanafos.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cgi.search.biglobe.ne.jp/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.abril.com.br/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.daum.net/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.naver.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.msn.co.jp/results.aspx?q=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.clarin.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://buscar.ozu.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://kr.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.about.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.igbusca.com.br/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.microsofttranslator.com/BVPrev.aspx?ref=IE8Activity",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ask.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.priceminister.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.cjmall.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.centrum.cz/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://suche.t-online.de/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.it/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.auction.co.kr/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ceneo.pl/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.amazon.de/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://sads.myspace.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.buscape.com.br/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.pchome.com.tw/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://browse.guardian.co.uk/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://google.pchome.com.tw/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://list.taobao.com/browse/search_visual.htm?n=15&q=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.rambler.ru/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://uk.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://espanol.search.yahoo.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ozu.es/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.sify.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://openimage.interpark.com/interpark.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.co.jp/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.ebay.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.gmarket.co.kr/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.nifty.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://searchresults.news.com.au/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.si/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.cz/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.soso.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.univision.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.ebay.it/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://images.joins.com/ui_c/fvc_joins.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.asharqalawsat.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://busca.orange.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cnweb.search.live.com/results.aspx?q=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://auto.search.msn.com/response.asp?MT=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.co.jp",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.target.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://buscador.terra.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.orange.co.uk/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.iask.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.tesco.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cgi.search.biglobe.ne.jp/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.seznam.cz/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://suche.freenet.de/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.interpark.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://clients5.google.com/complete/search?hl=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.ipop.co.kr/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.espn.go.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.myspace.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.centrum.cz/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://p.zhongsou.com/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://service2.bfast.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.%s.comPA",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ariadna.elmundo.es/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.news.com.au/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.cdiscount.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.tiscali.it/favicon.ico",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Dynamic Link Library (generic) (1002004/3)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_InitializeCriticalSectionAndSpinCount_InitializeCriticalSectionAndSpinCount_LoadLibraryExW_LoadLibraryExW_InitializeCriticalSectionAndSpinCount_InitializeCriticalSectionAndSpinCount_GetFileType_GetFileType_LoadLibraryExW_LoadLibraryExW_LCMapStringEx_LCMapStringEx_GetEnvironmentStringsW_SetUnhandledExceptionFilter_RtlAllocateHeap_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryExA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LdrInitializeThunk_LdrInitializeThunk_KiUserExceptionDispatcher_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "T1547.008,T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1547.008,T1055,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1497,T1218.011,T1055,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}
