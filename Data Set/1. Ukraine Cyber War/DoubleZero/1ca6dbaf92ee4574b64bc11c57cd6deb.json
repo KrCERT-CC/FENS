@@ -1,0 +1,439 @@
+{
+	"md5": "1ca6dbaf92ee4574b64bc11c57cd6deb",
+	"data": {
+		"String": [],
+		"Packer": "Obfuscar(1.0)",
+		"compiler": "VB.NET(-)",
+		"linker": "Microsoft Linker(11.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "6144:rlOHBfqFSBORnUTJj40sVUWLTETzRrNbOkkHcAd6euuk:rlOHBfqFiORnUTJE0iLMO8Ad6e",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_1ca6dbaf92ee4574b64bc11c57cd6deb.jpg",
+		"bytecode": "binary_1ca6dbaf92ee4574b64bc11c57cd6deb.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "2f7cb30c0ac3db87c079b59f5a77ce7c"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "0950ecc5548a368da67e34d098cff761"
+			},
+			{
+				"section": ".reloc",
+				"md5": "f10a544e8d11fec27566c80c7727ec7e"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "1ca6dbaf92ee4574b64bc11c57cd6deb",
+		"SHA1": "87c73ced6024b878f8670578ea8d6d4da5748cce",
+		"SHA256": "f60986ff7a2f500c4f5899357bb33067898a430fd151a89155278bc5670376fd",
+		"EntryPoint": "4353ae",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 212480,
+		"Original FileName": "tErxAdTRoXfrqvyRSdsWzhSHs.exe",
+		"Entropy": 6.058,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-03-17 16:19:40(2022-03-17 07:19:40 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0x333b4:0x200:0x33400:6.07814594452",
+			".rsrc:0x36000:0x520:0x33600:0x600:3.89268607026",
+			".reloc:0x38000:0xc:0x33c00:0x200:0.101910425663"
+		],
+		"Resource": [
+			"RT_VERSION:0x360a0:0x28c:PGP symmetric key encrypted data - Plaintext or unencrypted data::",
+			"RT_MANIFEST:0x36330:0x1ea:XML 1.0 document, UTF-8 Unicode (with BOM) text, with CRLF line terminators::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "UbytEEj"
+			}
+		],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "unknown"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\UbytEEj"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\UbytEEj\\UbytEEj.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Chrome"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Chrome\\Default"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox\\Profiles"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox\\Profiles\\ouv4y2vg.default-release"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Chrome"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Chrome\\Default"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox\\Profiles"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox\\Profiles\\ouv4y2vg.default-release"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Chrome"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Chrome\\Default"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox\\Profiles"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox\\Profiles\\ouv4y2vg.default-release"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Chrome\\Default"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Chrome"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox\\Profiles\\ouv4y2vg.default-release"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox\\Profiles"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Chrome\\Default"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Chrome"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox\\Profiles\\ouv4y2vg.default-release"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox\\Profiles"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Chrome\\Default"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Chrome"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox\\Profiles\\ouv4y2vg.default-release"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox\\Profiles"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\UbytEEj\\UbytEEj.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\YxjOgPtQ"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\wbem\\wbemdisp.tlb"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\CustomMarshalers\\0df8ec76525d72c37f86b6d2ab717e84\\CustomMarshalers.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\stdole2.tlb"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\TmxFkaZuvw.exe"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\jDownloader\\config\\database.script"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\profiles.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\ihirxr3l.lf5\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rq2fe3je.cil\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Chrome\\Default\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\dngvkutn.at0\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://127.0.0.1:HTTP/1.1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.%s.comPA",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://jnR5s5UIdBFqu2Ej.com$X",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://jnR5s5UIdBFqu2Ej.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://jnR5s5UIdBFqu2Ej.comd",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://CgKuVH.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.theonionrouter.com/dist.torproject.org/torbrowser/9.5.3/tor-win32-0.4.3.6.ziphttps://www",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://DynDns.comDynDNSnamejidpasswordPsi/Psi",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Spyware,Trojan / Bot",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "WSASocketW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_RtlUserThreadStart_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_KiUserExceptionDispatcher_KiUserExceptionDispatcher_SleepEx_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_GetForegroundWindow_K32EnumProcesses_NtQuerySystemInformation_VirtualAlloc_GetForegroundWindow_RtlUserThreadStart_CreateThread_CreateThread_CreateThread_GetProcessAffinityMask_unknown_unknown_unknown_RtlUserThreadStart_unknown_unknown_unknown_unknown_unknown_unknown_RtlUserThreadStart_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_RtlUserThreadStart_CreateThread_CreateThread_CreateThread_RtlUserThreadStart_CreateThread_CreateThread_CreateThread_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_CreateThread_CreateThread_CreateThread_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1047",
+		"ATT&CK(Persistence)": "T1547.001",
+		"ATT&CK(Privilege Escalation)": "T1055,T1547.001",
+		"ATT&CK(Defense Evasion)": "T1036,T1562.001,T1497,T1055,T1140,T1564.001",
+		"ATT&CK(Credential Access)": "T1003,T1056,T1552.002",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1010,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1114,T1056,T1560,T1005,T1115",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

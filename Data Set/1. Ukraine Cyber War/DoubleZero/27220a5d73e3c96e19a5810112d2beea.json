@@ -1,0 +1,406 @@
+{
+	"md5": "27220a5d73e3c96e19a5810112d2beea",
+	"data": {
+		"String": [
+			{
+				"string": "NetFx.Properties.Resources",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Helper_Classes",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "simple",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Select an image first",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "gaussian",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "overlay",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "softLight",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pictureBox1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "openFileDialog1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "button1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Batch Effects 1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pictureBox2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "button2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Browse",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "button3",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Vignette",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "button4",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Gaussian Blur",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "button5",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Batch Effects 2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "button6",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Batch Effects 3",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "button7",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Batch Effects 4",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Form1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Example Application - NETFx for C#",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "multiply",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "screen",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "addition",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "exclusion",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "difference",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "colordodge",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "bیYنچ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "GetExportedTypes",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Only 8, 24 and 32 bpp images are supported.",
+				"type": "Unicode C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(48.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "6144:O+j6F1MYICxnVxvBtepWarNMaoNrqdXPe6HY4WxxN3:O+j7YPxTvBMhroN+Fe2YLxL",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_27220a5d73e3c96e19a5810112d2beea.jpg",
+		"bytecode": "binary_27220a5d73e3c96e19a5810112d2beea.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "31fec9766312fabb28655e29a378a9a0"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "7d10d4972a313cba8947cf7a4a64f48a"
+			},
+			{
+				"section": ".reloc",
+				"md5": "999fec676c9923dd808d3fd92f64fb41"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "27220a5d73e3c96e19a5810112d2beea",
+		"SHA1": "415da16851a78ad8c91c93c81b0ebe132192dedc",
+		"SHA256": "efc91565521b6a454b14b2ff99da297b91d8477c42fa06c40c7c2302698674c8",
+		"EntryPoint": "44381e",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 271360,
+		"Original FileName": "NetFx.exe",
+		"Entropy": 7.907,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-03-15 06:46:24(2022-03-14 21:46:24 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0x41824:0x200:0x41a00:7.92597537802",
+			".rsrc:0x44000:0x5a6:0x41c00:0x600:4.06795454238",
+			".reloc:0x46000:0xc:0x42200:0x200:0.101910425663"
+		],
+		"Resource": [
+			"RT_VERSION:0x440a0:0x31c:data::",
+			"RT_MANIFEST:0x443bc:0x1ea:XML 1.0 document, UTF-8 Unicode (with BOM) text, with CRLF line terminators::"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASAPI32"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASMANCS"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASAPI32",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASAPI32",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASAPI32",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASAPI32",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASAPI32",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASAPI32",
+				"name": "FileDirectory"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASMANCS",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASMANCS",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASMANCS",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASMANCS",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASMANCS",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\sY1wjhgQUo_RASMANCS",
+				"name": "FileDirectory"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "C:\\Users\\user\\Desktop\\sY1wjhgQUo.exe"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\sY1wjhgQUo.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\BrkSRhqF"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\f73f48afb5512225dedaee9c88ac5050\\Microsoft.CSharp.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Dynamic\\b7ad5353ae4f44df28ce7ebc9a8a752a\\System.Dynamic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\sY1wjhgQUo.exe"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "https://freegeoip.app/xml/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://checkip.dyndns.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://checkip.dyndns.org/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://api.telegram.org/bot",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://checkip.dyndns.org/q",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Trojan / Bot,Evader",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_SetErrorMode_SetErrorMode_SetErrorMode_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_RtlUserThreadStart_ReadProcessMemory_VirtualAllocEx_KiUserExceptionDispatcher_KiUserExceptionDispatcher_LoadLibraryExW_CloseHandle_SetErrorMode_SetErrorMode_AdjustTokenPrivileges_LoadLibraryExW_SetErrorMode_SetErrorMode_LoadLibraryExW_SetErrorMode_SetErrorMode_K32EnumProcesses_LoadLibraryExW_LoadLibraryExW_K32EnumProcesses_K32EnumProcesses_K32EnumProcesses_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_CreateProcessA_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_ReadProcessMemory_VirtualAllocEx_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_CreateProcessA_RtlUserThreadStart_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_VirtualAlloc_ReadProcessMemory_VirtualAllocEx_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_CreateProcessA_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_ReadProcessMemory_VirtualAllocEx_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_RtlUserThreadStart_VirtualAlloc_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_Wow64SetThreadContext_ResumeThread_CreateThread_CreateThread_CreateThread_VirtualProtect_EtwEventUnregister_SleepEx_CloseHandle_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_SleepEx_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_RtlUserThreadStart_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_UnmapViewOfFile_UnmapViewOfFile_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1562.001,T1497,T1055,T1140,T1027,T1027.002,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1018,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

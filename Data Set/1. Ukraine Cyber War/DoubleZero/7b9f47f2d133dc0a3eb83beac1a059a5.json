@@ -1,0 +1,449 @@
+{
+	"md5": "7b9f47f2d133dc0a3eb83beac1a059a5",
+	"data": {
+		"String": [
+			{
+				"string": "Open \"",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "\" alias ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Close ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Play ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": " REPEAT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Stop ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "FormDataReader can only be initialized once.",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "This DataReader has already been closed",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Form '",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "' does not exist in this file",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Must be reading info for a specified form",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Info '",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "' does not exist in this form",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fps must be between 0 and 1000, non-inclusive",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "renderFPS must be between 0 and 1000, non-inclusive",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "panel",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "526561645772697465506172616D6574",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "5A546D4E",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "LittleGameBox",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "It is ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "'s turn.",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": " Wins!",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Game Over",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "584H548CR8HSGEJS47C44H",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "dtt.Gth",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "UpLeft",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "UpCenter",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "UpRight",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "MidLeft",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "MidCenter",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "MidRight",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "LowLeft",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "LowCenter",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "LowRight",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "menuStrip1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mainMenuToolStripMenuItem",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Main Menu",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "newGameToolStripMenuItem",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "New Game",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "setPlayersToolStripMenuItem",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Set Players",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Form1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "textBox1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "textBox2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "label1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Player 1 Name",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "label2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Player 2 Name",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "button1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Submit Names",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "NameForm",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "LittleGameBox.Properties.Resources",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ReadWriteParamet",
+				"type": "Unicode C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(48.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "24576:Dyoh65e+O8oBdCNiB1ExvqUaQqXaiUCqUetqah:Dyoh6tOr0Ni3aCUjqqiUCqUTW",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_7b9f47f2d133dc0a3eb83beac1a059a5.jpg",
+		"bytecode": "binary_7b9f47f2d133dc0a3eb83beac1a059a5.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "7f3b049a0e72e2d0aa744fc2775a212b"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "870d5825b77c24cfec2e64c5fd6d41a3"
+			},
+			{
+				"section": ".reloc",
+				"md5": "e162186e1e581a6e48ef84ebcda376c8"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "7b9f47f2d133dc0a3eb83beac1a059a5",
+		"SHA1": "8fd8dc58d722170acbde34e5f08b9bb657305773",
+		"SHA256": "0bbc4ad8c179c0f2e1c2a1b501f1baa3637bdf27d598c63f30f739d3e58a0004",
+		"EntryPoint": "4eb64a",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 959488,
+		"Original FileName": "AssemblyLoadEventA.exe",
+		"Entropy": 7.981,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-03-22 13:19:06(2022-03-22 04:19:06 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0xe9650:0x200:0xe9800:7.98578914973",
+			".rsrc:0xec000:0x620:0xe9a00:0x800:3.47416896241",
+			".reloc:0xee000:0xc:0xea200:0x200:0.101910425663"
+		],
+		"Resource": [
+			"RT_VERSION:0xec090:0x390:data::",
+			"RT_MANIFEST:0xec430:0x1ea:XML 1.0 document, UTF-8 Unicode (with BOM) text, with CRLF line terminators::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "C:\\Users\\user\\Desktop\\vCzo7Jsp2z.exe"
+			},
+			{
+				"cmdline": "/c del 'C:\\Users\\user\\Desktop\\vCzo7Jsp2z.exe'"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\vCzo7Jsp2z.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\vCzo7Jsp2z.exe"
+			}
+		],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\FCsFYGRb"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\ntdll.dll"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\wscript.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\vCzo7Jsp2z.exe"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "https://go.bandisoft.com/amsi",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.ora",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://go.bandi.so/apptranslation",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docsssocia",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docshttps://docs.oracle.com/javase/8/docs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docslABC2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.orah",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Trojan / Bot",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlAllocateHeap_RtlUserThreadStart_RtlUserThreadStart_RtlAllocateHeap_VirtualAlloc_VirtualAlloc_SetErrorMode_SetErrorMode_SetErrorMode_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlAllocateHeap_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_MapViewOfFileEx_CloseHandle_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RegOpenKeyExW_RegOpenKeyExW_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CreateProcessA_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_ReadProcessMemory_VirtualAllocEx_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_VirtualAlloc_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_Wow64SetThreadContext_ResumeThread_RtlUserThreadStart_CreateThread_CreateThread_CreateThread_RtlUserThreadStart_VirtualProtect_PostMessageW_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_RtlUserThreadStart_DestroyWindow_PostMessageW_EtwEventUnregister_RtlAllocateHeap_RtlUserThreadStart_RtlUserThreadStart_SleepEx_CloseHandle_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_SleepEx_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_UnmapViewOfFile_UnmapViewOfFile_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1129",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1562.001,T1497,T1055,T1140,T1027,T1027.002,T1574.002,T1070.004",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

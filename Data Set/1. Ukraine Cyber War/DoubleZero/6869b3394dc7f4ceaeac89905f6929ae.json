@@ -1,0 +1,391 @@
+{
+	"md5": "6869b3394dc7f4ceaeac89905f6929ae",
+	"data": {
+		"String": [],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(6.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "12288:dHwOEo9wPXJ1CnOtbKu9Mp+ea2wf5ea8JVeyiHZlLKbu4RpPZFZe/d9TlSHapp7/:9wOkP5BbKuR2g8yFzqfvHZe/d9TlSKR",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_6869b3394dc7f4ceaeac89905f6929ae.jpg",
+		"bytecode": "binary_6869b3394dc7f4ceaeac89905f6929ae.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "a90721db83d5ecae5c372ada2913a81a"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "cc17c4126e08e7a4eebdac240bb13105"
+			},
+			{
+				"section": ".reloc",
+				"md5": "8ff02ef052fd48f937d38f082fbfe45e"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "6869b3394dc7f4ceaeac89905f6929ae",
+		"SHA1": "a51965b20d56468ef035b0d1c5800a850ce1439f",
+		"SHA256": "c0a6b562ce71149c052ed504556f0e4c8dbe2d075aef54299e548ed33f88a3c9",
+		"EntryPoint": "4e012a",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 911872,
+		"Original FileName": "SecurityIdentif.exe",
+		"Entropy": 7.952,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED",
+		"Timestamp": "2022-03-16 20:06:13(2022-03-16 11:06:13 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0xde130:0x200:0xde200:7.95738638604",
+			".rsrc:0xe2000:0x390:0xde400:0x400:2.90851687049",
+			".reloc:0xe4000:0xc:0xde800:0x200:0.0815394123432"
+		],
+		"Resource": [
+			"RT_VERSION:0xe2058:0x338:data::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\Handshake\\{01770E55-55D2-43B0-9287-962D39DDE9FE}",
+				"name": "data"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe' Add-MpPreference -ExclusionPath 'C:\\Users\\user\\AppData\\Roaming\\GdHrCqKNviZ.exe'"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\schtasks.exe' /Create /TN 'Updates\\GdHrCqKNviZ' /XML 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpC4BD.tmp'"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\Desktop\\FZEiroimHd.exe"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\cmd.exe' /c schtasks /create /f /sc onlogon /rl highest /tn 'images' /tr ''C:\\Users\\user\\AppData\\Roaming\\images.exe'' & exit"
+			},
+			{
+				"cmdline": "unknown"
+			},
+			{
+				"cmdline": "cmd /c ''C:\\Users\\user\\AppData\\Local\\Temp\\tmp55D6.tmp.bat''"
+			},
+			{
+				"cmdline": "schtasks  /create /f /sc onlogon /rl highest /tn 'images' /tr ''C:\\Users\\user\\AppData\\Roaming\\images.exe'' "
+			},
+			{
+				"cmdline": "timeout  3 "
+			},
+			{
+				"cmdline": "'C:\\Users\\user\\AppData\\Roaming\\images.exe' "
+			},
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Roaming\\images.exe "
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\schtasks.exe' /Create /TN 'Updates\\GdHrCqKNviZ' /XML 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp2471.tmp'"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\schtasks.exe' /Create /TN 'Updates\\GdHrCqKNviZ' /XML 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp1250.tmp'"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\FZEiroimHd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\schtasks.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\timeout.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\GdHrCqKNviZ.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpC4BD.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\C2O3HAETIBNAW7POUVNY.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp55D6.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp55D6.tmp.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp2471.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp1250.tmp"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpC4BD.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp55D6.tmp.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp2471.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp1250.tmp"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\GdHrCqKNviZ.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpC4BD.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\C2O3HAETIBNAW7POUVNY.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp55D6.tmp.bat"
+			},
+			{
+				"path": "\\Device\\Null"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp2471.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp1250.tmp"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\svkjETWN"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\FZEiroimHd.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\schtasks.exe"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shdocvw.dll"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows PowerShell\\desktop.ini"
+			},
+			{
+				"path": "\\pipe\\srvsvc"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\getevent.types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Diagnostics.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\WSMan.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Certificate.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\DotNetTypes.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\FileSystem.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Help.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\PowerShellCore.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\PowerShellTrace.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Registry.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\GAC_MSIL\\System.Management.Automation\\1.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpC4BD.tmp"
+			},
+			{
+				"path": "\\pipe\\lsarpc"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp55D6.tmp.bat"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\timeout.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\Tasks\\images"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\AsyncMutex_6SI8OkPnk"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://schemas.microsof",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Trojan / Bot",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "RtlUserThreadStart_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_VirtualProtect_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_DeleteFileW_DeleteFileW_RtlAllocateHeap_RtlAllocateHeap_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_MapViewOfFileEx_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CreateProcessA_RtlUserThreadStart_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_ReadProcessMemory_VirtualAllocEx_KiUserExceptionDispatcher_KiUserExceptionDispatcher_AdjustTokenPrivileges_SetErrorMode_SetErrorMode_LoadLibraryExW_SetErrorMode_SetErrorMode_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_SetErrorMode_SetErrorMode_K32EnumProcesses_K32EnumProcesses_K32EnumProcesses_K32EnumProcesses_K32EnumProcesses_K32EnumProcesses_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_CreateProcessA_RtlUserThreadStart_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_ReadProcessMemory_VirtualAllocEx_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_Wow64SetThreadContext_ResumeThread_CreateThread_CreateThread_CreateThread_PostMessageW_DestroyWindow_PostMessageW_SetConsoleCtrlHandler_RtlUserThreadStart_SleepEx_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_SleepEx_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_UnmapViewOfFile_UnmapViewOfFile_unknown_unknown_unknown_unknown_unknown_unknown",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1059,T1053,T1064",
+		"ATT&CK(Persistence)": "T1053,T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1053,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1036,T1562.001,T1497,T1055,T1064,T1027,T1027.002,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

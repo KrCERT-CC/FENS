@@ -1,0 +1,1649 @@
+{
+	"md5": "c1709c8c57a35a9db077a622a54462a4",
+	"data": {
+		"String": [
+			{
+				"type": "Unicode C-Style",
+				"string": "Unable to heal: Unable to find heart item."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Unable to restore mana: Unable to find star item."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "player-privmsg-settings.json"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{0}<From: {1}> {2}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{0}<To: {1}> {2}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Private messaging is now disabled"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Invalid player"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Private messaging is now enabled"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "You have to recent players to reply to"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "No message provided"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Player {0} has private messaging disabled"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Invalid players"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "attak"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TDSMBasicPlugin"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TDSMBasicPlugin."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TDSMBasic"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Failed to create crucial Folder"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": " disabled."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": " enabled."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "/heal(?:\\s+(?<player>.*))?"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "[/reply|/r]\\s(?<msg>.+)?"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "player"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "(/pm|/privmsg)\\s+(?<flag>[on|off]+)?"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "[/m|/msg]\\s(?<player>[A-Z-a-z0-9]+)\\s(?<msg>.+)?"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Error: {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Error processing command '{0}': {1}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "exportitems"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "save-settings"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Items exported to {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Output type not selected."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{0}.{1}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Error exporting items: {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Command Error: /exportitems <output type>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Command Error: /privmsg <on|off>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Player '"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "' not found!"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "You healed {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "You were healed by {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Command Error: {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Exception executing command from {0}: {1}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Exception Stack Trace:\n\r{0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Reply Error: {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Command Error: /reply <message>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Private Message Error: {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Player not found!"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "items"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "O Elemento não se encontra emprestado de momento. =<"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "aviso_alteracao_emprestimo_elemento_ja_por_emprestar"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label18"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "A alteração foi efectuada com sucesso!! =>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "aviso_alteracao_sucesso"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$this.Icon"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": " da mesma maneira podiam-se ter feito aqui várias "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "formato, tamanho tipo etc..."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label2"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "NENHUM CAMPO DEVE ESTAR VAZIO!!!!!!!!"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label3"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Microsoft Sans Serif"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label4"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "verificações, desde validação de dados a nível de"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "aviso_campos_por_preencher"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Esse elemento está emprestado de momento!!!!"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "aviso_duplicacao"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TipoCategoria"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CategoriaId"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "NomeCategoria"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "IDtotalCategoria"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DBfilmes"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DBmusicas"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "NomeBaseDeDados"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Preferences1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DBfotografias"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DBcategorias"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DBemprestimos"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Cancelar"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "categoria_invalida"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CATEGORIA INVÁLIDA!!"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Mistral"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button2"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Nada para devolver"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ElementoID"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DataElemento"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "EstadoEmpElemento"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "total_elemntos"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "LocElemento"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CategoriaElemento"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "NomeElemento"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "total_elementos"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nCategoria: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nData: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nTitulo: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nAno: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nRealizador: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nDuração: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nSinopse: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nStorage: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\n\nEstado: Emprestado"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\n\nEstado: Available"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "FilmeID"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "NomeFilme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "LocFilme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CategoriaFilme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "AnoFilme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DataFilme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "total_filmes"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "RealizadorFilme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SinopseFilme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "EstadoEmpFilme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DurFilme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nArtista: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nAlbum: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "MusicaID"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "total_musicas"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "EstadoEmpMusica"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DataMusica"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "LocMusica"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CategoriaMusica"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ArtistaMusica"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "AlbumMusica"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "NomeMusica"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\nDescrição: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "FotografiaID"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "EstadoEmpFotografia"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "LocFotografia"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DataFotografia"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "NomeFotografia"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CategoriaFotografia"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DescMusica"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "AlbumFotografia"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "total_fotos"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Não foi possível executar a operação. Por favor tente novamente"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "database.dat"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Categoria"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Titulo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Título"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Storage"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Album"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Artista"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Descrição"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Ficheiro"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ifcX5gLET"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "4973426F"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "307145"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Korando"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Elemento Emprestado"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Estado"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Devolvido em"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Requisitado por"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Fotografias"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Musicas"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Filmes"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "devolver_filme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Sinopse"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Realizador"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Duração"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Não foram encontrados registos. Tente novamente."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": " registo(s) encontrado(s)."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ut_neon Database"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "C4Y97JB87GGH70GYUH8TCP"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Steps"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "g6pwWQ44xKhCXHsvSne.CN4qcq4MclarttE1ndg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Realizador:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Apagar Selectionado"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "labelloc"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Ver Detalhes do filme Selecionado"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Album:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Ver Detalhes do Elemento Selecionado =>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabControl2"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "data_grid_1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "avisos_concluidos_sucesso_checkbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "detalhes_search_filmes_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button20"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "detalhes_search_fotografias_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Escolha a Categoria:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabPage2"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sinopse_filme_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tipo_categoria_comboBox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Localização:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "webBrowser1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Alterar para \"Entregue\""
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label19"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Música"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button4"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Serialize the World!"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "data_grid_musicas"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button10"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Categoria:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "filtro_filmes_categorias"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nome_filme_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button12"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label26"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label12"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Ver Detalhes da Música Selecionada :>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Nome da Categoria:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button22"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "detalhes_musicas_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button23"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ano_filme_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "labelartistamusica"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "album_musica_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label8"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label5"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Filmes p/ Categoria"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button17"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "categoria_fotografia_combobox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button21"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Fotografia p/ Categoria"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "data_grid_search_musicas"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Ver Detalhes da Fotografia Selecionada :>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label6"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button8"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nome_fotografia_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pessoa_emprestimo_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button19"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Localização do Filme:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "loc_fotografia_combobox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Alt. P/ Ñ Ent."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Duração do Filme:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label10"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabControl1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label13"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label7"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button3"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button16"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "loc_musica_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Editar Filmes"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Nome da Fotografia:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Form1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button5"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label11"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabPage6"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label15"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nome_categoria_filme_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Adicionar Música"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TrablH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "detalhes_search_musicas_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button15"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "categoria_filme_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Empréstimos"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabPage8"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label17"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabPage5"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Advanced Search"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Descrição (Opcional):"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Desactivar avisos \"Conluído com sucesso\""
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Música p/ Categoria"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Search"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "emprestimos"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabPage3"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "loc_filme_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "dur_filme_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label16"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "categoria_musica_combobox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "data_grid_fotografias"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Detalhes do elemento:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label21"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "categorytab"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "filtro_fotografias_categoria"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Categorias"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Artista:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Guardar Modificações"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button6"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button18"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label25"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Ver Detalhes da música Selecionada"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabPage1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Criar Categoria"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Emprestar Elemento"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button14"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label22"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label24"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabPage7"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label14"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label20"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "album_fotografia_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "data_grid_search_fotografias"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Adicionar Filme"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tabPage4"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label23"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "data_grid_search_filmes"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button9"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button7"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Adicionar Fotografia"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "artista_musica_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Save Preferences"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "data_grid_emprestimos"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "detalhes_filme_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "filtro_musicas_categorias"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Nome do Filme:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "descricao_fotografia_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button25"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "realizador_filme_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "data_grid_categorias1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Preferências"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button13"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "detalhes_fotografias_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Editar Músicas"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Sinope:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Ver Detalhes da fotografia Selecionada"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Pessoa p/emprest."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label9"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Tipo da Categoria:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button24"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "button11"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Nome da música:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nome_musica_textbox"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Korando.Properties.Resources"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(48.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "12288:9pEXgDGMQ+c3kwOEocESvg6ze/nHkCbq9MMuBVXug7KcEYlviGtbfNc04ei6zqCv:IXgDGa5wOUe/kC0er7h9btzNf",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_c1709c8c57a35a9db077a622a54462a4.jpg",
+		"bytecode": "binary_c1709c8c57a35a9db077a622a54462a4.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "24f7cfb5baa0e713916b42ff2fd8bffe"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "6aef254817b0b7ce3ddbf13069926121"
+			},
+			{
+				"section": ".reloc",
+				"md5": "bfab6704b8df3ed02deca76f51d7b7dc"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "c1709c8c57a35a9db077a622a54462a4",
+		"SHA1": "54a8b1cf21d3b999b494e41f6584b66511319b4f",
+		"SHA256": "8f85813b74f25051da34d31426d21eadabf28e17592f384ea08366d79bcd67d5",
+		"EntryPoint": "4c8dce",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 817664,
+		"Original FileName": "ConfigNodeSubT.exe",
+		"Entropy": 7.761,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-03-15 16:53:00(2022-03-15 07:53:00 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0xc6dd4:0x200:0xc6e00:7.7700335739",
+			".rsrc:0xca000:0x618:0xc7000:0x800:3.47752676545",
+			".reloc:0xcc000:0xc:0xc7800:0x200:0.0980041756627"
+		],
+		"Resource": [
+			"RT_VERSION:0xca0a0:0x388:data::",
+			"RT_MANIFEST:0xca428:0x1ea:XML 1.0 document, UTF-8 Unicode (with BOM) text, with CRLF line terminators::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\Handshake\\{19451338-4269-4E47-89FF-7C935F116479}",
+				"name": "data"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe' Add-MpPreference -ExclusionPath 'C:\\Users\\user\\AppData\\Roaming\\rsEUGoNFsNiH.exe'"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\schtasks.exe' /Create /TN 'Updates\\rsEUGoNFsNiH' /XML 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpDD47.tmp'"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\Desktop\\OCz0EZf5Fe.exe"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\cmd.exe' /c schtasks /create /f /sc onlogon /rl highest /tn 'images' /tr ''C:\\Users\\user\\AppData\\Roaming\\images.exe'' & exit"
+			},
+			{
+				"cmdline": "unknown"
+			},
+			{
+				"cmdline": "cmd /c ''C:\\Users\\user\\AppData\\Local\\Temp\\tmp6A2B.tmp.bat''"
+			},
+			{
+				"cmdline": "schtasks  /create /f /sc onlogon /rl highest /tn 'images' /tr ''C:\\Users\\user\\AppData\\Roaming\\images.exe'' "
+			},
+			{
+				"cmdline": "timeout  3 "
+			},
+			{
+				"cmdline": "'C:\\Users\\user\\AppData\\Roaming\\images.exe' "
+			},
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Roaming\\images.exe "
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\schtasks.exe' /Create /TN 'Updates\\rsEUGoNFsNiH' /XML 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp1743.tmp'"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\schtasks.exe' /Create /TN 'Updates\\rsEUGoNFsNiH' /XML 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp131D.tmp'"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\OCz0EZf5Fe.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\schtasks.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\timeout.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rsEUGoNFsNiH.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpDD47.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\PIA2BCZZ16R4AXKSGJOR.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp6A2B.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp6A2B.tmp.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp1743.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\XGDV3E2ET9UWW7GDR3PJ.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\d93f411851d7c929.customDestinations-ms~RF547d45.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp131D.tmp"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpDD47.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp6A2B.tmp.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp1743.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\d93f411851d7c929.customDestinations-ms~RF547d45.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp131D.tmp"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\rsEUGoNFsNiH.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpDD47.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\PIA2BCZZ16R4AXKSGJOR.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp6A2B.tmp.bat"
+			},
+			{
+				"path": "\\Device\\Null"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp1743.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\XGDV3E2ET9UWW7GDR3PJ.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp131D.tmp"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\OCz0EZf5Fe.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\schtasks.exe"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shdocvw.dll"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows PowerShell\\desktop.ini"
+			},
+			{
+				"path": "\\pipe\\srvsvc"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\getevent.types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Diagnostics.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\WSMan.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Certificate.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\DotNetTypes.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\FileSystem.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Help.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\PowerShellCore.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\PowerShellTrace.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Registry.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\GAC_MSIL\\System.Management.Automation\\1.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpDD47.tmp"
+			},
+			{
+				"path": "\\pipe\\lsarpc"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp6A2B.tmp.bat"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\timeout.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\Tasks\\images"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\images.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\d93f411851d7c929.customDestinations-ms"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp1743.tmp"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\AsyncMutex_6SI8OkPnk"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://go.microso",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.30",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Trojan / Bot",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_RtlUserThreadStart_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_VirtualProtect_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_DeleteFileW_DeleteFileW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_RtlUserThreadStart_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_MapViewOfFileEx_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CreateProcessA_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_WriteProcessMemory_ReadProcessMemory_WriteProcessMemory_WriteProcessMemory_VirtualAllocEx_VirtualAlloc_VirtualAlloc_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_Wow64SetThreadContext_ResumeThread_CreateThread_CreateThread_CreateThread_PostMessageW_RtlUserThreadStart_DestroyWindow_PostMessageW_SetConsoleCtrlHandler_SleepEx_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_UnmapViewOfFile_UnmapViewOfFile_unknown_unknown_unknown_unknown_unknown",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1059,T1053,T1064",
+		"ATT&CK(Persistence)": "T1053,T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1053,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1036,T1562.001,T1497,T1055,T1064,T1027,T1027.002,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

@@ -1,0 +1,982 @@
+{
+	"md5": "ce78eed4e3a4eb1eae1488e739f858ba",
+	"data": {
+		"String": [
+			{
+				"type": "Unicode C-Style",
+				"string": "There is no file path given"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ShowFiles can ONLY have valid full paths passed in!"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "This file does not have a valid ID3v1 tag. This program requires that minimum level of identification."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "This file does not have a valid ID3v2 tag."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ifcX5gLET"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "4D656D626572496E666F53657269616C697A6174696F6E486F6C"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "644D7169"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TagClient"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Please pick a folder"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "*.mp3"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "There are no files in that folder"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "There was an error creating the Tag Processor.  The files have an issue with their paths. WITH EXCEPTION:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "There is an issue with these files.  Please choose a valid folder of MP3 files."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Please enter a valid date to get the show."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "There is no show in the database for that date"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "You have successfully updated the track ordering!"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "There was a problem updating the track ordering."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Please select a file to move up"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "PrincipalPolicy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "C4Y97JB87GGH70GYUH8TCP"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "g6pwWQ44xKhCXHsvSne.CN4qcq4MclarttE1ndg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "txtProcess"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Folder"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "btnProcess"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Fill Your Files"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lstFiles"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lstDatabase"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label3"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Your Files:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label4"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Database Order:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "label5"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Show Date:"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "txtShowDate"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "btnGetShow"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Get Show"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "groupBox1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "btnSetOrder"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Set Order"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "btnMoveDown"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "btnMoveUp"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "btnChooseFolder"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Choose Folder"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "$this.Icon"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Form1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Phish Show File Organizer"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TagClient.Properties.Resources"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "MemberInfoSerializationHol"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "factory"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "connectionString"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "FALSE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "0123456789+-.eE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "false"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "database"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "entity"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "A Set with an id={0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "setSong"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "A SetSong with an id={0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "shows"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "A Show with an id={0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SetId"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SetNumber"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Encore"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Notes"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CreatedDate"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "UpdatedDate"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DeletedDate"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Deleted"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ShowId"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "VenueName"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "State"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Country"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ShowDate"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TicketPrice"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Order"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "VenueNotes"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "PhishNetUrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "PhishNetShowId"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{0} - {1} - {2}, {3}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "MM/dd/yyyy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SetSongId"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SongName"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Length"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Cover"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Abbreviation"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Tease"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SpecialAppearances"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "JamStyle"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "BustOut"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Segue"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "connectionStringKey"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Shows"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "target"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "index"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "(http|https)://([\\w-]+\\.)+[\\w-]+(/[\\w- ./?%&=]*)?"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "^([0-9a-zA-Z]+[-._+&])*[0-9a-zA-Z]+@([-0-9a-zA-Z]+[.])+[a-zA-Z]{2,6}$"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "<\\S[^><]*>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "showRepository"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "setRepository"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "setSongRepository"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "resolver"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "extension"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "contentType"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "format"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "specs"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ImageMediaFormats can only accept a mutually exclusive array of IImageFormatSpec.  The array provided has a duplicate property value."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "newWidth"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "maxHeight"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Added {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Attempting to add {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Adding {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Attempting to remove {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Removing {0}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"{1}\":\"{0}\","
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"{0}\":\"{1}\""
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"image\":\"{0}\","
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"thumb\":\"{1}\","
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"title\":\"{2}\","
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"description\":\"{3}\","
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"link\":\"{4}\""
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "showdate"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "success"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "warning"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fatal"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "<script type=\"text/javascript\"> $('#{0}').jAlert('{1}', \"{2}\"); </script>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "A connection string named '{0}' could not be found in the application configuration file."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "configManager"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Entity already exists."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "This entity is being used."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Could not find object in container.  Please check and make sure the application is configured to properly instantiate this object type."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"{0}\" cannot be empty guid."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"{0}\" cannot be blank."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"{0}\" cannot be more than {1} character."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Collection cannot be empty."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{0} must be between \"{1}\"-\"{2}\"."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"{0}\" is not a valid email address."
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\"{0}\" is not a valid web url."
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(48.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "12288:aAMVwOEDIq1emG5ZHun+YQF2K9gldkTiG1J6EbNfm5HHnMkEbIISEjtlB0y:xMVwOdRAwl9g/8/NsnnMNI4z1",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_ce78eed4e3a4eb1eae1488e739f858ba.jpg",
+		"bytecode": "binary_ce78eed4e3a4eb1eae1488e739f858ba.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "bac145fe68bfa92a6f6b4778dcb35cb3"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "c502f0308eb748b78c6e6515802ed595"
+			},
+			{
+				"section": ".reloc",
+				"md5": "7353601b954379fd17af33830806dec2"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "ce78eed4e3a4eb1eae1488e739f858ba",
+		"SHA1": "c8eec6df7fb2ece00ed6f5930b063db10778388d",
+		"SHA256": "224bbbc912c40294811c705b9fc49e3a9b88b766d04b46665e40fe0b3ec8cfca",
+		"EntryPoint": "4c4162",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 800768,
+		"Original FileName": "IChannelI.exe",
+		"Entropy": 7.933,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-03-16 12:37:29(2022-03-16 03:37:29 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0xc21b8:0x200:0xc2200:7.94149552743",
+			".rsrc:0xc6000:0x104c:0xc2400:0x1200:6.30613315756",
+			".reloc:0xc8000:0xc:0xc3600:0x200:0.0980041756627"
+		],
+		"Resource": [
+			"RT_ICON:0xc60c8:0xbff:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced::",
+			"RT_GROUP_ICON:0xc6cd8:0x14:data::",
+			"RT_VERSION:0xc6cfc:0x34c:data::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "kECjS"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe' Add-MpPreference -ExclusionPath 'C:\\Users\\user\\AppData\\Roaming\\TEASuBKrfnqklb.exe'"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\schtasks.exe' /Create /TN 'Updates\\TEASuBKrfnqklb' /XML 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp8411.tmp'"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\Desktop\\f4TZTv6WvF.exe"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\schtasks.exe' /Create /TN 'Updates\\TEASuBKrfnqklb' /XML 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpC88D.tmp'"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Roaming\\kECjS\\kECjS.exe"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\f4TZTv6WvF.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\schtasks.exe"
+			},
+			{
+				"path": "unknown"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\kECjS\\kECjS.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\TEASuBKrfnqklb.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp8411.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\1NOTGOSQJ9ZKZ2QS070Z.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\kECjS"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\kECjS\\kECjS.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpC88D.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\LUBRCNCTNONTU395BOS3.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\d93f411851d7c929.customDestinations-ms~RF7741c9.TMP"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp8411.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpC88D.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\d93f411851d7c929.customDestinations-ms~RF7741c9.TMP"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\TEASuBKrfnqklb.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp8411.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\1NOTGOSQJ9ZKZ2QS070Z.temp"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\kECjS\\kECjS.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpC88D.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\LUBRCNCTNONTU395BOS3.temp"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\iQQTTCnU"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\f4TZTv6WvF.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\schtasks.exe"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shdocvw.dll"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows PowerShell\\desktop.ini"
+			},
+			{
+				"path": "\\pipe\\srvsvc"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\getevent.types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Diagnostics.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\WSMan.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Certificate.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\DotNetTypes.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\FileSystem.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Help.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\PowerShellCore.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\PowerShellTrace.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Registry.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\GAC_MSIL\\System.Management.Automation\\1.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmp8411.tmp"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\wbem\\wbemdisp.tlb"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\CustomMarshalers\\0df8ec76525d72c37f86b6d2ab717e84\\CustomMarshalers.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\stdole2.tlb"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\jDownloader\\config\\database.script"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\profiles.ini"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\d93f411851d7c929.customDestinations-ms"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpC88D.tmp"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://127.0.0.1:HTTP/1.1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://VQZwyWKKJQnc9.net",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://VQZwyWKKJQnc9.netd",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://XlwLdb.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://VQZwyWKKJQnc9.netTR?4",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.theonionrouter.com/dist.torproject.org/torbrowser/9.5.3/tor-win32-0.4.3.6.ziphttps://www",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://DynDns.comDynDNSnamejidpasswordPsi/Psi",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Trojan / Bot",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "RtlUserThreadStart_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_ShellExecuteExW_VirtualProtect_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_VirtualAlloc_DeleteFileW_DeleteFileW_VirtualAlloc_RtlAllocateHeap_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_MapViewOfFileEx_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CreateProcessA_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_ReadProcessMemory_VirtualAllocEx_KiUserExceptionDispatcher_KiUserExceptionDispatcher_AdjustTokenPrivileges_SetErrorMode_SetErrorMode_LoadLibraryExW_SetErrorMode_SetErrorMode_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_SetErrorMode_SetErrorMode_K32EnumProcesses_K32EnumProcesses_K32EnumProcesses_K32EnumProcesses_K32EnumProcesses_RtlUserThreadStart_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_CreateProcessA_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_ReadProcessMemory_VirtualAllocEx_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_VirtualAlloc_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_Wow64SetThreadContext_ResumeThread_CreateThread_CreateThread_CreateThread_PostMessageW_DestroyWindow_PostMessageW_SetConsoleCtrlHandler_RtlUserThreadStart_SleepEx_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_SleepEx_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_UnmapViewOfFile_UnmapViewOfFile_unknown_unknown_unknown_unknown_unknown_unknown",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1047,T1059,T1053",
+		"ATT&CK(Persistence)": "T1053,T1547.001,T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1053,T1547.001,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1036,T1222,T1562.001,T1497,T1055,T1564.001,T1027,T1027.002,T1574.002",
+		"ATT&CK(Credential Access)": "T1003,T1552.002",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1010,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1114,T1560,T1005",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

@@ -1,0 +1,133 @@
+{
+	"md5": "92ba1a30596878bd78a5791bb13db6ef",
+	"data": {
+		"String": [],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(48.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "24576:pwOQqgw1s2mNfFgkJqM5Tn3RMGDwKa0C4:pfW/NffqAnBVTah",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "bea26365270b5ed24d4af7d98e08fd05"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "08a4c094512b4666f11aa5acd1e88a8e"
+			},
+			{
+				"section": ".reloc",
+				"md5": "d693a2929d010d1fde9de1f4cd472c5b"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "92ba1a30596878bd78a5791bb13db6ef",
+		"SHA1": "50a5eb361a1e0f8cdb38de1f8e6587ec9b0499f1",
+		"SHA256": "eac8d1970525a95185e11065a30a4bb786ac2de3a4c2b463c3fe751a0cc4e7c4",
+		"EntryPoint": "4e929e",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 952832,
+		"Original FileName": "EnvironmentPermissionAcc.exe",
+		"Entropy": 7.87,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-03-16 15:00:04(2022-03-16 06:00:04 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0xe72a4:0x200:0xe7400:7.87713737502",
+			".rsrc:0xea000:0x1088:0xe7600:0x1200:6.34222611739",
+			".reloc:0xec000:0xc:0xe8800:0x200:0.101910425663"
+		],
+		"Resource": [
+			"RT_ICON:0xea0e8:0xbff:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced::",
+			"RT_GROUP_ICON:0xeace8:0x14:data::",
+			"RT_VERSION:0xeacfc:0x38c:PGP symmetric key encrypted data - Plaintext or unencrypted data::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\zyqVgoWO"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Qwp2f87xQn.exe"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "CreateIconFromResourceEx_CreateIconFromResourceEx_CreateIconFromResourceEx_CreateIconFromResourceEx_CreateIconFromResourceEx_CreateIconFromResourceEx_CreateIconFromResourceEx_CreateIconFromResourceEx_VirtualAlloc_SetErrorMode_SetErrorMode_LoadLibraryExW_LoadLibraryExW_SetErrorMode_MapViewOfFileEx_CloseHandle_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RegOpenKeyExW_RegOpenKeyExW_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_IsValidLocale_IsValidLocale_RtlDecodePointer_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_SleepEx_RtlUserThreadStart_VirtualAlloc_RegOpenKeyExW_RegOpenKeyExW_GetNativeSystemInfo_GetNativeSystemInfo_GetNativeSystemInfo_FindFirstFileW_FindFirstFileW_FindNextFileW_GetFileAttributesW_CreateFileW_ReadFile_CloseHandle_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_GetNativeSystemInfo_GetNativeSystemInfo_GetNativeSystemInfo_CloseHandle_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_SetErrorMode_SetErrorMode_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_SetErrorMode_SetErrorMode_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_unknown_VirtualAlloc_unknown_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_GlobalMemoryStatusEx_GlobalMemoryStatusEx_GlobalMemoryStatusEx_GlobalMemoryStatusEx_GlobalMemoryStatusEx_GlobalMemoryStatusEx_VirtualAlloc_MapViewOfFileEx_CloseHandle_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_unknown_unknown_KiUserExceptionDispatcher_VirtualProtect_SetErrorMode_SetErrorMode_LoadLibraryExW_SetErrorMode_SetErrorMode_VirtualProtect_unknown_unknown_unknown_VirtualProtect_unknown_unknown_unknown_unknown_VirtualProtect_RtlAllocateHeap_RtlAllocateHeap_KiUserExceptionDispatcher_KiUserExceptionDispatcher_RegOpenKeyExW_RegOpenKeyExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegOpenKeyExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_SetErrorMode_SetErrorMode_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_SetErrorMode_SetErrorMode_GetFileAttributesW_unknown_unknown_unknown_unknown_unknown_unknown_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1562.001,T1497,T1027.002,T1055,T1574.002,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

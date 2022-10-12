@@ -1,0 +1,672 @@
+{
+	"md5": "6b004597cdcb7ba0a7048d3f57dc82d5",
+	"data": {
+		"String": [
+			{
+				"string": "{{ id = {0} }}",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "{{ testagentId = {0}, commandId = {1} }}",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "{{ project = {0} }}",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "*test*.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "<RunSettings></RunSettings>",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "TestExecutionServiceInvalidOperation",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "TestExecutionObjectAlreadyExists",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "TestExecutionObjectNotFoundException",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "TestExecutionAccessDeniedException",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "testAgentId",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "PATCH",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "b7c4fe2a-9dd1-4dae-8b77-8412002de5a4",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "3.1-preview.1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "30421b98-ac6a-48ad-a2bf-0cad4528183f",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "4.1-preview.1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "0F1857DE-6E56-4010-9EA7-F29B80B911C4",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "315806B7-1F2B-4368-B94B-0E469F5E12FC",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "575891B2-50A3-474F-A963-7CA011C97500",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "5B78449B-A866-4726-B989-9083EB2D977C",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "B7C4FE2A-9DD1-4DAE-8B77-8412002DE5A4",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "30421B98-AC6A-48AD-A2BF-0CAD4528183F",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "CYwdpfXOMV0hhAO0A.A3rEsMxCB2oVh5mV4",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Error",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Microsoft Sans Serif",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt0Avg",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt0Grade",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt1Grade",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt1Avg",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt2Grade",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt2Avg",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt3Grade",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt3Avg",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt4Grade",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt4Avg",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "btnEditStudent",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Edit Student Grades",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "btnCalculate",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Calculate Student Grades",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "btnClose",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Close",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStudent4Name",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStudent3Name",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStudent2Name",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStudent1Name",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStudent0Name",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Label1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Student Name",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Label2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Average",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Label3",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Grade",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "MchptNQ6i7LYKqmsn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "IBM Plex Sans",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Cancel",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "btnResetForm",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Reset Grades",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "btnSaveGrades",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Save Grades",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "lblWarning",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Please enter something into each box",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pnlNames",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pnlGrades",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt4gr3",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt3gr1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt4gr2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt0gr0",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt4gr1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt0gr1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt4gr0",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt0gr2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt3gr3",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt0gr3",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt3gr2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt1gr0",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt1gr1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt3gr0",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt1gr2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt2gr3",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt1gr3",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt2gr2",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt2gr0",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "txtStdnt2gr1",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Enter the student's name",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Enter the student's grade",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "rJT2xUpaWle5S2ugJ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Length",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "[0-9]",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "BackColor",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "length",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Please correct the mistakes",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Are you sure you want to remove all grades?",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "This is the caption option",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "uTs63Cr62j7X8bdU8",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "WinForms_RecursiveFormCreate",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "WinForms_SeeInnerException",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Property can only be set to Nothing",
+				"type": "Unicode C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "VB.NET(-)",
+		"linker": "Microsoft Linker(48.0)[EXE32]",
+		"PDB path": "D:\\v2.0\\A2\\_work\\59\\obj\\Release.AnyCPU\\Tfs.Client\\MS.TF.Test.WebApi\\Microsoft.TeamFoundation.Test.WebApi.pdb",
+		"full Fuzzyhash": "24576:qj8H5NzrFyuN9ZSfBTqwh7InLGoh6pxki:jnFrZ8t",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_6b004597cdcb7ba0a7048d3f57dc82d5.jpg",
+		"bytecode": "binary_6b004597cdcb7ba0a7048d3f57dc82d5.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "51f3437ee75a87da01b17e5af6b8ce32"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "74767d123484f27added1e619cb41b45"
+			},
+			{
+				"section": ".reloc",
+				"md5": "cdc093c56aa10ef222139443c3ce5aeb"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "6b004597cdcb7ba0a7048d3f57dc82d5",
+		"SHA1": "76f11f7b670bc4da61186bd566f3de8eebb6c9cd",
+		"SHA256": "9af67cc37142752270d9de43f53ad8e7f92fc2efdb7b952ec239c1c445cd5654",
+		"EntryPoint": "4e4fca",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 932352,
+		"Original FileName": "Microsoft.TeamFoundation.Test.WebApi.dll",
+		"Entropy": 7.273,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "EXECUTABLE_IMAGE, LARGE_ADDRESS_AWARE",
+		"Timestamp": "2019-12-06 02:21:32(2019-12-05 17:21:32 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0xe2fd0:0x200:0xe3000:7.27973892781",
+			".rsrc:0xe6000:0x530:0xe3200:0x600:3.07607386616",
+			".reloc:0xe8000:0xc:0xe3800:0x200:0.101910425663"
+		],
+		"Resource": [
+			"RT_VERSION:0xe6058:0x4d8:data:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "C:\\Windows\\SysWOW64\\regsvr32.exe"
+			},
+			{
+				"cmdline": "/c del 'C:\\Windows\\SysWOW64\\regsvr32.exe'"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\JrJHnbOpVq.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\regsvr32.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\sGLaQjen"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Runt73a1fc9d#\\fd0048cfdcd58dd454d2575e5cb55e70\\System.Runtime.Remoting.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\regsvr32.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\ntdll.dll"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\NAPSTAT.EXE"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "https://go.bandisoft.com/amsi",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.boldmonday.comhttp://www.ibm.comsimple",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docshttps://docs.oracle.com/javY",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://go.bandi.so/apptranslation",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docsssocia",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docshttps://docs.oracle.com/javase/8/docs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.fNDOW~2.LNK",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.ibm.comHow",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docslABC2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.boldmonday.comhttp://www.ibm.comHow",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Trojan / Bot",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CloseHandle_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CloseHandle_VirtualAlloc_RtlUserThreadStart_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CloseHandle_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RtlUserThreadStart_VirtualAlloc_VirtualAlloc_CloseHandle_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CloseHandle_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CloseHandle_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CloseHandle_CreateProcessA_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_VirtualAllocEx_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_RtlUserThreadStart_VirtualAlloc_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_Wow64SetThreadContext_ResumeThread_K32EnumProcesses_K32EnumProcesses_SetKernelObjectSecurity_CloseHandle_K32EnumProcesses_K32EnumProcesses_SetKernelObjectSecurity_SleepEx_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_K32EnumProcesses_K32EnumProcesses_VirtualProtect_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CoWaitForMultipleHandles_CreateThread_CreateThread_CreateThread_RtlUserThreadStart_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_PostMessageW_DestroyWindow_PostMessageW_EtwEventUnregister_VirtualAlloc_UnmapViewOfFile_SleepEx_CloseHandle_SetThreadStackGuarantee_SetThreadStackGuarantee_SetThreadStackGuarantee_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_UnmapViewOfFile_UnmapViewOfFile_unknown_unknown_unknown_unknown_unknown_unknown_unknown",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1059,T1053,T1106,T1129",
+		"ATT&CK(Persistence)": "T1053,T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1053,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1562.001,T1497,T1055,T1140,T1564.002,T1027,T1027.002,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

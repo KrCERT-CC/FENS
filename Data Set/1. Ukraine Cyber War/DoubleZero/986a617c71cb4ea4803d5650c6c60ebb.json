@@ -1,0 +1,511 @@
+{
+	"md5": "986a617c71cb4ea4803d5650c6c60ebb",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "RichEdit"
+			},
+			{
+				"type": "C-Style",
+				"string": "RichEdit20A"
+			},
+			{
+				"type": "C-Style",
+				"string": "RichEd32"
+			},
+			{
+				"type": "C-Style",
+				"string": "RichEd20"
+			},
+			{
+				"type": "C-Style",
+				"string": ".DEFAULT\\Control Panel\\International"
+			},
+			{
+				"type": "C-Style",
+				"string": "Control Panel\\Desktop\\ResourceLocale"
+			},
+			{
+				"type": "C-Style",
+				"string": "[Rename]\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "Software\\Microsoft\\Windows\\CurrentVersion"
+			},
+			{
+				"type": "C-Style",
+				"string": "\\Microsoft\\Internet Explorer\\Quick Launch"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "USER32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "GDI32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SHELL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "ADVAPI32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "COMCTL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "ole32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "VERSION.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "verifying installer: %d%%"
+			},
+			{
+				"type": "C-Style",
+				"string": "Installer integrity check has failed. Common causes include\nincomplete download and damaged media. Contact the\ninstaller's author to obtain a new copy.\n\nMore information at:\nhttp://nsis.sf.net/NSIS_Error"
+			},
+			{
+				"type": "C-Style",
+				"string": "Error launching installer"
+			},
+			{
+				"type": "C-Style",
+				"string": "... %d%%"
+			},
+			{
+				"type": "C-Style",
+				"string": "SeShutdownPrivilege"
+			},
+			{
+				"type": "C-Style",
+				"string": "~nsu.tmp"
+			},
+			{
+				"type": "C-Style",
+				"string": "\\Temp"
+			},
+			{
+				"type": "C-Style",
+				"string": "NSIS Error"
+			},
+			{
+				"type": "C-Style",
+				"string": "Error writing temporary file. Make sure your temp folder is valid."
+			},
+			{
+				"type": "C-Style",
+				"string": "%u.%u%s%s"
+			},
+			{
+				"type": "C-Style",
+				"string": "SHGetFolderPathA"
+			},
+			{
+				"type": "C-Style",
+				"string": "SHFOLDER"
+			},
+			{
+				"type": "C-Style",
+				"string": "SHAutoComplete"
+			},
+			{
+				"type": "C-Style",
+				"string": "SHLWAPI"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetUserDefaultUILanguage"
+			},
+			{
+				"type": "C-Style",
+				"string": "AdjustTokenPrivileges"
+			},
+			{
+				"type": "C-Style",
+				"string": "LookupPrivilegeValueA"
+			},
+			{
+				"type": "C-Style",
+				"string": "OpenProcessToken"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegDeleteKeyExA"
+			},
+			{
+				"type": "C-Style",
+				"string": "ADVAPI32"
+			},
+			{
+				"type": "C-Style",
+				"string": "MoveFileExA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetDiskFreeSpaceExA"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32"
+			},
+			{
+				"type": "C-Style",
+				"string": "%s=%s\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "*?|<>/\":"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(6.0*)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "6144:rGilHHAAQkiGZQUJF7lMUFbi+cLZD/82G6oKi1EH2F8cly4pcL+DXZKbW:pnAA1isQ03+7NEv6o026ipiUKbW",
+		"section Fuzzyhash(.data)": "12:GAxTXsLXFUkKLPk2vM32qXV3KsQigAUPVWFNTXllCF8osAGEbEQx75QABX9JPUkA:FRE8emsV34igAU9WFN3fA1bHxKmJckw",
+		"rich header": "44616e530000000000000000000000008e085f0002000000000001009b00000083085d00110000005423300009000000c706060001000000",
+		"PE Image": "binary_986a617c71cb4ea4803d5650c6c60ebb.jpg",
+		"bytecode": "binary_986a617c71cb4ea4803d5650c6c60ebb.byte",
+		"opcode": "push,mov,sub,cmp,jz,cmp,mov,jnz,mov,mov,push,push,push,push,call,jmp,push,push,mov,lea,push,push,push,call,mov,lea,push,push,call,mov,mov,jmp,imul,mov,sub,imul,add,mov,idiv,xor,mov,imul,imul,add,mov,idiv,imul,mov,imul,add,idiv,shl,lea,push,mov,call,add,mov,push,lea,push,push,call,push,call,add,cmp,jl,cmp,jz,push,call,mov,jz,mov,push,push,mov,mov,call,push,push,call,push,mov,push,call,mov,lea,push,push,push,push,push,call,push,push,call,push,call,lea,push,push,call,pop,pop,xor,pop,mov,mov,mov,push,imul,push,push,mov,jz,lea,xor,cmp,jnb,mov,imul,lea,mov,jz,inc,jmp,jz,mov,dec,jz,jmp,jnz,mov,xor,xor,mov,inc,add,cmp,jb,pop,pop,pop,push,mov,push,push,mov,push,push,mov,imul,mov,xor,add,push,mov,mov,mov,jz,cmp,jz,inc,mov,cmp,jnb,mov,imul,lea,lea,mov,jz,push,push,call,mov,jnz,jz,inc,jz,inc,jmp,inc,cmp,mov,jb,xor,pop,pop,pop,cmp,jz,cmp,jz,jmp,mov,mov,jmp,mov,mov,push,xor,cmp,jnb,cmp,jbe,lea,push,mov,jnz,xor,inc,shl,jz,jmp,mov,inc,add,cmp,jb,pop,pop,push,mov,sub,mov,push,push,add,push,mov,mov,mov,xor,cmp,jz,cmp,jnb,mov,add,mov,jnz,mov,jz,cmp,jz,mov,xor,inc,shl,mov,mov,mov,shl,cmp,jnz,inc,add,cmp,jb,cmp,jz,inc,add,cmp,jb,mov,pop,pop,pop,mov,jge,inc,mov,shl,sub,push,call,push,mov,jmp,mov,mov,imul,add,cmp,jz,push,call,cmp,jz,push,call,jnz,inc,inc,jmp,dec,mov,mov,sub,cmp,jz,add,push,push,push,push,call,push,push,push,call,jge,xor,pop,mov,jmp,mov,mov,push,push,call,push,push,call,push,mov,sub,mov,push,push,mov,push,push,pop,lea,mov,xor,mov,mov,mov,mov,shl,mov,mov,shl,add,add,lea,mov,mov,add,cmp,ja,jmp,push,push,call,jmp,inc,cmp,jz,push,call,jmp,push,call,dec,push,push,call,jmp,push,push,call,jmp,push,call,cmp,jg,xor,inc,push,call,jmp,push,call,jmp,shl,cmp,jnz,mov,push,mov,call,mov,mov,jmp,mov,mov,jmp,mov,lea,xor,mov,cmp,mov,mov,jmp,push,push,jmp,mov,mov,cmp,jz,push,push,call,mov,mov,cmp,jz,push,push,call,jmp,push,call,push,push,call,jnz,jmp,push,call,mov,push,call,mov,cmp,jz,push,push,call,mov,push,push,mov,mov,mov,call,jnz,call,cmp,jnz,push,call,jnz,inc,mov,mov,inc,cmp,jnz,cmp,jz,push,call,push,push,call,push,call,jmp,push,jmp,push,call,push,call,jmp,push,call,push,mov,call,push,mov,call,push,push,call,jz,push,jmp,cmp,jz,push,call,jz,push,push,call,push,jmp,push,call,mov,lea,push,push,push,push,call,jz,mov,cmp,jbe,cmp,jz,push,call,cmp,jz,add,push,push,call,jmp,mov,mov,cmp,jnz,push,push,push,call,jmp,push,call,lea,push,push,push,push,push,push,call,jnz,jmp,push,call,push,push,call,jmp,push,call,mov,mov,push,mov,mov,call,push,mov,jz,push,call,jmp,push,push,call,push,call,push,call,push,call,mov,cmp,jl,push,call,xor,cmp,jz,lea,add,push,push,call,mov,mov,add,neg,sbb,inc,mov,cmp,jnz,push,call,xor,cmp,inc,push,push,push,call,cmp,mov,jnz,cmp,jnz,push,push,call,push,push,call,push,push,call,push,push,call,mov,sar,push,push,call,sub,jz,dec,jz,push,push,jmp,push,push,call,cmp,jmp,inc,jmp,push,push,call,inc,push,push,push,push,call,dec,cmp,mov,jnz,cmp,jz,lea,push,lea,push,push,push,call,push,call,cmp,jge,cmp,jnz,push,push,call,push,push,call,jmp,push,push,call,push,push,jmp,push,jmp,push,call,push,push,call,cmp,jz,cmp,jz,cmp,jnz,mov,jmp,push,call,push,push,call,jmp,push,call,push,call,jmp,push,call,push,mov,call,push,mov,call,cmp,mov,mov,jz,cmp,jz,push,call,cmp,jge,add,js,cmp,jle,mov,mov,add,push,push,call,mov,cmp,jz,jge,push,call,add,jns,mov,mov,cmp,jge,mov,jmp,push,call,push,mov,call,cmp,push,push,jnz,call,jnz,mov,jmp,call,jmp,xor,inc,push,call,push,push,push,mov,call,jz,cmp,jz,push,push,call,jnz,mov,mov,mov,jmp,push,call,push,mov,call,cmp,jnz,cmp,jl,jle,jmp,cmp,jnb,mov,jmp,jbe,mov,jmp,push,call,push,mov,call,mov,mov,cmp,ja,jmp,add,jmp,sub,jmp,imul,mov,jmp,cmp,jz,mov,idiv,mov,jmp,jmp,jmp,xor,jmp,xor,cmp,jmp,cmp,jnz,jmp,xor,jmp,cmp,jz,cmp,jz,xor,inc,jmp,cmp,jz,mov,idiv,mov,jmp,xor,mov,jmp,shl,jmp,sar,push,jmp,push,call,push,mov,call,push,push,push,call,add,jmp,mov,mov,cmp,jz,dec,cmp,jz,mov,cmp,jnz,cmp,jz,add,mov,push,push,call,mov,add,push,push,call,mov,push,add,push,jmp,cmp,jz,cmp,jz,lea,push,push,call,mov,push,mov,call,jmp,push,push,call,push,mov,lea,push,call,mov,mov,mov,jmp,push,call,push,mov,call,mov,jz,push,call,mov,jz,push,call,mov,cmp,push,jnz,call,push,mov,call,mov,sar,jz,lea,push,push,push,push,push,push,push,call,neg,sbb,inc,mov,jmp,push,push,push,push,call,jmp,call,push,mov,call,mov,neg,sbb,mov,neg,sbb,push,push,push,push,call,mov,cmp,jl,push,jmp,push,call,push,call,jz,mov,jmp,push,call,push,push,call,push,call,jmp,mov,add,push,push,push,call,push,call,jmp,push,push,call,mov,lea,push,push,call,mov,push,imul,push,mov,imul,push,push,push,call,push,push,call,push,push,push,push,call,cmp,jz,push,call,jmp,push,push,push,call,push,call,push,push,call,push,call,neg,push,mov,call,mov,mov,push,mov,mov,mov,mov,push,mov,mov,call,push,call,jmp,push,call,push,mov,call,cmp,push,push,jnz,call,jmp,call,jmp,push,call,push,mov,call,push,mov,call,push,mov,call,push,call,mov,push,neg,sbb,push,push,mov,neg,sbb,push,push,push,call,cmp,jge,jmp,push,call,mov,push,push,call,push,call,cmp,mov,jz,cmp,jz,mov,jmp,push,call,push,push,call,cmp,jz,lea,push,push,call,cmp,jl,push,push,call,jmp,cmp,jz,mov,push,call,jmp,push,call,push,call,cmp,mov,jz,mov,push,push,call,push,jmp,mov,mov,jmp,push,call,lea,mov,push,push,call,mov,cmp,mov,mov,mov,jz,push,push,call,cmp,mov,jz,push,push,push,push,call,jz,lea,push,lea,push,push,push,call,jz,mov,push,push,call,mov,push,push,call,mov,push,jmp,cmp,mov,jl,push,call,push,mov,call,cmp,mov,jz,push,call,mov,cmp,jnz,push,push,push,call,mov,cmp,jz,push,push,call,mov,cmp,jz,cmp,mov,jz,push,call,call,jz,mov,jmp,push,push,push,push,push,call,add,jmp,push,push,call,cmp,jnz,push,call,jmp,push,jmp,push,jmp,push,call,push,mov,call,push,mov,call,push,mov,call,push,mov,call,push,mov,call,jnz,push,call,lea,push,push,push,push,push,call,cmp,jl,mov,lea,push,push,mov,push,call,mov,cmp,jl,mov,push,push,mov,call,mov,mov,push,push,mov,call,mov,mov,mov,sar,jz,mov,push,push,mov,call,mov,mov,sar,mov,push,push,call,mov,cmp,jz,mov,mov,mov,push,push,push,call,mov,push,mov,push,call,mov,push,mov,push,call,cmp,jl,mov,push,push,push,push,mov,push,push,call,jz,mov,push,push,push,mov,call,mov,mov,push,mov,call,mov,push,mov,call,cmp,jge,mov,push,call,jmp,push,jmp,push,call,push,mov,call,push,mov,call,push,mov,call,jnz,push,push,call,jmp,mov,push,mov,mov,call,push,mov,call,mov,mov,mov,push,push,mov,mov,mov,mov,call,lea,push,call,jz,jmp,cmp,jz,push,push,push,call,push,call,mov,jmp,inc,jmp,xor,xor,cmp,jz,push,call,mov,mov,cmp,jz,push,call,mov,cmp,jz,push,call,mov,push,call,push,push,push,push,call,jmp,push,mov,call,push,mov,call,push,mov,call,push,push,lea,push,push,push,push,call,mov,cmp,jmp,cmp,jnz,push,call,mov,cmp,jz,push,call,push,push,call,push,mov,call,jmp,push,call,mov,push,push,push,call,push,call,mov,cmp,jz,jmp,push,call,mov,mov,mov,push,mov,call,push,mov,call,lea,push,push,mov,push,push,push,push,push,push,push,mov,call,jnz,cmp,mov,jnz,push,call,push,call,inc,cmp,jnz,push,call,push,mov,pop,cmp,jnz,push,push,push,push,call,push,push,push,push,push,push,call,jnz,mov,push,jmp,push,call,push,mov,call,cmp,mov,jz,lea,mov,push,lea,push,push,push,push,push,call,xor,inc,jnz,cmp,jz,cmp,jz,cmp,jnz,mov,mov,mov,mov,jmp,push,xor,cmp,push,mov,call,jmp,mov,mov,jmp,push,call,push,mov,call,cmp,mov,jz,cmp,mov,mov,jz,push,push,push,push,call,jmp,push,push,push,lea,push,push,push,push,push,call,jnz,mov,push,call,jmp,cmp,jz,push,call,push,jmp,push,call,push,push,push,call,cmp,jz,push,jmp,cmp,jz,push,call,mov,xor,inc,jmp,push,call,push,call,cmp,jz,lea,push,push,push,push,push,call,push,call,jmp,push,mov,call,cmp,mov,jl,mov,cmp,jle,mov,cmp,jz,push,mov,call,cmp,mov,jle,mov,lea,push,push,lea,push,push,push,call,jz,cmp,jnz,cmp,jnz,cmp,jz,cmp,jz,mov,mov,inc,cmp,mov,jz,cmp,jl,jmp,push,push,call,jmp,mov,cmp,jz,cmp,jz,cmp,jnz,mov,inc,jmp,push,push,push,push,call,jmp,mov,mov,cmp,jmp,cmp,jz,push,push,push,call,push,push,call,push,call,cmp,jl,jmp,cmp,jz,push,call,push,call,jmp,cmp,jz,lea,push,push,call,push,call,jnz,mov,mov,jmp,push,call,lea,push,push,call,cmp,jnz,mov,mov,mov,jmp,push,push,call,lea,push,push,jmp,push,mov,call,mov,push,mov,call,jnz,push,call,push,call,push,push,push,call,cmp,mov,jz,mov,mov,push,push,mov,call,mov,cmp,jz,push,call,push,push,call,push,push,call,mov,cmp,mov,jz,push,push,push,push,call,jmp,mov,mov,add,push,add,push,push,mov,call,add,cmp,jnz,push,call,lea,push,push,push,push,push,call,push,call,push,push,push,push,call,mov,push,call,cmp,push,pop,jge,push,pop,push,call,mov,push,jmp,push,call,cmp,mov,jnb,mov,mov,imul,add,cmp,jl,mov,jnz,add,push,push,call,jmp,push,jmp,sub,mov,jz,push,call,mov,jmp,push,lea,push,call,mov,mov,mov,cmp,jz,push,call,jmp,push,call,cmp,jnb,cmp,jz,cmp,jz,push,call,push,push,call,jmp,push,call,push,push,call,jmp,cmp,jz,mov,mov,mov,jmp,mov,push,push,call,jmp,mov,push,push,push,push,call,cmp,jz,push,push,push,call,mov,add,xor,pop,pop,pop,mov,mov,push,push,call,push,call,push,mov,push,mov,jge,neg,mov,mov,sar,push,shl,add,push,call,mov,jge,push,call,mov,pop,pop,push,mov,sub,push,push,lea,push,push,mov,xor,push,push,push,push,call,cmp,jnz,mov,mov,jmp,cmp,jnz,lea,push,push,push,call,jnz,lea,push,push,push,push,call,jz,push,call,push,call,cmp,jz,push,push,push,push,call,jmp,push,call,xor,inc,pop,pop,pop,cmp,jnz,push,push,call,jnz,jmp,mov,jnz,mov,add,push,mov,lea,push,mov,push,push,push,call,push,mov,push,call,push,call,neg,sbb,not,pop,push,mov,sub,cmp,jnz,push,push,push,push,call,mov,cmp,jnz,mov,mov,cmp,jl,mov,push,push,push,call,push,lea,push,push,call,add,lea,push,push,call,lea,push,push,push,call,xor,push,xor,cmp,jz,mov,cmp,jz,push,call,mov,pop,cmp,jz,push,call,pop,call,cmp,jbe,push,push,push,push,push,call,mov,pop,push,mov,sub,push,push,xor,push,mov,mov,call,mov,push,add,push,push,mov,call,push,push,push,call,mov,cmp,mov,mov,jnz,mov,jmp,push,mov,push,call,push,call,push,push,call,push,push,call,cmp,mov,mov,jle,mov,mov,mov,neg,sbb,add,cmp,jl,mov,push,push,call,jz,cmp,jnz,push,lea,push,push,call,mov,jnz,cmp,jnz,cmp,jnz,cmp,jnz,cmp,jnz,mov,mov,mov,cmp,mov,jg,jnz,jnz,inc,lea,cmp,jbe,mov,jmp,jnz,push,call,pop,cmp,jge,push,push,push,call,mov,add,sub,jg,xor,push,call,cmp,pop,jz,cmp,jz,push,call,lea,push,push,call,jz,mov,cmp,jnz,push,push,call,mov,mov,add,push,call,push,push,push,push,call,cmp,jz,mov,jmp,push,call,pop,jmp,mov,mov,mov,jz,inc,push,lea,pop,sub,add,dec,jnz,push,push,push,push,call,mov,add,push,push,push,call,xor,pop,pop,pop,push,mov,sub,push,push,mov,push,mov,mov,jnz,mov,mov,jnz,mov,mov,jl,mov,add,push,call,lea,push,push,call,jz,jz,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,jle,mov,cmp,jge,mov,mov,push,push,call,jz,sub,mov,mov,mov,mov,push,mov,mov,call,mov,jl,mov,sub,call,mov,jz,sub,cmp,ja,cmp,jnz,mov,push,sub,push,push,call,push,lea,push,push,call,add,lea,push,push,call,mov,xor,cmp,jz,cmp,jnz,push,lea,push,push,push,push,call,jz,cmp,jnz,add,jmp,mov,add,sub,mov,cmp,jnz,jmp,cmp,jg,jmp,push,jmp,push,jmp,jz,cmp,jge,mov,push,push,call,jnz,push,pop,jmp,mov,cmp,jge,mov,mov,push,push,call,jz,lea,push,push,push,push,push,call,jz,cmp,jnz,add,sub,cmp,jg,jmp,mov,mov,pop,pop,pop,push,mov,push,mov,lea,push,push,push,push,push,call,jz,cmp,jnz,xor,inc,jmp,xor,pop,pop,push,push,push,push,call,push,mov,push,call,push,call,jnz,pop,push,call,push,push,call,push,push,call,pop,sub,push,push,push,xor,push,mov,mov,xor,mov,call,push,call,push,call,push,mov,call,mov,push,lea,push,push,push,push,call,push,push,call,call,mov,push,push,call,push,call,cmp,mov,mov,jnz,mov,mov,push,push,call,push,call,mov,jmp,cmp,jnz,inc,cmp,jz,cmp,mov,jnz,inc,mov,cmp,jnz,inc,cmp,jnz,mov,cmp,jnz,cmp,jnz,mov,cmp,jnz,cmp,jz,push,push,call,cmp,jnz,inc,mov,cmp,jnz,jmp,mov,add,push,push,call,mov,push,push,call,call,jnz,push,push,call,push,push,call,call,jz,push,call,push,call,cmp,mov,jnz,cmp,jz,push,push,call,mov,jmp,cmp,jz,dec,cmp,jnb,cmp,mov,jb,mov,add,push,call,jz,push,push,call,push,push,call,mov,call,mov,call,call,cmp,jz,push,push,call,push,call,push,push,call,mov,push,push,call,jz,push,push,call,push,call,cmp,jnz,push,push,call,push,push,call,push,mov,pop,mov,mov,push,push,call,push,call,cmp,jz,push,push,push,call,jz,push,push,call,mov,push,push,call,push,call,cmp,jz,push,call,mov,inc,dec,jnz,push,push,call,jmp,cmp,jz,push,call,push,mov,call,push,mov,call,cmp,mov,jz,cmp,jz,cmp,jz,lea,push,push,call,push,call,jz,lea,push,push,push,call,push,push,lea,push,push,push,push,mov,mov,call,push,push,call,jnz,push,call,mov,cmp,jz,mov,push,call,mov,cmp,jz,push,call,push,push,call,sub,push,push,push,mov,push,push,call,xor,cmp,jz,call,push,push,call,jmp,mov,push,push,push,push,push,mov,call,cmp,jnz,push,push,push,push,push,call,push,push,call,call,mov,mov,push,mov,call,jnz,mov,cmp,jz,mov,mov,mov,push,add,push,add,push,push,push,call,mov,cmp,jz,cmp,jnz,mov,push,push,call,mov,push,call,lea,cmp,jbe,push,push,call,jnz,push,call,cmp,jz,jnz,push,call,push,call,push,push,call,push,call,jnz,push,push,call,push,push,push,push,push,push,call,mov,cmp,mov,jz,mov,mov,lea,push,mov,mov,mov,mov,call,jz,lea,push,push,push,push,call,push,push,mov,sub,push,push,push,mov,sub,push,lea,push,push,push,push,push,push,call,mov,push,call,jz,push,pop,jmp,call,cmp,jnz,push,push,call,mov,push,call,jnz,push,call,mov,mov,push,push,push,call,jnz,push,push,push,call,push,mov,call,mov,push,add,push,push,push,push,call,push,mov,call,mov,jmp,push,call,jz,cmp,jnz,push,call,jmp,push,call,xor,pop,pop,pop,pop,add,push,push,push,push,mov,mov,push,call,mov,jz,mov,mov,mov,imul,neg,add,add,dec,mov,xor,jz,jnz,jmp,mov,mov,mov,mov,lea,jnz,cmp,jnz,mov,jmp,xor,jmp,mov,push,push,call,push,push,call,push,push,call,mov,mov,jz,mov,mov,jz,push,lea,push,call,add,dec,jnz,pop,pop,pop,pop,sub,mov,push,mov,push,push,cmp,push,jz,cmp,jz,mov,xor,cmp,jnz,push,push,push,push,push,push,push,call,cmp,jnz,mov,dec,neg,sbb,push,push,call,cmp,jnz,push,call,mov,mov,jmp,cmp,jnz,push,push,push,call,xor,inc,jmp,cmp,jnz,push,push,call,mov,cmp,jz,push,push,push,push,call,push,call,jz,cmp,jnz,push,jmp,cmp,jnz,cmp,jle,push,jmp,push,pop,cmp,jnz,cmp,jz,push,call,mov,push,call,jmp,push,call,jnz,mov,jmp,push,push,push,push,call,push,push,push,call,jmp,mov,mov,cmp,mov,jnz,mov,push,push,mov,call,push,push,mov,call,push,push,push,mov,call,push,push,push,call,push,call,mov,xor,inc,mov,mov,xor,mov,shl,add,cmp,jl,cmp,jnz,push,push,call,jz,push,push,push,push,call,xor,cmp,jmp,cmp,jz,push,call,mov,add,shl,add,mov,cmp,jnz,push,call,cmp,jnz,mov,cmp,jnb,push,mov,push,call,push,push,push,call,push,push,push,call,push,push,push,call,push,push,call,cmp,mov,jz,mov,push,push,call,mov,push,push,call,mov,push,call,push,push,call,cmp,jz,push,jmp,push,push,push,push,call,push,call,mov,push,push,push,push,call,cmp,jz,push,push,push,push,call,push,jmp,push,call,mov,push,push,call,push,push,call,add,push,call,push,push,call,push,push,call,jnz,cmp,jz,cmp,jnz,cmp,jnz,cmp,jnz,jmp,push,call,mov,cmp,jle,mov,push,push,mov,add,push,push,push,call,cmp,mov,jz,push,push,push,call,lea,push,push,push,call,push,call,lea,push,push,call,push,push,push,push,push,push,push,call,push,push,call,cmp,jnz,push,push,call,push,call,jmp,push,call,push,mov,push,call,cmp,jnz,cmp,jz,push,push,call,mov,xor,pop,pop,pop,pop,add,cmp,jnz,inc,push,push,push,push,call,push,push,call,push,mov,add,push,push,call,push,push,call,push,push,push,push,call,mov,jz,push,push,push,push,call,push,mov,sub,mov,push,add,cmp,ja,push,push,call,mov,jz,mov,push,mov,jz,push,call,jz,push,push,call,push,push,call,mov,mov,jz,push,call,mov,pop,jz,push,push,call,jz,mov,mov,mov,jz,push,call,lea,push,call,mov,mov,jmp,xor,pop,push,mov,mov,mov,push,add,push,push,call,push,call,mov,mov,add,xor,pop,push,mov,sub,cmp,push,push,push,jnz,mov,mov,jge,mov,lea,sub,mov,mov,push,add,push,mov,mov,push,mov,inc,not,shr,mov,mov,call,push,push,push,call,xor,push,add,push,push,call,push,call,push,push,call,mov,push,call,mov,push,push,push,push,call,mov,mov,jge,neg,push,call,push,push,push,push,call,push,push,push,push,call,push,call,push,push,push,push,call,lea,push,push,push,push,call,xor,jmp,cmp,mov,mov,jnz,mov,shr,jnz,xor,cmp,jnz,mov,lea,jz,push,push,push,push,push,call,push,call,mov,push,mov,call,call,cmp,jnz,push,push,call,mov,cmp,jnz,cmp,jnz,mov,mov,mov,sub,cmp,mov,mov,jnb,lea,push,push,push,push,call,mov,push,push,call,mov,push,call,push,push,push,push,push,push,call,push,push,call,push,call,mov,cmp,jnz,cmp,jnz,cmp,jnz,push,push,push,push,call,cmp,jnz,push,push,push,push,call,xor,inc,jmp,cmp,jnz,inc,mov,push,push,push,call,pop,pop,pop,cmp,mov,jnz,mov,push,push,push,push,call,push,mov,cmp,push,mov,jnz,push,push,push,call,mov,shl,add,push,push,push,call,push,push,push,call,pop,pop,push,mov,sub,mov,push,push,mov,mov,mov,shl,add,cmp,push,mov,mov,jnz,push,push,call,push,call,cmp,jnz,mov,push,push,call,push,mov,call,jz,push,call,jnz,push,call,push,mov,push,call,mov,push,push,push,call,mov,push,push,push,call,push,call,push,call,jz,push,push,call,cmp,jnz,cmp,jnz,mov,shr,cmp,jnz,mov,cmp,jnz,push,xor,pop,lea,push,mov,mov,push,mov,mov,mov,mov,call,mov,lea,push,mov,call,jz,push,call,push,call,mov,mov,jz,cmp,jnz,push,push,call,push,mov,push,call,jz,push,push,call,inc,push,push,push,call,jmp,mov,cmp,jz,cmp,jnz,push,push,call,push,call,jnz,mov,mov,push,push,call,xor,push,call,cmp,mov,jz,xor,cmp,jz,lea,push,lea,push,lea,push,push,call,jnz,jz,push,call,mov,dec,cmp,mov,jnz,xor,push,push,call,push,call,cmp,jz,lea,push,lea,push,lea,push,lea,push,push,call,jz,mov,mov,imul,push,push,push,call,mov,mov,jmp,mov,mov,shr,mov,xor,jmp,mov,mov,push,call,cmp,jz,cmp,jnb,mov,mov,cmp,jz,push,push,push,call,cmp,jz,push,push,push,call,jmp,push,push,push,call,mov,cmp,mov,jnz,push,call,mov,mov,jz,mov,xor,cmp,push,call,cmp,jnz,cmp,jnz,call,mov,push,push,push,call,pop,pop,pop,push,mov,cmp,push,mov,jnz,push,push,call,push,push,push,push,call,cmp,jnz,push,push,call,jz,push,call,jnz,inc,jmp,xor,push,push,push,push,call,xor,pop,pop,push,mov,sub,push,push,mov,push,push,cmp,pop,push,pop,jnb,push,pop,push,pop,cmp,jnb,push,xor,pop,cmp,jnb,xor,mov,inc,push,shl,pop,idiv,add,lea,push,push,call,push,lea,push,push,call,push,mov,mov,push,xor,lea,add,shr,pop,div,mov,shr,push,push,push,mov,push,push,call,push,mov,call,add,push,call,add,push,push,push,call,pop,pop,pop,mov,mov,xor,jz,push,jz,mov,add,add,dec,jnz,pop,push,mov,sub,push,mov,push,mov,push,push,push,push,call,cmp,jz,call,shr,mov,lea,push,push,mov,call,lea,push,push,push,push,call,jnz,jmp,mov,mov,lea,push,push,push,push,mov,call,mov,pop,pop,push,mov,sub,push,push,mov,push,push,push,call,push,mov,push,call,mov,mov,mov,mov,add,xor,cmp,mov,mov,jnz,mov,push,mov,mov,pop,mov,shl,push,push,mov,call,push,mov,push,call,push,push,mov,push,call,push,push,push,push,push,mov,call,push,mov,push,push,call,push,push,push,push,call,push,push,push,push,call,cmp,jge,push,push,push,push,call,push,call,xor,mov,mov,cmp,jz,cmp,jz,mov,push,push,call,push,push,push,push,call,push,push,push,push,call,inc,cmp,jl,mov,mov,push,push,push,call,push,push,push,call,xor,xor,cmp,jle,mov,lea,mov,lea,cmp,jz,mov,mov,push,mov,pop,mov,mov,mov,mov,mov,mov,jz,lea,mov,push,push,push,mov,push,call,mov,mov,mov,mov,mov,jmp,jz,push,push,push,push,call,mov,jmp,lea,push,push,push,push,call,mov,mov,mov,inc,add,cmp,mov,jl,cmp,jnz,push,push,call,push,push,push,call,cmp,jnz,push,push,call,push,call,jmp,push,call,mov,xor,cmp,jnz,xor,mov,inc,mov,mov,jmp,mov,cmp,mov,jz,cmp,jnz,cmp,mov,jz,cmp,jnz,jnz,cmp,jz,mov,cmp,jnz,xor,cmp,push,push,call,cmp,jl,mov,imul,lea,mov,jnz,jz,xor,jns,jmp,jmp,xor,push,mov,call,mov,xor,not,inc,mov,shr,mov,mov,cmp,jz,mov,cmp,jnz,push,push,push,push,call,mov,cmp,jnz,cmp,jnz,mov,imul,lea,jmp,mov,imul,lea,cmp,jnz,cmp,jnz,mov,shr,cmp,jnz,push,push,push,push,call,cmp,jz,push,push,push,push,call,mov,cmp,jz,mov,cmp,jnz,push,pop,push,call,push,push,push,push,call,mov,mov,mov,cmp,jnz,push,push,push,push,call,cmp,jnz,mov,cmp,jz,push,call,mov,cmp,jz,push,call,mov,mov,mov,cmp,jnz,push,push,call,cmp,jz,push,call,cmp,jz,push,call,mov,push,call,xor,xor,cmp,jle,mov,cmp,jz,inc,inc,cmp,jl,push,push,push,push,call,mov,mov,push,push,call,mov,cmp,mov,mov,mov,mov,jle,lea,mov,mov,mov,cmp,jz,mov,mov,mov,jz,lea,mov,mov,jz,push,pop,jmp,mov,inc,jz,add,mov,push,shl,mov,sar,add,inc,mov,push,push,push,call,lea,push,push,push,push,call,inc,add,mov,cmp,jl,push,push,push,call,mov,cmp,jz,push,call,push,push,push,call,cmp,jnz,jz,xor,cmp,mov,shl,mov,push,push,call,push,push,push,call,push,call,push,push,push,call,pop,pop,pop,push,mov,cmp,push,push,jnz,cmp,jnz,push,call,xor,jmp,cmp,mov,jnz,push,call,jz,push,push,call,mov,mov,jmp,mov,cmp,jnz,cmp,jz,push,mov,mov,push,push,mov,call,push,push,call,push,call,push,push,call,pop,jmp,mov,push,push,push,push,push,call,pop,pop,pop,push,mov,sub,mov,push,xor,push,cmp,push,mov,jz,mov,mov,mov,mov,jnz,push,push,call,push,call,cmp,mov,jz,push,call,add,cmp,jnb,push,push,call,jnz,push,push,call,jnz,push,push,push,mov,push,mov,mov,call,sub,mov,mov,lea,push,mov,sub,push,push,push,call,push,push,push,push,call,cmp,jz,mov,mov,pop,pop,pop,push,mov,push,mov,push,call,push,call,jz,add,dec,jz,push,push,call,jnz,add,jnz,jmp,inc,push,call,call,mov,pop,pop,push,mov,sub,push,push,push,mov,xor,cmp,mov,jnz,xor,lea,mov,mov,mov,mov,mov,mov,push,mov,mov,push,mov,mov,call,push,mov,push,call,push,mov,push,call,push,mov,mov,call,push,call,mov,lea,push,mov,push,call,push,call,mov,mov,sub,lea,push,push,push,mov,push,call,mov,push,push,push,push,call,cmp,jl,push,push,push,push,call,push,push,push,push,call,cmp,jl,push,push,push,push,call,mov,push,push,push,call,jz,push,push,call,jnz,push,push,call,jmp,mov,push,call,push,push,call,push,mov,push,push,push,call,jz,push,push,push,push,call,push,push,push,push,call,jmp,cmp,jnz,lea,push,push,push,push,call,push,push,push,push,call,push,call,cmp,mov,jnz,cmp,jnz,push,push,call,push,push,call,push,call,cmp,jnz,cmp,jz,push,mov,call,push,push,push,call,pop,pop,pop,push,push,call,cmp,jnz,mov,push,push,call,push,call,cmp,jnz,cmp,jnz,push,push,push,push,call,cmp,mov,jle,call,push,push,mov,call,push,push,push,push,call,mov,cmp,jnz,lea,push,push,call,mov,mov,jmp,shr,push,push,push,push,push,push,push,call,xor,inc,cmp,jnz,mov,mov,mov,mov,mov,mov,dec,lea,push,push,push,push,call,cmp,lea,jnz,push,call,call,push,push,call,push,mov,call,mov,lea,mov,push,push,push,push,call,add,mov,inc,inc,inc,cmp,jl,push,call,push,push,call,call,xor,jmp,push,mov,sub,lea,mov,push,xor,push,push,push,push,push,push,push,push,push,call,jz,push,call,mov,push,push,push,push,call,mov,mov,cmp,jz,shr,jnz,cmp,jz,xor,mov,push,mov,mov,mov,mov,mov,mov,mov,call,push,mov,sub,push,push,mov,push,call,mov,jz,push,call,neg,sbb,inc,add,jmp,push,mov,mov,jz,jz,jz,mov,push,push,call,jz,push,push,call,jmp,push,call,cmp,jnz,cmp,jnz,push,push,call,push,call,mov,lea,push,push,add,call,cmp,mov,jz,lea,push,push,lea,call,cmp,jz,cmp,jz,lea,cmp,jnz,mov,jz,cmp,jnz,cmp,jz,push,push,call,jz,mov,cmp,jnz,push,push,call,jmp,push,call,push,call,jnz,jz,push,push,call,push,push,call,jmp,inc,jmp,push,push,call,lea,push,push,call,jnz,push,call,cmp,jz,xor,pop,cmp,jz,cmp,jnz,inc,jmp,push,call,jz,push,call,push,call,push,call,jnz,jz,push,push,call,push,push,call,jmp,push,push,call,pop,pop,push,mov,push,call,add,push,push,call,cmp,jz,push,push,call,mov,pop,mov,jmp,cmp,jz,push,call,mov,jnz,push,mov,push,call,add,cmp,jz,push,push,call,cmp,ja,inc,pop,mov,mov,cmp,jz,cmp,jl,cmp,jg,cmp,jz,xor,jmp,xor,inc,push,push,mov,push,mov,push,call,mov,push,call,cmp,jz,cmp,jnz,push,call,jmp,cmp,jnz,push,pop,push,push,dec,call,cmp,jz,inc,jnz,jmp,xor,pop,pop,pop,push,push,push,mov,push,call,push,call,mov,jnz,xor,jmp,push,call,jz,mov,jz,cmp,jz,sub,jmp,call,jz,jz,push,call,push,call,cmp,push,jg,call,push,call,xor,cmp,mov,pop,pop,push,push,push,push,call,mov,mov,jmp,push,mov,push,call,mov,jz,push,call,mov,push,call,cmp,jge,xor,pop,pop,pop,mov,jmp,mov,push,mov,jle,mov,sub,mov,mov,inc,dec,jnz,pop,push,call,cmp,jz,push,push,call,push,call,mov,push,inc,neg,sbb,push,push,push,push,push,push,call,push,mov,push,mov,push,push,pop,dec,mov,call,push,xor,pop,div,push,lea,push,push,push,add,call,jnz,jnz,pop,pop,pop,mov,jmp,push,push,push,push,push,call,mov,jz,push,push,push,call,jnz,mov,mov,mov,mov,jz,push,push,push,call,push,call,push,push,push,call,jz,cmp,jg,mov,push,push,push,call,jz,cmp,jg,push,push,push,push,call,mov,mov,add,push,push,call,push,push,push,call,mov,cmp,mov,jz,push,push,call,mov,lea,push,push,call,mov,jz,lea,push,push,push,push,push,call,jz,cmp,jnz,push,push,call,jnz,lea,push,push,call,add,mov,push,add,push,push,call,xor,push,push,push,push,call,lea,push,add,push,push,push,push,call,push,call,push,call,inc,pop,pop,pop,pop,add,push,push,call,jz,inc,lea,cmp,mov,jnb,mov,mov,inc,cmp,jb,mov,sub,jmp,push,mov,push,lea,push,push,mov,xor,neg,sbb,mov,mov,push,push,push,push,call,jnz,lea,mov,push,lea,push,push,push,push,push,call,jnz,cmp,jz,cmp,jz,mov,push,mov,call,pop,pop,pop,push,push,push,call,add,push,mov,push,mov,push,push,push,xor,cmp,mov,mov,mov,jnz,inc,cmp,jnz,inc,mov,cmp,jl,cmp,jg,mov,mov,cmp,jnz,mov,inc,inc,cmp,jl,cmp,jg,sub,jmp,cmp,jnz,mov,cmp,jl,cmp,jg,add,imul,add,mov,jmp,mov,imul,pop,pop,pop,push,push,push,call,push,mov,sub,mov,jge,mov,lea,sub,mov,mov,mov,add,mov,push,sub,push,push,cmp,mov,jnb,mov,jmp,mov,sub,cmp,jge,inc,cmp,mov,jbe,mov,add,mov,shl,mov,mov,cmp,mov,mov,mov,jnz,push,pop,call,jns,cmp,jz,cmp,jz,cmp,jz,jmp,mov,cmp,jz,push,pop,jns,mov,add,push,push,push,push,push,call,cmp,jnz,push,push,call,jmp,cmp,jnz,push,push,call,jmp,cmp,jnz,push,push,call,xor,jmp,mov,xor,dec,cmp,jz,cmp,jz,push,push,push,push,push,call,jz,lea,push,push,push,call,jnz,push,push,call,push,mov,call,jnz,jnz,cmp,jz,cmp,jnz,push,push,call,push,call,jmp,cmp,jnz,cmp,jnz,push,push,call,jmp,mov,shl,add,push,push,call,add,cmp,jnb,jmp,cmp,jnz,sub,push,push,call,push,call,mov,add,mov,jmp,jnz,mov,mov,inc,inc,jmp,mov,inc,mov,jnz,cmp,pop,pop,pop,jz,push,push,call,push,push,mov,push,cmp,jnz,cmp,jnz,cmp,jnz,cmp,jnz,add,cmp,jz,push,call,jz,inc,inc,mov,mov,mov,jz,push,mov,cmp,jbe,push,push,call,cmp,jnz,push,call,sub,push,push,push,call,push,call,mov,push,call,mov,mov,jnz,pop,push,push,call,mov,mov,cmp,jz,cmp,jnz,cmp,jb,pop,pop,pop,push,mov,push,push,call,cmp,jz,push,call,mov,jmp,xor,pop,mov,push,mov,push,shl,mov,push,call,jnz,push,call,jz,push,push,call,pop,pop,push,mov,sub,push,mov,push,mov,jmp,lea,push,call,push,push,push,lea,push,push,call,jnz,pop,pop,cmp,push,jnz,xor,push,mov,pop,mov,neg,sbb,shr,xor,dec,jnz,mov,inc,cmp,jl,mov,mov,not,jbe,mov,push,mov,xor,shr,mov,xor,inc,dec,jnz,pop,not,pop,push,mov,sub,mov,push,push,push,mov,lea,mov,mov,mov,mov,mov,mov,mov,mov,cmp,mov,jnb,sub,dec,jmp,mov,sub,mov,jmp,jmp,cmp,jz,mov,dec,mov,shl,inc,add,cmp,jb,mov,sub,shr,mov,neg,sbb,shr,add,sub,mov,jz,dec,jz,dec,jz,dec,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,push,mov,mov,mov,call,mov,pop,pop,pop,mov,jmp,cmp,jnz,mov,cmp,mov,jle,cmp,jge,inc,jmp,cmp,jge,mov,mov,add,cmp,jl,lea,mov,push,push,push,push,push,push,push,push,push,call,push,pop,push,pop,lea,push,push,push,push,push,push,push,push,push,call,inc,mov,mov,mov,mov,mov,mov,mov,mov,jmp,mov,mov,shr,sub,jmp,cmp,jz,mov,dec,mov,shl,inc,add,cmp,jb,mov,xor,mov,cmp,mov,jz,push,pop,jmp,cmp,jz,mov,jnz,mov,mov,cmp,jnz,mov,lea,cmp,jz,mov,cmp,mov,jnb,sub,dec,jmp,sub,mov,mov,jnz,push,mov,call,mov,mov,cmp,mov,jnb,mov,sub,dec,jmp,mov,sub,mov,mov,cmp,jnz,lea,cmp,jz,mov,jnb,sub,dec,mov,jmp,sub,mov,mov,jz,cmp,jb,mov,mov,cmp,mov,jb,mov,push,push,push,call,add,sub,add,sub,sub,jnz,mov,mov,jmp,cmp,jz,mov,dec,mov,shl,inc,add,cmp,jb,mov,mov,mov,cmp,ja,cmp,ja,shr,sub,mov,mov,shr,add,cmp,jnb,jmp,cmp,jz,mov,dec,mov,shl,inc,add,cmp,jb,mov,mov,sub,shr,mov,mov,inc,mov,shr,add,cmp,jb,jmp,mov,inc,cmp,jb,lea,lea,push,lea,push,lea,xor,push,push,push,mov,push,push,lea,push,push,mov,call,jnz,cmp,jz,mov,jmp,mov,jmp,mov,jmp,cmp,jz,mov,dec,mov,shl,inc,add,cmp,jb,mov,lea,cmp,mov,jnb,mov,sub,shr,mov,mov,inc,jmp,cmp,jnz,push,mov,pop,jmp,add,mov,jmp,cmp,jz,mov,dec,mov,shl,inc,add,lea,cmp,jb,mov,sub,shr,mov,sub,add,mov,mov,shr,mov,mov,shr,lea,lea,cmp,ja,cmp,jnz,cmp,jb,mov,jmp,xor,lea,mov,inc,add,dec,jnz,mov,mov,mov,mov,shr,lea,cmp,jb,mov,mov,shr,mov,add,inc,lea,mov,lea,push,push,lea,mov,push,lea,push,push,push,push,lea,push,push,mov,call,cmp,jnz,jnz,lea,push,lea,push,lea,push,lea,push,push,push,push,push,lea,push,call,jnz,mov,jnz,cmp,jg,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,cmp,jz,mov,dec,mov,shl,inc,add,cmp,jb,mov,lea,shr,sub,jnz,mov,mov,jmp,jz,mov,mov,mov,jmp,jz,jz,mov,jmp,mov,jmp,cmp,jz,mov,dec,mov,shl,inc,add,cmp,jb,add,mov,shr,sub,mov,mov,mov,mov,mov,jmp,cmp,jz,mov,dec,mov,shl,inc,add,cmp,jb,mov,lea,shr,sub,jz,mov,mov,mov,jmp,jnz,mov,lea,mov,jmp,mov,jmp,cmp,jz,mov,dec,mov,shl,inc,add,cmp,jb,add,mov,shr,sub,mov,mov,mov,mov,sub,sub,cmp,jnb,mov,sub,sub,lea,jmp,mov,sub,cmp,mov,jz,mov,jnz,mov,cmp,jnz,mov,lea,cmp,jz,mov,cmp,jnb,sub,dec,mov,jmp,sub,jnz,push,mov,call,mov,mov,cmp,mov,jnb,mov,sub,dec,jmp,mov,sub,mov,cmp,mov,jnz,lea,cmp,jz,mov,cmp,mov,jnb,sub,dec,mov,jmp,mov,sub,jz,mov,mov,mov,inc,inc,dec,cmp,mov,mov,mov,jnz,lea,mov,dec,jnz,jmp,mov,mov,jnz,mov,cmp,jnz,mov,lea,cmp,jz,mov,cmp,jnb,sub,dec,jmp,sub,mov,jnz,push,mov,call,mov,mov,cmp,mov,jnb,mov,sub,dec,jmp,mov,sub,mov,cmp,mov,jnz,lea,cmp,jz,mov,cmp,mov,jnb,sub,dec,mov,jmp,mov,sub,jz,mov,mov,inc,dec,mov,mov,jmp,cmp,jbe,sub,inc,dec,mov,push,mov,call,mov,mov,cmp,mov,jnb,mov,sub,dec,jmp,mov,sub,cmp,mov,jnz,mov,cmp,mov,jnz,mov,cmp,jbe,jmp,mov,xor,mov,mov,mov,mov,jmp,xor,jmp,xor,inc,jmp,push,push,mov,push,mov,mov,cmp,jbe,mov,mov,sub,cmp,jb,mov,push,push,push,sub,mov,call,add,mov,add,cmp,jnz,cmp,lea,jnz,mov,jmp,mov,pop,pop,pop,push,mov,sub,push,push,mov,push,push,xor,pop,lea,mov,mov,mov,add,lea,inc,dec,jnz,cmp,jnz,mov,mov,xor,jmp,mov,xor,inc,push,mov,mov,mov,pop,xor,cmp,jnz,inc,cmp,jbe,cmp,mov,jnb,mov,cmp,jnz,dec,jnz,cmp,mov,jbe,mov,mov,mov,shl,jmp,sub,js,inc,add,cmp,jb,mov,shl,lea,mov,sub,mov,js,add,mov,mov,xor,dec,jz,xor,add,add,dec,mov,jnz,mov,xor,mov,add,cmp,jz,lea,mov,mov,inc,mov,inc,cmp,jb,mov,mov,mov,mov,neg,cmp,mov,mov,mov,mov,jg,lea,lea,mov,mov,mov,mov,jz,jmp,mov,mov,dec,add,mov,cmp,mov,jle,inc,mov,mov,inc,sub,cmp,jbe,mov,mov,xor,sub,inc,shl,cmp,jbe,mov,sub,add,cmp,jnb,jmp,add,add,mov,cmp,jbe,sub,inc,cmp,jb,mov,xor,inc,mov,shl,mov,lea,cmp,ja,mov,lea,mov,lea,mov,mov,mov,mov,jz,mov,mov,mov,mov,mov,mov,mov,mov,shr,mov,sub,sar,sub,mov,mov,mov,jmp,mov,mov,mov,mov,add,cmp,mov,jg,mov,mov,sub,mov,mov,lea,cmp,jb,mov,jmp,mov,cmp,jnb,cmp,dec,mov,mov,add,mov,jmp,sub,mov,add,mov,add,add,mov,mov,mov,mov,mov,mov,xor,sub,inc,mov,shl,mov,shr,jmp,mov,mov,add,cmp,jb,mov,mov,mov,shl,jmp,xor,shr,jnz,mov,xor,mov,mov,mov,mov,shl,dec,mov,mov,cmp,jz,sub,mov,dec,mov,shl,dec,cmp,jnz,mov,cmp,jnz,inc,add,mov,inc,cmp,jle,xor,cmp,jz,cmp,jz,pop,pop,pop",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "6bfa289fc453f683cf6ad42723acbb61"
+			},
+			{
+				"section": ".rdata",
+				"md5": "165e3e874dc59c8a96748c6f4d0f4207"
+			},
+			{
+				"section": ".data",
+				"md5": "78a50275610b8d77577a9aaa1957d1b6"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "2ff74c847180c5df53c0a96a3340f417"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "986a617c71cb4ea4803d5650c6c60ebb",
+		"SHA1": "d0e57dd3e68deac0a8c167f8885d045de4557ebe",
+		"SHA256": "c18615c32da9cc0abe883f94f6c8080fcd4a58275dbebad8dc3c8966e47cc1f5",
+		"EntryPoint": "4030e3",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 291660,
+		"Original FileName": "",
+		"Entropy": 7.854,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2008-10-11 06:49:01(2008-10-10 21:49:01 UTC)",
+		"Import Hash": "7fa974366048f9c551ef45714595665e",
+		"Section Info": [
+			".text:0x1000:0x5b68:0x400:0x5c00:6.48746502716",
+			".rdata:0x7000:0x129c:0x6000:0x1400:5.04904254867",
+			".data:0x9000:0x25c58:0x7400:0x400:4.76995537906",
+			".ndata:0x2f000:0x8000:0x0:0x0:0",
+			".rsrc:0x37000:0x900:0x7800:0xa00:3.93441125971"
+		],
+		"Resource": [
+			"RT_ICON:0x37190:0x2e8:data:English:United States",
+			"RT_DIALOG:0x37478:0x100:data:English:United States",
+			"RT_DIALOG:0x37578:0x11c:data:English:United States",
+			"RT_DIALOG:0x37698:0x60:data:English:United States",
+			"RT_GROUP_ICON:0x376f8:0x14:data:English:United States",
+			"RT_MANIFEST:0x37710:0x1eb:XML 1.0 document, ASCII text, with very long lines, with no line terminators:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Local\\Temp\\hdjrg.exe C:\\Users\\user\\AppData\\Local\\Temp\\ndpnxh"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\qt7A1YOAPo.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\hdjrg.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nswA210.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsrA240.tmp"
+			},
+			{
+				"path": "C:\\Users"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\epkyeshj8q086"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ndpnxh"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\hdjrg.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nswA210.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsrA240.tmp"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\epkyeshj8q086"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ndpnxh"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\hdjrg.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\qt7A1YOAPo.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\hdjrg.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ndpnxh"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\epkyeshj8q086"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\ntdll.dll"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\wbem\\wbemdisp.tlb"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\CustomMarshalers\\0df8ec76525d72c37f86b6d2ab717e84\\CustomMarshalers.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\stdole2.tlb"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\profiles.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\jDownloader\\config\\database.script"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "https://api.ipify.org%GETOK",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://127.0.0.1:HTTP/1.1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://1ofqzaJee3D.comd",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://nsis.sf.net/NSIS_Error",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://nsis.sf.net/NSIS_ErrorError",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://api.ipify.org%",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://1ofqzaJee3D.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://jdZmwI.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.theonionrouter.com/dist.torproject.org/torbrowser/9.5.3/tor-win32-0.4.3.6.ziphttps://www",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://DynDns.comDynDNSnamejidpasswordPsi/Psi",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Trojan / Bot,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_DialogBoxParamA_DialogBoxParamA_GetTempFileNameA_GetTempFileNameA_GetTempFileNameA_FindFirstFileA_FindFirstFileA_DeleteFileA_DeleteFileA_CreateDirectoryA_GetFileAttributesA_CreateDirectoryA_GetFileAttributesA_CreateDirectoryA_GetFileAttributesA_CreateDirectoryA_GetFileAttributesA_CreateDirectoryA_GetFileAttributesA_CreateDirectoryA_CreateDirectoryA_CreateDirectoryA_GetFileAttributesA_CreateDirectoryA_GetFileAttributesA_CreateDirectoryA_GetFileAttributesA_CreateDirectoryA_GetFileAttributesA_CreateDirectoryA_GetFileAttributesA_SetCurrentDirectoryA_SetCurrentDirectoryA_SetCurrentDirectoryA_GetFileAttributesA_GetFileAttributesA_CreateFileA_SetFilePointer_ReadFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_SetFileTime_CloseHandle_GetFileAttributesA_GetFileAttributesA_CreateFileA_SetFilePointer_WriteFile_SetFileTime_GetFileAttributesA_GetFileAttributesA_CreateFileA_SetFilePointer_WriteFile_SetFileTime_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_GetExitCodeProcess_GetExitCodeProcess_GetExitCodeProcess_DestroyWindow_EndDialog_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_CloseHandle_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_GetFileAttributesA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindClose_FindFirstFileA_GetFileAttributesA_SetFileAttributesA_SetFileAttributesA_RemoveDirectoryA_RemoveDirectoryA_OleUninitialize_OleUninitialize_OleUninitialize_OleUninitialize_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1047,T1106",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1222,T1562.001,T1497,T1055,T1027,T1574.002",
+		"ATT&CK(Credential Access)": "T1003,T1552.002",
+		"ATT&CK(Discovery)": "T1124,T1518.001,T1057,T1497,T1010,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1114,T1560,T1005,T1115",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}
