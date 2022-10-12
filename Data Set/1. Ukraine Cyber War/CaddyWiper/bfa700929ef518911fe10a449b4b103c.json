@@ -1,0 +1,3907 @@
+{
+	"md5": "bfa700929ef518911fe10a449b4b103c",
+	"data": {
+		"String": [
+			{
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",
+				"type": "C-Style"
+			},
+			{
+				"string": "mscorwks",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ForceRemove",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "NoRemove",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Delete",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "gfdfgd",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v4",
+				"type": "C-Style"
+			},
+			{
+				"string": "PublicMethod",
+				"type": "C-Style"
+			},
+			{
+				"string": "RemoteProcess.Program",
+				"type": "C-Style"
+			},
+			{
+				"string": "v4.0.30319",
+				"type": "C-Style"
+			},
+			{
+				"string": "PublicMethod",
+				"type": "C-Style"
+			},
+			{
+				"string": "RemoteProcess.Program",
+				"type": "C-Style"
+			},
+			{
+				"string": "v2.0.50727",
+				"type": "C-Style"
+			},
+			{
+				"string": "AppID",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "CLSID",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Component Categories",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "FileType",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Interface",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Hardware",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "SYSTEM",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Software",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "TypeLib",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "generic",
+				"type": "C-Style"
+			},
+			{
+				"string": "unknown error",
+				"type": "C-Style"
+			},
+			{
+				"string": "iostream",
+				"type": "C-Style"
+			},
+			{
+				"string": "iostream stream error",
+				"type": "C-Style"
+			},
+			{
+				"string": "system",
+				"type": "C-Style"
+			},
+			{
+				"string": "invalid string position",
+				"type": "C-Style"
+			},
+			{
+				"string": "string too long",
+				"type": "C-Style"
+			},
+			{
+				"string": "bad allocation",
+				"type": "C-Style"
+			},
+			{
+				"string": "permission denied",
+				"type": "C-Style"
+			},
+			{
+				"string": "file exists",
+				"type": "C-Style"
+			},
+			{
+				"string": "no such device",
+				"type": "C-Style"
+			},
+			{
+				"string": "filename too long",
+				"type": "C-Style"
+			},
+			{
+				"string": "device or resource busy",
+				"type": "C-Style"
+			},
+			{
+				"string": "io error",
+				"type": "C-Style"
+			},
+			{
+				"string": "directory not empty",
+				"type": "C-Style"
+			},
+			{
+				"string": "invalid argument",
+				"type": "C-Style"
+			},
+			{
+				"string": "no space on device",
+				"type": "C-Style"
+			},
+			{
+				"string": "no such file or directory",
+				"type": "C-Style"
+			},
+			{
+				"string": "function not supported",
+				"type": "C-Style"
+			},
+			{
+				"string": "no lock available",
+				"type": "C-Style"
+			},
+			{
+				"string": "not enough memory",
+				"type": "C-Style"
+			},
+			{
+				"string": "resource unavailable try again",
+				"type": "C-Style"
+			},
+			{
+				"string": "cross device link",
+				"type": "C-Style"
+			},
+			{
+				"string": "operation canceled",
+				"type": "C-Style"
+			},
+			{
+				"string": "too many files open",
+				"type": "C-Style"
+			},
+			{
+				"string": "permission_denied",
+				"type": "C-Style"
+			},
+			{
+				"string": "address_in_use",
+				"type": "C-Style"
+			},
+			{
+				"string": "address_not_available",
+				"type": "C-Style"
+			},
+			{
+				"string": "address_family_not_supported",
+				"type": "C-Style"
+			},
+			{
+				"string": "connection_already_in_progress",
+				"type": "C-Style"
+			},
+			{
+				"string": "bad_file_descriptor",
+				"type": "C-Style"
+			},
+			{
+				"string": "connection_aborted",
+				"type": "C-Style"
+			},
+			{
+				"string": "connection_refused",
+				"type": "C-Style"
+			},
+			{
+				"string": "connection_reset",
+				"type": "C-Style"
+			},
+			{
+				"string": "destination_address_required",
+				"type": "C-Style"
+			},
+			{
+				"string": "bad_address",
+				"type": "C-Style"
+			},
+			{
+				"string": "host_unreachable",
+				"type": "C-Style"
+			},
+			{
+				"string": "operation_in_progress",
+				"type": "C-Style"
+			},
+			{
+				"string": "interrupted",
+				"type": "C-Style"
+			},
+			{
+				"string": "invalid_argument",
+				"type": "C-Style"
+			},
+			{
+				"string": "already_connected",
+				"type": "C-Style"
+			},
+			{
+				"string": "too_many_files_open",
+				"type": "C-Style"
+			},
+			{
+				"string": "message_size",
+				"type": "C-Style"
+			},
+			{
+				"string": "filename_too_long",
+				"type": "C-Style"
+			},
+			{
+				"string": "network_down",
+				"type": "C-Style"
+			},
+			{
+				"string": "network_reset",
+				"type": "C-Style"
+			},
+			{
+				"string": "network_unreachable",
+				"type": "C-Style"
+			},
+			{
+				"string": "no_buffer_space",
+				"type": "C-Style"
+			},
+			{
+				"string": "no_protocol_option",
+				"type": "C-Style"
+			},
+			{
+				"string": "not_connected",
+				"type": "C-Style"
+			},
+			{
+				"string": "not_a_socket",
+				"type": "C-Style"
+			},
+			{
+				"string": "operation_not_supported",
+				"type": "C-Style"
+			},
+			{
+				"string": "protocol_not_supported",
+				"type": "C-Style"
+			},
+			{
+				"string": "wrong_protocol_type",
+				"type": "C-Style"
+			},
+			{
+				"string": "timed_out",
+				"type": "C-Style"
+			},
+			{
+				"string": "operation_would_block",
+				"type": "C-Style"
+			},
+			{
+				"string": "address family not supported",
+				"type": "C-Style"
+			},
+			{
+				"string": "address in use",
+				"type": "C-Style"
+			},
+			{
+				"string": "address not available",
+				"type": "C-Style"
+			},
+			{
+				"string": "already connected",
+				"type": "C-Style"
+			},
+			{
+				"string": "argument list too long",
+				"type": "C-Style"
+			},
+			{
+				"string": "argument out of domain",
+				"type": "C-Style"
+			},
+			{
+				"string": "bad address",
+				"type": "C-Style"
+			},
+			{
+				"string": "bad file descriptor",
+				"type": "C-Style"
+			},
+			{
+				"string": "bad message",
+				"type": "C-Style"
+			},
+			{
+				"string": "broken pipe",
+				"type": "C-Style"
+			},
+			{
+				"string": "connection aborted",
+				"type": "C-Style"
+			},
+			{
+				"string": "connection already in progress",
+				"type": "C-Style"
+			},
+			{
+				"string": "connection refused",
+				"type": "C-Style"
+			},
+			{
+				"string": "connection reset",
+				"type": "C-Style"
+			},
+			{
+				"string": "destination address required",
+				"type": "C-Style"
+			},
+			{
+				"string": "executable format error",
+				"type": "C-Style"
+			},
+			{
+				"string": "file too large",
+				"type": "C-Style"
+			},
+			{
+				"string": "host unreachable",
+				"type": "C-Style"
+			},
+			{
+				"string": "identifier removed",
+				"type": "C-Style"
+			},
+			{
+				"string": "illegal byte sequence",
+				"type": "C-Style"
+			},
+			{
+				"string": "inappropriate io control operation",
+				"type": "C-Style"
+			},
+			{
+				"string": "invalid seek",
+				"type": "C-Style"
+			},
+			{
+				"string": "is a directory",
+				"type": "C-Style"
+			},
+			{
+				"string": "message size",
+				"type": "C-Style"
+			},
+			{
+				"string": "network down",
+				"type": "C-Style"
+			},
+			{
+				"string": "network reset",
+				"type": "C-Style"
+			},
+			{
+				"string": "network unreachable",
+				"type": "C-Style"
+			},
+			{
+				"string": "no buffer space",
+				"type": "C-Style"
+			},
+			{
+				"string": "no child process",
+				"type": "C-Style"
+			},
+			{
+				"string": "no link",
+				"type": "C-Style"
+			},
+			{
+				"string": "message available",
+				"type": "C-Style"
+			},
+			{
+				"string": "no message",
+				"type": "C-Style"
+			},
+			{
+				"string": "no protocol option",
+				"type": "C-Style"
+			},
+			{
+				"string": "no stream resources",
+				"type": "C-Style"
+			},
+			{
+				"string": "no such device or address",
+				"type": "C-Style"
+			},
+			{
+				"string": "no such process",
+				"type": "C-Style"
+			},
+			{
+				"string": "not a directory",
+				"type": "C-Style"
+			},
+			{
+				"string": "not a socket",
+				"type": "C-Style"
+			},
+			{
+				"string": "not a stream",
+				"type": "C-Style"
+			},
+			{
+				"string": "not connected",
+				"type": "C-Style"
+			},
+			{
+				"string": "not supported",
+				"type": "C-Style"
+			},
+			{
+				"string": "operation in progress",
+				"type": "C-Style"
+			},
+			{
+				"string": "operation not permitted",
+				"type": "C-Style"
+			},
+			{
+				"string": "operation not supported",
+				"type": "C-Style"
+			},
+			{
+				"string": "operation would block",
+				"type": "C-Style"
+			},
+			{
+				"string": "owner dead",
+				"type": "C-Style"
+			},
+			{
+				"string": "protocol error",
+				"type": "C-Style"
+			},
+			{
+				"string": "protocol not supported",
+				"type": "C-Style"
+			},
+			{
+				"string": "read only file system",
+				"type": "C-Style"
+			},
+			{
+				"string": "resource deadlock would occur",
+				"type": "C-Style"
+			},
+			{
+				"string": "result out of range",
+				"type": "C-Style"
+			},
+			{
+				"string": "state not recoverable",
+				"type": "C-Style"
+			},
+			{
+				"string": "stream timeout",
+				"type": "C-Style"
+			},
+			{
+				"string": "text file busy",
+				"type": "C-Style"
+			},
+			{
+				"string": "timed out",
+				"type": "C-Style"
+			},
+			{
+				"string": "too many files open in system",
+				"type": "C-Style"
+			},
+			{
+				"string": "too many links",
+				"type": "C-Style"
+			},
+			{
+				"string": "too many symbolic link levels",
+				"type": "C-Style"
+			},
+			{
+				"string": "value too large",
+				"type": "C-Style"
+			},
+			{
+				"string": "wrong protocol type",
+				"type": "C-Style"
+			},
+			{
+				"string": "Unknown exception",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6008\r\n- not enough space for arguments\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6009\r\n- not enough space for environment\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6010\r\n- abort() has been called\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6016\r\n- not enough space for thread data\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6017\r\n- unexpected multithread lock error\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6018\r\n- unexpected heap error\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6019\r\n- unable to open console device\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6024\r\n- not enough space for _onexit/atexit table\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6025\r\n- pure virtual function call\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6026\r\n- not enough space for stdio initialization\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6027\r\n- not enough space for lowio initialization\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6028\r\n- unable to initialize heap\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6030\r\n- CRT not initialized\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6031\r\n- Attempt to initialize the CRT more than once.\nThis indicates a bug in your application.\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6032\r\n- not enough space for locale information\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6033\r\n- Attempt to use MSIL code from this assembly during native code initialization\nThis indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6034\r\n- inconsistent onexit begin-end variables\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "DOMAIN error\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "SING error\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "TLOSS error\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "runtime error ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "R6002\r\n- floating point support not loaded\r\n",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Runtime Error!\n\nProgram: ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "<program name unknown>",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Microsoft Visual C++ Runtime Library",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mscoree.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "CorExitProcess",
+				"type": "C-Style"
+			},
+			{
+				"string": "bad exception",
+				"type": "C-Style"
+			},
+			{
+				"string": "log10",
+				"type": "C-Style"
+			},
+			{
+				"string": "exp10",
+				"type": "C-Style"
+			},
+			{
+				"string": "floor",
+				"type": "C-Style"
+			},
+			{
+				"string": "e+000",
+				"type": "C-Style"
+			},
+			{
+				"string": "kernel32.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "FlsAlloc",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsFree",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsGetValue",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsSetValue",
+				"type": "C-Style"
+			},
+			{
+				"string": "InitializeCriticalSectionEx",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateSemaphoreExW",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetThreadStackGuarantee",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateThreadpoolTimer",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetThreadpoolTimer",
+				"type": "C-Style"
+			},
+			{
+				"string": "WaitForThreadpoolTimerCallbacks",
+				"type": "C-Style"
+			},
+			{
+				"string": "CloseThreadpoolTimer",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateThreadpoolWait",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetThreadpoolWait",
+				"type": "C-Style"
+			},
+			{
+				"string": "CloseThreadpoolWait",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlushProcessWriteBuffers",
+				"type": "C-Style"
+			},
+			{
+				"string": "FreeLibraryWhenCallbackReturns",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetCurrentProcessorNumber",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetLogicalProcessorInformation",
+				"type": "C-Style"
+			},
+			{
+				"string": "CreateSymbolicLinkW",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetDefaultDllDirectories",
+				"type": "C-Style"
+			},
+			{
+				"string": "EnumSystemLocalesEx",
+				"type": "C-Style"
+			},
+			{
+				"string": "CompareStringEx",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetDateFormatEx",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetLocaleInfoEx",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetTimeFormatEx",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetUserDefaultLocaleName",
+				"type": "C-Style"
+			},
+			{
+				"string": "IsValidLocaleName",
+				"type": "C-Style"
+			},
+			{
+				"string": "LCMapStringEx",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetCurrentPackageId",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.DLL",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "MessageBoxW",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetActiveWindow",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetLastActivePopup",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetUserObjectInformationW",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetProcessWindowStation",
+				"type": "C-Style"
+			},
+			{
+				"string": "zh-CHS",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-SA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "bg-BG",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ca-ES",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-TW",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "cs-CZ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "da-DK",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-DE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "el-GR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-US",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fi-FI",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-FR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "he-IL",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hu-HU",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "is-IS",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "it-IT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ja-JP",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ko-KR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "nl-NL",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "nb-NO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pl-PL",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pt-BR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ro-RO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ru-RU",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hr-HR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sk-SK",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sq-AL",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sv-SE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "th-TH",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "tr-TR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ur-PK",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "id-ID",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "uk-UA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "be-BY",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sl-SI",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "et-EE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "lv-LV",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "lt-LT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fa-IR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "vi-VN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hy-AM",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "az-AZ-Latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "eu-ES",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mk-MK",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "tn-ZA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "xh-ZA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zu-ZA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "af-ZA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ka-GE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fo-FO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hi-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mt-MT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "se-NO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ms-MY",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "kk-KZ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ky-KG",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sw-KE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "uz-UZ-Latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "tt-RU",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "bn-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pa-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "gu-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ta-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "te-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "kn-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ml-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mr-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sa-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mn-MN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "cy-GB",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "gl-ES",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "kok-IN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "syr-SY",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "div-MV",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "quz-BO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ns-ZA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mi-NZ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-IQ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-CN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-CH",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-GB",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-MX",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-BE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "it-CH",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "nl-BE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "nn-NO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pt-PT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sr-SP-Latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sv-FI",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "az-AZ-Cyrl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "se-SE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ms-BN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "uz-UZ-Cyrl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "quz-EC",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-EG",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-HK",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-AT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-AU",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-ES",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-CA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sr-SP-Cyrl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "se-FI",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "quz-PE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-LY",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-SG",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-LU",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-CA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-GT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-CH",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hr-BA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "smj-NO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-DZ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-MO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-LI",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-NZ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-CR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-LU",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "bs-BA-Latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "smj-SE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-MA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-IE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-PA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-MC",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sr-BA-Latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sma-NO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-TN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-ZA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-DO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sr-BA-Cyrl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sma-SE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-OM",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-JM",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-VE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sms-FI",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-YE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-CB",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-CO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "smn-FI",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-SY",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-BZ",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-PE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-JO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-TT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-AR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-LB",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-ZW",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-EC",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-KW",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-PH",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-CL",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-AE",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-UY",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-BH",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-PY",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-QA",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-BO",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-SV",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-HN",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-NI",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-PR",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-CHT",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "af-za",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-ae",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-bh",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-dz",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-eg",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-iq",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-jo",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-kw",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-lb",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-ly",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-ma",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-om",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-qa",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-sa",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-sy",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-tn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ar-ye",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "az-az-cyrl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "az-az-latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "be-by",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "bg-bg",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "bn-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "bs-ba-latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ca-es",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "cs-cz",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "cy-gb",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "da-dk",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-at",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-ch",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-de",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-li",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "de-lu",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "div-mv",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "el-gr",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-au",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-bz",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-ca",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-cb",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-gb",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-ie",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-jm",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-nz",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-ph",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-tt",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-us",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-za",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "en-zw",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-ar",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-bo",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-cl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-co",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-cr",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-do",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-ec",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-es",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-gt",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-hn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-mx",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-ni",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-pa",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-pe",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-pr",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-py",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-sv",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-uy",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "es-ve",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "et-ee",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "eu-es",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fa-ir",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fi-fi",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fo-fo",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-be",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-ca",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-ch",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-fr",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-lu",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "fr-mc",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "gl-es",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "gu-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "he-il",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hi-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hr-ba",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hr-hr",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hu-hu",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "hy-am",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "id-id",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "is-is",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "it-ch",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "it-it",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ja-jp",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ka-ge",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "kk-kz",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "kn-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "kok-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ko-kr",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ky-kg",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "lt-lt",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "lv-lv",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mi-nz",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mk-mk",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ml-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mn-mn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mr-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ms-bn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ms-my",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "mt-mt",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "nb-no",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "nl-be",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "nl-nl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "nn-no",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ns-za",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pa-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pl-pl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pt-br",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "pt-pt",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "quz-bo",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "quz-ec",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "quz-pe",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ro-ro",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ru-ru",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sa-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "se-fi",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "se-no",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "se-se",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sk-sk",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sl-si",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sma-no",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sma-se",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "smj-no",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "smj-se",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "smn-fi",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sms-fi",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sq-al",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sr-ba-cyrl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sr-ba-latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sr-sp-cyrl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sr-sp-latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sv-fi",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sv-se",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "sw-ke",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "syr-sy",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ta-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "te-in",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "th-th",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "tn-za",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "tr-tr",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "tt-ru",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "uk-ua",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ur-pk",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "uz-uz-cyrl",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "uz-uz-latn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "vi-vn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "xh-za",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-chs",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-cht",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-cn",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-hk",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-mo",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-sg",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zh-tw",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "zu-za",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Friday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Saturday",
+				"type": "C-Style"
+			},
+			{
+				"string": "January",
+				"type": "C-Style"
+			},
+			{
+				"string": "February",
+				"type": "C-Style"
+			},
+			{
+				"string": "March",
+				"type": "C-Style"
+			},
+			{
+				"string": "April",
+				"type": "C-Style"
+			},
+			{
+				"string": "August",
+				"type": "C-Style"
+			},
+			{
+				"string": "September",
+				"type": "C-Style"
+			},
+			{
+				"string": "October",
+				"type": "C-Style"
+			},
+			{
+				"string": "November",
+				"type": "C-Style"
+			},
+			{
+				"string": "December",
+				"type": "C-Style"
+			},
+			{
+				"string": "MM/dd/yy",
+				"type": "C-Style"
+			},
+			{
+				"string": "dddd, MMMM dd, yyyy",
+				"type": "C-Style"
+			},
+			{
+				"string": "HH:mm:ss",
+				"type": "C-Style"
+			},
+			{
+				"string": "Sunday",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Monday",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Tuesday",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Wednesday",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Thursday",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Friday",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "Saturday",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "January",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "February",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "March",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "April",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "August",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "September",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "October",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "November",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "December",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "MM/dd/yy",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "dddd, MMMM dd, yyyy",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "HH:mm:ss",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "__based(",
+				"type": "C-Style"
+			},
+			{
+				"string": "__cdecl",
+				"type": "C-Style"
+			},
+			{
+				"string": "__pascal",
+				"type": "C-Style"
+			},
+			{
+				"string": "__stdcall",
+				"type": "C-Style"
+			},
+			{
+				"string": "__thiscall",
+				"type": "C-Style"
+			},
+			{
+				"string": "__fastcall",
+				"type": "C-Style"
+			},
+			{
+				"string": "__clrcall",
+				"type": "C-Style"
+			},
+			{
+				"string": "__eabi",
+				"type": "C-Style"
+			},
+			{
+				"string": "__ptr64",
+				"type": "C-Style"
+			},
+			{
+				"string": "__restrict",
+				"type": "C-Style"
+			},
+			{
+				"string": "__unaligned",
+				"type": "C-Style"
+			},
+			{
+				"string": "restrict(",
+				"type": "C-Style"
+			},
+			{
+				"string": " delete",
+				"type": "C-Style"
+			},
+			{
+				"string": "operator",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vftable'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vbtable'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vcall'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`typeof'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`local static guard'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`string'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vbase destructor'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector deleting destructor'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`default constructor closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`scalar deleting destructor'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector destructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector vbase constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`virtual displacement map'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector destructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector vbase constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`copy constructor closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`udt returning'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`RTTI",
+				"type": "C-Style"
+			},
+			{
+				"string": "`local vftable'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`local vftable constructor closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": " new[]",
+				"type": "C-Style"
+			},
+			{
+				"string": " delete[]",
+				"type": "C-Style"
+			},
+			{
+				"string": "`omni callsig'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`placement delete closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`placement delete[] closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`managed vector constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`managed vector destructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector vbase copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`dynamic initializer for '",
+				"type": "C-Style"
+			},
+			{
+				"string": "`dynamic atexit destructor for '",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector vbase copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`managed vector copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`local static thread guard'",
+				"type": "C-Style"
+			},
+			{
+				"string": " Type Descriptor'",
+				"type": "C-Style"
+			},
+			{
+				"string": " Base Class Descriptor at (",
+				"type": "C-Style"
+			},
+			{
+				"string": " Base Class Array'",
+				"type": "C-Style"
+			},
+			{
+				"string": " Class Hierarchy Descriptor'",
+				"type": "C-Style"
+			},
+			{
+				"string": " Complete Object Locator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "         (((((                  H",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "1#SNAN",
+				"type": "C-Style"
+			},
+			{
+				"string": "1#IND",
+				"type": "C-Style"
+			},
+			{
+				"string": "1#INF",
+				"type": "C-Style"
+			},
+			{
+				"string": "1#QNAN",
+				"type": "C-Style"
+			},
+			{
+				"string": "atan2",
+				"type": "C-Style"
+			},
+			{
+				"string": "ldexp",
+				"type": "C-Style"
+			},
+			{
+				"string": "_cabs",
+				"type": "C-Style"
+			},
+			{
+				"string": "_hypot",
+				"type": "C-Style"
+			},
+			{
+				"string": "frexp",
+				"type": "C-Style"
+			},
+			{
+				"string": "_logb",
+				"type": "C-Style"
+			},
+			{
+				"string": "_nextafter",
+				"type": "C-Style"
+			},
+			{
+				"string": "CONOUT$",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADVAPI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "mscoree.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVerror_category@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV_Generic_error_category@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV_Iostream_error_category@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV_System_error_category@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVbad_alloc@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVexception@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVlogic_error@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVlength_error@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVout_of_range@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVtype_info@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVbad_exception@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": "abcdefghijklmnopqrstuvwxyz",
+				"type": "C-Style"
+			},
+			{
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+				"type": "C-Style"
+			},
+			{
+				"string": "abcdefghijklmnopqrstuvwxyz",
+				"type": "C-Style"
+			},
+			{
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2012)",
+		"linker": "Microsoft Linker(11.0)[EXE32,admin,signed]",
+		"PDB path": "c:\\stout.pdb",
+		"full Fuzzyhash": "6144:dSI5kqTzKQSzyQoR/M+634/ZaKszyR8Qbti28W/FYra:5pTz9SWQoR/Mb4VszyRi29/Ia",
+		"section Fuzzyhash(.data)": "96:3uvBgtoM50HXfJJJJJfsf0VfVUhoSkb/:3IjHXJ60VfKIb/",
+		"rich header": "44616e53000000000000000000000000f1c6cd0015000000f1c6ce00710000001e52930002000000f1c6cf00260000000978930005000000000001005a00000066eecf000200000066eec90001000000000097000100000066eecc0001000000",
+		"PE Image": "binary_bfa700929ef518911fe10a449b4b103c.jpg",
+		"bytecode": "binary_bfa700929ef518911fe10a449b4b103c.byte",
+		"opcode": "mov,xor,jz,cmp,ja,push,call,pop,mov,jnz,jmp,mov,push,mov,mov,mov,cmp,jz,mov,add,inc,jmp,mov,pop,push,push,mov,mov,mov,call,pop,push,push,mov,call,mov,pop,mov,mov,cmp,jnz,mov,cmp,jnz,xor,inc,jmp,xor,push,mov,push,lea,push,push,push,push,push,call,neg,sbb,inc,push,mov,push,push,push,push,mov,push,call,pop,lea,push,push,push,push,push,push,call,mov,js,mov,push,mov,call,mov,js,push,call,mov,pop,mov,lea,push,push,push,push,push,push,call,mov,mov,jz,mov,push,call,push,call,pop,mov,pop,pop,push,sub,lea,mov,xor,mov,push,mov,call,sub,mov,xor,push,mov,mov,call,call,add,push,push,push,call,mov,push,push,call,push,call,push,push,mov,call,mov,lea,push,push,mov,call,mov,push,push,push,lea,push,call,push,call,pop,push,push,push,push,push,push,push,call,push,push,push,push,mov,push,push,call,mov,xor,push,push,push,push,push,call,push,mov,push,push,call,add,push,call,mov,push,call,push,call,sub,mov,push,call,call,add,push,call,pop,jz,push,sub,mov,push,call,call,add,push,sub,mov,push,call,call,add,push,push,sub,mov,push,jmp,push,sub,mov,push,call,call,add,push,sub,mov,push,call,call,add,push,push,sub,mov,push,call,call,add,push,call,add,mov,mov,pop,pop,pop,pop,mov,xor,call,add,mov,push,mov,cmp,ja,cmp,jnb,push,push,call,jmp,cmp,jz,cmp,jnb,mov,cmp,push,push,call,jmp,jnz,cmp,jb,mov,mov,xor,cmp,sbb,neg,pop,push,call,mov,jz,cmp,jb,mov,jmp,mov,cmp,jb,cmp,push,jb,mov,jmp,mov,mov,add,pop,cmp,jbe,mov,jmp,xor,cmp,push,push,mov,mov,jz,cmp,jb,push,mov,jz,push,push,push,call,add,push,call,pop,pop,mov,mov,mov,pop,pop,push,mov,push,mov,push,push,mov,mov,cmp,jb,sub,cmp,cmp,jnz,lea,push,call,push,push,mov,call,jmp,push,push,call,jz,cmp,jb,mov,cmp,jb,mov,jmp,mov,jz,push,lea,push,push,call,add,cmp,mov,jb,mov,jmp,mov,mov,pop,mov,pop,pop,pop,push,call,push,mov,push,push,mov,call,jz,cmp,jb,mov,jmp,mov,push,sub,push,push,mov,call,jmp,push,mov,push,push,mov,call,jz,cmp,jb,mov,jmp,mov,jz,push,push,push,call,add,cmp,mov,jb,mov,jmp,mov,mov,mov,pop,pop,pop,push,mov,call,mov,xor,push,inc,pop,mul,neg,push,call,mov,mov,xor,mov,cmp,push,mov,lea,add,cmp,push,lea,push,push,call,add,lea,call,mov,call,push,mov,push,call,mov,pop,mov,jz,mov,jmp,mov,pop,mov,mov,mov,mov,mov,cmp,jnz,mov,cmp,jnz,xor,inc,jmp,xor,mov,cmp,jb,cmp,mov,jb,mov,jmp,mov,mov,mov,push,call,push,mov,mov,push,mov,cmp,jb,mov,mov,sub,cmp,ja,cmp,mov,jb,mov,jmp,mov,mov,jmp,jz,cmp,jb,mov,jmp,mov,sub,push,lea,mov,sub,jz,push,lea,push,push,call,add,cmp,mov,pop,jb,mov,jmp,mov,mov,pop,mov,pop,push,call,mov,cmp,jnz,xor,lea,mov,inc,jnz,sub,push,mov,push,push,call,pop,mov,push,mov,call,mov,push,mov,push,push,call,pop,mov,push,mov,call,mov,mov,mov,mov,push,mov,call,push,call,pop,call,xor,call,mov,push,call,neg,sbb,neg,push,mov,push,push,mov,call,mov,mov,pop,pop,push,mov,push,push,mov,call,mov,mov,pop,pop,push,mov,push,push,mov,call,mov,mov,pop,pop,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,jmp,jmp,push,mov,push,mov,mov,call,jz,push,call,pop,mov,pop,pop,push,mov,push,mov,call,jz,push,call,pop,mov,pop,pop,push,mov,cmp,mov,jz,mov,cmp,jz,add,cmp,jnz,xor,pop,mov,pop,push,mov,cmp,mov,jz,mov,cmp,jz,add,cmp,jnz,xor,pop,mov,pop,push,mov,pop,jmp,push,mov,push,push,push,call,add,pop,call,push,call,pop,jmp,pop,push,mov,call,pop,push,mov,push,mov,call,jz,push,call,pop,mov,pop,pop,mov,jmp,push,mov,push,mov,mov,call,jz,push,call,pop,mov,pop,pop,push,mov,mov,mov,pop,push,mov,mov,mov,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,jmp,push,mov,push,mov,mov,call,jz,push,call,pop,mov,pop,pop,push,call,pop,xor,push,mov,mov,mov,pop,push,push,mov,mov,jmp,mov,jz,call,add,cmp,jb,pop,pop,push,push,mov,mov,jmp,mov,jz,call,add,cmp,jb,pop,pop,push,mov,push,call,pop,push,mov,push,call,push,call,pop,push,mov,push,call,push,call,pop,mov,xor,jnz,mov,push,push,pop,cmp,ja,jz,jz,cmp,jnz,xor,mov,add,jmp,cmp,ja,add,jnz,mov,pop,push,mov,mov,mov,pop,push,mov,sub,mov,xor,mov,mov,push,mov,push,push,mov,mov,xor,push,mov,call,mov,mov,call,mov,cmp,jnz,push,push,push,call,mov,jnz,call,cmp,jnz,push,call,mov,jz,push,push,call,jz,push,call,push,push,mov,call,push,call,push,push,mov,call,push,call,push,push,mov,call,push,call,mov,jz,push,push,call,push,call,mov,mov,call,jz,mov,jz,push,call,cmp,jz,push,pop,jmp,cmp,jz,push,call,push,jmp,mov,mov,cmp,jz,cmp,jz,push,call,push,mov,call,mov,mov,jz,jz,call,jz,lea,push,push,lea,push,push,push,call,jz,jnz,mov,jmp,mov,cmp,jz,push,call,jz,call,mov,jz,mov,cmp,jz,push,call,jz,push,call,mov,mov,push,call,jz,push,push,push,push,call,jmp,xor,mov,pop,pop,xor,pop,call,push,call,push,mov,mov,mov,pop,jmp,mov,mov,mov,jnz,mov,mul,push,call,pop,xor,cmp,jnz,mov,mov,jmp,mov,mov,mov,mov,mov,mov,mov,shl,sar,rol,mov,mov,shl,sar,rol,mov,shl,shl,mov,add,add,jmp,call,call,jmp,jz,mov,mov,jz,mov,jmp,mov,jz,jz,mov,jmp,mov,cmp,jg,jz,push,mov,sub,mov,xor,mov,push,push,mov,push,push,mov,lea,call,lea,push,xor,push,push,push,push,push,lea,push,lea,push,call,mov,lea,push,push,call,mov,mov,add,jnz,cmp,jz,cmp,jnz,push,jmp,jnz,jz,push,pop,cmp,jz,mov,mov,pop,pop,mov,xor,pop,call,push,mov,sub,mov,xor,mov,push,push,mov,push,push,mov,lea,call,lea,push,xor,push,push,push,push,push,lea,push,lea,push,call,mov,lea,push,push,call,mov,mov,add,jnz,cmp,jz,cmp,jnz,push,jmp,jnz,jz,push,pop,cmp,jz,mov,mov,pop,pop,mov,xor,pop,call,pop,push,push,call,mov,cmp,jnz,call,mov,jmp,js,cmp,jnb,mov,sar,mov,mov,shl,mov,jz,push,call,pop,xor,mov,mov,mov,jz,push,call,pop,push,call,jnz,call,mov,mov,jz,call,mov,call,mov,mov,mov,call,mov,jmp,mov,mov,push,call,pop,call,mov,call,call,push,push,call,mov,cmp,jnz,call,call,mov,jmp,js,cmp,jnb,mov,sar,mov,shl,mov,jz,push,call,pop,mov,jz,push,push,push,call,add,mov,jmp,call,mov,call,mov,mov,call,mov,jmp,mov,mov,push,call,pop,call,call,mov,call,call,push,mov,mov,call,mov,xor,mov,mov,mov,xor,push,mov,mov,mov,mov,mov,cmp,jnz,xor,jmp,jnz,call,call,mov,call,jmp,push,push,mov,sar,mov,shl,mov,mov,mov,mov,add,sar,cmp,jz,cmp,jnz,mov,not,jnz,call,call,mov,call,jmp,mov,jz,push,push,push,push,call,add,push,call,pop,jz,mov,mov,jz,call,mov,xor,cmp,lea,push,mov,mov,push,mov,call,jz,cmp,jz,jz,call,mov,mov,mov,mov,cmp,jbe,xor,mov,mov,jnz,mov,xor,cmp,mov,mov,mov,cmp,jz,mov,mov,push,lea,mov,push,jmp,push,call,pop,jz,mov,mov,sub,add,cmp,jbe,push,push,lea,push,call,add,cmp,jz,mov,inc,inc,jmp,push,push,lea,push,call,add,cmp,jz,mov,xor,push,push,inc,inc,push,mov,lea,push,push,lea,push,push,push,call,mov,jz,push,lea,push,push,lea,push,mov,mov,push,call,jz,mov,mov,add,cmp,jl,cmp,jz,push,lea,push,push,lea,push,mov,mov,mov,push,call,jz,cmp,jl,inc,inc,jmp,cmp,jz,cmp,jnz,xor,cmp,mov,mov,add,add,mov,mov,mov,cmp,jz,cmp,jnz,push,call,pop,cmp,jnz,add,cmp,jz,push,pop,push,mov,call,pop,cmp,jnz,inc,inc,mov,mov,cmp,jb,jmp,mov,mov,mov,inc,mov,mov,mov,mov,jmp,mov,jmp,mov,mov,jz,mov,xor,mov,jnz,mov,mov,cmp,jbe,xor,sub,mov,lea,mov,cmp,jnb,mov,inc,inc,mov,cmp,mov,mov,jnz,inc,mov,inc,inc,mov,mov,mov,inc,inc,mov,cmp,jb,mov,lea,sub,push,lea,push,push,lea,push,mov,mov,push,call,jz,add,mov,cmp,jl,mov,sub,cmp,mov,jb,jmp,mov,cmp,jnz,mov,cmp,jbe,mov,mov,mov,sub,mov,lea,cmp,jnb,add,add,mov,cmp,jnz,push,pop,mov,mov,add,add,add,mov,add,add,cmp,jb,mov,lea,sub,push,lea,push,push,lea,push,mov,mov,mov,push,call,mov,mov,jz,add,mov,mov,cmp,jl,mov,mov,sub,cmp,jb,jmp,mov,mov,jz,mov,mov,sub,mov,lea,cmp,jnb,add,add,mov,cmp,jnz,push,pop,mov,mov,add,add,mov,add,add,cmp,jb,xor,push,push,push,lea,push,lea,sub,sub,sar,push,mov,push,push,push,call,mov,mov,mov,jz,xor,mov,push,sub,lea,push,push,lea,add,mov,push,mov,mov,push,call,jz,mov,add,mov,mov,cmp,jg,jmp,call,mov,mov,mov,mov,cmp,jg,mov,mov,mov,sub,mov,cmp,jb,jmp,push,lea,push,push,push,push,call,jz,mov,xor,jmp,call,mov,mov,jnz,jz,push,pop,cmp,jnz,call,mov,call,mov,jmp,push,call,pop,jmp,mov,mov,mov,jz,cmp,jnz,xor,jmp,call,mov,call,jmp,sub,mov,pop,pop,mov,xor,pop,call,push,push,call,mov,cmp,jnz,call,call,mov,jmp,js,cmp,jnb,mov,sar,mov,shl,mov,jz,mov,cmp,sbb,inc,jnz,call,call,mov,jmp,push,call,pop,mov,jz,push,push,push,call,add,mov,jmp,call,mov,call,mov,mov,call,mov,jmp,mov,mov,push,call,pop,call,call,mov,call,call,push,mov,sub,mov,push,push,mov,push,push,pop,xor,mov,mov,mov,cmp,jnz,call,mov,call,mov,jmp,js,cmp,jnb,mov,sar,mov,mov,shl,mov,mov,mov,jz,cmp,jbe,call,mov,call,mov,jmp,jz,jnz,cmp,jnz,call,jmp,mov,add,sar,mov,dec,jz,dec,jnz,mov,not,jz,mov,mov,jmp,mov,not,jz,shr,cmp,jnb,push,pop,push,call,pop,mov,jnz,call,mov,call,mov,jmp,push,push,push,push,call,mov,add,mov,mov,mov,mov,mov,mov,mov,mov,jz,mov,cmp,jz,jz,mov,xor,lea,mov,inc,dec,cmp,mov,mov,jz,mov,mov,cmp,jz,jz,mov,mov,inc,push,dec,cmp,mov,pop,mov,jnz,mov,mov,cmp,jz,jz,push,pop,mov,mov,push,inc,pop,mov,dec,mov,push,call,mov,pop,jz,mov,jz,lea,push,push,call,mov,jz,cmp,jnz,push,lea,push,mov,shr,mov,push,push,push,call,jnz,call,push,call,pop,mov,jmp,mov,lea,mov,jmp,mov,mov,push,lea,push,push,push,push,call,jz,mov,js,cmp,ja,mov,add,mov,mov,jns,cmp,jz,jz,mov,cmp,jnz,jmp,mov,mov,mov,lea,mov,mov,cmp,jnb,push,pop,mov,mov,cmp,jz,cmp,jz,mov,inc,inc,jmp,mov,dec,cmp,jnb,lea,cmp,jnz,push,pop,add,mov,jmp,mov,inc,mov,jmp,push,lea,push,push,lea,push,mov,inc,push,call,jnz,call,jnz,cmp,jz,mov,mov,jz,push,pop,push,cmp,jnz,mov,inc,jmp,mov,mov,mov,inc,mov,jmp,cmp,jnz,push,pop,cmp,jnz,mov,inc,push,pop,cmp,jb,jmp,push,push,push,push,call,mov,add,push,pop,cmp,jz,push,pop,mov,inc,jmp,mov,push,pop,mov,inc,jmp,mov,mov,jnz,mov,jmp,mov,mov,inc,mov,mov,sub,cmp,jnz,jz,dec,mov,js,inc,jmp,xor,inc,cmp,jnz,mov,cmp,jg,cmp,jb,dec,inc,cmp,jz,mov,jnz,call,mov,jmp,inc,cmp,jnz,add,jmp,mov,mov,jz,mov,inc,mov,mov,cmp,jl,mov,mov,mov,mov,inc,cmp,jnz,mov,mov,mov,inc,sub,jmp,neg,mov,push,push,push,push,call,add,mov,mov,shr,push,push,sub,push,push,push,push,call,mov,jz,mov,xor,mov,cmp,add,mov,mov,mov,cmp,jz,push,call,pop,cmp,jz,mov,mov,jmp,cmp,jz,mov,mov,sub,sar,mov,mov,lea,cmp,jnb,push,mov,pop,cmp,jz,cmp,jz,mov,add,add,jmp,lea,cmp,jnb,push,add,pop,cmp,jz,push,pop,push,pop,mov,add,cmp,jb,jmp,mov,mov,mov,mov,sub,jmp,jz,mov,push,pop,cmp,mov,jnz,jmp,mov,mov,mov,lea,mov,mov,cmp,jnb,push,pop,mov,mov,cmp,jz,cmp,jz,mov,jmp,mov,add,cmp,jnb,push,pop,cmp,mov,jnz,push,pop,add,mov,jmp,mov,add,add,jmp,push,lea,push,push,lea,push,mov,add,push,call,jnz,call,jnz,cmp,jz,mov,mov,jz,push,pop,push,cmp,jnz,mov,add,jmp,pop,mov,mov,mov,mov,mov,mov,mov,mov,push,pop,add,mov,push,pop,cmp,jb,jmp,cmp,jnz,push,pop,cmp,jnz,mov,add,jmp,push,push,push,push,call,mov,add,push,pop,cmp,jz,push,pop,mov,add,jmp,mov,push,pop,mov,add,jmp,mov,mov,jnz,mov,jmp,mov,mov,add,mov,mov,sub,jmp,call,push,pop,cmp,jnz,call,mov,call,mov,jmp,cmp,jnz,xor,jmp,xor,jmp,call,mov,call,mov,call,pop,pop,pop,push,mov,sub,mov,xor,mov,mov,push,mov,mov,mov,mov,mov,mov,push,sub,push,mov,shl,xor,mov,mov,mov,cmp,jnz,mov,mov,cmp,jnz,inc,cmp,jl,jmp,xor,lea,push,pop,jmp,mov,lea,lea,dec,lea,mov,mov,mov,push,pop,add,sar,mov,mov,jns,dec,inc,sub,xor,inc,mov,shl,push,mov,pop,jz,mov,shl,not,jmp,cmp,jnz,inc,cmp,jl,jmp,mov,push,pop,add,mov,sar,jns,dec,inc,sub,xor,inc,shl,push,mov,pop,mov,mov,mov,add,mov,cmp,mov,mov,jb,cmp,jnb,xor,inc,mov,dec,mov,js,jz,mov,mov,lea,cmp,mov,mov,mov,jb,cmp,jnb,xor,inc,mov,dec,mov,jns,mov,mov,mov,shl,lea,cmp,jge,lea,mov,lea,sub,xor,mov,cmp,jz,inc,mov,mov,sub,cmp,jge,xor,lea,mov,jmp,cmp,jg,sub,lea,mov,mov,lea,add,sar,mov,mov,jns,dec,inc,mov,mov,mov,mov,shl,push,mov,not,mov,pop,sub,push,mov,pop,mov,mov,mov,shr,mov,shl,inc,mov,mov,cmp,jl,mov,shl,lea,push,sub,mov,xor,pop,cmp,jl,mov,mov,mov,jmp,mov,sub,dec,jns,mov,inc,mov,add,sar,mov,jns,dec,inc,push,pop,sub,mov,mov,xor,inc,shl,jz,mov,shl,not,jmp,cmp,jnz,inc,cmp,jl,jmp,mov,mov,push,pop,add,sar,jns,dec,inc,mov,sub,xor,inc,shl,push,mov,mov,add,mov,cmp,mov,pop,jb,cmp,jnb,xor,inc,dec,mov,js,jz,mov,mov,lea,cmp,mov,mov,jb,cmp,jnb,xor,inc,dec,mov,jns,mov,mov,mov,shl,inc,cmp,jge,lea,mov,lea,sub,xor,mov,inc,mov,add,sar,mov,jns,dec,inc,mov,shl,mov,push,mov,mov,pop,sub,not,mov,mov,mov,mov,mov,shr,mov,mov,mov,shl,mov,mov,inc,mov,cmp,jl,mov,mov,shl,lea,push,sub,pop,xor,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,jmp,cmp,jl,mov,xor,lea,mov,add,sar,mov,jns,dec,inc,shl,push,pop,sub,mov,not,mov,mov,mov,mov,shr,mov,shl,mov,mov,inc,mov,cmp,jl,mov,mov,shl,lea,push,sub,pop,xor,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,mov,add,xor,inc,jmp,mov,add,mov,mov,add,sar,mov,mov,jns,dec,inc,shl,push,mov,mov,pop,mov,sub,mov,not,mov,mov,mov,mov,shr,mov,shl,inc,mov,mov,cmp,jl,mov,mov,mov,shl,lea,push,sub,pop,xor,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,mov,push,pop,sub,mov,mov,shl,neg,sbb,mov,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,mov,pop,pop,mov,xor,pop,call,push,mov,sub,mov,xor,mov,mov,push,mov,mov,mov,mov,mov,mov,push,sub,push,mov,shl,xor,mov,mov,mov,cmp,jnz,mov,mov,cmp,jnz,inc,cmp,jl,jmp,xor,lea,push,pop,jmp,mov,lea,lea,dec,lea,mov,mov,mov,push,pop,add,sar,mov,mov,jns,dec,inc,sub,xor,inc,mov,shl,push,mov,pop,jz,mov,shl,not,jmp,cmp,jnz,inc,cmp,jl,jmp,mov,push,pop,add,mov,sar,jns,dec,inc,sub,xor,inc,shl,push,mov,pop,mov,mov,mov,add,mov,cmp,mov,mov,jb,cmp,jnb,xor,inc,mov,dec,mov,js,jz,mov,mov,lea,cmp,mov,mov,mov,jb,cmp,jnb,xor,inc,mov,dec,mov,jns,mov,mov,mov,shl,lea,cmp,jge,lea,mov,lea,sub,xor,mov,cmp,jz,inc,mov,mov,sub,cmp,jge,xor,lea,mov,jmp,cmp,jg,sub,lea,mov,mov,lea,add,sar,mov,mov,jns,dec,inc,mov,mov,mov,mov,shl,push,mov,not,mov,pop,sub,push,mov,pop,mov,mov,mov,shr,mov,shl,inc,mov,mov,cmp,jl,mov,shl,lea,push,sub,mov,xor,pop,cmp,jl,mov,mov,mov,jmp,mov,sub,dec,jns,mov,inc,mov,add,sar,mov,jns,dec,inc,push,pop,sub,mov,mov,xor,inc,shl,jz,mov,shl,not,jmp,cmp,jnz,inc,cmp,jl,jmp,mov,mov,push,pop,add,sar,jns,dec,inc,mov,sub,xor,inc,shl,push,mov,mov,add,mov,cmp,mov,pop,jb,cmp,jnb,xor,inc,dec,mov,js,jz,mov,mov,lea,cmp,mov,mov,jb,cmp,jnb,xor,inc,dec,mov,jns,mov,mov,mov,shl,inc,cmp,jge,lea,mov,lea,sub,xor,mov,inc,mov,add,sar,mov,jns,dec,inc,mov,shl,mov,push,mov,mov,pop,sub,not,mov,mov,mov,mov,mov,shr,mov,mov,mov,shl,mov,mov,inc,mov,cmp,jl,mov,mov,shl,lea,push,sub,pop,xor,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,jmp,cmp,jl,mov,xor,lea,mov,add,sar,mov,jns,dec,inc,shl,push,pop,sub,mov,not,mov,mov,mov,mov,shr,mov,shl,mov,mov,inc,mov,cmp,jl,mov,mov,shl,lea,push,sub,pop,xor,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,mov,add,xor,inc,jmp,mov,add,mov,mov,add,sar,mov,mov,jns,dec,inc,shl,push,mov,mov,pop,mov,sub,mov,not,mov,mov,mov,mov,shr,mov,shl,inc,mov,mov,cmp,jl,mov,mov,mov,shl,lea,push,sub,pop,xor,cmp,jl,mov,mov,jmp,mov,sub,dec,jns,mov,push,pop,sub,mov,mov,shl,neg,sbb,mov,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,mov,pop,pop,mov,xor,pop,call,push,push,call,mov,cmp,jnz,call,call,mov,jmp,js,cmp,jnb,mov,sar,mov,shl,mov,jz,push,call,pop,mov,jz,push,call,pop,mov,jmp,call,mov,mov,mov,call,mov,jmp,mov,mov,push,call,pop,call,call,mov,call,call,mov,cmp,jz,cmp,jz,push,call,mov,lea,mov,xor,call,mov,xor,call,mov,jmp,lea,jmp,mov,lea,mov,xor,call,mov,jmp,mov,lea,mov,xor,call,mov,jmp,push,call,pop,push,call,pop,push,call,pop,push,mov,push,call,pop,push,push,mov,call,push,call,pop,pop,mov,mov,mov,mov,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "1986bc5dbf2fb011d7c125e0d8007295"
+			},
+			{
+				"section": ".rdata",
+				"md5": "e631ca931decba305ba1a14bf31b38f0"
+			},
+			{
+				"section": ".data",
+				"md5": "820348e3768c43c9200d000d59c0374d"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "890ca3b8e4fd66064f1c61e134215e27"
+			},
+			{
+				"section": ".reloc",
+				"md5": "e7f237b0ea40153f9b38dc187b53190d"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "bfa700929ef518911fe10a449b4b103c",
+		"SHA1": "c8da85f86552f898c3d893a29dd259b91a2d30aa",
+		"SHA256": "000006dd3731b0b30293910100dbdc2b6e6a8bedc357be600d9d88e3b8d64fc2",
+		"EntryPoint": "4030ed",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 391584,
+		"Original FileName": "",
+		"Entropy": 6.252,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2014-03-07 00:25:20(2014-03-06 15:25:20 UTC)",
+		"Import Hash": "ed4bee117261d5a05d664c844644fe3f",
+		"Section Info": [
+			".text:0x1000:0xdb9f:0x400:0xdc00:6.69469662751",
+			".rdata:0xf000:0x6930:0xe000:0x6a00:4.72916627265",
+			".data:0x16000:0x3638:0x14a00:0x1600:3.44981124875",
+			".rsrc:0x1a000:0x43c10:0x16000:0x43e00:6.24967804049",
+			".reloc:0x5e000:0x44f2:0x59e00:0x4600:2.48996843427"
+		],
+		"Resource": [
+			"BIN2:0x1a1a0:0x3fe00:PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows::",
+			"RT_ICON:0x59fa0:0x25a8:dBase IV DBT of `.DBF, block length 9216, next free block index 40, next free block 0, next used block 0::",
+			"RT_ICON:0x5c548:0x10a8:dBase IV DBT of @.DBF, block length 4096, next free block index 40, next free block 74938231, next used block 74938231::",
+			"RT_ICON:0x5d5f0:0x468:GLS_BINARY_LSB_FIRST::",
+			"RT_GROUP_ICON:0x5da58:0x30:data::",
+			"RT_MANIFEST:0x5da88:0x188:XML 1.0 document text:English:United States"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASAPI32"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASMANCS"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASAPI32",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASAPI32",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASAPI32",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASAPI32",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASAPI32",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASAPI32",
+				"name": "FileDirectory"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASMANCS",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASMANCS",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASMANCS",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASMANCS",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASMANCS",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\10HdB61LDc_RASMANCS",
+				"name": "FileDirectory"
+			}
+		],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\gfdC5F.tmp"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ec4fc19b-0b29-470b-a65b-b7b7f267f38f"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ec4fc19b-0b29-470b-a65b-b7b7f267f38f\\bin.dmc"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ec4fc19b-0b29-470b-a65b-b7b7f267f38f\\bin"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ec4fc19b-0b29-470b-a65b-b7b7f267f38f\\bin\\bin.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ec4fc19b-0b29-470b-a65b-b7b7f267f38f\\temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ec4fc19b-0b29-470b-a65b-b7b7f267f38f\\software"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ec4fc19b-0b29-470b-a65b-b7b7f267f38f\\config.dmc"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\9NGRGH2P\\navcancl[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\GESGO3I3\\ErrorPageTemplate[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\C3UHIZOG\\errorPageStrings[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\XNTPGCSS\\httpErrorPagesScripts[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\9NGRGH2P\\info_48[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\MSIMGSIZ.DAT"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\GESGO3I3\\background_gradient[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\C3UHIZOG\\bullet[1]"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ec4fc19b-0b29-470b-a65b-b7b7f267f38f\\config.dmc"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\9NGRGH2P\\navcancl[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\GESGO3I3\\ErrorPageTemplate[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\C3UHIZOG\\errorPageStrings[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\XNTPGCSS\\httpErrorPagesScripts[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\9NGRGH2P\\info_48[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\GESGO3I3\\background_gradient[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\C3UHIZOG\\bullet[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ec4fc19b-0b29-470b-a65b-b7b7f267f38f\\bin.dmc"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\qQmILDfO"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\ieframe.dll"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\10HdB61LDc.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\mshtml.tlb"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\gfdC5F.tmp"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://dtrack.secdls.com/debug",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure4.comp",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.comD",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure5.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure2.comD",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure3.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiloading/838.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure1.comD",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure10.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.paleokits.net",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure8.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure7.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.comX",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure9.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure4.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure10.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure9.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.comd",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure1.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure4.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure3.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debugMessage/d",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure8.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure6.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure2.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/api/157/player_plugin/415/838/english.xml",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure9.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmlx",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure6.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdlX",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure9.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.godaddy.com/gds5-16.crl0S",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure5.comD",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure6.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure3.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure1.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure10.comD",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure4.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure4.comD",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.secdls.comX",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmlk",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure5.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://certificates.godaddy.com/repository/gd_intermediate.crt0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmlf",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure1.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure5.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.secdls.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure7.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure8.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debugMessage/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure6.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.se",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/api",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmllX",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure2.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure3.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure7.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure3.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure8.comD",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://certificates.godaddy.com/repository/0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.html3",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.html4",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/api/157/Player_Plugin/415/838/English.xml",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://certificates.godaddy.com/repository100.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.html-",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure7.comD",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure9.comp",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure9.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure1.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure8.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure4.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.secdls.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://certificates.godaddy.com/repository/gdroot.crl0K",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure4.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure3.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure7.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure5.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmlW",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmlH",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure10.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmlI",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure1L",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmlL",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure8.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure2.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure2.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure10.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure5.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmlMalicious",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiLoading/838.htmlHX",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure10.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/api/157/Player_Plugin/415/838/English",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure5.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/api/157/Player_Plugin/415/838/English.xmlp",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure10.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.29",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "TUGUU SL",
+		"Digitally signed S/N": "2776B257979F9A",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "CallWindowProcW_MessageBoxW_CallWindowProcW_CallWindowProcW_CallWindowProcW_MessageBoxW_CallWindowProcW_CallWindowProcW_CallWindowProcW_CallWindowProcW_MessageBoxW_CallWindowProcW_CallWindowProcW_CallWindowProcW_MessageBoxW_CallWindowProcW_CallWindowProcW_RtlAllocateHeap_CallWindowProcW_CallWindowProcW_MessageBoxW_CallWindowProcW_CallWindowProcW_CallWindowProcW_CallWindowProcW_CallWindowProcW_SleepEx_CallWindowProcW_MessageBoxW_CallWindowProcW_CallWindowProcW_MessageBoxW_CallWindowProcW_CallWindowProcW_MessageBoxW_CallWindowProcW_CallWindowProcW_CallWindowProcW_CallWindowProcW_SleepEx_SleepEx_CallWindowProcW_CallWindowProcW_MessageBoxW_CallWindowProcW_MessageBoxW_CallWindowProcW_CallWindowProcW_CallWindowProcW_CallWindowProcW_MessageBoxW_MessageBoxW_CallWindowProcW_MessageBoxW_MessageBoxW_MessageBoxW_unknown_MessageBoxW_unknown_MessageBoxW_unknown_MessageBoxW_MessageBoxW_MessageBoxW_unknown_MessageBoxW_unknown_MessageBoxW_unknown_CallWindowProcW_MessageBoxExW_MessageBoxW_MessageBoxW_CallWindowProcW_SleepEx_CallWindowProcW_PostMessageW_ShowWindow_GetWindowPlacement_KiUserCallbackDispatcher_CallWindowProcW_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualProtect_WSASocketW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_GetAddrInfoW_VirtualAlloc_VirtualAlloc_VirtualAlloc_SleepEx_QueueUserAPC_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_SleepEx_VirtualAlloc_SleepEx_VirtualAlloc_WriteFile_SleepEx",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1047,T1106",
+		"ATT&CK(Persistence)": "T1574.002,T1546.011",
+		"ATT&CK(Privilege Escalation)": "T1574.002,T1546.011",
+		"ATT&CK(Defense Evasion)": "T1036,T1562.001,T1497,T1027,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1518.001,T1497,T1010,T1018,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560,T1115",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573,T1105"
+	}
+}

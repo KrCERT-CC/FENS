@@ -1,0 +1,2174 @@
+{
+	"md5": "d5ecd6efa6f9728d172d2c7144341585",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetDllDirectoryW"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetSearchPathMode"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetProcessDEPPolicy"
+			},
+			{
+				"type": "C-Style",
+				"string": "\tException"
+			},
+			{
+				"type": "C-Style",
+				"string": "m/d/yy"
+			},
+			{
+				"type": "C-Style",
+				"string": "mmmm d, yyyy"
+			},
+			{
+				"type": "C-Style",
+				"string": " AMPM"
+			},
+			{
+				"type": "C-Style",
+				"string": ":mm:ss"
+			},
+			{
+				"type": "C-Style",
+				"string": "USERPROFILE"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetUserDefaultUILanguage"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": ".DEFAULT\\Control Panel\\International"
+			},
+			{
+				"type": "C-Style",
+				"string": "Locale"
+			},
+			{
+				"type": "C-Style",
+				"string": "Control Panel\\Desktop\\ResourceLocale"
+			},
+			{
+				"type": "C-Style",
+				"string": "[ExceptObject=nil]"
+			},
+			{
+				"type": "C-Style",
+				"string": "File I/O error %d"
+			},
+			{
+				"type": "C-Style",
+				"string": "Compressed block is corrupted"
+			},
+			{
+				"type": "C-Style",
+				"string": "Compressed block is corrupted"
+			},
+			{
+				"type": "C-Style",
+				"string": "Compressed block is corrupted"
+			},
+			{
+				"type": "C-Style",
+				"string": "lzmadecompsmall: Compressed data is corrupted (%d)"
+			},
+			{
+				"type": "C-Style",
+				"string": "lzmadecompsmall: %s"
+			},
+			{
+				"type": "C-Style",
+				"string": "LzmaDecode failed (%d)"
+			},
+			{
+				"type": "C-Style",
+				"string": "etupLanguageEntryA"
+			},
+			{
+				"type": "C-Style",
+				"string": "The setup files are corrupted. Please obtain a new copy of the program."
+			},
+			{
+				"type": "C-Style",
+				"string": "Wow64DisableWow64FsRedirection"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "Wow64RevertWow64FsRedirection"
+			},
+			{
+				"type": "C-Style",
+				"string": "shell32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SeShutdownPrivilege"
+			},
+			{
+				"type": "C-Style",
+				"string": "/SPAWNWND="
+			},
+			{
+				"type": "C-Style",
+				"string": "/Lang="
+			},
+			{
+				"type": "C-Style",
+				"string": "The setup files are corrupted. Please obtain a new copy of the program."
+			},
+			{
+				"type": "C-Style",
+				"string": "InnoSetupLdrWindow"
+			},
+			{
+				"type": "C-Style",
+				"string": "STATIC"
+			},
+			{
+				"type": "C-Style",
+				"string": "/SL5=\"$%x,%d,%d,"
+			},
+			{
+				"type": "C-Style",
+				"string": "Runtime error   "
+			},
+			{
+				"type": "C-Style",
+				"string": "  at 00000000"
+			},
+			{
+				"type": "C-Style",
+				"string": "Error"
+			},
+			{
+				"type": "C-Style",
+				"string": "Inno Setup Setup Data (5.3.10)"
+			},
+			{
+				"type": "C-Style",
+				"string": "Inno Setup Messages (5.1.11)"
+			},
+			{
+				"type": "C-Style",
+				"string": "1Qmh jC,i"
+			},
+			{
+				"type": "C-Style",
+				"string": "P\rpG8"
+			},
+			{
+				"type": "C-Style",
+				"string": "hXDPH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "anuary\bFebruary"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "April"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Filipe Louren"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "o                                             "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tteryCare Setup                                           "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ileVersion"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "                    "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tteryCare                                                 "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "roductVersion"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "0.9.26.0            "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "arFileInfo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nslation"
+			},
+			{
+				"type": "C-Style",
+				"string": "This program must be run under Win32\r\n$7"
+			},
+			{
+				"type": "C-Style",
+				"string": "SOFTWARE\\Borland\\Delphi\\RTL"
+			},
+			{
+				"type": "C-Style",
+				"string": "FPUMaskValue"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLongPathNameA"
+			},
+			{
+				"type": "C-Style",
+				"string": "Software\\Borland\\Locales"
+			},
+			{
+				"type": "C-Style",
+				"string": "Software\\Borland\\Delphi\\Locales"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetDiskFreeSpaceExA"
+			},
+			{
+				"type": "C-Style",
+				"string": "Fadeholugigapakibakorororedetufohegumanumonubagitegipodonekofibegi"
+			},
+			{
+				"type": "C-Style",
+				"string": "LoadLibraryA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetProcAddress"
+			},
+			{
+				"type": "C-Style",
+				"string": "Kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "LoadLibraryA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetProcAddress"
+			},
+			{
+				"type": "C-Style",
+				"string": "Goratenepoh"
+			},
+			{
+				"type": "C-Style",
+				"string": "Runtime error     at 00000000"
+			},
+			{
+				"type": "C-Style",
+				"string": "Error"
+			},
+			{
+				"type": "C-Style",
+				"string": "0123456789ABCDEF"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "DeleteCriticalSection"
+			},
+			{
+				"type": "C-Style",
+				"string": "LeaveCriticalSection"
+			},
+			{
+				"type": "C-Style",
+				"string": "EnterCriticalSection"
+			},
+			{
+				"type": "C-Style",
+				"string": "InitializeCriticalSection"
+			},
+			{
+				"type": "C-Style",
+				"string": "VirtualFree"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetCurrentThreadId"
+			},
+			{
+				"type": "C-Style",
+				"string": "InterlockedDecrement"
+			},
+			{
+				"type": "C-Style",
+				"string": "InterlockedIncrement"
+			},
+			{
+				"type": "C-Style",
+				"string": "VirtualQuery"
+			},
+			{
+				"type": "C-Style",
+				"string": "WideCharToMultiByte"
+			},
+			{
+				"type": "C-Style",
+				"string": "MultiByteToWideChar"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetThreadLocale"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetStartupInfoA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetProcAddress"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetModuleHandleA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetModuleFileNameA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLocaleInfoA"
+			},
+			{
+				"type": "C-Style",
+				"string": "FindClose"
+			},
+			{
+				"type": "C-Style",
+				"string": "ExitProcess"
+			},
+			{
+				"type": "C-Style",
+				"string": "WriteFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "UnhandledExceptionFilter"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetEndOfFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "RtlUnwind"
+			},
+			{
+				"type": "C-Style",
+				"string": "ReadFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "RaiseException"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetStdHandle"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetFileSize"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetFileType"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateFileA"
+			},
+			{
+				"type": "C-Style",
+				"string": "CloseHandle"
+			},
+			{
+				"type": "C-Style",
+				"string": "user32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetKeyboardType"
+			},
+			{
+				"type": "C-Style",
+				"string": "LoadStringA"
+			},
+			{
+				"type": "C-Style",
+				"string": "MessageBoxA"
+			},
+			{
+				"type": "C-Style",
+				"string": "CharNextA"
+			},
+			{
+				"type": "C-Style",
+				"string": "advapi32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegQueryValueExA"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegOpenKeyExA"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegCloseKey"
+			},
+			{
+				"type": "C-Style",
+				"string": "oleaut32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SysFreeString"
+			},
+			{
+				"type": "C-Style",
+				"string": "SysReAllocStringLen"
+			},
+			{
+				"type": "C-Style",
+				"string": "SysAllocStringLen"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "LocalFree"
+			},
+			{
+				"type": "C-Style",
+				"string": "LocalAlloc"
+			},
+			{
+				"type": "C-Style",
+				"string": "advapi32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegQueryValueExA"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegOpenKeyExA"
+			},
+			{
+				"type": "C-Style",
+				"string": "RegFlushKey"
+			},
+			{
+				"type": "C-Style",
+				"string": "WriteFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "WaitForSingleObject"
+			},
+			{
+				"type": "C-Style",
+				"string": "VirtualQuery"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetThreadAffinityMask"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetEvent"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetEndOfFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetConsoleCursorInfo"
+			},
+			{
+				"type": "C-Style",
+				"string": "ResetEvent"
+			},
+			{
+				"type": "C-Style",
+				"string": "ReadFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "ReadConsoleInputW"
+			},
+			{
+				"type": "C-Style",
+				"string": "QueryPerformanceCounter"
+			},
+			{
+				"type": "C-Style",
+				"string": "MoveFileA"
+			},
+			{
+				"type": "C-Style",
+				"string": "LoadLibraryA"
+			},
+			{
+				"type": "C-Style",
+				"string": "LeaveCriticalSection"
+			},
+			{
+				"type": "C-Style",
+				"string": "IsBadCodePtr"
+			},
+			{
+				"type": "C-Style",
+				"string": "InitializeCriticalSection"
+			},
+			{
+				"type": "C-Style",
+				"string": "GlobalUnlock"
+			},
+			{
+				"type": "C-Style",
+				"string": "GlobalReAlloc"
+			},
+			{
+				"type": "C-Style",
+				"string": "GlobalHandle"
+			},
+			{
+				"type": "C-Style",
+				"string": "GlobalLock"
+			},
+			{
+				"type": "C-Style",
+				"string": "GlobalFindAtomA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetUserDefaultLCID"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetStdHandle"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetProcAddress"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetPrivateProfileStringW"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetPrivateProfileIntA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetModuleHandleA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetModuleFileNameA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLocaleInfoA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLastError"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetDiskFreeSpaceA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetCurrentThreadId"
+			},
+			{
+				"type": "C-Style",
+				"string": "FormatMessageA"
+			},
+			{
+				"type": "C-Style",
+				"string": "EnumCalendarInfoA"
+			},
+			{
+				"type": "C-Style",
+				"string": "EnterCriticalSection"
+			},
+			{
+				"type": "C-Style",
+				"string": "DeleteCriticalSection"
+			},
+			{
+				"type": "C-Style",
+				"string": "CompareStringA"
+			},
+			{
+				"type": "C-Style",
+				"string": "OpenDesktopA"
+			},
+			{
+				"type": "C-Style",
+				"string": "MessageBoxA"
+			},
+			{
+				"type": "C-Style",
+				"string": "LoadKeyboardLayoutW"
+			},
+			{
+				"type": "C-Style",
+				"string": "IsDlgButtonChecked"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetSystemMetrics"
+			},
+			{
+				"type": "C-Style",
+				"string": "CharNextA"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SafeArrayPtrOfIndex"
+			},
+			{
+				"type": "C-Style",
+				"string": "SafeArrayPutElement"
+			},
+			{
+				"type": "C-Style",
+				"string": "SafeArrayGetElement"
+			},
+			{
+				"type": "C-Style",
+				"string": "SafeArrayGetUBound"
+			},
+			{
+				"type": "C-Style",
+				"string": "SafeArrayGetLBound"
+			},
+			{
+				"type": "C-Style",
+				"string": "SafeArrayCreate"
+			},
+			{
+				"type": "C-Style",
+				"string": "VariantChangeTypeEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "VariantCopyInd"
+			},
+			{
+				"type": "C-Style",
+				"string": "VariantInit"
+			},
+			{
+				"type": "C-Style",
+				"string": ">@?X?"
+			},
+			{
+				"type": "C-Style",
+				"string": "\">&>*>.>2>6>8???U?o?"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "LAL\u000bPACKAGEINFO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ist index out of bounds (%d)+Out of memory while expanding memory stream"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "rror reading %s%s%s: %s"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ream read error"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "operty is read-only\u001bFailed to get data for '%s'"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "%s.Seek not implemented$Operation not allowed on sorted list"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "roperty %s does not exist"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ream write error"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "riday\bSaturday\u001bAncestor for '%s' not found"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "annot assign a %s to a %s"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "s %s not found%List does not allow duplicates ($0%x)#A component named %s already exists%String list does not allow duplicates"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "annot create file %s"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "annot open file %s$''%s'' is not a valid component name"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lid property path"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lid property value"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nvalid data type for '%s' List capacity out of bounds (%d)"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ist count out of bounds (%d)"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "eptember\u0007October\bNovember\bDecember"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "rror creating variant array"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "riant is not an array!Variant array index out of bounds"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ternal exception %x"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Assertion failed"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nterface not supported"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "xception in safecall method"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "%s (%s, line %d)"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "loating point underflow"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lid pointer operation"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lid class typecast0Access violation at address %p. %s of address %p"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "k overflow\rControl-C hit"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "rivileged instruction%Exception %s in module %s at %p.\n%s%s"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Application Error1Format '%s' invalid or incompatible with argument\u001bNo argument for format '%s'"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lid variant type conversion"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lid variant operation\"Variant method calls not supported"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "!'%s' is not a valid integer value\rOut of memory"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": " error %d"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "le not found"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nvalid filename"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "o many open files"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "le access denied"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "d beyond end of file\tDisk full"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nvalid numeric input"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ivision by zero"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nge check error"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "teger overflow Invalid floating point operation"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ting point division by zero"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ting point overflow"
+			},
+			{
+				"type": "C-Style",
+				"string": "jpawjwt"
+			},
+			{
+				"type": "C-Style",
+				"string": "\"RTLConsts"
+			},
+			{
+				"type": "C-Style",
+				"string": "ysInit"
+			},
+			{
+				"type": "C-Style",
+				"string": "KWindows"
+			},
+			{
+				"type": "C-Style",
+				"string": "lasses"
+			},
+			{
+				"type": "C-Style",
+				"string": "SysConst"
+			},
+			{
+				"type": "C-Style",
+				"string": "Messages"
+			},
+			{
+				"type": "C-Style",
+				"string": "ysUtils"
+			},
+			{
+				"type": "C-Style",
+				"string": "CVariants"
+			},
+			{
+				"type": "C-Style",
+				"string": "$VarUtils"
+			},
+			{
+				"type": "C-Style",
+				"string": "TypInfo"
+			},
+			{
+				"type": "C-Style",
+				"string": "sActiveX"
+			},
+			{
+				"type": "C-Style",
+				"string": "ujflrbca"
+			},
+			{
+				"type": "C-Style",
+				"string": "ccoawsvadkxvqfjl"
+			},
+			{
+				"type": "C-Style",
+				"string": "Inno Setup Setup Data (5.3.10)"
+			}
+		],
+		"Packer": "",
+		"compiler": "Borland Delphi(2)",
+		"linker": "Turbo Linker(2.25*,Delphi)[EXE32,signed]",
+		"PDB path": "",
+		"full Fuzzyhash": "49152:Sa6XhniqfSRy+g7jYXApWmSF9MULW+wKJVMzCR85bjbNE8KE:76XNoRxxwpA9pSqMzCR6/NTf",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_d5ecd6efa6f9728d172d2c7144341585.jpg",
+		"bytecode": "binary_d5ecd6efa6f9728d172d2c7144341585.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "CODE",
+				"md5": "0d7ac17dafcd52a9b3ea353c32256c1d"
+			},
+			{
+				"section": "DATA",
+				"md5": "45829356498700390b8c7afa10ea05a4"
+			},
+			{
+				"section": ".idata",
+				"md5": "bb5485bf968b970e5ea81292af2acdba"
+			},
+			{
+				"section": ".rdata",
+				"md5": "9ba824905bf9c7922b6fc87a38b74366"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "8d54c089b0c79fe63f767106d21f37ba"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "d5ecd6efa6f9728d172d2c7144341585",
+		"SHA1": "6d401a7895c941a347332391d71d93155b80f154",
+		"SHA256": "0002abd60385779664f36430234c088e26c3708217160445da6ac692869f87e7",
+		"EntryPoint": "409c40",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 2172832,
+		"Original FileName": "",
+		"Entropy": 7.949,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, BYTES_REVERSED_LO, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, BYTES_REVERSED_HI, RELOCS_STRIPPED",
+		"Timestamp": "1992-06-20 07:22:17(1992-06-19 22:22:17 UTC)",
+		"Import Hash": "884310b1928934402ea6fec1dbd3cf5e",
+		"Section Info": [
+			"CODE:0x1000:0x9364:0x400:0x9400:6.56223225793",
+			"DATA:0xb000:0x24c:0x9800:0x400:2.75850221504",
+			"BSS:0xc000:0xe4c:0x9c00:0x0:0",
+			".idata:0xd000:0x950:0x9c00:0xa00:4.4307330698",
+			".tls:0xe000:0x8:0xa600:0x0:0",
+			".rdata:0xf000:0x18:0xa600:0x200:0.20448815744",
+			".reloc:0x10000:0x8b4:0x0:0x0:0",
+			".rsrc:0x11000:0x209000:0xa800:0x207fa0:unknown"
+		],
+		"Resource": [
+			"RT_ICON:0x11354:0x8b51:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced:English:United States",
+			"RT_ICON:0x19ea8:0x25a8:dBase III DBT, version number 0, next free block index 40:English:United States",
+			"RT_ICON:0x1c450:0x10a8:data:English:United States",
+			"RT_ICON:0x1d4f8:0x468:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_STRING:0x1d960:0x2f2:data::",
+			"RT_STRING:0x1dc54:0x30c:data::",
+			"RT_STRING:0x1df60:0x2ce:data::",
+			"RT_STRING:0x1e230:0x68:data::",
+			"RT_STRING:0x1e298:0xb4:data::",
+			"RT_STRING:0x1e34c:0xae:data::",
+			"RT_RCDATA:0x1e3fc:0x2c:data::",
+			"RT_GROUP_ICON:0x1e428:0x3e:data:English:United States",
+			"RT_VERSION:0x1e468:0x4b8:COM executable for DOS:English:United States",
+			"RT_MANIFEST:0x1e920:0x560:XML 1.0 document, ASCII text, with CRLF line terminators:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Users\\user\\AppData\\Local\\Temp\\is-5A9KF.tmp\\jS9DQCYOVL.tmp' /SL5='$60110,1824932,100352,C:\\Users\\user\\Desktop\\jS9DQCYOVL.exe' "
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\taskkill.exe' /f /im batterycare.exe"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\taskkill.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-5A9KF.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-5A9KF.tmp\\jS9DQCYOVL.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp\\_isetup"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp\\_isetup\\_RegDLL.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp\\_isetup\\_setup64.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp\\_isetup\\_shfoldr.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp\\Fusion.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\0054B935.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\ie6_main.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\main.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\browse.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\button.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\checkbox.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\images\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\images\\button-bg.png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\images\\progress-bg-corner.png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\images\\progress-bg.png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\images\\progress-bg2.png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\css\\sdk-ui\\progress-bar.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\csshover3.htc"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\images\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\images\\Loader.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\AF.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\AZ.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\BE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\BG.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\BS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\CA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\CS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\DA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\DE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\EL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\EN.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\ES.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\ET.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\EU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\FA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\FI.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\FR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\GU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\HE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\HI.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\HR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\HT.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\HU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\HY.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\ID.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\IS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\IT.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\JA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\KA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\KK.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\KO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\KU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\LO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\LT.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\LV.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\MK.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\ML.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\MR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\MS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\NE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\NL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\NO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\PA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\PL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\PS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\PT.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\RO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\RU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\SK.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\SL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\SQ.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\SR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\SV.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\TA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\TE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\TH.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\TL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\TR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\UK.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\UR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\UZ.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\VI.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\YO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\ZH.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\NSD555~1\\locale\\ZU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\0054BA9C.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ns0AC25337\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ns0AC25337\\466CF84D.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\bootstrap_29310.html"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\00569652.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\MSIMGSIZ.DAT"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\0054B935.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\0054BA9C.log"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\00569652.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\bootstrap_29310.html"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-5A9KF.tmp\\jS9DQCYOVL.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp\\_isetup\\_RegDLL.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp\\_isetup\\_setup64.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp\\_isetup\\_shfoldr.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-K6R0E.tmp\\Fusion.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\0054B935.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\ie6_main.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\main.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\sdk-ui\\browse.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\sdk-ui\\button.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\sdk-ui\\checkbox.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\sdk-ui\\images\\button-bg.png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\sdk-ui\\images\\progress-bg-corner.png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\sdk-ui\\images\\progress-bg.png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\sdk-ui\\images\\progress-bg2.png"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\sdk-ui\\progress-bar.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\csshover3.htc"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\images\\Loader.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\AF.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\AZ.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\BE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\BG.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\BS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\CA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\CS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\DA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\DE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\EL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\EN.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\ES.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\ET.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\EU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\FA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\FI.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\FR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\GU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\HE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\HI.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\HR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\HT.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\HU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\HY.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\ID.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\IS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\IT.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\JA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\KA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\KK.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\KO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\KU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\LO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\LT.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\LV.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\MK.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\ML.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\MR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\MS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\NE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\NL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\NO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\PA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\PL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\PS.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\PT.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\RO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\RU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\SK.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\SL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\SQ.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\SR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\SV.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\TA.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\TE.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\TH.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\TL.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\TR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\UK.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\UR.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\UZ.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\VI.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\YO.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\ZH.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\ZU.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\0054BA9C.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\bootstrap_29310.html"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\00569652.log"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\jS9DQCYOVL.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-5A9KF.tmp\\jS9DQCYOVL.tmp"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\taskkill.exe"
+			},
+			{
+				"path": "C:\\Windows\\win.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Secure Preferences"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\0054B935.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\0054BA9C.log"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\ieframe.dll"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\bootstrap_29310.html"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\sdk-ui\\progress-bar.css"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\css\\main.css"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\00569652.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\locale\\EN.locale"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nsd555243749419\\images\\Loader.gif"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://www.innosetup.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://creativecommons.org/licenses/by-nc-nd/2.5/pt/legalcode",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578p",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://batterycare.net&",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578k",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/S9I",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578)",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ocsp.thawte.com0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/6",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/v",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.babylon.com/uninstall_search/chrome",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://batterycare.net",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/B",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578a",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578RTCUT_NAME=getConfigParam(",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cdneu.yaretaye.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os.yaretaye.com/FusionBatteryCare/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578k",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://batterycare.net0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578)",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.babylon.com/delta-search/eula",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.dk-soft.org/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cdnus.yaretaye.com/flow.progressPage.onEnterflow.progressPage.onLeave",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.remobjects.com/psU",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578n",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.dealply.com/terms",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.thawte.com/ThawteTimestampingCA.crl0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.xs4all.nl/~peterned/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://home.searchya.com/terms/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://creativecommons.org/licenses/LGPL/2.1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os.domain.com/)",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=56755786",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.adilyildiz.com.tr",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.dealply.com/faq/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.dealply.com/privacy",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.adilyildiz.com.tr%1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://searchya.com/faq",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.remobjects.com/ps",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://home.searchya.com/privacy-policy/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578x",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os2.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=56755786",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://os.yaretaye.com/FusionBatteryCare/?v=6.0&c=426704067&t=5675578",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.29",
+				"country": ""
+			}
+		],
+		"Classification": "Spyware,Evader",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_SetProcessDEPPolicy_LocalAlloc_VirtualAlloc_LocalAlloc_VirtualAlloc_LoadStringA_LoadStringA_LoadStringA_LoadStringA_GetSystemDefaultLCID_GetSystemDefaultLCID_GetSystemDefaultLCID_GetSystemDefaultLCID_GetLocaleInfoA_GetLocaleInfoA_SetErrorMode_SetErrorMode_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_SetErrorMode_SetErrorMode_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_GetSystemInfo_GetSystemInfo_GetSystemInfo_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_CreateFileA_SetFilePointer_ReadFile_ReadFile_SetFilePointer_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_SetFilePointer_SetFilePointer_GetFileAttributesA_GetFileAttributesA_CreateDirectoryA_CreateDirectoryA_SetFilePointer_CreateFileA_VirtualAlloc_ReadFile_SetFilePointer_VirtualAlloc_VirtualAlloc_VirtualAlloc_SetFilePointer_SetFilePointer_SetFilePointer_SetEndOfFile_SetEndOfFile_SetFilePointer_WriteFile_CloseHandle_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1047,T1106,T1059",
+		"ATT&CK(Persistence)": "T1546.011",
+		"ATT&CK(Privilege Escalation)": "T1068,T1546.011,T1134,T1055",
+		"ATT&CK(Defense Evasion)": "T1562.001,T1140,T1027,T1027.002,T1036,T1497,T1134,T1055",
+		"ATT&CK(Credential Access)": "T1003",
+		"ATT&CK(Discovery)": "T1124,T1087,T1083,T1082,T1518.001,T1497,T1057,T1010,T1033,T1018",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560,T1005,T1115",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

@@ -1,0 +1,424 @@
+{
+	"md5": "a489a403ce097c59a678ba2ab047d38e",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetDllDirectoryW"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetSearchPathMode"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetProcessDEPPolicy"
+			},
+			{
+				"type": "C-Style",
+				"string": "\tException"
+			},
+			{
+				"type": "C-Style",
+				"string": "m/d/yy"
+			},
+			{
+				"type": "C-Style",
+				"string": "mmmm d, yyyy"
+			},
+			{
+				"type": "C-Style",
+				"string": " AMPM"
+			},
+			{
+				"type": "C-Style",
+				"string": ":mm:ss"
+			},
+			{
+				"type": "C-Style",
+				"string": "USERPROFILE"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetUserDefaultUILanguage"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": ".DEFAULT\\Control Panel\\International"
+			},
+			{
+				"type": "C-Style",
+				"string": "Locale"
+			},
+			{
+				"type": "C-Style",
+				"string": "Control Panel\\Desktop\\ResourceLocale"
+			},
+			{
+				"type": "C-Style",
+				"string": "[ExceptObject=nil]"
+			},
+			{
+				"type": "C-Style",
+				"string": "File I/O error %d"
+			},
+			{
+				"type": "C-Style",
+				"string": "Compressed block is corrupted"
+			},
+			{
+				"type": "C-Style",
+				"string": "Compressed block is corrupted"
+			},
+			{
+				"type": "C-Style",
+				"string": "Compressed block is corrupted"
+			},
+			{
+				"type": "C-Style",
+				"string": "lzmadecompsmall: Compressed data is corrupted (%d)"
+			},
+			{
+				"type": "C-Style",
+				"string": "lzmadecompsmall: %s"
+			},
+			{
+				"type": "C-Style",
+				"string": "LzmaDecode failed (%d)"
+			},
+			{
+				"type": "C-Style",
+				"string": "etupLanguageEntryA"
+			},
+			{
+				"type": "C-Style",
+				"string": "The setup files are corrupted. Please obtain a new copy of the program."
+			},
+			{
+				"type": "C-Style",
+				"string": "Wow64DisableWow64FsRedirection"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "Wow64RevertWow64FsRedirection"
+			},
+			{
+				"type": "C-Style",
+				"string": "shell32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SeShutdownPrivilege"
+			},
+			{
+				"type": "C-Style",
+				"string": "/SPAWNWND="
+			},
+			{
+				"type": "C-Style",
+				"string": "/Lang="
+			},
+			{
+				"type": "C-Style",
+				"string": "The setup files are corrupted. Please obtain a new copy of the program."
+			},
+			{
+				"type": "C-Style",
+				"string": "InnoSetupLdrWindow"
+			},
+			{
+				"type": "C-Style",
+				"string": "STATIC"
+			},
+			{
+				"type": "C-Style",
+				"string": "/SL5=\"$%x,%d,%d,"
+			},
+			{
+				"type": "C-Style",
+				"string": "Runtime error   "
+			},
+			{
+				"type": "C-Style",
+				"string": "  at 00000000"
+			},
+			{
+				"type": "C-Style",
+				"string": "Error"
+			},
+			{
+				"type": "C-Style",
+				"string": "Inno Setup Setup Data (5.5.0)"
+			},
+			{
+				"type": "C-Style",
+				"string": "Inno Setup Messages (5.5.0)"
+			}
+		],
+		"Packer": "",
+		"compiler": "Borland Delphi(2)",
+		"linker": "Turbo Linker(2.25*,Delphi)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "12288:1QFa+zL8+iDNdRw4o3BelyJtHgk+np74sKrPWp1uGumIUCLLw6ti3LniQ:1QF/38Dd+4oBwQgJnLSPsNmFs6tkeQ",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_a489a403ce097c59a678ba2ab047d38e.jpg",
+		"bytecode": "binary_a489a403ce097c59a678ba2ab047d38e.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "CODE",
+				"md5": "e8a38c5eb0d717d3fb478c7e19f20477"
+			},
+			{
+				"section": "DATA",
+				"md5": "5d98c64569668b0235ae89005918165a"
+			},
+			{
+				"section": ".idata",
+				"md5": "bb5485bf968b970e5ea81292af2acdba"
+			},
+			{
+				"section": ".rdata",
+				"md5": "9ba824905bf9c7922b6fc87a38b74366"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "9feb9bc3b5c726487ec306342fa0d2d1"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "a489a403ce097c59a678ba2ab047d38e",
+		"SHA1": "4b592e7aff5306d0302e06d1fcc4d4a71873312f",
+		"SHA256": "0000a7c1f0b68cc99e2ca63d2e176dd425686444d00ff8923b3b50ed88718f9a",
+		"EntryPoint": "409c40",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 696302,
+		"Original FileName": "",
+		"Entropy": 7.965,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, BYTES_REVERSED_LO, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, BYTES_REVERSED_HI, RELOCS_STRIPPED",
+		"Timestamp": "1992-06-20 07:22:17(1992-06-19 22:22:17 UTC)",
+		"Import Hash": "884310b1928934402ea6fec1dbd3cf5e",
+		"Section Info": [
+			"CODE:0x1000:0x9364:0x400:0x9400:6.56313935202",
+			"DATA:0xb000:0x24c:0x9800:0x400:2.73730656229",
+			"BSS:0xc000:0xe88:0x9c00:0x0:0",
+			".idata:0xd000:0x950:0x9c00:0xa00:4.4307330698",
+			".tls:0xe000:0x8:0xa600:0x0:0",
+			".rdata:0xf000:0x18:0xa600:0x200:0.20448815744",
+			".reloc:0x10000:0x8b4:0x0:0x0:0",
+			".rsrc:0x11000:0x2c00:0xa800:0x2c00:4.50389999604"
+		],
+		"Resource": [
+			"RT_ICON:0x11354:0x128:GLS_BINARY_LSB_FIRST:Dutch:Netherlands",
+			"RT_ICON:0x1147c:0x568:GLS_BINARY_LSB_FIRST:Dutch:Netherlands",
+			"RT_ICON:0x119e4:0x2e8:data:Dutch:Netherlands",
+			"RT_ICON:0x11ccc:0x8a8:data:Dutch:Netherlands",
+			"RT_STRING:0x12574:0x2f2:data::",
+			"RT_STRING:0x12868:0x30c:data::",
+			"RT_STRING:0x12b74:0x2ce:data::",
+			"RT_STRING:0x12e44:0x68:data::",
+			"RT_STRING:0x12eac:0xb4:data::",
+			"RT_STRING:0x12f60:0xae:data::",
+			"RT_RCDATA:0x13010:0x2c:data::",
+			"RT_GROUP_ICON:0x1303c:0x3e:data:English:United States",
+			"RT_VERSION:0x1307c:0x4b8:COM executable for DOS:English:United States",
+			"RT_MANIFEST:0x13534:0x5a4:XML 1.0 document, ASCII text, with CRLF line terminators:English:United States"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000",
+				"name": "Owner"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000",
+				"name": "SessionHash"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000",
+				"name": "Sequence"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Users\\user\\AppData\\Local\\Temp\\is-T2983.tmp\\1Wcsf7BXIP.tmp' /SL5='$70186,448693,54272,C:\\Users\\user\\Desktop\\1Wcsf7BXIP.exe' "
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-T2983.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-T2983.tmp\\1Wcsf7BXIP.tmp"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Programs"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Programs\\Common"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp\\_isetup"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp\\_isetup\\_setup64.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp\\_isetup\\_shfoldr.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp\\itdownload.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp\\isxdl.dll"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-T2983.tmp\\1Wcsf7BXIP.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp\\_isetup\\_setup64.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp\\_isetup\\_shfoldr.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp\\itdownload.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-MKA6H.tmp\\isxdl.dll"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\1Wcsf7BXIP.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-T2983.tmp\\1Wcsf7BXIP.tmp"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Windows\\win.ini"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://www.innosetup.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.istool.org/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.remobjects.com/psU",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.easy4pc.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.remobjects.com/ps",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.easy4pc.com&",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_SetProcessDEPPolicy_LocalAlloc_VirtualAlloc_LocalAlloc_VirtualAlloc_LoadStringA_LoadStringA_LoadStringA_LoadStringA_GetSystemDefaultLCID_GetSystemDefaultLCID_GetSystemDefaultLCID_GetSystemDefaultLCID_GetLocaleInfoA_GetLocaleInfoA_SetErrorMode_SetErrorMode_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_SetErrorMode_SetErrorMode_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_GetSystemInfo_GetSystemInfo_GetSystemInfo_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_CreateFileA_SetFilePointer_ReadFile_ReadFile_SetFilePointer_VirtualAlloc_VirtualAlloc_SetFilePointer_SetFilePointer_GetFileAttributesA_GetFileAttributesA_CreateDirectoryA_CreateDirectoryA_SetFilePointer_CreateFileA_VirtualAlloc_ReadFile_SetFilePointer_VirtualAlloc_VirtualAlloc_SetFilePointer_SetFilePointer_SetFilePointer_SetEndOfFile_SetEndOfFile_SetFilePointer_WriteFile_CloseHandle_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1068,T1134,T1055",
+		"ATT&CK(Defense Evasion)": "T1134,T1055,T1140,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1057,T1010,T1033,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

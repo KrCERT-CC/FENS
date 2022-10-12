@@ -1,0 +1,127 @@
+{
+	"md5": "3a4b1c1f68811b38be74e99e572efae9",
+	"data": {
+		"MD5": "3a4b1c1f68811b38be74e99e572efae9",
+		"SHA1": "c22e17dd8f7b2687011cecc8b2208ceb6cf9b995",
+		"SHA256": "f1e8844dbfc812d39f369e7670545a29efef6764d673038b1c3edd11561d6902",
+		"EntryPoint": "401000",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 24064,
+		"Original FileName": "",
+		"Entropy": 4.152,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE, DEBUG_STRIPPED",
+		"Timestamp": "2022-03-14 16:19:36(2022-03-14 07:19:36 UTC)",
+		"Import Hash": "ea8609d4dad999f73ec4b6f8e7b28e55",
+		"Section Info": [
+			"UPX0:0x1000:0x5000:0x400:0x4200:3.21102503006",
+			"UPX1:0x6000:0x2000:0x4600:0x1200:7.388690546",
+			"UPX2:0x8000:0x1000:0x5800:0x200:2.13940102053",
+			".imports:0x9000:0x1000:0x5a00:0x200:0.88157713525",
+			".reloc:0xa000:0x1000:0x5c00:0x200:0.0815394123432"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "unknown"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "unknown"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Ransomware,Spreading",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetTimer_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtCreateFile_NtSetInformationFile_NtWriteFile_NtSetSecurityObject_NtSetSecurityObject",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "",
+		"ATT&CK(Defense Evasion)": "T1027.002,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "",
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "DsRoleGetPrimaryDomainInformation"
+			},
+			{
+				"type": "C-Style",
+				"string": ".text"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.DLL"
+			},
+			{
+				"type": "C-Style",
+				"string": "NETAPI32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "ExitProcess"
+			},
+			{
+				"type": "C-Style",
+				"string": "DsRoleGetPrimaryDomainInformation"
+			},
+			{
+				"type": "C-Style",
+				"string": "NETAPI32.dll"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2010)",
+		"linker": "Microsoft Linker(10.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "384:Z6fPWl24evFrT2ZR5Cn7UR0VJo2/RmIHni:Z6fQ24ArTUR5C7Tz/Rmc",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "44616e53000000000000000000000000097893000300000000000100010000006f76af00010000006f769d0001000000",
+		"PE Image": "binary_3a4b1c1f68811b38be74e99e572efae9.jpg",
+		"bytecode": "binary_3a4b1c1f68811b38be74e99e572efae9.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "UPX0",
+				"md5": "f0a2c113370fa872b5a9e82a97710606"
+			},
+			{
+				"section": "UPX1",
+				"md5": "6be6e878d1e8fed277c5feaf60b57a19"
+			},
+			{
+				"section": "UPX2",
+				"md5": "11f22fc72c3ca7dd6b874bda37c1fe82"
+			},
+			{
+				"section": ".imports",
+				"md5": "b38a376ec58a809b7afdc379e4e757d2"
+			},
+			{
+				"section": ".reloc",
+				"md5": "0f1286f7c8817e0974ddc3ce1edc1b59"
+			}
+		],
+		"Yara Rule": []
+	}
+}

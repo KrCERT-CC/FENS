@@ -1,0 +1,1367 @@
+{
+	"md5": "e63dc29b24934b64f077291d2eba75f2",
+	"data": {
+		"String": [
+			{
+				"string": "advapi32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "CheckTokenMembership",
+				"type": "C-Style"
+			},
+			{
+				"string": "Reboot",
+				"type": "C-Style"
+			},
+			{
+				"string": "AdvancedINF",
+				"type": "C-Style"
+			},
+			{
+				"string": "Version",
+				"type": "C-Style"
+			},
+			{
+				"string": "setupx.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "setupapi.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SeShutdownPrivilege",
+				"type": "C-Style"
+			},
+			{
+				"string": "advpack.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "DelNodeRunDLL32",
+				"type": "C-Style"
+			},
+			{
+				"string": "wininit.ini",
+				"type": "C-Style"
+			},
+			{
+				"string": "Software\\Microsoft\\Windows\\CurrentVersion\\App Paths",
+				"type": "C-Style"
+			},
+			{
+				"string": "Kernel32.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "HeapSetInformation",
+				"type": "C-Style"
+			},
+			{
+				"string": "TITLE",
+				"type": "C-Style"
+			},
+			{
+				"string": "EXTRACTOPT",
+				"type": "C-Style"
+			},
+			{
+				"string": "INSTANCECHECK",
+				"type": "C-Style"
+			},
+			{
+				"string": "VERCHECK",
+				"type": "C-Style"
+			},
+			{
+				"string": "DecryptFileA",
+				"type": "C-Style"
+			},
+			{
+				"string": "LICENSE",
+				"type": "C-Style"
+			},
+			{
+				"string": "<None>",
+				"type": "C-Style"
+			},
+			{
+				"string": "REBOOT",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHOWWINDOW",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADMQCMD",
+				"type": "C-Style"
+			},
+			{
+				"string": "USRQCMD",
+				"type": "C-Style"
+			},
+			{
+				"string": "RUNPROGRAM",
+				"type": "C-Style"
+			},
+			{
+				"string": "POSTRUNPROGRAM",
+				"type": "C-Style"
+			},
+			{
+				"string": "FINISHMSG",
+				"type": "C-Style"
+			},
+			{
+				"string": "CABINET",
+				"type": "C-Style"
+			},
+			{
+				"string": "FILESIZES",
+				"type": "C-Style"
+			},
+			{
+				"string": "PACKINSTSPACE",
+				"type": "C-Style"
+			},
+			{
+				"string": "UPROMPT",
+				"type": "C-Style"
+			},
+			{
+				"string": "IXP%03d.TMP",
+				"type": "C-Style"
+			},
+			{
+				"string": "alpha",
+				"type": "C-Style"
+			},
+			{
+				"string": "msdownld.tmp",
+				"type": "C-Style"
+			},
+			{
+				"string": "TMP4351$.TMP",
+				"type": "C-Style"
+			},
+			{
+				"string": "RegServer",
+				"type": "C-Style"
+			},
+			{
+				"string": "UPDFILE%lu",
+				"type": "C-Style"
+			},
+			{
+				"string": "Control Panel\\Desktop\\ResourceLocale",
+				"type": "C-Style"
+			},
+			{
+				"string": ".text$mn",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADVAPI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "GDI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "msvcrt.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "COMCTL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "Cabinet.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "VERSION.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "System\\CurrentControlSet\\Control\\Session Manager",
+				"type": "C-Style"
+			},
+			{
+				"string": "rundll32.exe %sadvpack.dll,DelNodeRunDLL32 \"%s\"",
+				"type": "C-Style"
+			},
+			{
+				"string": "Software\\Microsoft\\Windows\\CurrentVersion\\RunOnce",
+				"type": "C-Style"
+			},
+			{
+				"string": "wextract_cleanup%d",
+				"type": "C-Style"
+			},
+			{
+				"string": "rundll32.exe %s,InstallHinfSection %s 128 %s",
+				"type": "C-Style"
+			},
+			{
+				"string": "PendingFileRenameOperations",
+				"type": "C-Style"
+			},
+			{
+				"string": "DefaultInstall",
+				"type": "C-Style"
+			},
+			{
+				"string": "Command.com /c %s",
+				"type": "C-Style"
+			},
+			{
+				"string": "%s /D:%s",
+				"type": "C-Style"
+			},
+			{
+				"string": "System\\CurrentControlSet\\Control\\Session Manager\\FileRenameOperations",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHELL32.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "DoInfInstall",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHBrowseForFolder",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHGetPathFromIDList",
+				"type": "C-Style"
+			},
+			{
+				"string": "*MEMCAB",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "",
+		"PDB path": "wextract.pdb",
+		"full Fuzzyhash": "393216:mJiZ+0/PqLgpCEe9Wa87AMkFmCHQcBC77B/rIh:mJiZp/PqL5p0umCwcBwrIh",
+		"section Fuzzyhash(.data)": "12:sLtt/+dO4aB8VjDbBWP9q3HB/wm1d0qQ/qls3:xYqVjBV3Zd0qQ/7",
+		"rich header": "44616e53000000000000000000000000146b050101000000146b030102000000146b040112000000146b01011100000000000100a0000000146b08010a000000146bff0001000000146b020101000000",
+		"PE Image": "binary_e63dc29b24934b64f077291d2eba75f2.jpg",
+		"bytecode": "binary_e63dc29b24934b64f077291d2eba75f2.byte",
+		"opcode": "xor,lea,mov,mov,cmp,js,jz,sub,sub,lea,jz,mov,jz,mov,inc,sub,jnz,lea,neg,sbb,not,mov,jmp,jz,mov,mov,xor,mov,mov,mov,mov,lea,cmp,js,mov,mov,jz,cmp,jz,inc,sub,jnz,mov,neg,sbb,not,jz,mov,sub,jmp,xor,js,mov,lea,sub,jz,mov,lea,sub,add,sub,jz,mov,jz,mov,dec,inc,sub,jnz,lea,neg,sbb,not,mov,mov,mov,mov,push,push,push,sub,xor,lea,cmp,mov,mov,js,lea,mov,mov,lea,xor,call,nop,js,cmp,ja,jnz,mov,jmp,mov,mov,jmp,jz,mov,mov,add,pop,pop,pop,mov,mov,push,push,push,sub,mov,xor,mov,mov,mov,xor,lea,mov,mov,call,nop,mov,jz,lea,mov,call,nop,mov,jz,lea,mov,mov,lea,mov,lea,mov,lea,mov,mov,mov,mov,mov,mov,call,nop,jz,mov,mov,xor,mov,call,mov,call,nop,mov,call,nop,mov,mov,xor,call,lea,mov,mov,mov,pop,pop,pop,mov,mov,mov,mov,mov,push,lea,sub,mov,xor,mov,mov,xor,mov,mov,mov,lea,cmp,jnz,lea,call,jnz,call,nop,mov,lea,lea,call,nop,jz,mov,lea,xor,mov,xor,mov,call,nop,jnz,call,nop,cmp,jnz,mov,xor,call,nop,mov,jz,mov,lea,mov,mov,mov,mov,call,nop,jz,lea,mov,mov,lea,mov,mov,mov,mov,mov,mov,mov,mov,call,nop,jz,mov,cmp,jbe,mov,mov,mov,add,mov,call,nop,jnz,add,cmp,jb,jmp,mov,mov,mov,call,nop,mov,call,nop,mov,call,nop,mov,jmp,mov,mov,mov,mov,mov,xor,call,lea,mov,mov,mov,mov,mov,pop,mov,push,sub,mov,xor,mov,mov,mov,mov,sub,jz,cmp,jnz,add,cmp,ja,mov,call,nop,jmp,xor,jmp,call,nop,mov,mov,call,mov,lea,mov,mov,mov,call,nop,lea,mov,mov,call,nop,call,nop,mov,mov,xor,call,mov,add,pop,mov,mov,mov,push,sub,mov,mov,mov,xor,jmp,cmp,jz,inc,mov,call,jnz,mov,mov,call,jnz,mov,cmp,jz,inc,mov,inc,call,jz,add,cmp,jz,mov,inc,mov,mov,mov,add,pop,xor,jmp,mov,push,push,push,push,push,push,push,lea,sub,mov,xor,mov,mov,lea,mov,lea,sub,mov,xor,mov,mov,lea,jz,mov,jz,mov,inc,sub,jnz,lea,mov,cmp,jnz,lea,lea,jmp,lea,lea,lea,mov,call,mov,mov,jz,mov,inc,cmp,jnz,cmp,jb,mov,mov,cmp,jnz,cmp,jz,cmp,jnz,cmp,jnz,lea,mov,sub,lea,mov,lea,jz,mov,jz,mov,inc,sub,jnz,lea,mov,jmp,mov,lea,lea,mov,sub,lea,lea,jz,mov,jz,mov,inc,sub,jnz,lea,mov,mov,lea,mov,call,mov,mov,call,jz,lea,mov,mov,mov,mov,mov,lea,call,nop,cmp,jnz,lea,call,nop,cmp,jz,shr,not,jz,lea,mov,lea,call,mov,jz,cmp,lea,mov,lea,mov,call,mov,mov,call,nop,mov,jz,mov,lea,mov,lea,lea,cmp,xor,call,nop,mov,mov,mov,lea,lea,mov,lea,lea,mov,call,nop,jz,mov,cmp,mov,mov,call,lea,mov,mov,call,jmp,cmp,jnz,mov,lea,lea,lea,call,nop,jmp,lea,cmp,lea,mov,lea,mov,mov,mov,mov,call,jmp,xor,lea,mov,mov,xor,mov,call,xor,jmp,mov,mov,call,jz,lea,mov,mov,mov,mov,mov,lea,call,nop,cmp,jnz,lea,mov,inc,cmp,jnz,lea,inc,cmp,jnz,lea,mov,lea,call,nop,mov,jnz,xor,mov,xor,jmp,lea,mov,lea,mov,call,jmp,mov,mov,mov,call,nop,mov,jz,lea,call,nop,cmp,jz,jnz,lea,mov,lea,sub,lea,lea,jz,mov,jz,mov,inc,sub,jnz,lea,mov,jz,cmp,jz,lea,mov,lea,call,mov,lea,mov,call,jmp,lea,sub,lea,lea,jz,mov,jz,mov,inc,sub,jnz,lea,mov,mov,mov,mov,lea,call,mov,mov,mov,xor,call,mov,add,pop,pop,pop,pop,pop,pop,pop,push,sub,mov,xor,mov,call,nop,lea,mov,mov,call,nop,xor,jnz,xor,xor,mov,mov,call,xor,jmp,lea,lea,call,nop,mov,lea,xor,xor,mov,mov,call,nop,mov,mov,call,nop,jnz,mov,xor,xor,xor,jmp,xor,lea,call,nop,jnz,mov,jmp,mov,mov,xor,call,add,pop,mov,mov,mov,mov,push,push,push,lea,sub,mov,xor,mov,mov,lea,mov,xor,call,mov,lea,xor,call,lea,xor,mov,lea,lea,xor,mov,xor,mov,mov,call,nop,jnz,xor,lea,mov,lea,mov,lea,call,mov,lea,mov,lea,xor,xor,call,nop,jnz,inc,cmp,jl,cmp,jnz,mov,call,nop,mov,jmp,mov,lea,call,nop,lea,mov,lea,call,lea,call,nop,mov,jz,lea,mov,call,nop,mov,mov,call,nop,jz,mov,lea,call,nop,jz,lea,mov,lea,call,lea,mov,inc,cmp,jnz,lea,mov,inc,cmp,jnz,add,add,mov,mov,mov,call,nop,mov,jnz,xor,xor,mov,mov,xor,call,jmp,mov,lea,mov,call,nop,jnz,mov,call,nop,jmp,mov,mov,xor,lea,mov,lea,lea,mov,mov,call,inc,cmp,jnz,mov,lea,inc,mov,mov,xor,mov,call,nop,mov,call,nop,mov,call,nop,mov,xor,call,lea,mov,mov,mov,mov,pop,pop,pop,mov,mov,push,push,push,lea,sub,mov,xor,mov,cmp,mov,jz,mov,lea,mov,lea,mov,sub,lea,jz,mov,jz,mov,inc,sub,jnz,lea,lea,mov,lea,mov,call,lea,lea,call,nop,mov,cmp,jz,mov,lea,lea,jz,mov,jz,mov,inc,sub,jnz,lea,mov,jz,lea,lea,call,nop,jz,lea,lea,call,nop,jz,lea,mov,lea,call,lea,mov,lea,call,lea,call,jmp,lea,mov,lea,call,mov,lea,call,nop,lea,call,nop,lea,mov,call,nop,jnz,mov,call,nop,mov,call,nop,mov,xor,call,lea,mov,mov,mov,pop,pop,pop,mov,push,sub,mov,xor,mov,mov,lea,mov,xor,call,nop,jz,lea,mov,lea,call,lea,xor,xor,xor,call,nop,lea,lea,call,nop,mov,cmp,jz,xor,lea,mov,call,nop,mov,mov,call,nop,mov,mov,xor,call,mov,add,pop,mov,push,mov,sub,xor,jz,cmp,jz,jbe,cmp,ja,lea,mov,mov,mov,xor,lea,mov,call,nop,jnz,mov,lea,mov,lea,xor,mov,xor,call,nop,mov,mov,mov,call,nop,mov,jmp,lea,mov,mov,mov,xor,lea,mov,call,nop,jnz,mov,lea,mov,xor,mov,xor,mov,xor,mov,mov,mov,mov,mov,call,nop,jmp,call,mov,mov,mov,add,pop,mov,push,sub,mov,xor,mov,mov,mov,lea,call,nop,xor,jnz,mov,xor,xor,mov,mov,xor,call,mov,cmp,mov,mov,xor,call,mov,add,pop,mov,push,sub,mov,xor,mov,xor,mov,mov,cmp,jnz,lea,lea,lea,lea,call,lea,xor,mov,mov,xor,call,jmp,cmp,jnz,lea,lea,lea,lea,call,xor,mov,lea,mov,mov,xor,call,cmp,jmp,cmp,jnz,mov,lea,lea,lea,call,mov,mov,lea,mov,mov,xor,call,cmp,jnz,lea,mov,mov,xor,call,mov,add,pop,mov,push,push,push,push,push,lea,sub,mov,xor,mov,xor,mov,mov,mov,cmp,lea,jnz,add,call,nop,mov,mov,call,nop,mov,call,nop,mov,cmp,jz,cmp,jz,lea,mov,lea,mov,sub,lea,lea,jz,mov,jz,mov,add,sub,jnz,lea,mov,mov,lea,mov,call,lea,mov,xor,mov,lea,mov,call,nop,jnz,mov,lea,mov,lea,xor,mov,lea,call,nop,jnz,mov,cmp,jnz,mov,lea,mov,call,nop,jz,lea,mov,mov,call,mov,jmp,mov,cmp,mov,call,nop,jmp,mov,mov,call,nop,jmp,mov,mov,call,nop,jnz,mov,mov,mov,call,mov,mov,xor,call,mov,add,pop,pop,pop,pop,pop,mov,mov,mov,push,push,push,push,push,push,push,push,mov,sub,xor,mov,mov,mov,mov,mov,cmp,jle,mov,mov,mov,lea,add,mov,mov,add,call,jz,lea,mov,call,nop,mov,jz,mov,mov,call,nop,mov,jz,mov,call,nop,mov,jz,mov,mov,mov,mov,mov,call,nop,jz,lea,mov,lea,lea,call,nop,xor,jz,cmp,jz,mov,lea,add,mov,mov,mov,cmp,jnb,jmp,jbe,mov,jmp,cmp,jb,mov,mov,cmp,jnb,jmp,jbe,mov,jmp,cmp,jb,mov,mov,add,add,cmp,jl,cmp,jl,cmp,jle,cmp,jl,cmp,jle,mov,call,nop,jmp,xor,mov,call,nop,jmp,cmp,jnz,cmp,jnz,mov,mov,inc,add,mov,cmp,jl,mov,mov,mov,jz,mov,call,nop,mov,add,pop,pop,pop,pop,pop,pop,pop,pop,mov,push,push,push,sub,mov,xor,mov,cmp,mov,mov,mov,jz,mov,lea,mov,call,nop,mov,jz,mov,call,nop,mov,mov,jz,mov,mov,cmp,jnz,mov,call,nop,mov,call,nop,cmp,jnz,lea,call,lea,mov,inc,cmp,jnz,lea,add,lea,call,nop,jz,cmp,jnz,mov,cmp,jb,mov,sub,cmp,ja,mov,sub,add,jmp,xor,lea,mov,call,mov,inc,cmp,jnz,jmp,call,nop,cmp,jnz,cmp,jb,mov,sub,cmp,ja,mov,sub,add,jmp,xor,lea,mov,call,mov,inc,cmp,jnz,add,jmp,cmp,jnz,mov,call,nop,mov,mov,call,nop,mov,mov,jnz,mov,mov,xor,call,mov,add,pop,pop,pop,mov,mov,push,sub,mov,mov,call,nop,xor,js,cmp,jb,lea,call,nop,jz,lea,mov,call,nop,jz,xor,lea,xor,xor,call,mov,mov,mov,call,jz,call,mov,call,jz,cmp,jnz,mov,jz,jnz,cmp,jnz,mov,call,cmp,jz,jnz,mov,lea,xor,mov,mov,xor,call,cmp,jnz,cmp,jnz,xor,lea,call,nop,jmp,call,mov,jz,call,nop,mov,mov,mov,add,pop,mov,push,push,push,sub,mov,xor,mov,mov,mov,mov,xor,lea,mov,xor,call,xor,lea,mov,call,xor,lea,mov,call,lea,lea,mov,lea,lea,call,dec,xor,xor,cmp,ja,mov,mov,call,nop,mov,mov,call,nop,lea,lea,lea,call,jnz,xor,xor,xor,mov,mov,call,mov,jmp,mov,jnz,jns,mov,lea,lea,call,xor,jnz,xor,xor,jmp,lea,mov,call,nop,mov,jz,call,nop,cmp,jnz,xor,lea,xor,jz,mov,mov,call,jmp,mov,mov,mov,call,cmp,jz,mov,call,nop,mov,jmp,mov,call,jnz,xor,mov,xor,jmp,cmp,jz,lea,call,jmp,mov,lea,mov,call,nop,jz,mov,mov,call,nop,mov,cmp,jz,call,nop,cmp,jz,mov,jmp,mov,call,jz,sub,cmp,ja,jz,jnz,call,jnz,mov,lea,xor,mov,mov,call,cmp,jnz,jmp,mov,xor,mov,call,xor,mov,xor,call,mov,add,pop,pop,pop,mov,push,sub,mov,xor,mov,xor,cmp,jnz,cmp,jnz,call,jz,cmp,jnz,call,jz,call,jz,call,jz,mov,lea,mov,call,nop,lea,mov,lea,call,lea,call,nop,mov,jz,lea,mov,call,nop,jz,xor,lea,call,mov,call,nop,cmp,jnz,cmp,jnz,mov,lea,call,nop,jnz,mov,xor,mov,xor,mov,xor,call,call,mov,xor,mov,xor,call,mov,add,pop,mov,lea,mov,call,jz,lea,call,nop,jnz,mov,jmp,cmp,jnz,lea,mov,mov,lea,sub,jnz,jnz,jnz,mov,lea,neg,mov,mov,sbb,xor,add,call,jmp,call,jnz,mov,jmp,lea,call,jz,mov,mov,jnz,js,call,jmp,mov,mov,mov,jnz,cmp,jnz,call,jz,mov,cmp,jnz,jnz,call,mov,jmp,sub,cmp,jnz,jnz,cmp,jnz,xor,jmp,mov,mov,mov,mov,mov,call,nop,add,push,sub,mov,sub,jz,sub,jz,sub,jz,cmp,jnz,cmp,jnz,lea,jmp,cmp,jnz,xor,call,nop,jmp,call,nop,mov,mov,call,mov,mov,mov,call,nop,lea,mov,call,nop,mov,call,nop,mov,mov,call,nop,mov,mov,mov,call,nop,lea,mov,mov,mov,call,nop,mov,jmp,cmp,jnz,mov,mov,call,nop,mov,xor,add,pop,mov,mov,mov,push,sub,mov,mov,sub,jz,lea,sub,jz,cmp,jz,xor,jmp,sub,jz,sub,jz,cmp,jnz,mov,lea,mov,mov,call,nop,mov,jnz,mov,xor,xor,mov,call,xor,jmp,call,jz,lea,mov,mov,call,nop,jnz,mov,mov,jmp,xor,call,nop,mov,jmp,lea,mov,mov,mov,call,nop,jz,inc,cmp,jnz,cmp,jb,mov,cmp,jz,cmp,jnz,cmp,jnz,mov,call,nop,cmp,jnz,mov,xor,mov,mov,mov,mov,call,cmp,jnz,xor,mov,call,nop,jnz,mov,xor,mov,jmp,lea,mov,mov,call,mov,call,jnz,mov,jmp,cmp,jnz,cmp,jz,mov,mov,mov,call,jz,mov,mov,call,nop,jmp,mov,xor,xor,mov,mov,call,jmp,call,nop,mov,mov,call,lea,mov,call,nop,mov,mov,mov,lea,call,nop,cmp,jnz,mov,mov,call,nop,mov,xor,call,nop,mov,jmp,xor,call,nop,mov,mov,mov,mov,add,pop,push,sub,mov,sub,jz,sub,jz,cmp,jz,xor,jmp,cmp,jb,cmp,jbe,cmp,jnz,mov,mov,jmp,call,nop,mov,mov,call,lea,mov,call,nop,mov,mov,mov,call,nop,mov,call,nop,jmp,mov,call,nop,mov,add,pop,mov,mov,push,sub,mov,mov,mov,sub,jz,sub,jz,sub,jz,sub,jz,cmp,jz,xor,jmp,mov,xor,call,nop,mov,jmp,cmp,jnz,mov,call,nop,mov,lea,xor,mov,mov,mov,call,cmp,jz,cmp,jz,mov,call,nop,jmp,mov,mov,call,nop,mov,call,mov,jmp,mov,call,nop,mov,mov,call,cmp,jz,mov,mov,mov,call,nop,mov,xor,mov,mov,call,nop,mov,mov,call,nop,mov,mov,mov,call,nop,lea,mov,call,nop,lea,xor,mov,lea,xor,xor,call,nop,mov,jnz,xor,xor,mov,mov,mov,call,jmp,cmp,jnz,mov,xor,call,nop,mov,mov,mov,add,pop,mov,push,sub,xor,xor,mov,lea,lea,call,nop,jz,xor,mov,xor,lea,xor,call,nop,jz,cmp,jnz,mov,jmp,lea,call,nop,xor,mov,xor,lea,xor,call,nop,jnz,jz,add,pop,mov,mov,mov,mov,push,push,push,push,push,lea,sub,mov,xor,mov,mov,mov,xor,lea,mov,call,nop,jnz,mov,jmp,mov,mov,mov,mov,sub,jz,cmp,jz,mov,jmp,mov,mov,mov,mov,lea,cmp,ja,mov,mov,jb,jnz,cmp,jnb,mov,mov,jmp,cmp,jb,mov,jmp,mov,mov,mov,mov,cmp,jnz,jz,lea,neg,mov,mov,mov,sbb,add,lea,cmp,jnb,mov,jmp,jbe,mov,jmp,cmp,jb,mov,cmp,jb,jbe,mov,jmp,cmp,jb,mov,js,jg,jnz,jnz,mov,cmp,jb,cmp,jmp,cmp,jnb,jmp,jnz,cmp,jbe,jz,mov,mov,mov,mov,cmp,jnz,mov,lea,add,imul,add,add,jz,mov,lea,add,mov,jz,mov,jmp,cmp,jz,lea,mov,mov,cmp,jge,jmp,mov,jnz,cmp,jz,lea,mov,lea,call,jnz,mov,mov,lea,cmp,jbe,jz,xor,mov,xor,mov,jmp,neg,sbb,jnz,jz,cmp,jz,xor,call,nop,call,jz,call,mov,jnz,mov,lea,mov,mov,xor,call,nop,jz,cmp,jmp,jz,cmp,jnz,mov,jmp,mov,mov,mov,lea,mov,xor,call,mov,mov,xor,call,lea,mov,mov,mov,mov,pop,pop,pop,pop,pop,push,sub,xor,lea,xor,call,mov,mov,lea,call,nop,mov,jnz,xor,xor,mov,mov,xor,call,call,mov,xor,jmp,mov,lea,mov,call,jnz,xor,xor,mov,mov,xor,call,mov,call,nop,mov,jmp,mov,lea,call,nop,jz,lea,xor,mov,call,mov,mov,call,nop,jnz,mov,jmp,mov,call,nop,mov,add,pop,mov,mov,mov,mov,push,push,push,push,push,lea,sub,mov,xor,mov,xor,cmp,mov,mov,mov,lea,jnz,lea,lea,lea,call,dec,cmp,ja,mov,mov,xor,mov,lea,lea,call,cmp,mov,jnz,mov,lea,lea,call,dec,cmp,ja,mov,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,jnz,jz,jz,lea,jmp,jz,lea,mov,lea,call,jz,lea,mov,mov,mov,lea,mov,mov,call,nop,sub,cmp,jnz,mov,lea,lea,call,jnz,mov,xor,xor,mov,mov,xor,call,mov,jmp,lea,mov,lea,sub,lea,lea,jz,mov,jz,mov,add,sub,jnz,lea,mov,cmp,jnz,mov,lea,lea,call,jz,cmp,jnz,lea,mov,mov,mov,lea,mov,mov,call,nop,cmp,jz,lea,lea,lea,call,jz,mov,jnz,cmp,jz,cmp,jz,jnz,mov,call,jz,cmp,jz,jz,jz,call,mov,jz,lea,mov,call,nop,mov,jz,cmp,lea,mov,mov,lea,mov,lea,mov,mov,mov,mov,mov,jz,mov,mov,jz,mov,jz,mov,mov,jz,mov,jns,mov,mov,lea,mov,mov,call,mov,mov,js,call,nop,mov,jmp,mov,jz,lea,mov,call,jz,mov,call,nop,add,cmp,jnb,mov,jmp,call,nop,mov,call,nop,xor,mov,xor,call,lea,mov,mov,mov,mov,pop,pop,pop,pop,pop,mov,lea,xor,mov,mov,xor,call,mov,call,nop,mov,call,nop,call,mov,jmp,mov,lea,xor,mov,mov,xor,call,jmp,mov,xor,xor,mov,mov,xor,call,mov,call,nop,mov,jmp,cmp,jz,cmp,jz,lea,mov,xor,mov,lea,mov,call,nop,jnz,mov,lea,mov,lea,lea,mov,xor,mov,xor,mov,call,nop,jnz,mov,lea,mov,xor,call,mov,lea,call,nop,jz,lea,mov,lea,call,lea,mov,lea,mov,lea,lea,call,lea,inc,cmp,jnz,add,lea,mov,lea,mov,mov,mov,xor,call,nop,mov,call,nop,mov,jmp,mov,push,push,push,lea,sub,mov,xor,mov,xor,mov,mov,lea,xor,mov,xor,mov,mov,mov,xor,mov,call,nop,jz,mov,call,nop,mov,lea,call,nop,cmp,mov,jnz,mov,jz,jnz,mov,cmp,mov,jz,mov,jmp,cmp,jnz,mov,call,cmp,jnz,mov,cmp,jnz,jnz,jz,jmp,mov,mov,call,nop,mov,call,nop,jz,cmp,jge,jmp,call,mov,call,nop,xor,mov,mov,lea,xor,mov,mov,call,nop,lea,mov,mov,mov,xor,call,xor,mov,mov,xor,call,mov,add,pop,pop,pop,mov,push,sub,xor,lea,xor,call,mov,mov,lea,shl,call,nop,mov,jnz,xor,xor,mov,mov,xor,call,jmp,mov,lea,mov,call,jnz,mov,xor,mov,jmp,lea,mov,call,nop,jz,mov,mov,mov,xor,xor,call,mov,call,nop,mov,add,pop,sub,cmp,jnz,mov,mov,call,nop,xor,add,mov,mov,mov,push,push,push,push,push,sub,mov,lea,call,nop,xor,mov,jz,lea,mov,call,nop,mov,jz,mov,mov,call,nop,mov,jz,lea,mov,call,nop,mov,jz,cmp,lea,jnz,mov,mov,call,nop,inc,cmp,jnz,add,mov,call,nop,mov,cmp,jnz,mov,mov,call,nop,cmp,jz,mov,lea,mov,mov,lea,lea,mov,mov,mov,mov,mov,mov,mov,call,mov,jz,mov,mov,mov,call,cmp,jz,mov,lea,mov,call,mov,mov,call,mov,call,nop,cmp,mov,jmp,mov,call,nop,mov,jmp,mov,mov,xor,xor,mov,mov,call,xor,lea,mov,mov,mov,mov,pop,pop,pop,pop,pop,mov,push,push,push,push,push,push,push,mov,sub,mov,xor,mov,mov,mov,lea,mov,call,nop,mov,lea,mov,mov,sub,sub,call,nop,mov,mov,mov,sub,sub,call,nop,mov,mov,mov,call,nop,mov,mov,mov,call,nop,mov,mov,mov,mov,call,nop,sub,mov,sub,sar,mov,add,jns,xor,jmp,lea,cmp,jle,mov,sub,sub,mov,sub,sar,mov,add,jns,xor,jmp,lea,cmp,jle,mov,sub,mov,xor,mov,call,nop,mov,xor,call,mov,add,pop,pop,pop,pop,pop,pop,pop,push,push,push,push,push,push,push,lea,sub,mov,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,jnz,mov,lea,mov,mov,call,nop,cmp,jnz,call,jz,call,mov,jnz,mov,lea,mov,lea,call,nop,jmp,mov,jz,inc,cmp,jnz,mov,inc,cmp,jnz,add,lea,mov,inc,cmp,jnz,add,add,mov,mov,mov,call,nop,mov,jz,mov,mov,lea,mov,mov,call,jmp,lea,inc,cmp,jnz,jz,mov,inc,cmp,jnz,add,add,mov,mov,mov,call,nop,mov,jz,mov,lea,mov,mov,call,jmp,inc,mov,mov,mov,call,nop,mov,jz,lea,mov,mov,call,mov,call,nop,call,jz,call,mov,jnz,mov,lea,mov,mov,call,nop,mov,mov,call,nop,mov,mov,xor,call,add,pop,pop,pop,pop,pop,pop,pop,mov,mov,mov,push,sub,mov,mov,mov,mov,xor,mov,call,nop,mov,xor,call,nop,mov,cmp,ja,jz,jz,mov,mov,xor,call,nop,mov,xor,call,nop,mov,call,nop,mov,jz,mov,mov,mov,mov,call,nop,mov,call,nop,mov,mov,mov,mov,add,pop,xor,jmp,mov,mov,push,sub,mov,mov,mov,mov,mov,call,mov,inc,cmp,jnz,cmp,jz,inc,cmp,jnz,cmp,jz,lea,mov,mov,call,jns,xor,jmp,mov,mov,mov,call,mov,mov,mov,add,pop,mov,push,sub,mov,call,nop,cmp,jz,shr,not,jz,xor,cmp,jnz,jnz,mov,lea,mov,mov,mov,mov,call,sub,jz,sub,jz,cmp,jnz,mov,mov,mov,call,nop,mov,mov,jmp,mov,mov,add,pop,mov,mov,push,sub,mov,mov,lea,call,nop,mov,jnz,xor,mov,xor,mov,mov,call,xor,jmp,mov,inc,cmp,jnz,inc,mov,call,nop,mov,jnz,xor,mov,xor,mov,mov,call,mov,call,nop,jmp,inc,cmp,jnz,lea,mov,mov,call,mov,mov,mov,mov,mov,mov,add,pop,mov,mov,mov,mov,mov,push,push,push,sub,xor,lea,mov,mov,mov,lea,cmp,jz,add,lea,add,cmp,jl,cmp,jnz,xor,mov,xor,mov,mov,call,jmp,lea,mov,call,nop,jnz,jnz,mov,shl,mov,mov,mov,mov,mov,jmp,jz,jmp,mov,neg,sbb,add,jnb,jnb,mov,jmp,neg,sbb,add,jmp,neg,sbb,add,xor,mov,xor,mov,mov,mov,call,nop,mov,cmp,jnz,cmp,jz,cmp,jz,mov,lea,xor,cmp,jnz,cmp,jnz,lea,jmp,cmp,jnz,cmp,jnz,mov,mov,jmp,lea,jmp,cmp,jnz,cmp,jz,jz,dec,jmp,xor,mov,mov,call,nop,mov,mov,call,nop,mov,mov,jnz,xor,mov,xor,mov,mov,mov,call,nop,mov,mov,shl,mov,cmp,jz,jmp,mov,mov,mov,mov,mov,add,pop,pop,pop,mov,mov,mov,push,sub,mov,lea,shl,mov,mov,jz,cmp,jz,jmp,mov,mov,sub,cmp,add,call,add,jmp,mov,lea,call,nop,mov,mov,mov,mov,mov,add,pop,mov,mov,push,sub,mov,mov,mov,call,cmp,jz,jmp,mov,lea,lea,shl,mov,mov,call,nop,jnz,jmp,mov,cmp,jz,mov,add,cmp,mov,jz,mov,jz,mov,imul,xor,div,mov,mov,mov,call,nop,mov,mov,add,pop,mov,push,sub,mov,lea,shl,cmp,jnz,xor,mov,mov,mov,jmp,mov,call,nop,xor,jz,mov,jmp,mov,mov,add,pop,sub,shl,lea,mov,cmp,jnz,jz,sub,jz,cmp,jnz,add,jmp,add,mov,jmp,jz,sub,jz,cmp,jz,jmp,mov,jmp,xor,mov,xor,call,nop,mov,cmp,mov,add,mov,xor,jmp,mov,mov,mov,mov,push,push,push,lea,sub,mov,xor,mov,xor,cmp,mov,jz,cmp,jnz,mov,call,mov,jmp,jz,sub,jz,sub,jz,sub,jz,cmp,jz,xor,jmp,mov,mov,inc,cmp,jnz,lea,mov,inc,cmp,jnz,inc,add,cmp,jge,lea,call,jz,mov,lea,shl,cmp,jz,lea,call,nop,jz,lea,lea,call,nop,jz,mov,lea,lea,lea,call,nop,jz,mov,call,cmp,jnz,mov,jmp,lea,call,nop,jz,mov,jmp,mov,jz,mov,mov,call,nop,mov,mov,inc,cmp,jnz,lea,mov,inc,cmp,jnz,inc,add,cmp,jge,lea,call,jz,lea,call,jz,mov,lea,mov,call,mov,cmp,jz,lea,call,jz,inc,mov,jmp,mov,call,mov,xor,call,lea,mov,mov,mov,mov,pop,pop,pop,mov,lea,mov,lea,lea,add,add,sub,jnz,mov,lea,mov,xor,mov,lea,jz,mov,jz,mov,inc,inc,sub,jnz,lea,mov,lea,mov,mov,lea,jz,mov,jz,mov,inc,inc,sub,jnz,lea,lea,mov,mov,lea,jz,mov,jz,mov,inc,inc,sub,jnz,lea,mov,mov,mov,xor,mov,mov,push,sub,mov,xor,mov,xor,lea,lea,mov,lea,lea,mov,lea,mov,lea,mov,lea,mov,lea,mov,call,nop,mov,jz,mov,lea,mov,call,mov,cmp,jz,lea,mov,mov,call,nop,jz,mov,cmp,jnz,cmp,jnz,cmp,jnz,mov,call,cmp,jz,mov,call,nop,jz,mov,jmp,xor,mov,xor,call,mov,add,pop,mov,push,sub,xor,lea,xor,call,mov,mov,lea,xor,call,nop,mov,xor,call,nop,mov,call,nop,mov,jz,mov,jz,mov,call,nop,mov,xor,call,nop,mov,mov,call,nop,mov,mov,call,nop,call,jnz,mov,jmp,lea,mov,lea,mov,lea,mov,lea,lea,mov,lea,lea,lea,mov,call,nop,mov,jz,lea,xor,mov,lea,lea,lea,mov,mov,call,nop,mov,jz,mov,call,nop,jnz,mov,add,xor,mov,xor,mov,call,xor,mov,jz,call,nop,jnz,cmp,jnz,xor,xor,mov,mov,xor,call,jnz,jnz,mov,xor,mov,call,nop,mov,mov,add,pop,sub,mov,lea,lea,call,cmp,jz,mov,xor,xor,mov,xor,call,mov,xor,jmp,mov,mov,jnz,mov,jmp,mov,lea,lea,call,lea,call,jnz,xor,xor,mov,mov,xor,call,jmp,mov,add,mov,push,sub,xor,lea,xor,call,mov,mov,lea,call,nop,mov,jnz,xor,xor,mov,mov,xor,call,call,mov,jmp,mov,lea,mov,call,jnz,xor,xor,mov,mov,xor,call,mov,call,nop,mov,jmp,lea,mov,call,nop,jnz,mov,call,nop,mov,jmp,mov,xor,mov,mov,mov,xor,call,mov,mov,call,nop,cmp,jnz,jmp,mov,xor,mov,add,pop,mov,push,sub,mov,xor,mov,mov,jmp,cmp,mov,jnz,cmp,jnz,mov,mov,call,nop,mov,call,nop,mov,mov,call,nop,mov,call,nop,jnz,mov,mov,jz,cmp,jnz,cmp,jnz,lea,mov,lea,sub,lea,lea,jz,mov,jz,mov,add,sub,jnz,lea,mov,jz,lea,call,lea,call,nop,lea,call,mov,cmp,jz,jz,cmp,jz,lea,mov,xor,mov,lea,mov,call,nop,jnz,mov,lea,call,nop,mov,call,nop,mov,xor,call,mov,add,pop,mov,push,push,push,sub,mov,xor,mov,xor,mov,mov,mov,mov,lea,mov,lea,call,mov,mov,mov,inc,call,lea,mov,mov,call,mov,call,nop,mov,call,nop,cmp,jz,cmp,jl,mov,lea,xor,mov,call,nop,jz,mov,mov,call,nop,xor,mov,call,nop,mov,mov,xor,call,mov,add,pop,pop,pop,xor,mov,call,nop,jz,mov,mov,jmp,mov,mov,push,sub,mov,xor,mov,mov,mov,jz,lea,call,jz,lea,mov,lea,mov,mov,sub,lea,jz,mov,jz,mov,inc,sub,jnz,lea,mov,jz,lea,call,nop,jz,sub,jz,sub,jz,cmp,jnz,lea,jmp,lea,jmp,lea,jmp,lea,mov,mov,call,lea,mov,mov,call,jmp,lea,mov,mov,sub,lea,jz,mov,jz,mov,inc,sub,jnz,lea,mov,mov,call,jnz,xor,mov,call,nop,jz,mov,jz,xor,mov,mov,call,jnz,cmp,jz,mov,call,nop,jmp,call,mov,xor,jmp,mov,mov,xor,call,lea,mov,mov,mov,pop,mov,mov,mov,mov,mov,push,push,push,lea,sub,mov,xor,mov,xor,lea,xor,call,mov,mov,lea,call,nop,xor,mov,jnz,mov,xor,xor,mov,mov,xor,call,call,mov,xor,jmp,mov,lea,mov,call,jnz,mov,xor,xor,mov,mov,xor,call,mov,call,nop,mov,jmp,lea,mov,call,nop,mov,mov,mov,mov,call,nop,mov,jz,cmp,jnz,cmp,mov,jz,mov,xor,lea,call,jnz,mov,xor,xor,mov,mov,xor,call,jmp,cmp,jnz,cmp,jnz,lea,mov,mov,mov,call,nop,jz,mov,mov,mov,call,jnz,mov,call,jnz,mov,mov,mov,call,jnz,lea,lea,sub,mov,lea,lea,jz,mov,jz,mov,add,sub,jnz,lea,mov,cmp,jg,lea,call,nop,mov,cmp,jz,cmp,jnz,lea,call,nop,cmp,jnz,cmp,jnz,mov,lea,cmp,jbe,mov,mov,mov,mov,jz,lea,lea,mov,lea,lea,lea,call,nop,jz,mov,mov,imul,mov,call,nop,jz,cmp,jnb,mov,add,mov,jmp,xor,lea,lea,call,jnz,lea,call,jnz,xor,lea,mov,call,jz,lea,call,jz,mov,lea,call,nop,lea,mov,lea,call,lea,call,nop,cmp,jnz,xor,lea,call,nop,jmp,jnz,mov,add,mov,mov,jmp,mov,lea,call,nop,lea,mov,sub,mov,lea,jz,mov,jz,mov,add,sub,jnz,lea,mov,xor,mov,mov,call,jnz,mov,cmp,jle,mov,lea,call,nop,mov,lea,lea,call,jz,jmp,mov,jmp,mov,lea,xor,mov,mov,call,mov,mov,xor,call,lea,mov,mov,mov,mov,mov,pop,pop,pop,mov,mov,mov,push,sub,mov,inc,cmp,jnz,add,mov,mov,mov,call,nop,mov,jnz,xor,xor,mov,mov,xor,call,call,mov,xor,mov,mov,mov,add,pop,mov,mov,mov,call,lea,mov,mov,call,mov,mov,xor,xor,mov,mov,mov,call,nop,mov,mov,call,nop,cmp,jz,mov,call,nop,mov,call,nop,cmp,jz,jz,mov,jmp,mov,mov,mov,mov,push,push,push,push,push,lea,sub,mov,xor,mov,mov,mov,lea,mov,mov,call,nop,mov,call,nop,xor,xor,jnz,mov,xor,xor,mov,mov,call,call,mov,jmp,lea,mov,lea,mov,lea,mov,lea,mov,mov,call,nop,jz,mov,mov,imul,mov,mov,call,nop,mov,jz,mov,lea,mov,xor,mov,xor,lea,xor,xor,mov,call,nop,jnz,mov,lea,mov,xor,call,call,mov,call,nop,mov,xor,mov,mov,lea,xor,mov,mov,call,nop,mov,jmp,lea,call,nop,mov,lea,lea,sub,lea,lea,jz,mov,jz,mov,add,sub,jnz,lea,mov,mov,cmp,jz,add,add,cmp,jb,cmp,jnz,mov,xor,xor,mov,mov,xor,call,jmp,jz,jz,mov,lea,shr,mov,add,add,jmp,mov,lea,mov,mov,cmp,jnz,lea,cmp,jbe,lea,mov,call,jmp,jz,cmp,jmp,cmp,jmp,mov,mov,jmp,mov,lea,mov,xor,call,call,mov,call,nop,mov,xor,mov,mov,lea,xor,mov,mov,call,nop,mov,mov,lea,mov,mov,xor,call,lea,call,nop,xor,mov,xor,call,lea,mov,mov,mov,mov,pop,pop,pop,pop,pop,mov,xor,mov,mov,jz,mov,cmp,jz,sub,cmp,ja,inc,inc,mov,jnz,add,cmp,jnz,xor,inc,cmp,jnz,sub,js,mov,cmp,jz,sub,cmp,ja,dec,sub,jns,add,mov,mov,mov,mov,mov,mov,push,push,push,push,push,lea,sub,mov,xor,mov,xor,mov,mov,mov,jz,cmp,jz,lea,mov,jz,cmp,jz,mov,sub,cmp,ja,mov,call,nop,mov,jmp,cmp,jz,mov,mov,mov,mov,jnz,mov,cmp,jz,sub,cmp,jbe,jmp,jnz,mov,cmp,jnz,cmp,jz,jnz,mov,jmp,mov,jmp,cmp,jnb,add,mov,add,mov,jmp,cmp,jnb,add,mov,add,mov,add,cmp,jnz,cmp,jnb,mov,jz,jnz,mov,cmp,jz,cmp,jnz,mov,lea,mov,mov,call,nop,jz,mov,mov,call,mov,jmp,jnz,mov,sub,jnz,call,nop,sub,jz,sub,jz,sub,jz,sub,jz,sub,jz,sub,jz,cmp,jz,mov,cmp,jz,jmp,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,jz,lea,call,nop,add,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,mov,jmp,jmp,jmp,jmp,jmp,jmp,mov,mov,jnz,jmp,lea,mov,lea,mov,mov,call,nop,cmp,jz,jmp,mov,jnz,mov,jmp,cmp,jnz,call,nop,cmp,jz,cmp,jz,cmp,jz,jmp,mov,jmp,mov,jnz,mov,jmp,cmp,jnz,mov,jz,lea,call,nop,add,cmp,jz,cmp,jz,cmp,jz,mov,jmp,mov,jmp,mov,jmp,mov,mov,jnz,jmp,cmp,jnz,mov,lea,sub,neg,sbb,add,mov,add,inc,cmp,jnz,jz,lea,mov,call,jz,call,nop,mov,lea,cmp,mov,jnz,add,lea,mov,sub,add,lea,jz,mov,jz,mov,add,sub,jnz,jmp,add,lea,mov,sub,add,lea,jz,mov,jz,mov,add,sub,jnz,lea,mov,lea,mov,mov,mov,call,inc,cmp,jnz,cmp,jb,mov,cmp,jz,cmp,jnz,cmp,jz,xor,jmp,mov,jnz,mov,jmp,cmp,jnz,mov,lea,sub,neg,sbb,add,mov,add,inc,cmp,jnz,jnz,mov,jmp,mov,mov,call,jz,mov,mov,call,jz,mov,mov,call,jz,mov,mov,call,jz,lea,mov,mov,call,jz,mov,lea,add,lea,mov,sub,mov,add,lea,jz,mov,jz,mov,add,sub,jnz,lea,mov,mov,jmp,mov,lea,xor,mov,mov,xor,call,mov,jz,call,nop,xor,call,mov,mov,jmp,mov,mov,xor,call,lea,mov,mov,mov,mov,pop,pop,pop,pop,pop,call,sub,call,nop,mov,add,mov,mov,mov,push,sub,mov,xor,mov,xor,mov,xor,mov,jmp,mov,xor,call,nop,mov,call,nop,mov,jz,lea,inc,cmp,jnz,mov,lea,mov,add,mov,call,mov,jz,call,nop,add,mov,lea,mov,lea,call,mov,lea,xor,call,nop,jnz,jmp,xor,call,nop,jmp,mov,xor,mov,mov,xor,call,mov,mov,mov,add,pop,mov,mov,lea,mov,mov,xor,mov,div,mov,neg,sbb,add,sub,add,add,lea,sub,jnz,lea,mov,mov,push,push,push,sub,mov,xor,mov,lea,mov,lea,lea,mov,mov,sub,mov,mov,lea,jz,mov,jz,mov,add,sub,jnz,lea,lea,mov,mov,call,lea,mov,xor,xor,mov,mov,call,nop,mov,cmp,jnz,mov,xor,jmp,lea,mov,mov,mov,call,nop,jz,cmp,jz,mov,xor,mov,call,nop,mov,mov,xor,call,mov,add,pop,pop,pop,sub,mov,xor,mov,mov,lea,lea,mov,sub,lea,lea,jz,mov,jz,mov,inc,sub,jnz,lea,lea,lea,mov,call,lea,call,nop,cmp,jz,jnz,xor,lea,lea,call,nop,jmp,lea,call,nop,mov,xor,call,add,mov,mov,mov,push,sub,mov,mov,mov,mov,mov,call,nop,jz,mov,mov,call,nop,mov,jz,mov,mov,mov,mov,mov,jnz,jmp,mov,call,nop,mov,mov,call,nop,cmp,jnz,xor,xor,mov,mov,xor,call,mov,mov,mov,mov,mov,add,pop,mov,mov,mov,push,sub,mov,mov,mov,inc,cmp,jnz,lea,cmp,jb,mov,jmp,mov,add,cmp,jbe,mov,call,nop,cmp,jz,mov,inc,mov,jmp,inc,cmp,jz,mov,mov,mov,call,mov,mov,mov,add,pop,mov,mov,push,sub,xor,mov,inc,cmp,jnz,add,call,nop,mov,jmp,cmp,jz,mov,mov,call,nop,mov,cmp,ja,cmp,jnz,cmp,jz,mov,mov,call,nop,cmp,jnz,mov,call,nop,mov,mov,mov,mov,mov,mov,add,pop,mov,mov,push,sub,cmp,mov,jz,cmp,jnz,mov,call,nop,jz,xor,cmp,jmp,mov,jz,mov,call,nop,mov,cmp,jmp,mov,jmp,xor,mov,mov,add,pop,mov,mov,mov,push,sub,xor,mov,cmp,jz,cmp,jnz,mov,call,nop,jz,xor,cmp,jmp,xor,jmp,mov,mov,mov,mov,call,nop,mov,cmp,jnz,mov,mov,mov,mov,add,pop,mov,mov,cmp,jnz,mov,cmp,jnz,mov,xor,mov,mov,mov,mov,push,sub,mov,mov,cmp,jnz,lea,lea,mov,mov,mov,mov,mov,lea,mov,mov,call,nop,cmp,jnz,lea,mov,lea,lea,mov,mov,mov,mov,mov,call,nop,cmp,jnz,mov,jmp,mov,mov,mov,mov,add,pop,mov,mov,mov,mov,push,lea,sub,mov,xor,mov,mov,mov,cmp,jnz,xor,mov,lea,mov,call,nop,jz,lea,cmp,jnz,cmp,jnz,cmp,jnb,lea,call,nop,jz,lea,mov,xor,mov,lea,mov,call,nop,jnz,mov,lea,mov,lea,lea,xor,lea,mov,call,nop,mov,mov,call,nop,jnz,lea,mov,sub,cmp,ja,add,shl,add,jmp,mov,sub,cmp,lea,cmp,ja,shl,add,add,call,nop,mov,jmp,lea,cmp,jz,cmp,jz,cmp,jnz,mov,jmp,mov,mov,mov,xor,call,lea,mov,mov,mov,mov,pop,sub,mov,cmp,jz,xor,jmp,lea,add,cmp,jnz,mov,cmp,jz,mov,cmp,jnz,xor,cmp,jbe,cmp,jmp,xor,cmp,jbe,cmp,mov,mov,call,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,call,cmp,jnz,lea,call,xor,add,sub,mov,lea,mov,lea,mov,lea,lea,mov,call,mov,add,mov,mov,push,sub,lea,call,nop,mov,mov,xor,xor,jz,cmp,jnz,mov,mov,cmp,jnz,lea,call,jmp,mov,call,jmp,mov,jnz,mov,lea,lea,mov,mov,cmp,jnb,jnz,cmp,jz,mov,mov,call,mov,add,mov,jmp,jz,mov,jmp,mov,mov,cmp,jnz,lea,lea,call,mov,jnz,xor,xchg,cmp,jz,lea,call,jz,xor,lea,xor,mov,mov,call,mov,mov,mov,mov,cmp,ja,jz,jnz,dec,cmp,ja,inc,mov,mov,jmp,mov,mov,xor,lea,call,mov,cmp,jnz,mov,call,cmp,jnz,call,mov,jmp,cmp,jnz,xor,mov,mov,call,jz,inc,mov,inc,mov,jmp,mov,cmp,jnz,mov,call,cmp,jnz,call,mov,lea,mov,mov,mov,pop,sub,lea,call,mov,mov,xor,lea,mov,call,mov,cmp,jz,mov,lea,mov,lea,mov,lea,mov,mov,mov,mov,xor,call,jmp,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,mov,imul,lea,mov,lea,call,add,sub,mov,cmp,jnz,cmp,jnz,mov,lea,cmp,jbe,cmp,jnz,call,xor,add,sub,lea,call,xor,add,sub,xor,lea,cmp,ja,mov,cmp,jnz,cmp,jl,cmp,jnb,add,mov,cmp,mov,mov,jmp,xor,mov,mov,add,push,sub,mov,xor,call,jz,mov,call,jz,mov,cmp,jnz,mov,jmp,cmp,mov,jz,mov,add,pop,xor,xor,add,mov,add,add,jz,mov,cmp,jb,mov,add,cmp,jb,inc,add,cmp,jb,xor,mov,push,sub,mov,lea,mov,call,jz,sub,mov,mov,call,jz,mov,shr,not,jmp,xor,mov,add,pop,mov,cmp,jnz,add,cmp,jnz,mov,cmp,jnz,mov,xor,mov,push,mov,sub,mov,mov,cmp,jnz,lea,call,mov,mov,call,mov,xor,call,mov,xor,call,mov,shl,xor,call,mov,lea,xor,xor,lea,mov,call,mov,mov,shl,xor,xor,mov,cmp,jnz,mov,mov,mov,mov,not,mov,add,pop,jmp,push,sub,mov,mov,mov,mov,call,nop,add,pop,push,sub,mov,mov,xor,cmp,mov,add,pop",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "60800deac1fde21b98089f2241ee6168"
+			},
+			{
+				"section": ".rdata",
+				"md5": "59d15cdf89780817c3d48dd588a6a129"
+			},
+			{
+				"section": ".data",
+				"md5": "9d1580dccaf8e787a43caf4bba48a079"
+			},
+			{
+				"section": ".pdata",
+				"md5": "15cd12257317071f28e4f7b728f8825e"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "1f0b83920b63f9f82f711f8c5f6cd309"
+			},
+			{
+				"section": ".reloc",
+				"md5": "637787151ee546a94902de9694a58fd6"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "e63dc29b24934b64f077291d2eba75f2",
+		"SHA1": "b1cdd6ccc14f5f65bef59975667d6306a1cd07b3",
+		"SHA256": "0001c1409b360fc8e1b6933d20c7bfa42e1f5d7bc1593a5057a96930e0b53488",
+		"EntryPoint": "140008200",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "140000000",
+		"FileSize": 13218816,
+		"Original FileName": "WEXTRACT.EXE            .MUI",
+		"Entropy": 7.998,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "EXECUTABLE_IMAGE, LARGE_ADDRESS_AWARE",
+		"Timestamp": "2062-07-25 21:18:00(2062-07-25 12:18:00 UTC)",
+		"Import Hash": "4cea7ae85c87ddc7295d39ff9cda31d1",
+		"Section Info": [
+			".text:0x1000:0x7b80:0x400:0x7c00:6.09626178287",
+			".rdata:0x9000:0x22c8:0x8000:0x2400:4.72784192921",
+			".data:0xc000:0x1f00:0xa400:0x400:3.18897698451",
+			".pdata:0xe000:0x408:0xa800:0x600:3.15636650405",
+			".rsrc:0xf000:0xc91000:0xae00:0xc90400:unknown",
+			".reloc:0xca0000:0x20:0xc9b200:0x200:0.406847371581"
+		],
+		"Resource": [
+			"AVI:0xfb30:0x2e1a:RIFF (little-endian) data, AVI, 272 x 60, 10.00 fps, video: RLE 8bpp:English:United States",
+			"RT_ICON:0x1294c:0x668:data:English:United States",
+			"RT_ICON:0x12fb4:0x2e8:dBase IV DBT of @.DBF, block length 512, next free block index 40, next free block 2291109880, next used block 28872:English:United States",
+			"RT_ICON:0x1329c:0x1e8:data:English:United States",
+			"RT_ICON:0x13484:0x128:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_ICON:0x135ac:0xea8:data:English:United States",
+			"RT_ICON:0x14454:0x8a8:dBase IV DBT of @.DBF, block length 1024, next free block index 40, next free block 15066613, next used block 15000828:English:United States",
+			"RT_ICON:0x14cfc:0x6c8:data:English:United States",
+			"RT_ICON:0x153c4:0x568:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_ICON:0x1592c:0xd9d2:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced:English:United States",
+			"RT_ICON:0x23300:0x25a8:data:English:United States",
+			"RT_ICON:0x258a8:0x10a8:data:English:United States",
+			"RT_ICON:0x26950:0x988:data:English:United States",
+			"RT_ICON:0x272d8:0x468:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_DIALOG:0x27740:0x2f2:data:English:United States",
+			"RT_DIALOG:0x27a34:0x302:data:Thai:Thailand",
+			"RT_DIALOG:0x27d38:0x1b0:data:English:United States",
+			"RT_DIALOG:0x27ee8:0x198:data:Thai:Thailand",
+			"RT_DIALOG:0x28080:0x166:data:English:United States",
+			"RT_DIALOG:0x281e8:0x176:data:Thai:Thailand",
+			"RT_DIALOG:0x28360:0x1c0:data:English:United States",
+			"RT_DIALOG:0x28520:0x1cc:data:Thai:Thailand",
+			"RT_DIALOG:0x286ec:0x130:data:English:United States",
+			"RT_DIALOG:0x2881c:0x13c:data:Thai:Thailand",
+			"RT_DIALOG:0x28958:0x120:data:English:United States",
+			"RT_DIALOG:0x28a78:0x12e:data:Thai:Thailand",
+			"RT_STRING:0x28ba8:0x8c:data:English:United States",
+			"RT_STRING:0x28c34:0x76:data:Thai:Thailand",
+			"RT_STRING:0x28cac:0x520:data:English:United States",
+			"RT_STRING:0x291cc:0x4fa:data:Thai:Thailand",
+			"RT_STRING:0x296c8:0x5cc:data:English:United States",
+			"RT_STRING:0x29c94:0x5ee:data:Thai:Thailand",
+			"RT_STRING:0x2a284:0x4b0:data:English:United States",
+			"RT_STRING:0x2a734:0x496:data:Thai:Thailand",
+			"RT_STRING:0x2abcc:0x44a:data:English:United States",
+			"RT_STRING:0x2b018:0x46e:data:Thai:Thailand",
+			"RT_STRING:0x2b488:0x3ce:data:English:United States",
+			"RT_STRING:0x2b858:0x362:data:Thai:Thailand",
+			"RT_RCDATA:0x2bbbc:0x7:ASCII text, with no line terminators:English:United States",
+			"RT_RCDATA:0x2bbc4:0xc726aa:Microsoft Cabinet archive data, 13051562 bytes, 3 files:Thai:Thailand",
+			"RT_RCDATA:0xc9e270:0x4:data:Thai:Thailand",
+			"RT_RCDATA:0xc9e274:0x24:data:Thai:Thailand",
+			"RT_RCDATA:0xc9e298:0x7:ASCII text, with no line terminators:Thai:Thailand",
+			"RT_RCDATA:0xc9e2a0:0x7:ASCII text, with no line terminators:Thai:Thailand",
+			"RT_RCDATA:0xc9e2a8:0x4:data:Thai:Thailand",
+			"RT_RCDATA:0xc9e2ac:0x8:ASCII text, with no line terminators:English:United States",
+			"RT_RCDATA:0xc9e2b4:0x4:data:Thai:Thailand",
+			"RT_RCDATA:0xc9e2b8:0xa:ASCII text, with no line terminators:English:United States",
+			"RT_RCDATA:0xc9e2c4:0x4:data:Thai:Thailand",
+			"RT_RCDATA:0xc9e2c8:0x7:ASCII text, with no line terminators:Thai:Thailand",
+			"RT_RCDATA:0xc9e2d0:0x7:ASCII text, with no line terminators:Thai:Thailand",
+			"RT_RCDATA:0xc9e2d8:0x7:ASCII text, with no line terminators:English:United States",
+			"RT_GROUP_ICON:0xc9e2e0:0xbc:data:English:United States",
+			"RT_VERSION:0xc9e39c:0x410:data:English:United States",
+			"RT_VERSION:0xc9e7ac:0x404:data:Thai:Thailand",
+			"RT_MANIFEST:0xc9ebb0:0x7e6:XML 1.0 document, ASCII text, with CRLF line terminators:English:United States"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Tracing\\RtkBtManServ_RASAPI32"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Tracing\\RtkBtManServ_RASMANCS"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnce",
+				"name": "wextract_cleanup0"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASAPI32",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASAPI32",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASAPI32",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASAPI32",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASAPI32",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASAPI32",
+				"name": "FileDirectory"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASMANCS",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASMANCS",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASMANCS",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASMANCS",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASMANCS",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RtkBtManServ_RASMANCS",
+				"name": "FileDirectory"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\asdas.exe"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\sms.exe"
+			},
+			{
+				"cmdline": "'C:\\Users\\user\\AppData\\Local\\Temp\\RtkBtManServ.exe' ZhXl39BlhP84+Y4kurA8wpehxxqA0X22IMYZ6Vpiqs7LIsqCC4a/AX2b2RVR/YEUkVsAd21s1Zj3Q7+D+wBDqZXHiuUwqD+ulat5YCzOWXvJWtDoU7A9lCKly9ij2EI/e2+S7OW+qFJxtlQeFXgI2TuHiauFjXibHW/+xco2h6U="
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\asdas.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\sms.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\rundll32.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\TMP4351$.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\sms.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\socks.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\asdas.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\config"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\whysosad"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\RtkBtManServ.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\bfsvc.cfg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\xwizard.cfg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\bfsvc.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\winhlp32.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\hh.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\splwow64.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\xwizard.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\snuvcdsm.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.costura.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.costura.pdb.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.discord webhook.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.discord.net.core.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.discord.net.rest.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.discord.net.webhook.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.dotnetzip.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.dotnetzip.pdb.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.leaf.xnet.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.microsoft.bcl.asyncinterfaces.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.netstandard.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.newtonsoft.json.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.buffers.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.collections.immutable.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.drawing.common.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.interactive.async.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.linq.async.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.memory.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.numerics.vectors.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.runtime.compilerservices.unsafe.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.threading.tasks.extensions.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.metadata"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\NetFramework\\BreadcrumbStore\\System.Collections.Immutable, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\NetFramework\\BreadcrumbStore\\System.Collections.Immutable, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ss.png"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\asdas.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\sms.exe"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\sms.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\socks.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\asdas.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\config"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\whysosad"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\RtkBtManServ.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\bfsvc.cfg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\xwizard.cfg"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\bfsvc.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\winhlp32.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\hh.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\splwow64.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\xwizard.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\snuvcdsm.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.costura.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.costura.pdb.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.discord webhook.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.discord.net.core.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.discord.net.rest.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.discord.net.webhook.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.dotnetzip.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.dotnetzip.pdb.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.leaf.xnet.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.microsoft.bcl.asyncinterfaces.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.netstandard.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.newtonsoft.json.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.buffers.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.collections.immutable.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.drawing.common.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.interactive.async.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.linq.async.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.memory.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.numerics.vectors.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.runtime.compilerservices.unsafe.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.system.threading.tasks.extensions.dll.compressed"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\costura.metadata"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ss.png"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\IXP000.TMP\\asdas.exe"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Searches\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Videos\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Pictures\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Contacts\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Links\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Saved Games\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shdocvw.dll"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\fe2524177eb3088c77be666722039f52\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\e43dd9c73ab5615e461bf5109c3facd6\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\0d59b0e237d7519417de10cd84bda4e7\\System.Core.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\Microsoft.CSharp\\d011b632ffdc7e7df171eee4a06fcd05\\Microsoft.CSharp.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Windows.Forms\\b138f79dea860272ebe6694d9b73f656\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Drawing\\ece80f2e3752a779e894fd45d8f27e64\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Configuration\\4beb1eeca20b27d4bd1bb9880f03cc2a\\System.Configuration.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Xml\\5ee35debfc22f727e70e4479ddcbc045\\System.Xml.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Net.Http\\04ab5d047cc99fc5dad36592f805b227\\System.Net.Http.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Management\\b221af81285c1305324612e6dc9c88ff\\System.Management.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\config"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Runteb92aa12#\\59a4984a6afe6b209eaaa379927ab81d\\System.Runtime.Serialization.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Numerics\\86cfd69ce1261baf4740e7606cade014\\System.Numerics.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\content-prefs.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\cookies.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\favicons.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\permissions.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\places.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\protections.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\storage.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ouv4y2vg.default-release\\webappsstore.sqlite"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ss.png"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "https://discord.com/channels/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://cdn.discordapp.com/app-icons/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://discordapp.com/api/v8/users/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://discord.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://discord.com/api/webhooks/879933300972605530/jXuHqSMb_EuCsrS8YZBhO-owL0V1AycZRt_YCdZtYkwc1EHh",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.mozilla.org/en-US/products/firefox",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://api64.ipify.orgp",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://api64.ipify.org/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://github.com/RogueException/Discord.Net/issues/827",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ocsp.sectigo.com0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://cdn.discordapp.com/1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.mozilla.org/en-US/products/firefoxgro.allizom.troppus.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://discord.gg/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://discord.com/api/v8/users/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.newtonsoft.com/json",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.sectigo.com/COMODOTimeStampingCA_2.crl0r",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.sectigo.com/SectigoRSACodeSigningCA.crl0s",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://windowsmedia.com/redir/services.asp?WMPFriendly=true",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crt.sectigo.com/SectigoRSACodeSigningCA.crt0#",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ns.aobe",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://discord.com/api/v",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ns.micro/1.2/tb",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://james.newtonking.com/projects/json",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://api64.ipify.org/p",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.sectigo.com/SectigoRSATimeStampingCA.crl0t",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://api64.ipify.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://api.anonfiles.com/upload",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=fire",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://itroublvehacker.gq/bypass_stealer",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://sectigo.com/CPS0B",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://itroublvehacker.cf/dummyinfo",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ns.adobeType/Rb",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://discord.comp",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.newtonsoft.com/jsonschema",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://sectigo.com/CPS0C",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://sectigo.com/CPS0D",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://github.com/RogueException/Discord.Net",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://cdn.discordapp.com/&https://discord.gg/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.%s.comPA",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://i.scdn.co/image/?https://open.spotify.com/track/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.nuget.org/packages/Newtonsoft.Json.Bson",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.mozilla.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.nirsoft.net/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crt.sectigo.com/COMODOTimeStampingCA_2.crt0#",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://api64.H",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://github.com/JamesNK/Newtonsoft.Json",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.22",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Trojan / Bot,Evader",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win64 Executable GUI (202006/5)",
+		"API Sequence": "WriteFile_SendDlgItemMessageA_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_SendDlgItemMessageA_WriteFile_SendDlgItemMessageA_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_SendDlgItemMessageA_WriteFile_SendDlgItemMessageA_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_WriteFile_SendDlgItemMessageA_SendDlgItemMessageA_SendDlgItemMessageA_SendDlgItemMessageA_SendDlgItemMessageA_SendDlgItemMessageA_DialogBoxIndirectParamA_SendDlgItemMessageA_SendDlgItemMessageA_SendDlgItemMessageA_SetFileTime_SetFileAttributesA_SetFileAttributesA_DialogBoxIndirectParamA_DialogBoxIndirectParamA_SendMessageA_TerminateThread_TerminateThread_EndDialog_EndDialog_EndDialog_EndDialog_EndDialog_EndDialog_EndDialog_EndDialog_EndDialog_EndDialog_DialogBoxIndirectParamA_DialogBoxIndirectParamA_DialogBoxIndirectParamA_DialogBoxIndirectParamA_RegOpenKeyExA_RegQueryValueExA_RegCloseKey_FindResourceExA_GetFileAttributesA_RegCreateKeyExA_RegQueryValueExA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_FreeLibrary_RegSetValueExA_RegCloseKey_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_GetExitCodeProcess_RegOpenKeyExA_RegQueryValueExA_GetFileAttributesA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1047",
+		"ATT&CK(Persistence)": "T1547.001,T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1547.001,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1562.001,T1497,T1055,T1027,T1218.011,T1027.002,T1070.006,T1574.002",
+		"ATT&CK(Credential Access)": "T1003",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1010,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560,T1005",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

@@ -1,0 +1,341 @@
+{
+	"md5": "16ee451812c7cb300c3e0f1e3fb0e4fe",
+	"data": {
+		"String": [
+			{
+				"type": "Unicode C-Style",
+				"string": "/images/html.exe"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "/wp-content/uploads/2012/10/html.exe"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "teamresults.org"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "cyclivate.com"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "budha.exe"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Updates downloader"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "text/*"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "application/*"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kilf.exe"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "%s\\%s"
+			},
+			{
+				"type": "C-Style",
+				"string": "WININET.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "USER32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "SHELL32.dll"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2010)",
+		"linker": "Microsoft Linker(10.0)[EXE32,admin]",
+		"PDB path": "",
+		"full Fuzzyhash": "384:hOv0nwR2ZBsDBeNRLpoYz9iMYFxMrQR7ksiFn:hOvSwRrDUNboYzsMYFxQU7ksiFn",
+		"section Fuzzyhash(.data)": "3:Gl/lllt:",
+		"rich header": "44616e53000000000000000000000000097893000900000000000100190000006f76af00020000006f769d0001000000",
+		"PE Image": "binary_16ee451812c7cb300c3e0f1e3fb0e4fe.jpg",
+		"bytecode": "binary_16ee451812c7cb300c3e0f1e3fb0e4fe.byte",
+		"opcode": "xor,cmp,jbe,mov,mov,mov,mov,inc,cmp,jb,push,mov,sub,push,push,push,xor,push,call,cmp,jnz,push,call,push,mov,push,push,call,push,push,push,mov,call,push,push,push,mov,call,push,push,push,mov,call,push,push,call,push,push,push,push,call,add,push,push,push,push,push,push,push,call,mov,cmp,jnz,pop,xor,pop,inc,pop,push,push,call,mov,push,mov,call,mov,lea,push,push,push,call,mov,cmp,jz,push,lea,push,push,push,push,call,push,push,call,jz,push,call,lea,push,mov,add,push,push,call,push,push,push,push,push,push,push,call,mov,cmp,jz,push,lea,push,push,call,mov,lea,push,push,push,call,push,mov,call,push,call,push,push,call,push,push,push,push,push,push,call,push,jmp,mov,mov,push,add,imul,lea,mov,add,add,call,mov,mov,jmp,inc,cmp,jg,push,call,jz,push,push,push,push,push,call,mov,cmp,jz,mov,mov,mov,inc,cmp,jle,mov,xor,mov,push,push,push,push,push,push,push,push,call,mov,cmp,jnz,inc,cmp,jl,jmp,mov,push,push,lea,push,mov,push,push,push,push,push,call,mov,cmp,jnz,inc,cmp,jl,jmp,push,pop,lea,push,lea,push,push,push,mov,call,push,lea,push,push,push,call,xor,push,push,push,push,push,call,jnz,inc,cmp,jl,cmp,jz,mov,mov,xor,push,lea,push,lea,push,push,push,call,jnz,inc,cmp,jl,cmp,jb,push,push,push,call,mov,cmp,jz,mov,mov,mov,jmp,mov,add,cmp,jz,cmp,jz,lea,push,push,push,push,call,jnz,sub,cmp,jz,inc,cmp,jl,cmp,jz,push,push,push,push,push,push,mov,push,call,push,mov,lea,push,push,push,push,call,push,call,lea,push,push,call,push,lea,push,push,push,call,add,push,push,push,lea,push,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "df71c866434b2190cb7b8974bbed91dc"
+			},
+			{
+				"section": ".rdata",
+				"md5": "92ab8939303480570b10126fe80eb401"
+			},
+			{
+				"section": ".data",
+				"md5": "e34b97b53a142589eee44b6104a73898"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "fd554c8eb64f4892dbef28a516e91ae6"
+			},
+			{
+				"section": ".reloc",
+				"md5": "4d1b504b12af8905f1768673d08ae237"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "16ee451812c7cb300c3e0f1e3fb0e4fe",
+		"SHA1": "890c68683ab9ebf9c842841e68083f7fd6897c33",
+		"SHA256": "e95fc312236557bce0375780d01294ecefdacc1b2d850aba363c2b4368734d06",
+		"EntryPoint": "401020",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 31330,
+		"Original FileName": "",
+		"Entropy": 2.786,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2013-11-21 23:28:40(2013-11-21 14:28:40 UTC)",
+		"Import Hash": "e836076a09dba03e4d6faa46dda0fefc",
+		"Section Info": [
+			".text:0x1000:0x3d8:0x400:0x400:5.65832759964",
+			".rdata:0x2000:0x470:0x800:0x600:3.46399415598",
+			".data:0x3000:0x14:0xe00:0x200:0.219439394857",
+			".rsrc:0x4000:0x1c0:0x1000:0x200:5.06799141655",
+			".reloc:0x5000:0xb2:0x1200:0x200:1.64985211143"
+		],
+		"Resource": [
+			"RT_MANIFEST:0x4058:0x165:ASCII text, with CRLF line terminators:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Users\\user\\AppData\\Local\\Temp\\budha.exe' "
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\8IXvXlh3hE.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\budha.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\budha.exe"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\8IXvXlh3hE.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Searches\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Videos\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Pictures\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Contacts\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Links\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Saved Games\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shdocvw.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\budha.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "https://teamresults.org/images/html.exe5",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://cyclivate.com/wp-content/uploads/2012/10/html.exe7",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://cyclivate.com/wp-content/uploads/2012/10/html.exe(",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://teamresults.org/images/html.exeWYO_",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://teamresults.org/images/html.exea",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://cyclivate.com/wp-content/uploads/2012/10/html.exe2",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://teamresults.org/images/html.exe",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://teamresults.org/images/html.exeQYO_",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://teamresults.org/images/html.exeY",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://cyclivate.com/wp-content/uploads/2012/10/html.exe",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.29",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_RtlUserThreadStart_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ShellExecuteW_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1497,T1027.002,T1055",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1497,T1057,T1083,T1082,T1018",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1105"
+	}
+}

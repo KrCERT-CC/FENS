@@ -1,0 +1,2559 @@
+{
+	"md5": "c854670cce0e174fb4c537c8afa02ed3",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "images"
+			},
+			{
+				"type": "C-Style",
+				"string": "RoInitialize"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "combase.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "RoUninitialize"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "UTF-8"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "UTF-16LE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "UNICODE"
+			},
+			{
+				"type": "C-Style",
+				"string": "(null)"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "(null)"
+			},
+			{
+				"type": "C-Style",
+				"string": "\b`h````"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mscoree.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "CorExitProcess"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6008\r\n- not enough space for arguments\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6009\r\n- not enough space for environment\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6010\r\n- abort() has been called\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6016\r\n- not enough space for thread data\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6017\r\n- unexpected multithread lock error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6018\r\n- unexpected heap error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6019\r\n- unable to open console device\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6024\r\n- not enough space for _onexit/atexit table\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6025\r\n- pure virtual function call\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6026\r\n- not enough space for stdio initialization\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6027\r\n- not enough space for lowio initialization\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6028\r\n- unable to initialize heap\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6030\r\n- CRT not initialized\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6031\r\n- Attempt to initialize the CRT more than once.\nThis indicates a bug in your application.\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6032\r\n- not enough space for locale information\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6033\r\n- Attempt to use MSIL code from this assembly during native code initialization\nThis indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6034\r\n- inconsistent onexit begin-end variables\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "DOMAIN error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "SING error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "TLOSS error\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "runtime error "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "R6002\r\n- floating point support not loaded\r\n"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Runtime Error!\n\nProgram: "
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "<program name unknown>"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Microsoft Visual C++ Runtime Library"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlsAlloc"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlsFree"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlsGetValue"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlsSetValue"
+			},
+			{
+				"type": "C-Style",
+				"string": "InitializeCriticalSectionEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateSemaphoreExW"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetThreadStackGuarantee"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateThreadpoolTimer"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetThreadpoolTimer"
+			},
+			{
+				"type": "C-Style",
+				"string": "WaitForThreadpoolTimerCallbacks"
+			},
+			{
+				"type": "C-Style",
+				"string": "CloseThreadpoolTimer"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateThreadpoolWait"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetThreadpoolWait"
+			},
+			{
+				"type": "C-Style",
+				"string": "CloseThreadpoolWait"
+			},
+			{
+				"type": "C-Style",
+				"string": "FlushProcessWriteBuffers"
+			},
+			{
+				"type": "C-Style",
+				"string": "FreeLibraryWhenCallbackReturns"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetCurrentProcessorNumber"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLogicalProcessorInformation"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateSymbolicLinkW"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetDefaultDllDirectories"
+			},
+			{
+				"type": "C-Style",
+				"string": "EnumSystemLocalesEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "CompareStringEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetDateFormatEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLocaleInfoEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetTimeFormatEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetUserDefaultLocaleName"
+			},
+			{
+				"type": "C-Style",
+				"string": "IsValidLocaleName"
+			},
+			{
+				"type": "C-Style",
+				"string": "LCMapStringEx"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetCurrentPackageId"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateFile2"
+			},
+			{
+				"type": "C-Style",
+				"string": "Sunday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Monday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Tuesday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Wednesday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Thursday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Friday"
+			},
+			{
+				"type": "C-Style",
+				"string": "Saturday"
+			},
+			{
+				"type": "C-Style",
+				"string": "January"
+			},
+			{
+				"type": "C-Style",
+				"string": "February"
+			},
+			{
+				"type": "C-Style",
+				"string": "March"
+			},
+			{
+				"type": "C-Style",
+				"string": "April"
+			},
+			{
+				"type": "C-Style",
+				"string": "August"
+			},
+			{
+				"type": "C-Style",
+				"string": "September"
+			},
+			{
+				"type": "C-Style",
+				"string": "October"
+			},
+			{
+				"type": "C-Style",
+				"string": "November"
+			},
+			{
+				"type": "C-Style",
+				"string": "December"
+			},
+			{
+				"type": "C-Style",
+				"string": "MM/dd/yy"
+			},
+			{
+				"type": "C-Style",
+				"string": "dddd, MMMM dd, yyyy"
+			},
+			{
+				"type": "C-Style",
+				"string": "HH:mm:ss"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Sunday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Monday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Tuesday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Wednesday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Thursday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Friday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Saturday"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "January"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "February"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "March"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "April"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "August"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "September"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "October"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "November"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "December"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "MM/dd/yy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "dddd, MMMM dd, yyyy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "HH:mm:ss"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-US"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ja-JP"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-CN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ko-KR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-TW"
+			},
+			{
+				"type": "C-Style",
+				"string": "`h`hhh\b\b\u0007xppwpp\b\b"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "USER32.DLL"
+			},
+			{
+				"type": "C-Style",
+				"string": "MessageBoxW"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetActiveWindow"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLastActivePopup"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetUserObjectInformationW"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetProcessWindowStation"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "         (((((                  H"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "        h((((                  H"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-CHS"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-SA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bg-BG"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ca-ES"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "cs-CZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "da-DK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-DE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "el-GR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fi-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-FR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "he-IL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hu-HU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "is-IS"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "it-IT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nl-NL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nb-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pl-PL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pt-BR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ro-RO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ru-RU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hr-HR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sk-SK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sq-AL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sv-SE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "th-TH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tr-TR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ur-PK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "id-ID"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uk-UA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "be-BY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sl-SI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "et-EE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lv-LV"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lt-LT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fa-IR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "vi-VN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hy-AM"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "az-AZ-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "eu-ES"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mk-MK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tn-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "xh-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zu-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "af-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ka-GE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fo-FO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hi-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mt-MT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ms-MY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kk-KZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ky-KG"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sw-KE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uz-UZ-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tt-RU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bn-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pa-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "gu-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ta-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "te-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kn-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ml-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mr-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sa-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mn-MN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "cy-GB"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "gl-ES"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kok-IN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "syr-SY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "div-MV"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-BO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ns-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mi-NZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-IQ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-CH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-GB"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-MX"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-BE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "it-CH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nl-BE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nn-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pt-PT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-SP-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sv-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "az-AZ-Cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-SE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ms-BN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uz-UZ-Cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-EC"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-EG"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-HK"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-AT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-AU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ES"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-CA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-SP-Cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-PE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-LY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-SG"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-LU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-CA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-GT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-CH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hr-BA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smj-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-DZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-MO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-LI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-NZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-CR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-LU"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bs-BA-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smj-SE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-MA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-IE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-PA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-MC"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-BA-Latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sma-NO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-TN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ZA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-DO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-BA-Cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sma-SE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-OM"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-JM"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-VE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sms-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-YE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-CB"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-CO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smn-FI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-SY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-BZ"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-PE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-JO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-TT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-AR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-LB"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ZW"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-EC"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-KW"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-PH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-CL"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-AE"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-UY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-BH"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-PY"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-QA"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-BO"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-SV"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-HN"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-NI"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-PR"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-CHT"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "af-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-ae"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-bh"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-dz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-eg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-iq"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-jo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-kw"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-lb"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-ly"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-ma"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-om"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-qa"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-sa"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-sy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-tn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ar-ye"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "az-az-cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "az-az-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "be-by"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bg-bg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bn-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "bs-ba-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ca-es"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "cs-cz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "cy-gb"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "da-dk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-at"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-ch"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-de"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-li"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "de-lu"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "div-mv"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "el-gr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-au"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-bz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ca"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-cb"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-gb"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ie"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-jm"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-nz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-ph"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-tt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-us"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "en-zw"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ar"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-bo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-cl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-co"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-cr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-do"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ec"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-es"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-gt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-hn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-mx"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ni"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-pa"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-pe"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-pr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-py"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-sv"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-uy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "es-ve"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "et-ee"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "eu-es"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fa-ir"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fi-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fo-fo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-be"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-ca"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-ch"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-fr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-lu"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "fr-mc"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "gl-es"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "gu-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "he-il"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hi-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hr-ba"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hr-hr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hu-hu"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "hy-am"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "id-id"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "is-is"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "it-ch"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "it-it"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ja-jp"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ka-ge"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kk-kz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kn-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "kok-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ko-kr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ky-kg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lt-lt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "lv-lv"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mi-nz"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mk-mk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ml-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mn-mn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mr-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ms-bn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ms-my"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "mt-mt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nb-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nl-be"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nl-nl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "nn-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ns-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pa-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pl-pl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pt-br"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "pt-pt"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-bo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-ec"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "quz-pe"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ro-ro"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ru-ru"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sa-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "se-se"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sk-sk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sl-si"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sma-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sma-se"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smj-no"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smj-se"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "smn-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sms-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sq-al"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-ba-cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-ba-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-sp-cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sr-sp-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sv-fi"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sv-se"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "sw-ke"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "syr-sy"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ta-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "te-in"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "th-th"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tn-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tr-tr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "tt-ru"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uk-ua"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "ur-pk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uz-uz-cyrl"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "uz-uz-latn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "vi-vn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "xh-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-chs"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-cht"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-cn"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-hk"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-mo"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-sg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zh-tw"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "zu-za"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "CONOUT$"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "ADVAPI32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "COMCTL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "abcdefghijklmnopqrstuvwxyz"
+			},
+			{
+				"type": "C-Style",
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+			},
+			{
+				"type": "C-Style",
+				"string": "abcdefghijklmnopqrstuvwxyz"
+			},
+			{
+				"type": "C-Style",
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2012 update 3)",
+		"linker": "Microsoft Linker(11.0)[EXE32,admin,signed]",
+		"PDB path": "",
+		"full Fuzzyhash": "12288:S2HXHl7Tzp5Z5DSKh6RGtaUK/4InG2fYdVlnR9p2ERYUOeEiWaljElX86:SihS0eVtf+/nR9p/RTpEifNE9h",
+		"section Fuzzyhash(.data)": "48:xwmBPItTYUFR35EeaXnnDPwtnkjTk4TkX:BBgt0UFRGvXnD4lM5",
+		"rich header": "44616e53000000000000000000000000f1c6cf001a000000f1c6cd000c000000f1c6ce007a000000000001006d000000fc77b900070000000000000009000000c2ecc90001000000c2eccc0001000000",
+		"PE Image": "binary_c854670cce0e174fb4c537c8afa02ed3.jpg",
+		"bytecode": "binary_c854670cce0e174fb4c537c8afa02ed3.byte",
+		"opcode": "push,mov,push,push,push,sub,mov,mov,mov,jmp,mov,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,call,mov,mov,mov,jmp,cmp,jnz,mov,cmp,mov,jz,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,sub,mov,call,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,sub,mov,call,cmp,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,call,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,mov,jmp,mov,jmp,cmp,jnz,mov,jmp,mov,mov,lea,pop,pop,pop,pop,push,mov,push,push,push,sub,mov,mov,mov,jmp,mov,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,mov,cmp,mov,jz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,sub,mov,call,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,cmp,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,sub,mov,call,cmp,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,sub,mov,mov,call,mov,mov,mov,jmp,cmp,jnz,mov,jmp,mov,call,mov,call,mov,mov,call,mov,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,mov,mov,lea,pop,pop,pop,pop,push,mov,push,push,push,sub,mov,mov,mov,jmp,mov,nop,mov,cmp,jg,cmp,jg,cmp,jnz,mov,mov,mov,mov,jmp,cmp,jnz,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,sub,mov,call,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,cmp,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,sub,mov,mov,call,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,call,mov,call,mov,mov,call,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,sub,mov,mov,call,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jz,cmp,jnz,mov,mov,jnz,mov,mov,jmp,mov,jmp,cmp,jnz,mov,mov,jmp,mov,lea,pop,pop,pop,pop,push,mov,push,sub,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,mov,sub,mov,call,add,mov,mov,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,sub,mov,call,add,mov,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,not,mov,neg,mov,mov,mov,mov,mov,mov,mov,lea,mov,inc,mov,sub,mov,mov,mov,mov,mov,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,sub,mov,mov,mov,mov,mov,call,add,mov,js,mov,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,not,mov,neg,mov,mov,mov,mov,mov,mov,mov,lea,mov,inc,mov,sub,mov,mov,mov,mov,mov,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,mov,inc,mov,sub,mov,mov,mov,mov,mov,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,sub,mov,mov,mov,mov,mov,call,add,mov,js,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,sub,mov,mov,mov,call,mov,jmp,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,call,mov,mov,mov,cmp,mov,jmp,cmp,jnz,mov,call,mov,call,mov,mov,call,mov,call,mov,call,mov,call,mov,call,mov,call,mov,call,mov,mov,call,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,mov,inc,mov,sub,mov,mov,mov,mov,mov,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,sub,mov,mov,mov,mov,mov,call,add,mov,js,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,sub,mov,mov,call,add,mov,jz,mov,mov,jmp,cmp,jnz,mov,mov,sub,mov,call,add,mov,jmp,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,sub,mov,call,add,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,sub,mov,call,add,mov,js,mov,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,sub,mov,call,add,mov,jmp,cmp,jnz,mov,mov,sub,mov,call,add,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,cmp,jnz,mov,mov,jmp,mov,jmp,cmp,jnz,mov,jmp,mov,mov,lea,pop,pop,push,mov,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,call,call,call,xor,add,pop,pop,push,mov,sub,mov,mov,mov,mov,jmp,inc,mov,jmp,mov,mov,cmp,jg,cmp,jz,cmp,jnz,mov,mov,mov,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,not,mov,xor,add,mov,add,mov,mov,jmp,cmp,jnz,mov,add,pop,push,mov,push,push,push,sub,mov,jmp,mov,mov,inc,mov,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,cmp,jz,cmp,jnz,mov,mov,mov,mov,cmp,jb,mov,mov,jmp,mov,mov,lea,mov,mov,mov,mov,mov,mov,mov,mov,mov,not,mov,not,xor,mov,mov,mov,mov,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,jmp,lea,pop,pop,pop,pop,push,mov,push,sub,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,mov,mov,neg,mov,sub,mov,mov,mov,mov,cmp,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,jmp,cmp,jnz,jmp,mov,mov,inc,mov,mov,mov,mov,jmp,cmp,jnz,mov,call,mov,mov,call,mov,mov,mov,jmp,mov,lea,pop,pop,push,mov,push,push,push,sub,mov,mov,mov,mov,mov,mov,jmp,mov,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,cmp,jb,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,inc,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,lea,mov,mov,mov,mov,mov,mov,mov,mov,not,mov,mov,not,add,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jz,cmp,jnz,mov,jmp,mov,jmp,cmp,jnz,mov,jmp,lea,pop,pop,pop,pop,push,mov,push,push,push,sub,mov,mov,mov,jmp,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,call,add,mov,mov,mov,sub,mov,mov,mov,mov,call,add,mov,cmp,mov,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jnz,jmp,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,sub,mov,mov,mov,mov,call,add,cmp,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,mov,mov,mov,sub,mov,mov,mov,call,add,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,mov,mov,sub,mov,mov,mov,mov,call,add,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,mov,jmp,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jz,cmp,jnz,mov,call,mov,call,mov,mov,mov,call,mov,mov,mov,call,mov,mov,mov,mov,sub,mov,mov,mov,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,mov,call,add,mov,mov,sub,mov,mov,mov,mov,call,add,mov,jmp,mov,mov,mov,mov,sub,mov,mov,mov,call,add,mov,jmp,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,mov,lea,pop,pop,pop,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,call,mov,add,pop,push,mov,push,sub,mov,lea,mov,mov,mov,call,mov,mov,mov,call,sub,mov,mov,call,mov,mov,mov,jmp,mov,mov,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jmp,mov,jmp,cmp,jnz,mov,mov,mov,jmp,mov,add,pop,pop,push,mov,push,push,push,sub,lea,mov,mov,mov,call,mov,mov,call,sub,mov,lea,lea,jmp,mov,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,cmp,mov,jmp,cmp,jg,cmp,jnz,mov,mov,call,sub,mov,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,call,mov,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,call,mov,mov,call,sub,mov,mov,jmp,cmp,jg,cmp,jnz,mov,call,sub,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,call,sub,mov,jz,mov,mov,jmp,mov,jmp,cmp,jnz,mov,add,pop,pop,pop,pop,push,mov,push,push,push,sub,mov,jmp,mov,call,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,mov,call,add,mov,mov,sub,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,add,sub,add,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,mov,call,add,mov,sub,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,mov,cmp,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,sub,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,sub,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,sub,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jz,cmp,jnz,mov,mov,jmp,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,mov,mov,call,mov,jz,mov,mov,jmp,mov,lea,pop,pop,pop,pop,push,mov,push,push,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,mov,mov,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,mov,call,mov,jmp,cmp,jnz,jmp,cmp,jnz,cmp,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,neg,mov,sub,mov,mov,call,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,neg,mov,sub,mov,mov,call,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,add,mov,mov,call,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,js,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,neg,mov,sub,mov,mov,call,mov,mov,jmp,cmp,jg,cmp,jnz,cmp,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,jle,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,lea,inc,mov,mov,mov,mov,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,js,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,cmp,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jz,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,jmp,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,mov,add,pop,pop,pop,pop,push,mov,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,jmp,mov,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,sub,mov,mov,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,call,cmp,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,mov,jz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,mov,sub,mov,mov,mov,mov,call,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,call,cmp,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,sub,mov,mov,mov,mov,call,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,call,mov,mov,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,call,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,sub,mov,mov,mov,mov,call,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,not,mov,mov,mov,mov,call,mov,jmp,cmp,jnz,mov,mov,not,mov,mov,mov,mov,call,mov,jmp,cmp,jz,cmp,jnz,mov,jmp,mov,mov,mov,mov,call,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,mov,add,pop,pop,push,mov,push,push,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,lea,lea,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,jz,mov,mov,jmp,cmp,jnz,mov,mov,dec,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,mov,jmp,cmp,jnz,jmp,cmp,jnz,dec,mov,jmp,cmp,jnz,mov,jmp,mov,mov,call,mov,mov,jmp,cmp,jnz,mov,jmp,mov,add,pop,pop,pop,pop,push,mov,sub,mov,mov,mov,mov,mov,call,mov,mov,mov,jmp,mov,mov,call,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,call,mov,dec,mov,mov,mov,mov,call,mov,jmp,cmp,jnz,mov,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,call,mov,js,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,mov,mov,jmp,cmp,jnz,mov,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,call,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,call,mov,js,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jz,cmp,jnz,mov,mov,call,mov,jmp,mov,jmp,cmp,jnz,call,mov,dec,mov,mov,mov,mov,call,mov,jmp,mov,add,pop,push,mov,sub,mov,mov,mov,jmp,mov,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,mov,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,mov,mov,call,mov,mov,jmp,cmp,jnz,mov,jmp,add,pop,push,mov,sub,mov,mov,call,mov,mov,mov,call,mov,mov,call,add,pop,push,mov,push,sub,mov,mov,mov,mov,mov,not,mov,neg,mov,mov,mov,lea,inc,mov,mov,mov,lea,mov,mov,call,mov,mov,mov,mov,call,mov,add,pop,pop,push,mov,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,mov,jmp,mov,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,js,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jz,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,mov,jmp,cmp,jnz,mov,add,pop,pop,push,mov,sub,mov,mov,mov,mov,lea,mov,mov,mov,mov,mov,mov,call,mov,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,jmp,cmp,jnz,mov,cmp,jz,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,sub,mov,jmp,cmp,jnz,mov,mov,mov,call,sub,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,call,sub,mov,jmp,cmp,jz,cmp,jnz,mov,jmp,mov,mov,call,sub,mov,jmp,cmp,jnz,mov,jmp,add,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jnz,mov,add,mov,mov,mov,call,mov,mov,mov,cmp,mov,jmp,cmp,jnz,mov,cmp,jz,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,add,mov,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,add,mov,mov,mov,call,mov,mov,mov,jmp,cmp,jnz,mov,jmp,mov,mov,mov,add,mov,mov,mov,jmp,cmp,jnz,mov,add,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,mov,mov,mov,mov,call,mov,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,call,mov,mov,mov,mov,call,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jz,cmp,jnz,call,mov,mov,mov,mov,call,mov,mov,jmp,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,add,pop,push,mov,push,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,mov,mov,mov,mov,call,add,pop,pop,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,call,mov,js,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,call,sub,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,call,mov,jmp,cmp,jnz,mov,mov,call,mov,jmp,cmp,jnz,mov,mov,call,mov,mov,jmp,cmp,jnz,call,mov,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,call,mov,jmp,cmp,jnz,call,mov,mov,jmp,cmp,jnz,mov,jmp,mov,mov,mov,mov,mov,call,sub,mov,jmp,cmp,jnz,mov,cmp,jz,mov,mov,jmp,mov,add,pop,push,mov,push,push,push,sub,mov,mov,jmp,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,mov,call,add,mov,mov,sub,mov,mov,mov,call,add,mov,mov,mov,cmp,jg,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,mov,call,add,mov,mov,sub,mov,mov,mov,call,add,mov,jmp,cmp,jz,cmp,jz,cmp,jnz,mov,jmp,mov,lea,pop,pop,pop,pop,push,mov,sub,mov,mov,mov,call,mov,call,add,pop,push,mov,sub,mov,mov,jmp,mov,call,mov,mov,call,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,call,mov,jmp,cmp,jnz,jmp,cmp,jnz,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,call,sub,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,call,sub,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,call,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,jb,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,xor,sub,mov,sub,mov,mov,jmp,cmp,jg,cmp,jnz,inc,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jz,cmp,jnz,mov,call,mov,jmp,mov,jmp,cmp,jnz,mov,jmp,add,pop,push,mov,push,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,jmp,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jnz,mov,mov,mov,lea,mov,lea,mov,call,mov,cmp,mov,jmp,cmp,jnz,mov,mov,not,cmp,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,call,sub,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,lea,mov,lea,mov,call,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,add,mov,call,sub,mov,mov,mov,add,mov,mov,mov,add,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,call,sub,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,add,mov,call,sub,mov,mov,mov,add,mov,mov,mov,add,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,add,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,add,mov,call,mov,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,add,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,add,add,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,sub,mov,jnz,mov,mov,jmp,cmp,jz,cmp,jnz,mov,jmp,mov,mov,jmp,cmp,jnz,mov,jmp,mov,add,pop,pop,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,inc,mov,mov,mov,lea,mov,mov,call,mov,jmp,add,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,jmp,mov,mov,cmp,jg,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,add,mov,mov,mov,add,mov,mov,jmp,cmp,jnz,mov,cmp,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,add,mov,call,sub,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,mov,add,mov,call,sub,mov,lea,mov,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,call,sub,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,mov,add,mov,call,sub,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,mov,lea,mov,lea,mov,mov,mov,call,sub,mov,mov,add,mov,call,mov,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,mov,mov,mov,add,add,mov,jmp,cmp,jnz,mov,mov,not,cmp,mov,jmp,add,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,add,mov,mov,mov,add,mov,add,pop,push,mov,push,push,push,sub,mov,mov,mov,mov,jmp,mov,mov,mov,mov,xor,sub,sub,mov,mov,mov,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,mov,mov,mov,shr,mov,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,mov,add,mov,mov,mov,mov,dec,mov,mov,mov,jmp,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,add,mov,mov,mov,xor,mov,add,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,xor,mov,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,add,shr,mov,mov,mov,mov,add,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,add,mov,mov,mov,xor,mov,mov,shr,neg,sub,mov,mov,mov,mov,mov,mov,add,mov,mov,jmp,cmp,jg,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,add,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,jmp,cmp,jz,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,mov,mov,mov,add,shr,mov,mov,mov,mov,add,mov,mov,mov,jmp,cmp,jnz,lea,pop,pop,pop,pop,push,mov,push,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,lea,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jnz,mov,cmp,mov,mov,jmp,cmp,jnz,mov,cmp,jle,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,shr,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,not,cmp,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,inc,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,add,mov,mov,mov,mov,call,sub,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,lea,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,not,mov,xor,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,lea,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jz,cmp,jnz,mov,jmp,mov,mov,mov,mov,add,mov,mov,mov,mov,call,sub,mov,jmp,cmp,jnz,mov,mov,jmp,mov,add,pop,pop,pop,push,mov,push,push,push,sub,mov,mov,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,sub,lea,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,mov,sub,mov,mov,mov,call,add,mov,jmp,cmp,jnz,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,sub,mov,mov,mov,call,add,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,mov,mov,add,mov,mov,sub,mov,mov,call,add,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,mov,call,mov,mov,mov,cmp,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,cmp,jb,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,neg,mov,sub,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,add,mov,mov,sub,mov,mov,call,add,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,add,mov,mov,add,mov,mov,mov,sub,mov,mov,mov,call,add,mov,mov,mov,mov,mov,lea,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,sub,mov,mov,mov,call,add,mov,jmp,cmp,jg,cmp,jnz,mov,mov,sub,mov,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,call,mov,mov,not,cmp,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,not,cmp,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,sub,mov,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,call,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,mov,call,mov,call,mov,mov,mov,mov,mov,add,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,mov,mov,call,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,inc,mov,mov,mov,jmp,cmp,jg,cmp,jnz,call,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,xor,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,add,mov,mov,sub,mov,mov,call,add,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jz,cmp,jnz,mov,mov,jnz,mov,mov,jmp,mov,mov,mov,mov,add,mov,mov,sub,mov,mov,call,add,mov,jmp,cmp,jnz,mov,jmp,mov,mov,lea,pop,pop,pop,pop,push,mov,push,push,push,mov,mov,jmp,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,call,mov,mov,mov,mov,mov,mov,mov,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jz,cmp,jz,cmp,jnz,mov,jmp,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,mov,call,mov,mov,mov,mov,mov,mov,mov,jmp,lea,pop,pop,pop,push,mov,push,mov,mov,cmp,add,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,call,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,mov,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,mov,call,mov,dec,mov,mov,call,sub,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,mov,mov,call,mov,dec,mov,mov,call,sub,mov,mov,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,jmp,mov,add,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,jmp,mov,mov,mov,mov,mov,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,jmp,cmp,jnz,jmp,cmp,jnz,jmp,cmp,jnz,mov,mov,mov,mov,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,mov,jnz,mov,mov,jmp,cmp,jz,cmp,jnz,mov,mov,mov,mov,jmp,mov,inc,mov,mov,call,sub,mov,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,call,sub,mov,mov,cmp,jnz,mov,mov,jmp,mov,add,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,sub,mov,mov,mov,mov,mov,jmp,mov,mov,mov,cmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,call,mov,mov,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,call,sub,mov,jmp,cmp,jg,cmp,jnz,mov,mov,call,sub,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,mov,dec,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,mov,dec,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,jmp,add,pop,push,mov,push,sub,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,sub,mov,mov,mov,call,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,cmp,mov,jmp,cmp,jnz,mov,call,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,call,mov,mov,mov,mov,cmp,mov,jmp,cmp,jnz,mov,mov,sub,mov,call,add,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,cmp,mov,jmp,cmp,jnz,mov,mov,sub,mov,call,add,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,jmp,lea,pop,pop,push,mov,sub,mov,mov,call,mov,mov,mov,jmp,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jz,cmp,jz,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,jmp,mov,cmp,jnz,mov,mov,jmp,mov,add,pop,push,mov,push,sub,mov,mov,call,mov,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,call,mov,neg,sub,call,neg,sub,neg,mov,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jz,cmp,jnz,mov,mov,mov,jmp,call,mov,call,mov,mov,jmp,cmp,jnz,call,mov,call,mov,mov,jmp,mov,add,pop,pop,push,mov,sub,mov,mov,mov,mov,call,sub,mov,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,call,sub,mov,mov,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,jmp,cmp,jnz,call,mov,xor,sub,sub,cmp,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,inc,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jnz,jmp,cmp,jnz,xor,sub,mov,sub,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,sub,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,add,mov,cmp,jb,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,call,sub,mov,mov,call,sub,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,mov,call,sub,mov,mov,call,sub,mov,mov,mov,jmp,cmp,jnz,mov,mov,call,sub,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,cmp,jl,mov,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,mov,call,sub,mov,mov,mov,jmp,cmp,jnz,mov,mov,call,sub,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,mov,jmp,cmp,jnz,mov,cmp,jz,mov,mov,jmp,mov,add,pop,push,mov,sub,call,mov,mov,mov,imul,add,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jnz,jmp,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,call,mov,mov,mov,jmp,cmp,jz,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,cmp,jz,mov,mov,jmp,mov,add,pop,push,mov,sub,mov,call,mov,mov,imul,mov,shr,sar,add,imul,neg,lea,mov,call,mov,mov,mov,jmp,mov,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,call,mov,mov,mov,cmp,jz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,mov,cmp,jnb,mov,mov,jmp,cmp,jnz,mov,imul,cmp,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,inc,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,jmp,mov,cmp,jle,mov,mov,jmp,cmp,jnz,mov,jmp,mov,add,pop,push,mov,push,push,push,sub,mov,mov,jmp,mov,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jnz,mov,mov,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,call,mov,mov,mov,mov,mov,jmp,cmp,jnz,call,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jz,cmp,jnz,mov,call,mov,call,mov,sub,mov,mov,mov,call,add,sub,mov,mov,mov,call,mov,jmp,call,mov,mov,mov,jmp,cmp,jnz,mov,call,mov,mov,call,mov,sub,mov,mov,mov,call,add,sub,mov,mov,mov,call,neg,sub,cmp,mov,jmp,mov,mov,lea,pop,pop,pop,pop,push,mov,push,push,sub,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,jmp,cmp,jnz,call,mov,mov,mov,mov,mov,mov,cmp,jnb,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,inc,mov,mov,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,call,mov,mov,call,mov,mov,call,mov,sub,mov,call,add,sub,mov,call,add,call,mov,mov,mov,cmp,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,jmp,cmp,jnz,mov,mov,neg,mov,sub,mov,mov,mov,jmp,cmp,jnz,mov,cmp,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,call,mov,call,mov,call,mov,sub,mov,call,add,sub,mov,call,add,call,mov,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,mov,jmp,cmp,jnz,mov,jmp,mov,mov,lea,pop,pop,pop,push,mov,sub,mov,mov,mov,call,add,pop,push,mov,push,push,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,mov,mov,mov,call,mov,mov,mov,mov,mov,lea,mov,mov,mov,call,mov,lea,lea,lea,mov,mov,jmp,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,jmp,cmp,jnz,jmp,cmp,jnz,mov,cmp,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,lea,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,add,mov,mov,mov,lea,mov,call,mov,mov,add,mov,mov,add,lea,sub,add,mov,mov,mov,lea,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,mov,mov,mov,mov,mov,mov,mov,call,mov,lea,mov,mov,sub,mov,add,mov,sub,mov,add,cmp,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,mov,mov,mov,jmp,cmp,jg,cmp,jnz,mov,jmp,cmp,jg,cmp,jnz,mov,mov,jmp,cmp,jg,cmp,jnz,cmp,mov,jmp,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jg,cmp,jz,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,mov,lea,mov,mov,jmp,cmp,jnz,mov,mov,call,mov,lea,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,mov,mov,jmp,cmp,jnz,cmp,mov,jmp,cmp,jnz,mov,add,mov,mov,mov,mov,call,mov,xor,sub,sub,mov,mov,add,lea,sub,add,mov,mov,cmp,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,call,mov,cmp,jnz,mov,mov,lea,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,call,mov,lea,mov,jmp,cmp,jnz,mov,cmp,jnz,mov,mov,jmp,cmp,jnz,mov,add,mov,mov,mov,mov,call,mov,lea,mov,add,mov,mov,add,lea,sub,add,mov,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,cmp,jz,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,add,mov,mov,mov,jmp,cmp,jnz,mov,add,mov,shl,lea,mov,call,mov,mov,jnz,mov,mov,jmp,mov,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,mov,mov,mov,mov,mov,mov,mov,call,mov,lea,mov,mov,mov,add,lea,sub,add,mov,mov,add,mov,sub,mov,add,mov,jmp,cmp,jnz,mov,mov,mov,jmp,mov,lea,pop,pop,pop,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,cmp,jg,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,jmp,mov,mov,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,mov,mov,jmp,cmp,jl,mov,jmp,mov,mov,jmp,mov,inc,add,mov,cmp,jl,nop,nop,nop,nop,nop,nop,nop,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,jmp,mov,lea,imul,cmp,jnz,xor,jz,mov,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,mov,jmp,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,inc,add,mov,mov,lea,imul,cmp,mov,xor,xor,jnz,jnz,mov,inc,add,mov,jmp,mov,lea,imul,cmp,mov,lea,imul,cmp,jnz,xor,jz,cmp,jge,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,mov,mov,mov,mov,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,mov,mov,mov,mov,jmp,mov,mov,neg,neg,mov,shl,shl,mov,add,xor,sub,mov,sub,mov,cmp,jle,mov,cmp,jnz,mov,mov,mov,mov,add,pop,push,mov,push,push,push,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,shl,dec,mov,mov,mov,mov,shl,dec,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jz,mov,lea,imul,cmp,xor,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,jnz,lea,mov,mov,mov,mov,mov,cmp,jnz,nop,nop,nop,nop,nop,nop,nop,nop,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,lea,mov,mov,mov,mov,neg,mov,mov,sub,mov,mov,mov,mov,xor,sub,sub,mov,dec,mov,lea,imul,cmp,mov,xor,jnz,jnz,mov,lea,mov,mov,mov,lea,mov,mov,mov,mov,xor,sub,mov,sub,mov,dec,jmp,mov,lea,imul,cmp,mov,mov,lea,imul,cmp,jnz,xor,jz,jz,cmp,jmp,xor,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,lea,imul,cmp,jnz,xor,jz,jnz,cmp,jg,mov,mov,mov,mov,cmp,jnz,xor,mov,jmp,mov,mov,add,mov,shl,neg,mov,sub,mov,mov,jmp,mov,mov,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,nop,inc,mov,lea,imul,cmp,mov,xor,xor,jnz,jnz,xor,sub,mov,sub,mov,jmp,mov,cmp,jb,mov,lea,imul,cmp,jnz,xor,jz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jmp,mov,shl,mov,lea,mov,mov,not,mov,not,xor,mov,mov,lea,imul,cmp,jnz,xor,jz,inc,mov,lea,imul,cmp,mov,xor,jnz,jnz,xor,sub,mov,sub,mov,jmp,cmp,jle,mov,lea,imul,cmp,jnz,xor,jz,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,mov,jmp,mov,lea,imul,cmp,jnz,xor,jz,jmp,dec,cmp,jz,mov,cmp,jmp,xor,jz,mov,lea,imul,cmp,jnz,xor,jz,mov,sub,mov,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,add,sub,add,mov,jmp,cmp,jb,xor,sub,sub,mov,mov,mov,mov,mov,mov,lea,mov,mov,mov,mov,inc,mov,cmp,jnz,mov,jmp,cmp,jz,mov,jmp,mov,mov,mov,mov,jmp,mov,add,mov,not,not,not,mov,mov,shl,add,lea,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,not,mov,not,xor,mov,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,shr,mov,imul,mov,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,shr,mov,imul,mov,jmp,cmp,jnb,mov,mov,mov,mov,mov,sub,shr,neg,sub,neg,mov,mov,mov,add,mov,xor,not,mov,shl,mov,sub,mov,shr,neg,sub,imul,lea,mov,cmp,jl,mov,sub,mov,cmp,jb,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,sub,mov,add,sub,add,mov,mov,mov,shr,sub,mov,mov,mov,lea,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,mov,shr,mov,imul,mov,cmp,jnb,mov,mov,mov,mov,sub,shr,neg,sub,neg,mov,mov,mov,mov,mov,mov,mov,xor,cmp,jl,mov,mov,mov,add,mov,jmp,mov,add,sub,add,mov,mov,sub,mov,mov,shr,add,sub,add,mov,mov,mov,lea,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,jmp,xor,sub,sub,neg,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,xor,sub,sub,neg,mov,jmp,mov,mov,mov,mov,mov,nop,nop,nop,mov,add,mov,mov,xor,mov,add,add,mov,lea,mov,cmp,ja,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,shl,mov,shl,mov,lea,mov,mov,not,mov,not,xor,mov,mov,lea,imul,cmp,jnz,xor,jnz,shl,mov,shl,mov,lea,mov,mov,jmp,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,shr,mov,imul,mov,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,shr,mov,imul,mov,jmp,cmp,jnb,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,add,sub,add,mov,mov,add,sub,add,mov,mov,mov,shr,add,sub,add,mov,mov,lea,mov,cmp,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,mov,mov,mov,sub,shr,neg,sub,mov,shl,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,mov,mov,mov,sub,shr,neg,sub,neg,mov,shl,jmp,jnz,cmp,jl,jmp,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,add,sub,add,mov,mov,add,sub,add,mov,mov,mov,shr,add,sub,add,mov,mov,mov,neg,sub,mov,sub,mov,cmp,jg,mov,add,add,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,mov,shr,mov,imul,mov,cmp,jnb,mov,mov,mov,mov,sub,shr,add,mov,shl,jmp,mov,mov,mov,lea,mov,mov,mov,mov,cmp,jnb,inc,mov,mov,mov,mov,mov,inc,mov,cmp,jnz,mov,cmp,jg,mov,jmp,cmp,jg,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,jmp,add,jmp,add,mov,lea,imul,cmp,jnz,xor,jnz,add,jmp,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,jmp,mov,shr,mov,imul,mov,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,shr,mov,imul,mov,jmp,cmp,jnb,mov,mov,mov,mov,sub,shr,neg,sub,mov,mov,shl,add,mov,lea,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,mov,shr,mov,imul,mov,cmp,jnb,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,jmp,mov,add,sub,add,mov,mov,add,sub,add,mov,mov,mov,shr,sub,mov,mov,mov,lea,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,not,mov,not,xor,mov,mov,shr,mov,imul,mov,cmp,jnb,mov,mov,mov,mov,sub,shr,neg,sub,mov,mov,mov,jmp,mov,sub,mov,add,sub,add,mov,mov,mov,shr,add,sub,add,mov,jmp,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,mov,mov,mov,sub,shr,add,mov,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,mov,mov,mov,mov,sub,shr,add,mov,jmp,jz,mov,lea,imul,cmp,xor,mov,mov,mov,lea,imul,cmp,jnz,xor,jz,cmp,jnb,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,inc,mov,lea,imul,cmp,jnz,xor,jnz,inc,jmp,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,mov,cmp,jl,mov,mov,mov,add,sub,add,mov,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,cmp,jl,mov,mov,mov,sub,mov,jmp,cmp,jb,mov,add,mov,lea,imul,cmp,jnz,xor,jz,mov,mov,mov,mov,mov,mov,mov,xor,sub,mov,sub,mov,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,mov,mov,mov,mov,mov,mov,inc,jmp,cmp,jnz,mov,mov,lea,imul,cmp,jnz,xor,jz,mov,mov,lea,mov,mov,mov,mov,mov,lea,imul,cmp,cmp,xor,xor,jnz,jnz,mov,mov,lea,mov,mov,mov,jmp,mov,add,sub,add,mov,mov,add,sub,add,mov,mov,mov,shr,add,sub,add,mov,mov,mov,lea,mov,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,mov,add,sub,add,mov,mov,sub,mov,mov,shr,add,sub,add,mov,mov,mov,lea,mov,jmp,cmp,ja,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,shl,mov,shl,mov,lea,mov,mov,not,mov,not,xor,mov,mov,lea,imul,cmp,jnz,xor,jnz,shl,mov,shl,mov,lea,mov,mov,not,mov,not,xor,mov,jmp,mov,shr,mov,imul,mov,cmp,jnb,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,jmp,mov,sub,mov,add,sub,add,mov,mov,mov,shr,add,sub,add,mov,mov,mov,mov,mov,jmp,mov,mov,mov,mov,sub,shr,neg,sub,neg,mov,mov,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,mov,mov,mov,sub,shr,neg,sub,mov,mov,mov,jmp,mov,lea,imul,cmp,jnz,xor,jz,mov,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,mov,jmp,mov,lea,imul,cmp,jnz,xor,jz,nop,mov,mov,mov,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,mov,mov,mov,jmp,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,mov,cmp,jl,mov,mov,mov,add,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,cmp,jl,mov,mov,mov,add,mov,jmp,mov,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,mov,shr,mov,imul,mov,cmp,jnb,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,jmp,mov,add,sub,add,mov,mov,sub,mov,mov,shr,add,sub,add,mov,mov,add,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,mov,shr,mov,imul,mov,cmp,jnb,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,jmp,mov,mov,mov,mov,sub,shr,add,mov,mov,mov,shl,lea,mov,mov,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,mov,mov,mov,sub,shr,neg,sub,neg,mov,mov,mov,shl,lea,mov,mov,mov,jmp,mov,mov,mov,mov,sub,shr,add,mov,mov,mov,shl,lea,mov,mov,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,mov,mov,mov,sub,shr,add,mov,mov,mov,shl,lea,mov,mov,mov,jmp,mov,add,sub,add,mov,mov,add,sub,add,mov,mov,mov,shr,add,sub,add,mov,mov,add,mov,mov,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,mov,add,sub,add,mov,mov,add,sub,add,mov,mov,mov,shr,sub,mov,mov,add,mov,mov,mov,jmp,mov,mov,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,mov,add,add,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,not,mov,not,xor,mov,mov,shr,mov,imul,mov,cmp,jnb,mov,mov,mov,mov,sub,shr,neg,sub,neg,mov,shl,jmp,mov,add,sub,add,mov,mov,sub,mov,mov,shr,sub,mov,mov,add,neg,mov,sub,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,mov,dec,mov,mov,lea,imul,cmp,jnz,xor,jnz,dec,jmp,jnz,mov,mov,shl,mov,add,sub,add,mov,add,mov,cmp,jg,add,mov,add,mov,cmp,jg,mov,lea,imul,cmp,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,shl,add,mov,mov,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,add,add,mov,cmp,ja,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,shl,mov,shl,mov,lea,mov,mov,not,mov,not,xor,mov,mov,lea,imul,cmp,jnz,xor,jnz,shl,mov,shl,mov,lea,mov,mov,jmp,mov,shr,mov,imul,mov,cmp,jnb,mov,mov,mov,mov,sub,shr,add,mov,shl,jmp,mov,mov,add,sub,add,mov,mov,add,sub,add,mov,mov,mov,shr,add,sub,add,mov,mov,mov,neg,neg,lea,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,xor,sub,not,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,dec,jmp,jnz,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,mov,add,mov,mov,lea,imul,cmp,jnz,xor,jnz,add,jmp,cmp,jl,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,mov,jmp,mov,sar,dec,mov,mov,xor,mov,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,sar,dec,mov,mov,mov,xor,mov,xor,mov,jmp,cmp,jg,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,jmp,mov,mov,shl,mov,mov,lea,mov,add,sub,add,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,mov,mov,shl,mov,add,add,mov,sub,lea,mov,jmp,add,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,add,jmp,cmp,ja,shl,mov,shl,mov,lea,mov,mov,shr,shl,mov,cmp,jb,mov,add,sub,add,mov,mov,mov,xor,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,lea,imul,cmp,jnz,xor,jz,xor,sub,cmp,not,mov,jnz,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jz,mov,add,mov,shl,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,add,mov,shl,mov,jmp,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,mov,jmp,mov,add,add,mov,cmp,ja,shl,mov,shl,mov,lea,mov,mov,not,mov,not,xor,mov,mov,shr,mov,imul,mov,cmp,jnb,mov,mov,mov,mov,sub,shr,add,mov,shl,jmp,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,nop,nop,nop,nop,mov,add,sub,add,mov,mov,add,sub,add,mov,mov,mov,shr,add,sub,add,mov,mov,lea,mov,mov,mov,mov,not,mov,not,mov,xor,not,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,sub,mov,add,sub,add,mov,mov,mov,shr,add,sub,add,mov,mov,mov,neg,sub,mov,sub,mov,mov,mov,mov,not,mov,not,mov,xor,not,mov,jmp,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,shl,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,shl,jmp,dec,jnz,inc,jz,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,add,mov,mov,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,xor,sub,mov,sub,mov,jmp,cmp,ja,mov,sub,cmp,jbe,mov,add,jmp,mov,mov,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,sub,mov,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,add,sub,add,mov,jmp,cmp,jb,mov,add,mov,mov,mov,mov,mov,mov,mov,mov,inc,mov,cmp,jnz,mov,dec,mov,mov,lea,mov,mov,mov,mov,lea,imul,cmp,mov,mov,lea,imul,cmp,jnz,xor,jz,jz,mov,cmp,jmp,xor,jnz,nop,nop,nop,nop,nop,nop,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,lea,imul,cmp,mov,xor,jnz,jz,mov,add,mov,add,sub,add,mov,mov,add,sub,add,cmp,jg,mov,add,sub,add,mov,js,mov,jmp,mov,mov,mov,mov,mov,inc,mov,cmp,jl,mov,add,mov,jmp,mov,lea,mov,mov,mov,lea,mov,mov,mov,mov,inc,xor,sub,not,mov,cmp,jz,cmp,jmp,xor,jnz,cmp,jg,cmp,jz,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,mov,lea,imul,cmp,jnz,xor,jz,mov,cmp,jb,jmp,mov,jmp,mov,jmp,mov,lea,imul,cmp,jnz,xor,jz,jmp,mov,jmp,mov,mov,lea,imul,cmp,jnz,xor,jnz,mov,jmp,cmp,ja,shl,mov,shl,mov,lea,mov,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jz,mov,add,mov,add,sub,add,mov,sub,mov,mov,lea,imul,cmp,mov,xor,jnz,xor,jnz,mov,add,mov,add,sub,add,mov,add,sub,add,mov,jmp,js,mov,jmp,inc,mov,cmp,jge,mov,lea,imul,cmp,jnz,xor,jz,nop,nop,nop,nop,nop,mov,mov,mov,mov,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,mov,mov,mov,mov,mov,jmp,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,pop,pop,pop,pop,mov,lea,imul,cmp,jnz,xor,jz,mov,mov,mov,lea,imul,cmp,cmp,xor,jnz,xor,jnz,mov,jmp,push,mov,mov,mov,pop,mov,push,push,call,mov,cmp,jnz,call,call,mov,jmp,js,cmp,jnb,mov,sar,mov,shl,mov,jz,push,call,pop,mov,jz,push,push,push,call,add,mov,jmp,call,mov,call,mov,mov,call,mov,jmp,mov,mov,push,call,pop,call,call,mov,call,call,push,call,pop,push,push,call,mov,cmp,jnz,call,call,mov,jmp,js,cmp,jnb,mov,sar,mov,shl,mov,jz,mov,cmp,sbb,inc,jnz,call,call,mov,jmp,push,call,pop,mov,jz,push,push,push,call,add,mov,jmp,call,mov,call,mov,mov,call,mov,jmp,mov,mov,push,call,pop,call,call,mov,call,call,push,mov,sub,mov,push,push,mov,push,push,pop,xor,mov,mov,mov,cmp,jnz,call,mov,call,mov,jmp,js,cmp,jnb,mov,sar,mov,mov,shl,mov,mov,mov,jz,cmp,jbe,call,mov,call,mov,jmp,jz,jnz,cmp,jnz,call,jmp,mov,add,sar,mov,dec,jz,dec,jnz,mov,not,jz,mov,mov,jmp,mov,not,jz,shr,cmp,jnb,push,pop,push,call,pop,mov,jnz,call,mov,call,mov,jmp,push,push,push,push,call,mov,add,mov,mov,mov,mov,mov,mov,mov,mov,jz,mov,cmp,jz,jz,mov,xor,lea,mov,inc,dec,cmp,mov,mov,jz,mov,mov,cmp,jz,jz,mov,mov,inc,push,dec,cmp,mov,pop,mov,jnz,mov,mov,cmp,jz,jz,push,pop,mov,mov,push,inc,pop,mov,dec,mov,push,call,mov,pop,jz,mov,jz,lea,push,push,call,mov,jz,cmp,jnz,push,lea,push,mov,shr,mov,push,push,push,call,jnz,call,push,call,pop,mov,jmp,mov,lea,mov,jmp,mov,mov,push,lea,push,push,push,push,call,jz,mov,js,cmp,ja,mov,add,mov,mov,jns,cmp,jz,jz,mov,cmp,jnz,jmp,mov,mov,mov,lea,mov,mov,cmp,jnb,push,pop,mov,mov,cmp,jz,cmp,jz,mov,inc,inc,jmp,mov,dec,cmp,jnb,lea,cmp,jnz,push,pop,add,mov,jmp,mov,inc,mov,jmp,push,lea,push,push,lea,push,mov,inc,push,call,jnz,call,jnz,cmp,jz,mov,mov,jz,push,pop,push,cmp,jnz,mov,inc,jmp,mov,mov,mov,inc,mov,jmp,cmp,jnz,push,pop,cmp,jnz,mov,inc,push,pop,cmp,jb,jmp,push,push,push,push,call,mov,add,push,pop,cmp,jz,push,pop,mov,inc,jmp,mov,push,pop,mov,inc,jmp,mov,mov,jnz,mov,jmp,mov,mov,inc,mov,mov,sub,cmp,jnz,jz,dec,mov,js,inc,jmp,xor,inc,cmp,jnz,mov,cmp,jg,cmp,jb,dec,inc,cmp,jz,mov,jnz,call,mov,jmp,inc,cmp,jnz,add,jmp,mov,mov,jz,mov,inc,mov,mov,cmp,jl,mov,mov,mov,mov,inc,cmp,jnz,mov,mov,mov,inc,sub,jmp,neg,mov,push,push,push,push,call,add,mov,mov,shr,push,push,sub,push,push,push,push,call,mov,jz,mov,xor,mov,cmp,add,mov,mov,mov,cmp,jz,push,call,pop,cmp,jz,mov,mov,jmp,cmp,jz,mov,mov,sub,sar,mov,mov,lea,cmp,jnb,push,mov,pop,cmp,jz,cmp,jz,mov,add,add,jmp,lea,cmp,jnb,push,add,pop,cmp,jz,push,pop,push,pop,mov,add,cmp,jb,jmp,mov,mov,mov,mov,sub,jmp,jz,mov,push,pop,cmp,mov,jnz,jmp,mov,mov,mov,lea,mov,mov,cmp,jnb,push,pop,mov,mov,cmp,jz,cmp,jz,mov,jmp,mov,add,cmp,jnb,push,pop,cmp,mov,jnz,push,pop,add,mov,jmp,mov,add,add,jmp,push,lea,push,push,lea,push,mov,add,push,call,jnz,call,jnz,cmp,jz,mov,mov,jz,push,pop,push,cmp,jnz,mov,add,jmp,pop,mov,mov,mov,mov,mov,mov,mov,mov,push,pop,add,mov,push,pop,cmp,jb,jmp,cmp,jnz,push,pop,cmp,jnz,mov,add,jmp,push,push,push,push,call,mov,add,push,pop,cmp,jz,push,pop,mov,add,jmp,mov,push,pop,mov,add,jmp,mov,mov,jnz,mov,jmp,mov,mov,add,mov,mov,sub,jmp,call,push,pop,cmp,jnz,call,mov,call,mov,jmp,cmp,jnz,xor,jmp,xor,jmp,call,mov,call,mov,call,pop,pop,pop,push,push,call,mov,cmp,jnz,call,call,mov,jmp,js,cmp,jnb,mov,sar,mov,shl,mov,jz,push,call,pop,mov,jz,push,call,pop,mov,jmp,call,mov,mov,mov,call,mov,jmp,mov,mov,push,call,pop,call,call,mov,call,call,mov,push,mov,push,mov,push,push,call,pop,mov,mov,jnz,call,mov,jmp,jz,call,mov,jmp,push,xor,jz,mov,jz,mov,mov,mov,mov,mov,mov,jnz,call,add,cmp,jz,call,add,cmp,jnz,push,call,pop,jnz,push,call,pop,jz,mov,mov,lea,mov,mov,sub,dec,mov,mov,jle,push,push,push,call,add,mov,jmp,mov,jmp,cmp,jz,cmp,jz,mov,mov,sar,shl,add,jmp,mov,jz,push,push,push,push,call,add,cmp,jz,mov,mov,mov,jmp,xor,inc,push,mov,lea,push,push,call,add,mov,cmp,jz,jmp,pop,pop,pop,pop,push,call,pop,xor,push,mov,mov,mov,pop,push,push,mov,mov,jmp,mov,jz,call,add,cmp,jb,pop,pop,push,push,mov,mov,jmp,mov,jz,call,add,cmp,jb,pop,pop,push,mov,mov,mov,pop,push,push,call,mov,push,call,pop,jnz,jmp,push,call,pop,xor,mov,cmp,jge,mov,jz,mov,mov,add,cmp,jnb,jnz,cmp,jnz,push,call,pop,mov,cmp,jnz,push,lea,push,call,inc,call,mov,jnz,lea,push,call,jz,lea,push,call,add,jmp,mov,mov,mov,push,call,pop,mov,jnz,mov,mov,sub,sar,mov,shl,add,mov,cmp,jnz,inc,jmp,push,push,call,pop,pop,mov,mov,jz,mov,add,mov,add,cmp,jnb,mov,add,mov,jmp,mov,shl,mov,mov,sar,mov,shl,mov,mov,push,call,pop,jnz,mov,mov,call,mov,call,mov,push,call,pop,push,push,call,mov,cmp,jnz,call,mov,jmp,js,cmp,jnb,mov,sar,mov,mov,shl,mov,jz,push,call,pop,xor,mov,mov,mov,jz,push,call,pop,push,call,jnz,call,mov,mov,jz,call,mov,call,mov,mov,mov,call,mov,jmp,mov,mov,push,call,pop,call,mov,call,call,push,push,call,mov,cmp,jnz,call,call,mov,jmp,js,cmp,jnb,mov,sar,mov,shl,mov,jz,push,call,pop,mov,jz,push,push,push,call,add,mov,jmp,call,mov,call,mov,mov,call,mov,jmp,mov,mov,push,call,pop,call,call,mov,call,call,push,mov,mov,call,mov,xor,mov,mov,mov,xor,push,mov,mov,mov,mov,mov,cmp,jnz,xor,jmp,jnz,call,call,mov,call,jmp,push,push,mov,sar,mov,shl,mov,mov,mov,mov,add,sar,cmp,jz,cmp,jnz,mov,not,jnz,call,call,mov,call,jmp,mov,jz,push,push,push,push,call,add,push,call,pop,jz,mov,mov,jz,call,mov,xor,cmp,lea,push,mov,mov,push,mov,call,jz,cmp,jz,jz,call,mov,mov,mov,mov,cmp,jbe,xor,mov,mov,jnz,mov,xor,cmp,mov,mov,mov,cmp,jz,mov,mov,push,lea,mov,push,jmp,push,call,pop,jz,mov,mov,sub,add,cmp,jbe,push,push,lea,push,call,add,cmp,jz,mov,inc,inc,jmp,push,push,lea,push,call,add,cmp,jz,mov,xor,push,push,inc,inc,push,mov,lea,push,push,lea,push,push,push,call,mov,jz,push,lea,push,push,lea,push,mov,mov,push,call,jz,mov,mov,add,cmp,jl,cmp,jz,push,lea,push,push,lea,push,mov,mov,mov,push,call,jz,cmp,jl,inc,inc,jmp,cmp,jz,cmp,jnz,xor,cmp,mov,mov,add,add,mov,mov,mov,cmp,jz,cmp,jnz,push,call,pop,cmp,jnz,add,cmp,jz,push,pop,push,mov,call,pop,cmp,jnz,inc,inc,mov,mov,cmp,jb,jmp,mov,mov,mov,inc,mov,mov,mov,mov,jmp,mov,jmp,mov,mov,jz,mov,xor,mov,jnz,mov,mov,cmp,jbe,xor,sub,mov,lea,mov,cmp,jnb,mov,inc,inc,mov,cmp,mov,mov,jnz,inc,mov,inc,inc,mov,mov,mov,inc,inc,mov,cmp,jb,mov,lea,sub,push,lea,push,push,lea,push,mov,mov,push,call,jz,add,mov,cmp,jl,mov,sub,cmp,mov,jb,jmp,mov,cmp,jnz,mov,cmp,jbe,mov,mov,mov,sub,mov,lea,cmp,jnb,add,add,mov,cmp,jnz,push,pop,mov,mov,add,add,add,mov,add,add,cmp,jb,mov,lea,sub,push,lea,push,push,lea,push,mov,mov,mov,push,call,mov,mov,jz,add,mov,mov,cmp,jl,mov,mov,sub,cmp,jb,jmp,mov,mov,jz,mov,mov,sub,mov,lea,cmp,jnb,add,add,mov,cmp,jnz,push,pop,mov,mov,add,add,mov,add,add,cmp,jb,xor,push,push,push,lea,push,lea,sub,sub,sar,push,mov,push,push,push,call,mov,mov,mov,jz,xor,mov,push,sub,lea,push,push,lea,add,mov,push,mov,mov,push,call,jz,mov,add,mov,mov,cmp,jg,jmp,call,mov,mov,mov,mov,cmp,jg,mov,mov,mov,sub,mov,cmp,jb,jmp,push,lea,push,push,push,push,call,jz,mov,xor,jmp,call,mov,mov,jnz,jz,push,pop,cmp,jnz,call,mov,call,mov,jmp,push,call,pop,jmp,mov,mov,mov,jz,cmp,jnz,xor,jmp,call,mov,call,jmp,sub,mov,pop,pop,mov,xor,pop,call,push,push,call,xor,mov,jnz,call,push,pop,mov,call,mov,jmp,xor,cmp,jz,cmp,jz,mov,neg,sbb,inc,jz,push,push,push,push,push,push,lea,push,call,add,mov,mov,mov,call,jz,mov,call,mov,mov,cmp,jz,jz,mov,mov,sar,shl,mov,push,call,pop,push,mov,sub,push,xor,push,mov,mov,mov,mov,jz,mov,mov,jmp,mov,mov,lea,push,call,pop,jnz,mov,mov,jnz,jnz,cmp,jz,mov,mov,sub,jz,dec,jz,dec,jz,call,mov,mov,call,push,pop,mov,call,mov,jmp,mov,jmp,jz,jz,mov,mov,jmp,mov,jmp,mov,mov,mov,push,push,pop,push,pop,mov,sub,jz,sub,jz,sub,jz,sub,jz,sub,jnz,cmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,mov,mov,cmp,jg,jz,jz,cmp,jz,cmp,jz,cmp,jnz,mov,jmp,push,jmp,push,pop,jmp,cmp,jz,cmp,jz,cmp,jz,call,mov,mov,call,push,pop,mov,call,jmp,push,jmp,xor,inc,mov,mov,mov,mov,jz,mov,not,mov,js,xor,inc,mov,jz,mov,mov,mov,jz,mov,jz,mov,jz,jmp,jz,mov,call,mov,mov,cmp,jnz,call,mov,call,mov,call,mov,pop,pop,pop,push,mov,push,mov,push,lea,push,push,push,push,call,add,mov,cmp,jnz,mov,mov,mov,cmp,jnz,jz,push,lea,push,push,push,push,mov,push,push,call,add,mov,cmp,jnz,mov,mov,sar,mov,shl,call,push,call,pop,call,mov,jmp,push,call,jnz,mov,mov,sar,mov,shl,call,mov,push,call,pop,push,call,jnz,call,mov,jmp,cmp,jnz,jmp,cmp,jnz,push,push,call,mov,pop,pop,mov,mov,sar,mov,shl,mov,mov,mov,sar,mov,shl,mov,mov,mov,mov,jnz,jns,jz,push,push,push,push,call,mov,add,mov,mov,cmp,jnz,call,cmp,jz,push,call,jmp,push,lea,push,push,mov,call,add,jnz,cmp,jnz,push,push,push,call,add,cmp,jz,push,push,push,push,call,add,cmp,jz,mov,mov,jns,jnz,mov,jnz,jmp,mov,mov,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jnz,mov,jmp,mov,cmp,jnz,mov,jmp,mov,jz,mov,jnz,mov,mov,cmp,jz,cmp,jz,cmp,jnz,jz,push,pop,cmp,jbe,cmp,jbe,cmp,jz,jmp,push,push,push,push,call,add,jz,push,push,push,push,call,add,cmp,jz,push,lea,push,push,call,add,cmp,jz,mov,push,pop,cmp,jz,cmp,jnz,cmp,jnz,mov,jmp,cmp,jnz,push,call,pop,call,push,pop,mov,jmp,cmp,jnz,push,push,push,push,call,add,cmp,jz,mov,jmp,jz,push,pop,cmp,jbe,cmp,ja,push,push,push,push,call,add,jz,push,push,push,push,call,add,cmp,jnz,jmp,push,pop,mov,dec,jz,dec,jnz,mov,jmp,push,pop,mov,mov,mov,sub,push,lea,add,push,push,call,add,cmp,jz,mov,add,cmp,jg,mov,mov,sar,mov,shl,mov,xor,xor,mov,mov,mov,sar,mov,shl,shr,mov,shl,mov,mov,cmp,jnz,jz,mov,mov,sar,mov,shl,mov,mov,mov,mov,cmp,jnz,jz,push,call,push,lea,push,push,push,push,push,push,call,add,cmp,jnz,call,push,call,mov,mov,sar,mov,shl,push,call,pop,jmp,mov,mov,sar,mov,shl,mov,mov,jmp,push,push,push,push,push,call,push,mov,push,push,push,push,push,push,call,add,pop,jmp,push,mov,sub,mov,xor,mov,mov,push,xor,push,mov,push,mov,push,mov,mov,lea,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,call,mov,jz,jnz,push,call,pop,mov,mov,cmp,jz,cmp,jz,mov,mov,sar,shl,add,jmp,mov,jnz,cmp,jz,cmp,jz,mov,sar,shl,add,jmp,mov,jnz,mov,jz,xor,mov,mov,mov,mov,mov,mov,mov,mov,jz,mov,inc,mov,js,lea,cmp,ja,jmp,xor,mov,imul,mov,shr,mov,mov,mov,cmp,jz,cmp,ja,jmp,xor,mov,mov,mov,mov,mov,mov,mov,jmp,sub,jz,sub,jz,sub,jz,dec,dec,jz,sub,jnz,jmp,jmp,jmp,jmp,mov,jmp,cmp,jnz,mov,add,mov,mov,jns,neg,mov,mov,jmp,mov,imul,mov,mov,add,add,mov,jmp,xor,mov,jmp,cmp,jnz,mov,add,mov,mov,jns,jmp,mov,imul,add,add,mov,jmp,cmp,jz,cmp,jz,cmp,jz,cmp,jnz,jmp,cmp,jnz,inc,jmp,jmp,jmp,mov,cmp,jnz,cmp,jnz,add,jmp,cmp,jnz,cmp,jnz,add,jmp,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,cmp,jz,xor,mov,jmp,xor,mov,lea,push,push,call,pop,pop,jz,lea,push,push,push,call,mov,add,mov,inc,mov,mov,jz,lea,push,push,push,call,add,jmp,cmp,jg,jz,cmp,jg,jz,sub,jz,dec,dec,jz,dec,dec,jz,dec,dec,jnz,add,mov,mov,mov,mov,mov,lea,mov,jns,mov,jmp,jnz,mov,jmp,jnz,mov,mov,mov,cmp,jz,mov,mov,add,mov,jz,jnz,mov,mov,mov,jz,xor,dec,cmp,jz,add,jnz,sub,sar,jmp,sub,jz,dec,dec,jz,sub,jz,dec,dec,jnz,add,mov,jz,push,push,lea,push,lea,push,call,add,jz,mov,jmp,mov,mov,mov,lea,jmp,mov,add,mov,jz,mov,jz,jz,sub,sar,mov,jmp,xor,mov,jmp,mov,push,call,pop,jmp,cmp,jg,jz,cmp,jl,cmp,jle,cmp,jz,cmp,jz,cmp,jnz,mov,jns,mov,jmp,add,mov,mov,call,jz,mov,jz,mov,jmp,mov,mov,jmp,mov,mov,jnz,jz,mov,add,mov,mov,xor,jmp,jnz,cmp,jnz,mov,jmp,cmp,jle,mov,mov,cmp,jle,lea,push,call,pop,mov,mov,jz,mov,mov,jmp,mov,mov,mov,add,mov,mov,mov,lea,push,push,push,mov,push,push,lea,push,push,push,call,call,mov,add,jz,cmp,jnz,lea,push,push,push,call,call,pop,pop,cmp,jnz,jnz,lea,push,push,push,call,call,pop,pop,cmp,jnz,mov,inc,jmp,mov,push,jmp,sub,jz,dec,dec,jz,sub,jnz,push,pop,mov,mov,jns,add,mov,mov,mov,jmp,add,xor,mov,jz,jz,jmp,jmp,jz,mov,mov,mov,jmp,mov,mov,jz,cmp,jg,jl,cmp,jnb,neg,adc,neg,mov,jnz,mov,mov,jns,xor,inc,jmp,mov,mov,cmp,jle,mov,mov,jnz,mov,lea,mov,dec,mov,jg,mov,jz,mov,push,push,push,push,call,add,mov,mov,mov,cmp,jle,add,mov,mov,mov,dec,jmp,mov,lea,sub,inc,mov,jz,jz,cmp,jz,dec,inc,mov,jmp,jnz,mov,mov,jmp,dec,cmp,jz,inc,jnz,sub,mov,cmp,jnz,jz,jz,mov,jmp,jz,mov,jmp,jz,mov,mov,mov,sub,mov,sub,jnz,lea,push,push,push,push,call,mov,add,push,lea,push,push,push,lea,push,call,add,jz,jnz,lea,push,push,push,push,call,add,cmp,mov,jz,jle,mov,dec,mov,push,push,lea,push,lea,add,push,mov,call,add,jnz,cmp,jz,push,lea,push,push,lea,push,push,call,mov,mov,add,jnz,jmp,mov,jmp,push,lea,push,push,push,push,call,add,mov,js,jz,lea,push,push,push,push,call,add,mov,jz,push,call,xor,pop,mov,mov,mov,mov,mov,mov,mov,jnz,mov,jz,cmp,jz,call,mov,call,cmp,pop,pop,pop,jz,mov,mov,xor,call,push,mov,mov,mov,pop,push,mov,mov,mov,pop,push,call,push,mov,sub,mov,xor,mov,mov,push,mov,push,push,mov,mov,xor,push,mov,call,mov,mov,call,mov,cmp,jnz,push,push,push,call,mov,jnz,call,cmp,jnz,push,call,mov,jz,push,push,call,jz,push,call,push,push,mov,call,push,call,push,push,mov,call,push,call,push,push,mov,call,push,call,mov,jz,push,push,call,push,call,mov,mov,call,jz,mov,jz,push,call,cmp,jz,push,pop,jmp,cmp,jz,push,call,push,jmp,mov,mov,cmp,jz,cmp,jz,push,call,push,mov,call,mov,mov,jz,jz,call,jz,lea,push,push,lea,push,push,push,call,jz,jnz,mov,jmp,mov,cmp,jz,push,call,jz,call,mov,jz,mov,cmp,jz,push,call,jz,push,call,mov,mov,push,call,jz,push,push,push,push,call,jmp,xor,mov,pop,pop,xor,pop,call,push,mov,mov,jnz,call,mov,call,push,pop,pop,mov,mov,xor,pop,pop,mov,cmp,jz,cmp,jz,push,call,mov,mov,mov,jnz,mov,mul",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "511df9246d35ddee1ccd471909b9391a"
+			},
+			{
+				"section": ".rdata",
+				"md5": "541a0c85540542d5463c7be254071a35"
+			},
+			{
+				"section": ".data",
+				"md5": "616ab4b1bdb0abb27cc2aca473ba469c"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "e6535996e13399d30f76a599086a7684"
+			},
+			{
+				"section": ".reloc",
+				"md5": "78199fc68ac1289cd3a7b0b2fe647cd3"
+			},
+			{
+				"section": ".pc",
+				"md5": "0c61510f17e8eb2ec2bc32ea8b2d0413"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "c854670cce0e174fb4c537c8afa02ed3",
+		"SHA1": "570897fa59e5aaba8c22235aade5c9e7672977c5",
+		"SHA256": "00000ce38a2c854c26ddb25dd1e7795877ba9418e5d4f89ae1c6d910aed016f0",
+		"EntryPoint": "4113b5",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 722288,
+		"Original FileName": "Uploading.exe",
+		"Entropy": 7.864,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2013-12-09 20:51:25(2013-12-09 11:51:25 UTC)",
+		"Import Hash": "0634bd1532e7359370a4b6ffcd27ffbf",
+		"Section Info": [
+			".text:0x1000:0x1a000:0x400:0x19a00:6.75398345707",
+			".rdata:0x1b000:0x5000:0x19e00:0x4e00:4.65324501666",
+			".data:0x20000:0x4000:0x1ec00:0x1000:2.19605483955",
+			".rsrc:0x24000:0x3000:0x1fc00:0x2a00:4.51923088518",
+			".reloc:0x27000:0x2000:0x22600:0x1800:5.48186493691",
+			".pc:0x29000:0x8c000:0x23e00:0x8b600:7.99955929413"
+		],
+		"Resource": [
+			"TYPELIB:0x24240:0x8c8:data:English:United States",
+			"RT_ICON:0x24b08:0x2e8:dBase IV DBT of @.DBF, block length 512, next free block index 40, next free block 943933255, next used block 3593607048:English:United States",
+			"RT_ICON:0x24df0:0x128:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_ICON:0x24f18:0xea8:data:English:United States",
+			"RT_GROUP_ICON:0x25dc0:0x30:data:English:United States",
+			"RT_VERSION:0x25df0:0x6dc:data:English:United States",
+			"RT_HTML:0x264cc:0x104:HTML document, UTF-8 Unicode (with BOM) text, with CRLF line terminators:English:United States",
+			"RT_MANIFEST:0x265d0:0x2c5:ASCII text, with CRLF line terminators:English:United States"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}\\Programmable"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}\\LocalServer32"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}\\TypeLib"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}\\Version"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}\\1.0"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}\\1.0\\FLAGS"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}\\1.0\\0"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}\\1.0\\0\\win32"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}\\1.0\\HELPDIR"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\ProxyStubClsid32"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\TypeLib"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\ProxyStubClsid32"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\TypeLib"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\WebApp"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\WebApp\\Styles"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}\\LocalServer32",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}\\LocalServer32",
+				"name": "ServerExecutable"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}\\TypeLib",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Wow6432Node\\CLSID\\{F28C2F70-47DE-4EA5-8F6D-7D1476CD1EF5}\\Version",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}\\1.0",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}\\1.0\\FLAGS",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}\\1.0\\0\\win32",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\TypeLib\\{157B1AA6-3E5C-404A-9118-C1D91F537040}\\1.0\\HELPDIR",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\ProxyStubClsid32",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\TypeLib",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\TypeLib",
+				"name": "Version"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\ProxyStubClsid32",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\TypeLib",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{3B3F3AAD-FB97-49FF-BFEE-D22869AC4326}\\TypeLib",
+				"name": "Version"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\WebApp\\Styles",
+				"name": "MaxScriptStatements"
+			}
+		],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\d4lcWtHgkl.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8\\images"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8\\images\\progressbar.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8\\images\\loader.gif"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\9NGRGH2P\\SCREEN0[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8\\steps"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8\\steps\\1.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8\\steps\\2.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8\\steps\\3.ini"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8\\images\\progressbar.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\s2h8\\images\\loader.gif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\9NGRGH2P\\SCREEN0[1]"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\d4lcWtHgkl.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\ieframe.dll"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\stdole2.tlb"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://repository.certum.pl/ctnca.cer0:",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://c1.sunusadirall.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r1.sunusadirall.org/=kr",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.certum.pl/csca.crl0h",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://s1.getapplicationmy.info",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://uploading.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.certum.pl/ctnca.crl0k",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r2.sunusadirall.org/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://repository.certum.pl/csca.cer0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://s2.getapplicationmy.info",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://i1.nicedataget.comv$A",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://uploading.com/cdb6b",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r2.sunusadirall.org/ingiu",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r2.sunusadirall.orgQ$A",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://c1.sunusadirall.org/?step_id=2&installer_id=7521559669945939842&publisher_id=512&source_id=0&",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://i2.nicedataget.coms$A",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://csca.ocsp.certum.pl00",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://c2.sunusadirall.org/?step_id=1&installer_id=7521559669945939842&publisher_id=512&source_id=0&",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.certum.pl/CPS0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r2.sunusadirall.org/Ukr",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://windowsmedia.com/redir/services.asp?WMPFriendly=true",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://c2.sunusadirall.org/?step_id=2&installer_id=7521559669945939842&publisher_id=512&source_id=0&",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r1.sunusadirall.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://c2.sunusadirall.orge$A",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://c1.sunusadirall.org/?step_id=1&installer_id=7521559669945939842&publisher_id=512&source_id=0&",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.certum.pl/repository.0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r1.sunusadirall.org/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://s1.getapplicationmy.info_$A",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://%d.%d.%d.%d:%dmini::CDownloadJob::DetectProxyUsage:",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r2.sunusadirall.org/.logx",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://uploading.com/cdb6b9bb/Campgrounds-rar?rundownloaderrun",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r2.sunusadirall.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://uploading.com/round",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://c1.sunusadirall.orgh$A",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r1.sunusadirall.orgb$A",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://uploading.com/cdb6b9bb/Campgrounds-rar?rundo",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://subca.ocsp-certum.com01",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://i2.nicedataget.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://c2.sunusadirall.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.%s.comPA",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r1.sunusadirall.org/Mkr",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://uploading.com/cdb6b9bb/Campgrounds-rar?rundownloaderrun)C",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://i1.nicedataget.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r1.sunusadirall.org/P",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.w.org/1999/02/22-rdf-syntax-ns#",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://r2.sunusadirall.org/-kr",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.21",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "Oleh  Aleksyuk",
+		"Digitally signed S/N": "3F42151CCAD6E8C610946EE44021DAF5",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "HttpOpenRequestW_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_unknown_unknown_unknown_RtlAllocateHeap_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_unknown_unknown_CreateFileA_unknown_RtlAllocateHeap_RtlAllocateHeap_RtlReAllocateHeap_RtlReAllocateHeap_RtlAllocateHeap_CreateFileW_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_unknown_RtlUserThreadStart_RtlUserThreadStart_unknown_RtlReAllocateHeap_RtlAllocateHeap_RtlUserThreadStart_RtlUserThreadStart_unknown_unknown_CreateFileA_RtlAllocateHeap_RtlAllocateHeap_ShowWindow_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_RtlUserThreadStart_SystemTimeToTzSpecificLocalTime_RtlAllocateHeap_RtlAllocateHeap_RtlAllocateHeap_RtlUserThreadStart_Sleep_DispatchMessageW_RtlUserThreadStart_Sleep_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_FreeLibrary_FreeLibrary_Sleep_unknown_RtlExitUserThread_RtlExitUserThread_RtlExitUserThread_RtlExitUserThread_RtlUserThreadStart_RtlUserThreadStart_RtlExitUserThread_RtlExitUserThread_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlExitUserThread_RtlDecodePointer_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1546.011",
+		"ATT&CK(Privilege Escalation)": "T1546.011",
+		"ATT&CK(Defense Evasion)": "T1497,T1140,T1027,T1027.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1518.001,T1497,T1018,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560,T1115",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573,T1105"
+	}
+}

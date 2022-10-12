@@ -1,0 +1,220 @@
+{
+	"md5": "46ec231c504bbb8e7b38df7c3e9ecf38",
+	"data": {
+		"String": [
+			{
+				"string": ".text$mn$00",
+				"type": "C-Style"
+			},
+			{
+				"string": ".text$x",
+				"type": "C-Style"
+			},
+			{
+				"string": ".00cfg",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XCA",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XCAA",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XCZ",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XIA",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XIAA",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XIAC",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XIZ",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XPA",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XPZ",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XTA",
+				"type": "C-Style"
+			},
+			{
+				"string": ".CRT$XTZ",
+				"type": "C-Style"
+			},
+			{
+				"string": ".rdata$CastGuardVftablesA",
+				"type": "C-Style"
+			},
+			{
+				"string": ".rdata$CastGuardVftablesC",
+				"type": "C-Style"
+			},
+			{
+				"string": "python39.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "VCRUNTIME140.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "api-ms-win-crt-runtime-l1-1-0.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "api-ms-win-crt-math-l1-1-0.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "api-ms-win-crt-stdio-l1-1-0.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "api-ms-win-crt-locale-l1-1-0.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "api-ms-win-crt-heap-l1-1-0.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ns1&n|A3Mvr7P.",
+				"type": "C-Style"
+			},
+			{
+				"string": "\"t1%`jO3Suu6T:",
+				"type": "C-Style"
+			},
+			{
+				"string": "o% onoo%,onoo%(onoo%$onoo%tonox",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "",
+		"PDB path": "C:\\A\\34\\b\\bin\\amd64\\python.pdb",
+		"full Fuzzyhash": "12288:B7ewFE/yMRq2JnFCu+gnrZq3IH7nN/cwAyEhpjOKTQqUCRJaP747G:B7eeZsou+ArgqaDNJTSC27L",
+		"section Fuzzyhash(.data)": "3:f3DwsvlllWl2l:f3Vh",
+		"rich header": "44616e53000000000000000000000000097893000a000000be71010102000000be71050111000000be7104010a000000be7103010300000097720101030000005b68010102000000000001003200000097720d01010000009772ff00010000009772020101000000",
+		"PE Image": "binary_46ec231c504bbb8e7b38df7c3e9ecf38.jpg",
+		"bytecode": "binary_46ec231c504bbb8e7b38df7c3e9ecf38.byte",
+		"opcode": "jmp,push,sub,mov,call,call,mov,call,call,mov,call,mov,mov,call,jz,call,lea,call,call,mov,call,jnz,call,call,jz,lea,call,call,call,call,mov,call,call,jz,call,call,call,jnz,add,pop,mov,call,sub,call,xor,add,sub,call,call,mov,add,jmp,sub,call,add,jmp,mov,mov,push,sub,mov,call,jz,xor,mov,call,mov,mov,cmp,jz,jnz,mov,lea,lea,call,jz,mov,jmp,lea,lea,call,mov,jmp,mov,mov,mov,call,call,mov,cmp,jz,mov,call,jz,xor,lea,xor,mov,call,call,mov,cmp,jz,mov,call,jz,mov,call,call,mov,call,mov,call,mov,mov,mov,call,mov,call,jz,jnz,call,xor,mov,call,mov,jmp,mov,call,jz,cmp,jnz,call,mov,mov,mov,add,pop,mov,call,nop,mov,call,mov,call,mov,call,sub,call,mov,add,jmp,mov,push,sub,call,mov,call,mov,call,mov,mov,mov,mov,add,pop,jmp,mov,jmp,push,sub,call,mov,call,mov,add,pop,sub,call,mov,add,jmp,nop,push,mov,push,dec,push,push,push,push,push,sub,mov,mov,mov,sub,mov,xor,mov,idiv,mov,mov,add,mov,mov,mov,mov,sub,xor,mov,mov,mov,mov,mov,mov,mov,imul,mov,mov,mov,add,mov,mov,add,sub,mov,mov,mov,add,mov,add,mov,mov,sub,mov,mov,sub,mov,mov,mov,add,idiv,mov,mov,imul,mov,mov,add,mov,add,cmp,jb,jmp,mov,mov,mov,mov,add,xor,mov,mov,mov,mov,lea,jmp,mov,mov,lea,mov,mov,add,mov,add,mov,mov,idiv,mov,cmp,jge,mov,mov,sub,mov,mov,lea,mov,mov,mov,mov,add,sub,mov,mov,mov,mov,mov,add,sub,sub,mov,mov,mov,mov,cmp,jg,mov,add,add,mov,mov,mov,mov,mov,mov,mov,sub,mov,mov,cmp,jz,mov,mov,mov,mov,mov,mov,lea,jmp,mov,add,mov,mov,add,mov,mov,mov,mov,mov,mov,mov,imul,mov,mov,sub,mov,mov,mov,add,mov,mov,mov,sub,mov,mov,mov,lea,mov,add,mov,mov,mov,mov,mov,lea,sar,mov,mov,add,sub,mov,cmp,jz,mov,mov,sub,shl,mov,mov,mov,add,sar,mov,mov,sub,mov,mov,mov,add,sub,cmp,jz,mov,mov,add,sub,cmp,jz,mov,mov,mov,mov,idiv,mov,add,mov,mov,mov,add,cmp,jnz,mov,add,mov,add,mov,mov,sub,shl,cwde,add,sub,shl,mov,add,mov,mov,mov,add,sub,shl,mov,cmp,jbe,jmp,mov,mov,add,sub,shl,mov,add,mov,mov,cmp,jnb,mov,add,sub,shl,mov,mov,add,sub,cmp,jnz,add,pop,pop,pop,pop,pop,pop,mov,add,push,sub,call,jz,lea,add,jmp,call,jnz,call,add,sub,xor,call,add,jmp,push,sub,mov,mov,call,call,jnz,xor,jmp,call,jnz,xor,call,jmp,mov,add,pop,push,sub,cmp,mov,jnz,cmp,ja,call,jz,jnz,lea,call,jnz,lea,call,jz,xor,jmp,mov,mov,mov,mov,add,pop,mov,call,sub,mov,mov,cmp,jnz,lea,add,cmp,jnz,mov,cmp,jnz,sub,lea,add,lea,lea,mov,cmp,jz,mov,cmp,jb,mov,add,cmp,jb,add,jmp,xor,jnz,xor,jmp,cmp,jge,xor,jmp,mov,jmp,xor,jmp,xor,add,push,sub,mov,call,xor,jz,jnz,xchg,add,pop,push,sub,cmp,mov,jz,jnz,call,mov,call,mov,add,pop,push,sub,cmp,mov,jnz,call,jmp,mov,lea,call,xor,mov,add,pop,cmp,jz,mov,lea,jmp,sub,call,neg,sbb,neg,dec,add,push,mov,sub,lea,call,mov,mov,call,mov,xor,call,mov,lea,xor,call,mov,lea,shl,xor,xor,xor,mov,add,pop,mov,push,mov,sub,mov,mov,cmp,jnz,lea,call,mov,mov,call,mov,xor,call,mov,lea,xor,call,mov,lea,shl,xor,xor,xor,mov,mov,cmp,mov,mov,not,mov,add,pop,xor,mov,xor,mov,xor,xor,lea,jmp,lea,jmp,mov,lea,lea,sub,call,call,add,xor,cmp,lea,lea,mov,push,lea,sub,mov,mov,call,jz,mov,int,mov,call,xor,lea,mov,call,lea,call,mov,lea,mov,xor,call,jz,lea,mov,mov,mov,mov,lea,mov,lea,mov,xor,call,mov,lea,mov,xor,lea,mov,add,mov,call,mov,mov,mov,mov,call,cmp,lea,mov,lea,mov,xor,call,lea,call,jnz,jnz,lea,call,mov,add,pop,sub,xor,lea,lea,call,lea,call,mov,add,jmp,xor,sub,xor,call,jz,mov,cmp,jnz,add,cmp,jnz,mov,cmp,jnz,cmp,jbe,cmp,jz,mov,jmp,xor,add,lea,jmp,xor,mov,push,sub,mov,mov,cmp,jnz,cmp,jnz,mov,lea,cmp,jbe,cmp,jz,mov,xor,add,pop,call,mov,mov,call,mov,call,mov,push,sub,lea,lea,jmp,mov,jz,call,add,cmp,jb,mov,add,pop,mov,push,sub,lea,lea,jmp,mov,jz,call,add,cmp,jb,mov,add,pop,mov,mov,lea,lea,sub,sub,cmp,ja,int,lea,lea,sub,sub,cmp,ja,mov,int,sub,lea,mov,lea,sub,sub,cmp,ja,mov,jz,mov,call,add,lea,sub,lea,sub,xor,cmp,mov,sub,lea,sub,add,cmp,jbe,lea,lea,sub,sub,cmp,ja,int,mov,sub,lea,sub,add,cmp,jbe,lea,lea,sub,sub,cmp,ja,mov,int,sub,mov,sub,lea,sub,add,cmp,jbe,lea,mov,lea,sub,sub,cmp,ja,mov,jz,mov,call,add,sub,lea,sub,xor,add,cmp,mov,lea,xor,cmp,xor,mov,mov,push,sub,xor,xor,mov,xor,mov,xor,xor,mov,mov,xor,lea,xor,mov,mov,mov,mov,mov,jnz,cmp,jz,cmp,jz,cmp,jz,add,cmp,ja,mov,jnb,mov,mov,jmp,mov,mov,lea,cmp,jl,xor,mov,mov,mov,mov,mov,jnb,mov,mov,mov,jnb,mov,mov,mov,jnb,jnb,xor,shl,mov,mov,cmp,jnz,mov,mov,mov,jz,mov,mov,mov,cmp,jnz,mov,cmp,jnz,mov,mov,xor,mov,add,pop,xor,cmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,mov,mov,mov,mov,mov,xor,jmp,push,sub,mov,mov,mov,mov,call,nop,add,pop,push,mov,mov,xor,cmp,mov,pop",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "9bdc86db52867acf72d897458a0714d2"
+			},
+			{
+				"section": ".rdata",
+				"md5": "341c716c06b091494f35578801b16e0e"
+			},
+			{
+				"section": ".data",
+				"md5": "df472dc55d3b30057eb5fc703f6e33fa"
+			},
+			{
+				"section": ".pdata",
+				"md5": "71a9ac2bf86d766083ee862343cc3a8c"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "2125f8fc2feb8fefdba3588b1a326f55"
+			},
+			{
+				"section": ".reloc",
+				"md5": "7fee1860feed42b89daf19ce1a563117"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "46ec231c504bbb8e7b38df7c3e9ecf38",
+		"SHA1": "60c63249b6b90a6c2fe3b6c88827ab1ea6838868",
+		"SHA256": "00076b8e20072da11a916e2db287ec957f4b7d96b5bb99e9b26f1365b4fc2067",
+		"EntryPoint": "140001358",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "140000000",
+		"FileSize": 687616,
+		"Original FileName": "python.exe",
+		"Entropy": 7.279,
+		"Subsystem": "windows cui",
+		"Image File Characteristics": "EXECUTABLE_IMAGE, LARGE_ADDRESS_AWARE, RELOCS_STRIPPED",
+		"Timestamp": "2021-02-19 22:48:48(2021-02-19 13:48:48 UTC)",
+		"Import Hash": "f0ea749f47650b36d9712c2c487f984b",
+		"Section Info": [
+			".text:0x1000:0x14ec:0x400:0x1600:6.0143938788",
+			".rdata:0x3000:0x114a:0x1a00:0x1200:4.1506969226",
+			".data:0x5000:0x648:0x2c00:0x200:0.464663027264",
+			".pdata:0x6000:0x258:0x2e00:0x400:2.58989038994",
+			".rsrc:0x7000:0x13b88:0x3200:0x13c00:6.16505116731",
+			".reloc:0x1b000:0x1f2000:0x16e00:0x91000:7.21813518429"
+		],
+		"Resource": [
+			"RT_ICON:0x7888:0x3d97:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced:English:United States",
+			"RT_ICON:0xb620:0x1628:dBase IV DBT of \\200.DBF, blocks size 0, block length 4096, next free block index 40, next free block 16843009, next used block 16843009:English:United States",
+			"RT_ICON:0xcc48:0xea8:data:English:United States",
+			"RT_ICON:0xdaf0:0x8a8:dBase IV DBT of @.DBF, block length 1024, next free block index 40, next free block 0, next used block 0:English:United States",
+			"RT_ICON:0xe398:0x6c8:data:English:United States",
+			"RT_ICON:0xea60:0x568:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_ICON:0xefc8:0x30fa:PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced:English:United States",
+			"RT_ICON:0x120c8:0x4228:dBase IV DBT of \\200.DBF, blocks size 0, block length 16896, next free block index 40, next free block 240, next used block 251658240:English:United States",
+			"RT_ICON:0x162f0:0x25a8:data:English:United States",
+			"RT_ICON:0x18898:0x10a8:data:English:United States",
+			"RT_ICON:0x19940:0x988:data:English:United States",
+			"RT_ICON:0x1a2c8:0x468:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_GROUP_ICON:0x1a730:0xae:data:English:United States",
+			"RT_VERSION:0x1a7e0:0x3a8:data:English:United States",
+			"RT_MANIFEST:0x7340:0x545:XML 1.0 document, ASCII text, with CRLF line terminators:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win64 Executable Console (202006/5)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1574.002",
+		"ATT&CK(Defense Evasion)": "T1027.002,T1574.002,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1518.001,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

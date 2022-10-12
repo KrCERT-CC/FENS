@@ -1,0 +1,325 @@
+{
+	"md5": "e4dc6f1398a3cf3a0dc4064465cb6292",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "Project1"
+			},
+			{
+				"type": "C-Style",
+				"string": "Project1"
+			},
+			{
+				"type": "C-Style",
+				"string": "roject1"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "*\\AC:\\Project1.vbp"
+			},
+			{
+				"type": "C-Style",
+				"string": "Project1"
+			},
+			{
+				"type": "C-Style",
+				"string": "Form1"
+			},
+			{
+				"type": "C-Style",
+				"string": "C:\\Program Files\\Microsoft Visual Studio\\VB98\\VB6.OLB"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetFileAttributesA"
+			},
+			{
+				"type": "C-Style",
+				"string": "function0"
+			},
+			{
+				"type": "C-Style",
+				"string": "function1"
+			},
+			{
+				"type": "C-Style",
+				"string": "function2"
+			},
+			{
+				"type": "C-Style",
+				"string": "function3"
+			},
+			{
+				"type": "C-Style",
+				"string": "function4"
+			},
+			{
+				"type": "C-Style",
+				"string": "MSVBVM60.DLL"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual Basic(6.0)[P-Code]",
+		"linker": "Microsoft Linker(6.0*)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "98304:G7vV9XL5pbE7vV9XL5pbK7vV9XL5pbO7vV9XL5pbq7vV9XL5pbK7vV9XL5pb67vi:n",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "44616e53000000000000000000000000e91f0d0001000000",
+		"PE Image": "binary_e4dc6f1398a3cf3a0dc4064465cb6292.jpg",
+		"bytecode": "binary_e4dc6f1398a3cf3a0dc4064465cb6292.byte",
+		"opcode": "jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,push,call,mov,cmp,mov,push,mov,cmp,mov,push,mov,cmp,mov,push,mov,cmp,mov,push,mov,cmp,mov,push,mov,cmp,mov,push,mov,cmp,mov,push,mov,jz,jmp,push,mov,call,jmp,mov,jz,jmp,push,mov,call,jmp,mov,jz,jmp,push,mov,call,jmp,mov,jz,jmp,push,mov,call,jmp,mov,jz,jmp,push,mov,call,jmp,pop,inc,add,add,add,jmp,cmp,add,push,inc,add,add,add,inc,inc,add,inc,add,inc,add,inc,add,add,add,adc,add,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "a5874e75c1ec83f2b72983083adfd75e"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "b6dcbdba92cd59f4c6cdc3663f1a5899"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "e4dc6f1398a3cf3a0dc4064465cb6292",
+		"SHA1": "e17118840e5af731069fd7b18a8b9cbc6c36ab6f",
+		"SHA256": "0002a190a2cec0b3a2366f5bda72e9f7b67916cdef6c449d50ff8a72f0636739",
+		"EntryPoint": "4010ec",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 97324778,
+		"Original FileName": "",
+		"Entropy": 5.671,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2008-06-02 06:58:02(2008-06-01 21:58:02 UTC)",
+		"Import Hash": "b1332fc8454ed69bea840c0dc3a3695f",
+		"Section Info": [
+			".text:0x1000:0x2b6c:0x1000:0x3000:4.82902125676",
+			".data:0x4000:0xa34:0x0:0x0:0",
+			".rsrc:0x5000:0xf5c:0x4000:0x1000:4.18156688309"
+		],
+		"Resource": [
+			"RT_ICON:0x50a0:0xea8:data::",
+			"RT_GROUP_ICON:0x5f48:0x14:data::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "unknown"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\vUzs3xBHbS.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Windows\\Msvbvm60.dll"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\drivers\\"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\drivers\\winlogon.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "c:\\B1uv3nth3x1.diz"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Msvbvm60.dll"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Windows\\Msvbvm60.dll"
+			},
+			{
+				"path": "C:\\B1uv3nth3x1.diz"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Msvbvm60.dll"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\vUzs3xBHbS.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\msvbvm60.dll"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\wpdshext.dll"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shdocvw.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\twext.dll"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\ntshrui.dll"
+			},
+			{
+				"path": "\\pipe\\srvsvc"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\syncui.dll"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\bdzshl.x86.dll"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\langs\\English.lang"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\acppage.dll"
+			},
+			{
+				"path": "C:\\Windows\\winsxs\\FileMaps\\$$_system32_drivers_dc1b782427b5ee1b.cdf-ms"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\EhStorShell.dll"
+			},
+			{
+				"path": "C:\\Windows\\Msvbvm60.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\BQJUWOYRTO.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\BUFZSQPCOH.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\BXAJUJAOEO.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\DQOFHVHTMG.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\GNLQNHOLWB.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HQJBRDYKDE.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HQJBRDYKDE.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\LHEPQPGEWF.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Msvbvm60.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NIRMEKAMZH.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NIRMEKAMZH.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\QFAPOWPAFG.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SNIPGPPREP.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Telegram.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HQJBRDYKDE\\BQJUWOYRTO.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HQJBRDYKDE\\BUFZSQPCOH.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HQJBRDYKDE\\GNLQNHOLWB.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HQJBRDYKDE\\HQJBRDYKDE.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HQJBRDYKDE\\LHEPQPGEWF.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HQJBRDYKDE\\NIRMEKAMZH.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SNIPGPPREP\\BXAJUJAOEO.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SNIPGPPREP\\DQOFHVHTMG.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SNIPGPPREP\\HQJBRDYKDE.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SNIPGPPREP\\LHEPQPGEWF.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SNIPGPPREP\\NIRMEKAMZH.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SNIPGPPREP\\SNIPGPPREP.docx"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Spreading,Evader",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_CoFreeUnusedLibraries_Sleep_SetErrorMode_SetErrorMode_FindNextFileA_CreateFileA_SetErrorMode_SetErrorMode_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_GetFileType_SetFilePointer_GetFileAttributesA_FindNextFileA_SetErrorMode_SetErrorMode_FindFirstFileA_FindFirstFileA_Sleep_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_Sleep_FindNextFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_CreateFileA_GetFileType_SetFilePointer_ReadFile_RtlUserThreadStart_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_CreateFileA_GetFileType_SetFilePointer_ReadFile_GetFileAttributesA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_PostMessageA_PostMessageA_ShowWindow_DestroyWindow_DestroyWindow_unknown_PostMessageA_RegQueryValueExA_GetPrivateProfileStringA_GetFileAttributesA_GetFileAttributesA_DestroyWindow_PostMessageA_PostMessageA_DestroyWindow_TlsFree_DestroyWindow_KiUserCallbackDispatcher_Sleep_OleUninitialize_OleUninitialize_OleUninitialize_OleUninitialize_OleUninitialize_OleUninitialize_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "T1091",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1574.002",
+		"ATT&CK(Defense Evasion)": "T1036,T1497,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1497,T1120,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "T1091",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

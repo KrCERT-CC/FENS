@@ -1,0 +1,85 @@
+{
+	"md5": "3bac736dfc996976ebd089338cf38c8b",
+	"data": {
+		"String": [
+			{
+				"string": "NETAPI32.dll",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2010)",
+		"linker": "Microsoft Linker(10.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "192:L6f0CW5P2Io4evFrDv2ZRJzCn7URRsjVJaZ:L6fPWl24evFrT2ZR5Cn7UR0VJo",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "44616e53000000000000000000000000097893000300000000000100010000006f76af00010000006f769d0001000000",
+		"PE Image": "binary_3bac736dfc996976ebd089338cf38c8b.jpg",
+		"bytecode": "binary_3bac736dfc996976ebd089338cf38c8b.byte",
+		"opcode": "push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,call,mov,lea,push,push,push,call,mov,cmp,jnz,jmp,lea,push,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,call,add,mov,mov,mov,mov,mov,jmp,mov,add,mov,cmp,jnb,lea,push,call,add,mov,add,mov,jmp,call,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,mov,push,push,push,push,push,push,mov,push,call,mov,cmp,jz,push,lea,push,push,push,push,lea,push,push,mov,push,call,mov,push,call,mov,mov,mov,sub,mov,mov,mov,sub,mov,jnz,mov,pop,push,mov,sub,mov,mov,jmp,mov,add,mov,mov,add,cmp,jnb,mov,mov,mov,mov,mov,cmp,jl,cmp,jg,mov,mov,add,mov,mov,jmp,mov,pop,push,mov,push,mov,mov,add,mov,mov,mov,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,mov,add,cmp,jnz,mov,sub,sar,mov,mov,shl,push,mov,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jnz,cmp,jz,mov,mov,mov,mov,cmp,jnz,add,add,cmp,jnz,mov,jmp,sbb,sbb,mov,mov,mov,cmp,jnz,mov,mov,mov,mov,push,call,add,mov,cmp,jz,mov,add,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,add,mov,mov,mov,add,mov,mov,mov,sub,mov,mov,mov,lea,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jnz,cmp,jz,mov,mov,mov,mov,cmp,jnz,add,add,cmp,jnz,mov,jmp,sbb,sbb,mov,mov,mov,cmp,jnz,mov,mov,mov,mov,add,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,cmp,jz,cmp,jz,mov,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,lea,push,mov,push,push,call,jnz,xor,jmp,mov,mov,mov,mov,mov,cmp,jz,mov,jmp,mov,push,push,push,lea,push,push,mov,push,call,jnz,xor,jmp,call,cmp,jnz,xor,jmp,mov,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,lea,push,push,push,push,push,push,push,push,push,push,lea,push,call,jnz,jmp,jmp,lea,push,push,push,push,push,push,push,push,push,push,lea,push,call,jnz,jmp,jmp,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,push,lea,push,push,call,jz,jmp,jmp,push,mov,push,push,push,push,push,mov,push,call,mov,cmp,jnz,mov,jmp,jmp,cmp,jz,jmp,jmp,lea,push,push,call,push,call,jnz,jmp,jmp,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,push,lea,push,mov,push,call,add,jnz,jmp,jmp,push,push,push,mov,push,push,push,mov,push,call,mov,cmp,jz,jmp,jmp,push,lea,push,mov,push,call,add,jnz,jmp,jmp,push,mov,push,push,push,push,push,mov,push,call,mov,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,cmp,jz,mov,push,call,cmp,jz,mov,push,call,cmp,jz,mov,push,call,cmp,jz,mov,push,call,mov,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,lea,push,mov,push,lea,push,call,add,lea,push,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,lea,push,lea,push,call,mov,cmp,jnz,jmp,mov,jz,cmp,jnz,jz,cmp,jnz,jmp,mov,jnz,mov,jz,jmp,lea,push,mov,push,lea,push,call,add,lea,push,lea,push,lea,push,call,add,lea,push,call,add,lea,push,call,add,jmp,lea,push,mov,push,lea,push,call,add,lea,push,lea,push,lea,push,call,add,lea,push,call,add,jnz,jmp,push,push,push,push,push,push,lea,push,call,mov,cmp,jnz,jmp,push,mov,push,call,mov,cmp,jnb,jmp,cmp,jbe,mov,mov,mov,push,push,call,mov,mov,push,mov,push,call,add,push,push,push,mov,push,call,push,lea,push,mov,push,mov,push,mov,push,call,mov,push,call,mov,push,call,lea,push,mov,push,call,jnz,mov,push,call,mov,pop,push,mov,sub,mov,mov,mov,mov,jz,mov,add,mov,mov,mov,add,mov,mov,add,mov,mov,jmp,mov,mov,mov,mov,jz,mov,add,mov,mov,mov,add,mov,mov,add,mov,mov,add,mov,mov,jmp,mov,add,mov,mov,pop,push,mov,push,mov,jmp,mov,add,mov,mov,add,sar,cmp,jge,mov,mov,mov,jmp,mov,pop",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "f0d4c11521fc3891965534e6c52e128b"
+			},
+			{
+				"section": ".rdata",
+				"md5": "48bcd617b02332ab33a0bcb07ab1ced9"
+			},
+			{
+				"section": ".reloc",
+				"md5": "bf619eac0cdf3f68d496ea9344137e8b"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "3bac736dfc996976ebd089338cf38c8b",
+		"SHA1": "fc11fb670300addfd203da826c3d0c7b8b8efe24",
+		"SHA256": "ea6a416b320f32261da8dafcf2faf088924f99a3a84f7b43b964637ea87aef72",
+		"EntryPoint": "401000",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 9216,
+		"Original FileName": "",
+		"Entropy": 5.097,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-03-14 16:19:36(2022-03-14 07:19:36 UTC)",
+		"Import Hash": "ea8609d4dad999f73ec4b6f8e7b28e55",
+		"Section Info": [
+			".text:0x1000:0x1b4a:0x400:0x1c00:5.64423958913",
+			".rdata:0x3000:0x6a:0x2000:0x200:0.912515098341",
+			".reloc:0x4000:0x18:0x2200:0x200:0"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LoadLibraryA_LoadLibraryA_LdrInitializeThunk_LdrInitializeThunk_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "",
+		"ATT&CK(Defense Evasion)": "T1497",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

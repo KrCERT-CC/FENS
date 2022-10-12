@@ -1,0 +1,630 @@
+{
+	"md5": "5093b562820964652e3c7020503addad",
+	"data": {
+		"MD5": "5093b562820964652e3c7020503addad",
+		"SHA1": "f502b0c8dc27e7cab0b04c9183332e12cc57ea8d",
+		"SHA256": "0018a849ce24afc77be61f6c4750274d1200379e4c97408475a18420be0d4bdb",
+		"EntryPoint": "401000",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 12960,
+		"Original FileName": "",
+		"Entropy": 6.139,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2022-03-14 16:19:36(2022-03-14 07:19:36 UTC)",
+		"Import Hash": "ea8609d4dad999f73ec4b6f8e7b28e55",
+		"Section Info": [
+			".text:0x1000:0x1b4a:0x400:0x1c00:5.64423958913",
+			".rdata:0x3000:0x6a:0x2000:0x200:0.988058374455",
+			".reloc:0x4000:0x18:0x2200:0x200:0.0815394123432"
+		],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Contacts\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Contacts\\user.contact"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\AQRFEVRTGL.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\CZQKSDDMWR.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\CZQKSDDMWR.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\DQOFHVHTMG.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\GLTYDMDUST.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HMPPSXQPQV.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\HQJBRDYKDE.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\LIJDSFKJZG.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NWCXBPIUYI\\BXAJUJAOEO.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NWCXBPIUYI\\HMPPSXQPQV.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NWCXBPIUYI\\NIRMEKAMZH.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NWCXBPIUYI\\NWCXBPIUYI.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NWCXBPIUYI\\QFAPOWPAFG.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NWCXBPIUYI\\UNKRLCVOHV.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NWCXBPIUYI.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NWCXBPIUYI.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NYMMPCEIMA\\CZQKSDDMWR.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NYMMPCEIMA\\GLTYDMDUST.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NYMMPCEIMA\\NWCXBPIUYI.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NYMMPCEIMA\\NYMMPCEIMA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NYMMPCEIMA\\UNKRLCVOHV.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NYMMPCEIMA\\ZIPXYXWIOY.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\NYMMPCEIMA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Telegram.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\UNKRLCVOHV.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\UNKRLCVOHV.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\UNKRLCVOHV.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\WSHEJMDVQC.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\WSHEJMDVQC.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZIPXYXWIOY\\AQRFEVRTGL.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZIPXYXWIOY\\CZQKSDDMWR.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZIPXYXWIOY\\LIJDSFKJZG.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZIPXYXWIOY\\UNKRLCVOHV.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZIPXYXWIOY\\WSHEJMDVQC.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZIPXYXWIOY\\ZIPXYXWIOY.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZIPXYXWIOY.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\ZIPXYXWIOY.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\AQRFEVRTGL.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\AQRFEVRTGL.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\BXAJUJAOEO.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\CZQKSDDMWR\\AQRFEVRTGL.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\CZQKSDDMWR\\BXAJUJAOEO.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\CZQKSDDMWR\\CZQKSDDMWR.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\CZQKSDDMWR\\LFOPODGVOH.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\CZQKSDDMWR\\NIRMEKAMZH.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\CZQKSDDMWR\\QFAPOWPAFG.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\CZQKSDDMWR.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\CZQKSDDMWR.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\CZQKSDDMWR.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\GLTYDMDUST.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\LFOPODGVOH.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\LIJDSFKJZG.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NIRMEKAMZH.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NWCXBPIUYI.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NYMMPCEIMA\\CZQKSDDMWR.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NYMMPCEIMA\\GLTYDMDUST.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NYMMPCEIMA\\NWCXBPIUYI.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NYMMPCEIMA\\NYMMPCEIMA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NYMMPCEIMA\\UNKRLCVOHV.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NYMMPCEIMA\\ZIPXYXWIOY.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\NYMMPCEIMA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\QFAPOWPAFG.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\BlogForm_BookReview.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\BlogForm_MovieReview.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\BlogForm_Recipe.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\calendar_monthly.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\calendar_year.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\classical_literature.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\eMarketing.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\Hyper(hwp2014).hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\interview.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\NewYear_s_Day.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\request.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\shortcut.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\sungeo.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\Textmail.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\treatise sample.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\Sample9\\Trifold_Brochure.hwp"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\UNKRLCVOHV.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\UNKRLCVOHV.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\WSHEJMDVQC.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZIPXYXWIOY\\AQRFEVRTGL.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZIPXYXWIOY\\CZQKSDDMWR.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZIPXYXWIOY\\LIJDSFKJZG.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZIPXYXWIOY\\UNKRLCVOHV.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZIPXYXWIOY\\WSHEJMDVQC.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZIPXYXWIOY\\ZIPXYXWIOY.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZIPXYXWIOY.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\ZIPXYXWIOY.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\AQRFEVRTGL.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\AQRFEVRTGL.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\BXAJUJAOEO.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\CZQKSDDMWR.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\CZQKSDDMWR.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\CZQKSDDMWR.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\GLTYDMDUST.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\LFOPODGVOH.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\LIJDSFKJZG.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\NIRMEKAMZH.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\NWCXBPIUYI.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\NYMMPCEIMA.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\QFAPOWPAFG.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\UNKRLCVOHV.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\UNKRLCVOHV.pdf"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\WSHEJMDVQC.mp3"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\ZIPXYXWIOY.docx"
+			},
+			{
+				"path": "C:\\Users\\user\\Downloads\\ZIPXYXWIOY.xlsx"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Amazon.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Facebook.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Google.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Links\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Links\\Suggested Sites.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Links\\Web Slice Gallery.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Links for United States\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Links for United States\\GobiernoUSA.gov.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Links for United States\\USA.gov.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Live.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Microsoft Websites\\IE Add-on site.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Microsoft Websites\\IE site on Microsoft.com.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Microsoft Websites\\Microsoft At Home.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Microsoft Websites\\Microsoft At Work.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Microsoft Websites\\Microsoft Store.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\MSN Websites\\MSN Autos.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\MSN Websites\\MSN Entertainment.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\MSN Websites\\MSN Money.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\MSN Websites\\MSN Sports.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\MSN Websites\\MSN.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\MSN Websites\\MSNBC News.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\NYTimes.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Reddit.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Twitter.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Wikipedia.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Windows Live\\Get Windows Live.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Windows Live\\Windows Live Gallery.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Windows Live\\Windows Live Mail.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Windows Live\\Windows Live Spaces.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\Youtube.url"
+			},
+			{
+				"path": "C:\\Users\\user\\Links\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Links\\Desktop.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\Links\\Downloads.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\Links\\RecentPlaces.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\Links\\SkyDrive.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\ntuser.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Pictures\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Saved Games\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Searches\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\SkyDrive\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Videos\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Downloads\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Music\\Sample Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Music\\Sample Music\\Kalimba.mp3"
+			},
+			{
+				"path": "C:\\Users\\Public\\Music\\Sample Music\\Maid with the Flaxen Hair.mp3"
+			},
+			{
+				"path": "C:\\Users\\Public\\Music\\Sample Music\\Sleep Away.mp3"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Chrysanthemum.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Desert.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Hydrangeas.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Jellyfish.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Koala.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Lighthouse.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Penguins.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\Sample Pictures\\Tulips.jpg"
+			},
+			{
+				"path": "C:\\Users\\Public\\Recorded TV\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Recorded TV\\Sample Media\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Recorded TV\\Sample Media\\win7_scenic-demoshort_raw.wtv"
+			},
+			{
+				"path": "C:\\Users\\Public\\Videos\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Videos\\Sample Videos\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Videos\\Sample Videos\\Wildlife.wmv"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "\\pipe\\lsarpc"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Ransomware,Spyware",
+		"Digitally signed name": "Nanjing Zhixiao Information Technology Co.",
+		"Digitally signed S/N": "20E65F5D29B5822410504B1AC183CA3D",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_FindFirstFileA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_FindFirstFileA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_FindFirstFileA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_FindFirstFileA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_FindFirstFileA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_FindFirstFileA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_RtlUserThreadStart_SetNamedSecurityInfoA_SetNamedSecurityInfoA_FindFirstFileA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_SetNamedSecurityInfoA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_CreateFileW_CreateFileW_CreateFileW_CreateFileW_CreateFileW_CreateFileW_CreateFileW_CreateFileW_CreateFileW_CreateFileW_DeviceIoControl_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1134",
+		"ATT&CK(Defense Evasion)": "T1497,T1134,T1140,T1027",
+		"ATT&CK(Credential Access)": "T1003",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1005",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "",
+		"String": [
+			{
+				"string": "NETAPI32.dll",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2010)",
+		"linker": "Microsoft Linker(10.0)[EXE32,signed]",
+		"PDB path": "",
+		"full Fuzzyhash": "384:r6fPWl24evFrT2ZR5Cn7UR0VJofX/+eMDCF:r6fQ24ArTUR5C7T2v1",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "44616e53000000000000000000000000097893000300000000000100010000006f76af00010000006f769d0001000000",
+		"PE Image": "binary_5093b562820964652e3c7020503addad.jpg",
+		"bytecode": "binary_5093b562820964652e3c7020503addad.byte",
+		"opcode": "push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,call,mov,lea,push,push,push,call,mov,cmp,jnz,jmp,lea,push,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,call,add,mov,mov,mov,mov,mov,jmp,mov,add,mov,cmp,jnb,lea,push,call,add,mov,add,mov,jmp,call,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,mov,push,push,push,push,push,push,mov,push,call,mov,cmp,jz,push,lea,push,push,push,push,lea,push,push,mov,push,call,mov,push,call,mov,mov,mov,sub,mov,mov,mov,sub,mov,jnz,mov,pop,push,mov,sub,mov,mov,jmp,mov,add,mov,mov,add,cmp,jnb,mov,mov,mov,mov,mov,cmp,jl,cmp,jg,mov,mov,add,mov,mov,jmp,mov,pop,push,mov,push,mov,mov,add,mov,mov,mov,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,mov,add,cmp,jnz,mov,sub,sar,mov,mov,shl,push,mov,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jnz,cmp,jz,mov,mov,mov,mov,cmp,jnz,add,add,cmp,jnz,mov,jmp,sbb,sbb,mov,mov,mov,cmp,jnz,mov,mov,mov,mov,push,call,add,mov,cmp,jz,mov,add,mov,mov,mov,mov,mov,mov,add,mov,mov,mov,add,mov,mov,mov,add,mov,mov,mov,sub,mov,mov,mov,lea,mov,mov,mov,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,cmp,jnz,cmp,jz,mov,mov,mov,mov,cmp,jnz,add,add,cmp,jnz,mov,jmp,sbb,sbb,mov,mov,mov,cmp,jnz,mov,mov,mov,mov,add,mov,jmp,cmp,jnz,mov,mov,mov,mov,mov,mov,cmp,jz,cmp,jz,mov,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,lea,push,mov,push,push,call,jnz,xor,jmp,mov,mov,mov,mov,mov,cmp,jz,mov,jmp,mov,push,push,push,lea,push,push,mov,push,call,jnz,xor,jmp,call,cmp,jnz,xor,jmp,mov,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,lea,push,push,push,push,push,push,push,push,push,push,lea,push,call,jnz,jmp,jmp,lea,push,push,push,push,push,push,push,push,push,push,lea,push,call,jnz,jmp,jmp,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,push,lea,push,push,call,jz,jmp,jmp,push,mov,push,push,push,push,push,mov,push,call,mov,cmp,jnz,mov,jmp,jmp,cmp,jz,jmp,jmp,lea,push,push,call,push,call,jnz,jmp,jmp,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,push,lea,push,mov,push,call,add,jnz,jmp,jmp,push,push,push,mov,push,push,push,mov,push,call,mov,cmp,jz,jmp,jmp,push,lea,push,mov,push,call,add,jnz,jmp,jmp,push,mov,push,push,push,push,push,mov,push,call,mov,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,cmp,jz,mov,push,call,cmp,jz,mov,push,call,cmp,jz,mov,push,call,cmp,jz,mov,push,call,mov,mov,pop,push,mov,sub,mov,mov,mov,mov,mov,lea,push,mov,push,lea,push,call,add,lea,push,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,push,lea,push,call,add,mov,lea,push,lea,push,call,mov,cmp,jnz,jmp,mov,jz,cmp,jnz,jz,cmp,jnz,jmp,mov,jnz,mov,jz,jmp,lea,push,mov,push,lea,push,call,add,lea,push,lea,push,lea,push,call,add,lea,push,call,add,lea,push,call,add,jmp,lea,push,mov,push,lea,push,call,add,lea,push,lea,push,lea,push,call,add,lea,push,call,add,jnz,jmp,push,push,push,push,push,push,lea,push,call,mov,cmp,jnz,jmp,push,mov,push,call,mov,cmp,jnb,jmp,cmp,jbe,mov,mov,mov,push,push,call,mov,mov,push,mov,push,call,add,push,push,push,mov,push,call,push,lea,push,mov,push,mov,push,mov,push,call,mov,push,call,mov,push,call,lea,push,mov,push,call,jnz,mov,push,call,mov,pop,push,mov,sub,mov,mov,mov,mov,jz,mov,add,mov,mov,mov,add,mov,mov,add,mov,mov,jmp,mov,mov,mov,mov,jz,mov,add,mov,mov,mov,add,mov,mov,add,mov,mov,add,mov,mov,jmp,mov,add,mov,mov,pop,push,mov,push,mov,jmp,mov,add,mov,mov,add,sar,cmp,jge,mov,mov,mov,jmp,mov,pop",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "f0d4c11521fc3891965534e6c52e128b"
+			},
+			{
+				"section": ".rdata",
+				"md5": "d4b14cf770a6e660ba6a6e63f7c22451"
+			},
+			{
+				"section": ".reloc",
+				"md5": "0f1286f7c8817e0974ddc3ce1edc1b59"
+			}
+		],
+		"Yara Rule": []
+	}
+}

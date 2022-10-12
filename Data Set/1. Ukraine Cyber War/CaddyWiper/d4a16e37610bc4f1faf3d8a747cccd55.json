@@ -1,0 +1,489 @@
+{
+	"md5": "d4a16e37610bc4f1faf3d8a747cccd55",
+	"data": {
+		"String": [
+			{
+				"string": "MFC42.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "MSVCRT.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHELL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": " > nul",
+				"type": "C-Style"
+			},
+			{
+				"string": "/c del ",
+				"type": "C-Style"
+			},
+			{
+				"string": "COMSPEC",
+				"type": "C-Style"
+			},
+			{
+				"string": "_.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\Zombie.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "WINNT",
+				"type": "C-Style"
+			},
+			{
+				"string": "WINDOWS",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C++(6.0)[msvcrt]",
+		"linker": "Microsoft Linker(6.0*)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "49152:k9Nf729GBu9LLeafP0tLWrP9Nf729G5FDd3v7/h6ZBYck:krf729GBu9fbfMtLQPrf729GpD/",
+		"section Fuzzyhash(.data)": "6:PldZOhEad2/Tg9YX+c2LOTVysqnmOZNJouNq/lLfDiV+iK3lX:ddYmTgeOc22inmoNJjNOyV+Tl",
+		"rich header": "44616e53000000000000000000000000621f130006000000831c0e00010000006f1f0a000b0000006f1f04000200000036260b0002000000000001004a0000003626040003000000e81f0b0003000000c706060001000000",
+		"PE Image": "binary_d4a16e37610bc4f1faf3d8a747cccd55.jpg",
+		"bytecode": "binary_d4a16e37610bc4f1faf3d8a747cccd55.byte",
+		"opcode": "mov,mov,push,mov,call,jz,push,call,add,mov,pop,mov,sub,lea,push,push,push,push,call,jz,lea,push,lea,push,push,call,jz,lea,push,push,push,call,jz,lea,push,push,call,mov,lea,lea,push,push,call,lea,push,push,call,lea,lea,lea,push,mov,mov,mov,mov,mov,mov,mov,mov,call,jz,mov,mov,push,push,call,push,call,push,call,push,call,push,call,lea,push,push,push,push,call,mov,pop,add,xor,pop,add,mov,push,call,cmp,jnz,xor,xor,cmp,mov,push,push,mov,push,mov,sub,mov,push,push,lea,mov,call,lea,mov,call,lea,mov,call,lea,call,push,lea,call,mov,lea,mov,sub,dec,push,push,lea,call,push,lea,mov,call,lea,mov,call,mov,lea,push,mov,call,mov,lea,mov,call,lea,mov,call,mov,mov,pop,mov,add,mov,sub,lea,push,push,call,mov,add,sub,push,mov,push,push,push,mov,push,call,mov,add,jnz,pop,pop,pop,add,push,mov,call,mov,push,lea,push,push,call,push,push,lea,push,push,call,mov,add,cmp,push,jz,call,add,xor,pop,pop,pop,add,call,add,mov,pop,pop,pop,add,push,push,mov,push,mov,sub,push,mov,push,push,push,mov,push,mov,call,jz,push,mov,call,jnz,lea,push,push,push,call,push,lea,call,push,lea,mov,call,lea,push,lea,push,push,mov,call,push,lea,mov,call,lea,mov,call,lea,push,push,mov,call,mov,mov,xor,not,sub,lea,mov,mov,mov,shr,mov,lea,call,push,mov,call,mov,mov,jz,mov,jmp,call,jns,dec,inc,add,mov,lea,push,mov,call,lea,mov,push,mov,call,mov,mov,push,lea,mov,push,mov,call,mov,add,jz,lea,push,push,call,mov,add,jnz,push,call,mov,add,push,call,jmp,mov,push,call,add,cmp,jz,push,push,call,push,call,add,cmp,jnz,push,call,push,push,lea,push,push,call,mov,add,jz,push,push,call,mov,add,jnz,push,call,mov,add,push,call,jmp,push,call,add,cmp,jz,push,push,call,push,call,add,cmp,jnz,push,call,add,jmp,mov,xor,mov,push,div,mov,xor,push,sub,mov,mov,call,mov,add,jnz,push,call,mov,add,push,call,jmp,mov,push,push,push,call,push,call,add,cmp,jz,mov,push,add,push,call,mov,add,inc,cmp,jz,push,call,add,cmp,jnz,xor,push,push,push,call,push,call,add,cmp,jz,mov,push,add,push,call,mov,add,inc,cmp,jz,push,call,add,cmp,jnz,push,call,mov,add,push,push,lea,push,push,call,push,call,mov,add,push,call,jnz,mov,push,call,jmp,mov,jnz,push,lea,call,mov,mov,push,mov,call,jz,mov,mov,lea,mov,add,push,push,lea,call,push,lea,push,push,mov,call,push,lea,mov,call,lea,mov,call,lea,mov,call,mov,mov,push,call,jnz,mov,mov,push,push,call,add,lea,mov,call,lea,mov,call,mov,pop,pop,pop,pop,mov,add,push,push,mov,push,mov,push,lea,call,mov,push,mov,mov,push,lea,call,lea,call,mov,mov,add,push,push,mov,push,mov,sub,push,push,push,push,lea,mov,push,push,mov,xor,call,lea,push,lea,call,lea,lea,push,mov,call,lea,push,lea,push,push,mov,call,push,lea,mov,call,lea,mov,call,lea,lea,push,push,push,call,push,lea,mov,call,lea,mov,call,mov,push,mov,call,jz,mov,push,call,jmp,mov,mov,push,push,call,mov,add,cmp,jz,mov,push,push,call,add,mov,cmp,push,jnz,call,add,jmp,mov,call,add,cmp,jz,push,push,call,mov,add,inc,cmp,jz,push,call,add,cmp,jnz,push,mov,call,mov,add,push,push,call,lea,push,push,push,call,mov,add,push,mov,call,jz,mov,push,call,mov,push,push,call,mov,add,jnz,push,call,add,jmp,mov,xor,add,push,push,push,call,push,call,add,cmp,jz,push,push,call,mov,add,inc,cmp,jz,push,call,add,cmp,jnz,mov,push,call,push,call,mov,add,push,push,call,mov,mov,push,push,call,lea,mov,call,lea,mov,call,mov,pop,pop,pop,pop,mov,add,push,push,mov,push,mov,push,push,lea,call,push,lea,mov,call,push,lea,call,push,lea,call,push,lea,call,mov,push,push,push,push,call,lea,mov,call,mov,mov,add,sub,push,push,mov,xor,lea,mov,lea,lea,push,push,push,push,push,push,push,push,push,push,mov,call,jz,mov,jz,mov,push,push,call,push,call,pop,pop,add,push,push,mov,push,mov,push,mov,push,push,push,mov,push,push,lea,call,mov,xor,push,mov,mov,call,lea,push,push,lea,mov,call,mov,mov,push,push,mov,call,add,jz,mov,push,push,call,add,jz,mov,push,push,call,add,jz,mov,push,push,call,add,jz,mov,push,push,call,add,jz,mov,push,push,call,add,jz,cmp,ja,mov,push,push,jmp,mov,push,call,jmp,cmp,ja,mov,push,push,mov,call,mov,mul,shr,push,call,lea,mov,call,lea,mov,call,mov,pop,pop,pop,pop,mov,add,push,push,mov,push,mov,sub,mov,push,push,mov,inc,lea,mov,call,mov,lea,push,mov,call,lea,push,push,lea,mov,call,mov,push,push,call,add,lea,call,jz,push,lea,call,push,lea,call,mov,push,push,lea,call,jz,push,push,mov,lea,call,mov,mov,push,lea,call,jz,lea,call,jnz,lea,push,lea,call,push,lea,mov,call,push,lea,mov,call,jg,jle,lea,mov,call,lea,call,mov,push,lea,mov,call,jnz,mov,push,lea,call,jnz,lea,call,jnz,lea,call,lea,lea,push,mov,call,push,lea,mov,call,lea,mov,call,mov,push,mov,call,mov,lea,call,jnz,pop,pop,lea,call,lea,mov,call,lea,mov,call,mov,pop,pop,mov,add,mov,mov,push,push,mov,call,mov,lea,jmp,mov,sub,push,push,push,push,push,call,lea,call,lea,push,push,push,call,lea,lea,push,call,jz,lea,push,push,call,mov,add,jz,lea,push,lea,call,mov,sub,push,push,push,call,mov,push,push,lea,push,push,call,mov,push,push,push,call,push,push,lea,push,push,call,push,call,mov,mov,add,mov,push,push,jnz,sub,mov,lea,mov,lea,push,lea,call,jmp,sub,mov,lea,mov,lea,push,lea,call,jmp,lea,call,call,mov,mov,xor,jz,mov,lea,add,push,call,push,lea,call,lea,mov,push,push,call,add,inc,cmp,jl,lea,call,lea,call,lea,call,pop,pop,xor,pop,add,xor,lea,jmp,lea,jmp,lea,jmp,mov,jz,mov,jmp,mov,jmp,lea,jmp,lea,jmp,lea,jmp,lea,jmp,lea,jmp,mov,jmp,lea,jmp,mov,jmp,lea,jmp,lea,jmp,lea,jmp,lea,jmp,mov,jmp,lea,jmp,mov,jmp,lea,jmp,lea,jmp,mov,jmp,lea,jmp,lea,jmp,lea,jmp,lea,jmp,lea,jmp,mov,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "026e87d25a05c2499d22d04b55efd3dd"
+			},
+			{
+				"section": ".rdata",
+				"md5": "17ba5940940f6b003c9ab874b48d12d4"
+			},
+			{
+				"section": ".data",
+				"md5": "af19baff048a7ca28bd9b67dd9c2fd1c"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "0720168cbc9e9311bd83a04e27e626c9"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "d4a16e37610bc4f1faf3d8a747cccd55",
+		"SHA1": "9d1fc5676dbc4afbf70605e3cdecbe13a4b32522",
+		"SHA256": "0000d7e0f022c24a05e314abfe24a02ae218eb4b9bbedc22330dfae0002c038e",
+		"EntryPoint": "402130",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 3432576,
+		"Original FileName": "",
+		"Entropy": 7.958,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2011-03-15 13:06:07(2011-03-15 04:06:07 UTC)",
+		"Import Hash": "8abecba2211e61763c4c9ffcaa13369e",
+		"Section Info": [
+			".text:0x1000:0x1422:0x1000:0x2000:4.33298389461",
+			".rdata:0x3000:0x7aa:0x3000:0x1000:2.77059488594",
+			".data:0x4000:0x160:0x4000:0x1000:0.635445957309",
+			".rsrc:0x5000:0xd60:0x5000:0x1000:2.49354715773"
+		],
+		"Resource": [
+			"RT_ICON:0x50a0:0xca8:data:Chinese:China",
+			"RT_GROUP_ICON:0x5d48:0x14:data:Chinese:China"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\$Recycle.Bin\\S-1-5-21-4206988577-48916863-2504694757-1000\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\abcpy.ini.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\AcroRead.msi.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\abcpy.ini.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\AcroRead.msi.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.ini.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.ini.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\abcpy.ini.exe.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\abcpy.ini.exe.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.ini.exe.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.ini.exe.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Desktop\\Acrobat Reader DC.lnk.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Desktop\\Bandizip.lnk.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Desktop\\Chrome.lnk.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Desktop\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Desktop\\Firefox.lnk.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Desktop\\Google Chrome.lnk.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Desktop\\Skype.lnk.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Documents\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Documents\\My Music\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Documents\\My Videos\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Microsoft\\MF\\Active.GRL.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Microsoft\\MF\\Pending.GRL.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Microsoft\\Office\\FFPackageLocker.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Microsoft\\RAC\\Temp\\sqlFCC4.tmp.tmp"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Microsoft\\RAC\\Temp\\sqlFD04.tmp.tmp"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\$Recycle.Bin\\S-1-5-21-4206988577-48916863-2504694757-1000\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\abcpy.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\AcroRead.msi"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\abcpy.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\AcroRead.msi"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\abcpy.ini.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\abcpy.ini.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.ini.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.ini.exe"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Acrobat Reader DC.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Bandizip.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Chrome.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Firefox.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Google Chrome.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Skype.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Videos\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\MF\\Active.GRL"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\MF\\Pending.GRL"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Office\\FFPackageLocker"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\RAC\\Temp\\sqlFCC4.tmp.tmp"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\$Recycle.Bin\\S-1-5-21-4206988577-48916863-2504694757-1000\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\abcpy.ini.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\AcroRead.msi.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\abcpy.ini.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\AcroRead.msi.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.ini.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.ini.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\abcpy.ini.exe.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\abcpy.ini.exe.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.ini.exe.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.ini.exe.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Acrobat Reader DC.lnk.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Bandizip.lnk.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Chrome.lnk.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Firefox.lnk.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Google Chrome.lnk.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Skype.lnk.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Documents\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Music\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\Users\\Public\\Videos\\desktop.ini.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\MF\\Active.GRL.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\MF\\Pending.GRL.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Office\\FFPackageLocker.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\RAC\\Temp\\sqlFCC4.tmp.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\RAC\\Temp\\sqlFD04.tmp.tmp"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\sAAEkgjAUu.exe"
+			},
+			{
+				"path": "C:\\$Recycle.Bin\\S-1-5-21-4206988577-48916863-2504694757-1000\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\abcpy.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\AcroRead.msi"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\abcpy.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\AcroRead.msi"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\abcpy.ini.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\AcroRead.msi.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\abcpy.ini.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\AcroRead.msi.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.ini.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.ini.exe"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Chrome.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Firefox.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Skype.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Acrobat Reader DC.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Bandizip.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Google Chrome.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Videos\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\IdentityCRL\\ppcrlui.dll"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\MF\\Active.GRL"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\MF\\Pending.GRL"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Office\\FFPackageLocker"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\RAC\\Temp\\sqlFCC4.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\RAC\\Temp\\sqlFD04.tmp"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc_putc",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1497,T1055,T1564.001",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1497,T1057,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1005",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

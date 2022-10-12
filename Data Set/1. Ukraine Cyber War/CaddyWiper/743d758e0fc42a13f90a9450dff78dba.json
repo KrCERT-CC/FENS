@@ -1,0 +1,341 @@
+{
+	"md5": "743d758e0fc42a13f90a9450dff78dba",
+	"data": {
+		"String": [
+			{
+				"string": "ntdll.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "kernel32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ole32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ws2_32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "user32.dll",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "MASM32(8-11)",
+		"linker": "Microsoft Linker(5.12*)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "12288:03K0lxEGpy8uvCT0lVPnbBCIo4WNlOzgPH+044dQQcBw0TCoNkcxYo75mO4H:pvCCVPb0IoRQsPH+044dQQcBw0TC2kJr",
+		"section Fuzzyhash(.data)": "48:g9foROpGMnlcluCPEHrVG5kkJITLpuiCgQnQWdP:g9rpGMnlclX2G5kkqTLpEvx",
+		"rich header": "44616e530000000000000000000000008e1f13000a000000fc20120001000000",
+		"PE Image": "binary_743d758e0fc42a13f90a9450dff78dba.jpg",
+		"bytecode": "binary_743d758e0fc42a13f90a9450dff78dba.byte",
+		"opcode": "sub,call,jmp,call,jmp,add,jmp,pop,jmp,mov,mov,mov,mov,jmp,jnz,call,add,jmp,jmp,sub,mov,mov,jmp,xor,mov,inc,inc,dec,cmp,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "24729cf9c3bd0d8a604d6fcf00d6a8c0"
+			},
+			{
+				"section": ".rdata",
+				"md5": "3493e9a5650801e4da2b976c00c014b6"
+			},
+			{
+				"section": ".data",
+				"md5": "7dcc2260b4d3f77dd49b65eb65fd6150"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "8abd0bcda66bd6e945a2d9cb49feecc5"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "743d758e0fc42a13f90a9450dff78dba",
+		"SHA1": "45fe158fdd5971481a993aa8d7523b3ce66f04b9",
+		"SHA256": "000048433cd9bbff0b5eb1380a8f92452b241fa7c76ed57fc4386fbbc2bc7bc1",
+		"EntryPoint": "401000",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 742912,
+		"Original FileName": "",
+		"Entropy": 7.82,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2015-02-07 18:53:36(2015-02-07 09:53:36 UTC)",
+		"Import Hash": "c83abbbb66f341ad2cebe58ae4ed2825",
+		"Section Info": [
+			".text:0x1000:0xb4000:0x600:0xb3400:7.81956631818",
+			".rdata:0xb5000:0x1000:0xb3a00:0x200:3.89192245313",
+			".data:0xb6000:0x800:0xb3c00:0x800:4.63370358766",
+			".rsrc:0xb7000:0x115c:0xb4400:0x1200:5.13966693382"
+		],
+		"Resource": [
+			"RT_ICON:0xb70a0:0x10a8:data:English:United States",
+			"RT_GROUP_ICON:0xb8148:0x14:data:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "SGEkskAA.exe"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "EQgsEMYA.exe"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "XWYZ"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\TiMEskoI\\SGEkskAA.exe"
+			},
+			{
+				"cmdline": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYA.exe"
+			},
+			{
+				"cmdline": "unknown"
+			},
+			{
+				"cmdline": "cmd /c 'C:\\Users\\user\\Desktop\\FwUyX0goDh'"
+			},
+			{
+				"cmdline": "ZKSW"
+			},
+			{
+				"cmdline": "COHO"
+			},
+			{
+				"cmdline": "LDMT"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\FwUyX0goDh.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\TiMEskoI\\SGEkskAA.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYA.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\VGUkIwAs\\cGIwMggI.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\TiMEskoI"
+			},
+			{
+				"path": "C:\\Users\\user\\TiMEskoI\\SGEkskAA"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYA"
+			},
+			{
+				"path": "C:\\Users\\user\\TiMEskoI\\SGEkskAA.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYA.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\VGUkIwAs"
+			},
+			{
+				"path": "C:\\ProgramData\\VGUkIwAs\\cGIwMggI.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\EmoQYIoo.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\FwUyX0goDh"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\FwUyX0goDhXWYZ"
+			},
+			{
+				"path": "C:\\ProgramData\\kqYI.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\tMwU.ico"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Fscy.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\KAcg.ico"
+			},
+			{
+				"path": "C:\\Users\\user\\TiMEskoI\\SGEkskAAZKSW"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\config\\systemprofile\\TiMEskoI"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\config\\systemprofile\\TiMEskoI\\SGEkskAA"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYACOHO"
+			},
+			{
+				"path": "C:\\ProgramData\\VGUkIwAs\\cGIwMggILDMT"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\FwUyX0goDhXWYZ"
+			},
+			{
+				"path": "C:\\Users\\user\\TiMEskoI\\SGEkskAAZKSW"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYACOHO"
+			},
+			{
+				"path": "C:\\ProgramData\\VGUkIwAs\\cGIwMggILDMT"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\TiMEskoI\\SGEkskAA.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYA.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\VGUkIwAs\\cGIwMggI.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\EmoQYIoo.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\FwUyX0goDh"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\FwUyX0goDhXWYZ"
+			},
+			{
+				"path": "C:\\ProgramData\\kqYI.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\tMwU.ico"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Fscy.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\KAcg.ico"
+			},
+			{
+				"path": "C:\\Users\\user\\TiMEskoI\\SGEkskAAZKSW"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYACOHO"
+			},
+			{
+				"path": "C:\\ProgramData\\VGUkIwAs\\cGIwMggILDMT"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\FwUyX0goDhXWYZ"
+			},
+			{
+				"path": "C:\\Users\\user\\TiMEskoI\\SGEkskAA.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYA.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\EmoQYIoo.bat"
+			},
+			{
+				"path": "C:\\Users\\user\\TiMEskoI\\SGEkskAAZKSW"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\CQEwoYcw\\EQgsEMYACOHO"
+			},
+			{
+				"path": "C:\\ProgramData\\VGUkIwAs\\cGIwMggILDMT"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\emUQEAwY"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\vWcYosAs"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\1&@"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\9&@"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\A&@"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\I&@"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\Q&@"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\bEoAogkQ1"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\HAksQAgc1"
+			},
+			{
+				"name": "\\BaseNamedObjects\\emUQEAwY"
+			},
+			{
+				"name": "\\BaseNamedObjects\\vWcYosAs"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.30",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "VirtualAlloc_VirtualAlloc_CreateToolhelp32Snapshot_CreateToolhelp32Snapshot_CreateToolhelp32Snapshot_CreateToolhelp32Snapshot_unknown_Process32First_Process32First_Process32Next_Process32Next_CreateDirectoryW_SetFileAttributesW_SetFileAttributesW_SetFileAttributesW_SetFileAttributesW_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CreateFileW_SetFilePointer_WriteFile_WriteFile_WriteFile_WriteFile_CloseHandle_SetFileAttributesW_SetFileAttributesW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_RegOpenKeyExA_RegOpenKeyExA_RegSetValueExW_CreateToolhelp32Snapshot_CreateToolhelp32Snapshot_CreateToolhelp32Snapshot_unknown_Process32First_Process32First_Process32Next_Process32Next_CreateDirectoryW_SetFileAttributesW_SetFileAttributesW_SetFileAttributesW_CreateFileW_SetFilePointer_WriteFile_WriteFile_WriteFile_WriteFile_SetFileAttributesW_SetFileAttributesW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_RegOpenKeyExA_RegSetValueExW_VirtualAlloc_RegOpenKeyExW_RegQueryValueExW_RegSetValueExW_RegCloseKey_RegOpenKeyExW_RegQueryValueExW_RegSetValueExW_GetFileAttributesW_CreateDirectoryW_CreateDirectoryW_SetFileAttributesW_SetFileAttributesW_GetFileAttributesW_GetFileAttributesW_CreateFileW_SetFilePointer_WriteFile_WriteFile_WriteFile_WriteFile_CloseHandle_SetFileAttributesW_SetFileAttributesW_GetFileAttributesW_OpenServiceW_OpenServiceW_OpenServiceW_OpenServiceW_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_CreateFileW_WriteFile_CloseHandle_CreateFileW_WriteFile_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1059,T1569.002",
+		"ATT&CK(Persistence)": "T1543.003,T1547.001",
+		"ATT&CK(Privilege Escalation)": "T1543.003,T1055,T1547.001",
+		"ATT&CK(Defense Evasion)": "T1036,T1497,T1055,T1027,T1027.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1518.001,T1497,T1057,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573,T1105"
+	}
+}

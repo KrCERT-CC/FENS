@@ -1,0 +1,1513 @@
+{
+	"md5": "97902d374073e8a24e8691b62e1760db",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "USER32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "MSVCRT.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "RfuxqjZoznko"
+			},
+			{
+				"type": "C-Style",
+				"string": "ntdll.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "EXPLORER.EXE"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(6.0)[msvcrt]",
+		"linker": "Microsoft Linker(6.0*)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "98304:q9ggxC9Y5lpuG8Am9pZxwgKxC3ud6MOIvysiWCQKzo5qphIHVruP3WpF3UdE1hZe:qSQIG8FxBGQnMkhgJuP32+dmhZk/X",
+		"section Fuzzyhash(.data)": "3:QfhtHJSSXzil1JSSXzily8SEtRQcv/blllrnH/ht/ssllYh1K+rljH9gll+Xl:QfrpPXzi1PXziEDEtRlBf/y1jN9j",
+		"rich header": "44616e53000000000000000000000000e81f0a000b000000831c0e0001000000e81f040002000000621f1300050000000000010023000000e81f0b0001000000b806060001000000",
+		"PE Image": "binary_97902d374073e8a24e8691b62e1760db.jpg",
+		"bytecode": "binary_97902d374073e8a24e8691b62e1760db.byte",
+		"opcode": "push,push,mov,push,push,mov,push,push,call,jnz,cmp,jnz,mov,push,add,push,call,jnz,cmp,jnz,mov,push,add,push,call,jnz,mov,mov,mov,add,add,mov,jz,mov,push,add,push,call,jnz,mov,mov,mov,add,mov,mov,cmp,jnz,jz,mov,mov,cmp,jnz,add,add,jnz,xor,jmp,sbb,sbb,jnz,mov,push,lea,push,call,jz,add,push,push,add,call,jz,pop,pop,pop,xor,pop,pop,mov,pop,add,pop,pop,push,lea,push,call,jnz,mov,mov,pop,add,pop,pop,pop,sub,push,mov,push,mov,xor,lea,mov,mov,mov,mov,cmp,jnz,mov,add,mov,cmp,jnz,push,push,push,call,mov,add,push,push,call,push,call,push,mov,call,add,push,push,call,push,call,push,mov,call,add,push,push,call,push,call,push,mov,call,add,push,push,call,push,call,push,mov,call,add,push,push,call,push,call,push,mov,call,add,push,push,call,push,call,push,mov,call,add,push,push,call,push,call,mov,lea,mov,lea,push,push,push,push,push,push,push,push,push,push,call,mov,mov,mov,push,push,call,mov,push,push,mov,mov,mov,push,push,push,call,mov,push,mov,mov,mov,push,push,push,push,call,mov,xor,cmp,jbe,xor,mov,push,mov,add,lea,mov,mov,push,mov,mov,add,push,mov,mov,add,push,push,call,mov,xor,inc,add,mov,cmp,jl,mov,lea,push,push,call,mov,mov,mov,mov,lea,add,push,push,mov,call,mov,push,call,pop,pop,pop,pop,add,push,mov,push,mov,xor,xor,not,dec,jz,mov,mov,sub,mov,xor,inc,not,dec,cmp,jb,mov,pop,pop,sub,lea,push,push,push,xor,push,xor,mov,inc,add,cmp,jl,mov,mov,xor,lea,mov,xor,div,xor,mov,mov,add,add,jns,dec,inc,mov,mov,mov,mov,mov,add,inc,cmp,mov,jl,mov,xor,jbe,mov,inc,jns,dec,inc,mov,add,jns,dec,inc,mov,mov,mov,mov,mov,mov,mov,add,jns,dec,inc,mov,xor,inc,cmp,jb,pop,mov,pop,pop,pop,add,mov,pop,pop,pop,pop,add,sub,push,push,push,push,call,lea,push,push,push,call,push,push,push,call,mov,jz,mov,push,push,call,mov,push,push,mov,call,mov,jz,push,call,mov,jz,push,push,push,call,mov,jz,push,push,call,push,push,mov,call,mov,jz,push,call,jz,mov,push,push,push,push,call,lea,push,push,call,add,pop,pop,pop,xor,pop,add,push,mov,push,push,push,call,mov,add,jz,inc,push,mov,xor,not,mov,mov,shr,mov,pop,pop,pop,sub,push,push,push,push,mov,xor,lea,mov,call,push,push,mov,call,mov,lea,push,push,call,jz,lea,push,push,call,jz,lea,push,call,lea,xor,add,not,dec,lea,push,push,call,mov,lea,mov,mov,cmp,jnz,jz,mov,mov,cmp,jnz,add,add,jnz,xor,jmp,sbb,sbb,mov,jnz,mov,cmp,jnz,mov,mov,lea,push,push,call,jnz,mov,mov,cmp,jz,push,push,push,call,push,push,call,pop,pop,pop,pop,add,mov,xor,lea,push,push,mov,call,lea,mov,push,push,call,jz,mov,mov,jmp,mov,cmp,jnz,lea,push,push,call,mov,xor,lea,not,sub,mov,mov,mov,mov,dec,shr,mov,lea,mov,not,sub,mov,mov,mov,mov,dec,shr,mov,lea,not,dec,lea,push,push,call,lea,xor,lea,not,dec,push,lea,push,push,call,add,jz,lea,push,call,add,mov,lea,mov,mov,cmp,jnz,jz,mov,mov,cmp,jnz,add,add,jnz,xor,jmp,sbb,sbb,jnz,mov,push,push,push,call,push,push,call,mov,lea,push,push,call,jnz,pop,pop,pop,pop,add,xor",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "e5c106e1997eefd87fedd3ebf24130e0"
+			},
+			{
+				"section": ".rdata",
+				"md5": "a28ffcefd4acb61f569a0294dbf7f9ec"
+			},
+			{
+				"section": ".data",
+				"md5": "de05211d9fc6d3ff0aa4a1f2ecace216"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "bde49e62bb9b377e0ee646686241b13e"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "97902d374073e8a24e8691b62e1760db",
+		"SHA1": "3e313e79ad5a6356deebf287d95b38aa20c32250",
+		"SHA256": "00026df16d5998bebf02045815df85e742d13c3ec2e05d9beb2e7f4f2453d1b3",
+		"EntryPoint": "4018ba",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 11699760,
+		"Original FileName": "",
+		"Entropy": 6.911,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2008-10-25 16:02:34(2008-10-25 07:02:34 UTC)",
+		"Import Hash": "cc405bf3f9e096e34e0af9509fff57c8",
+		"Section Info": [
+			".text:0x1000:0xa4c:0x400:0xc00:5.71463298225",
+			".rdata:0x2000:0x3be:0x1000:0x400:4.69605606129",
+			".data:0x3000:0x108:0x1400:0x200:2.40708668517",
+			".rsrc:0x4000:0x11880:0x1600:0x11a00:7.26335456382"
+		],
+		"Resource": [
+			"RT_ICON:0x4268:0x2e8:dBase III DBT, version number 0, next free block index 40::",
+			"RT_ICON:0x4550:0x128:GLS_BINARY_LSB_FIRST::",
+			"RT_ICON:0x4678:0xea8:data::",
+			"RT_ICON:0x5520:0x8a8:dBase III DBT, version number 0, next free block index 40::",
+			"RT_ICON:0x5dc8:0x568:GLS_BINARY_LSB_FIRST::",
+			"RT_ICON:0x6330:0x25a8:data::",
+			"RT_ICON:0x88d8:0x10a8:data::",
+			"RT_ICON:0x9980:0x468:GLS_BINARY_LSB_FIRST::",
+			"RT_RCDATA:0x9de8:0xba00:data::",
+			"RT_RCDATA:0x157e8:0xf:data::",
+			"RT_GROUP_ICON:0x157f8:0x86:data::"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\LogonSoundHasBeenPlayed"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CD Burning\\Drives\\Volume{8d413339-3c42-11ec-89c5-806e6f6e6963}\\Current Media"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\HomeGroup\\UIStatusCache"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.zip\\OpenWithProgids",
+				"name": "Unpacker"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CD Burning\\StagingInfo\\Volume{8d413339-3c42-11ec-89c5-806e6f6e6963}",
+				"name": "DriveNumber"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CD Burning\\Drives\\Volume{8d413339-3c42-11ec-89c5-806e6f6e6963}\\Current Media",
+				"name": "TotalBytes"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CD Burning\\Drives\\Volume{8d413339-3c42-11ec-89c5-806e6f6e6963}\\Current Media",
+				"name": "FreeBytes"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CD Burning\\Drives\\Volume{8d413339-3c42-11ec-89c5-806e6f6e6963}\\Current Media",
+				"name": "Blank Disc"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CD Burning\\Drives\\Volume{8d413339-3c42-11ec-89c5-806e6f6e6963}\\Current Media",
+				"name": "Can Close"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CD Burning\\Drives\\Volume{8d413339-3c42-11ec-89c5-806e6f6e6963}\\Current Media",
+				"name": "Live FS"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CD Burning\\Drives\\Volume{8d413339-3c42-11ec-89c5-806e6f6e6963}\\Current Media",
+				"name": "Disc Label"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CD Burning\\Drives\\Volume{8d413339-3c42-11ec-89c5-806e6f6e6963}\\Current Media",
+				"name": "Set"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\HomeGroup\\UIStatusCache",
+				"name": "UIStatus"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\HomeGroup\\UIStatusCache",
+				"name": "OnlyMember"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\UserAssist\\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\\Count",
+				"name": "Zvpebfbsg.Jvaqbjf.Furyy.EhaQvnybt"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Local Settings\\MuiCache\\29\\52C64B7E",
+				"name": "@C:\\Windows\\System32\\display.dll,-4"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Local Settings\\MuiCache\\29\\52C64B7E",
+				"name": "@C:\\Program Files\\Windows Sidebar\\sidebar.exe,-11100"
+			},
+			{
+				"path": "HKEY_CURRENT_USER_CLASSES\\Local Settings\\MuiCache\\29\\52C64B7E",
+				"name": "@C:\\Windows\\system32\\themecpl.dll,-10"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\UserAssist\\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\\Count",
+				"name": "{7P5N40RS-N0SO-4OSP-874N-P0S2R0O9SN8R}\\mVmbkqAeifcBVROHsECZCSyOZayhLCTXcWLppYUYtMaOzpRWTBwUKGQnsYiKzZdWuRKW\\HEPUuGjLpKjSJq.rkr"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "WinIcons"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "C:\\Users\\user\\Desktop\\8VA461JqXL.exe"
+			},
+			{
+				"cmdline": "cmd /c reg ADD HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run /v WinIcons /t REG_SZ /d C:\\Windows\\system32\\winicons.exe /f"
+			},
+			{
+				"cmdline": "reg  ADD HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run /v WinIcons /t REG_SZ /d C:\\Windows\\system32\\winicons.exe /f"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "unknown"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\8VA461JqXL.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\reg.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\winicons.exe"
+			},
+			{
+				"path": "C:\\good_dogs.scr"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\3938949242.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\sychost.exe"
+			},
+			{
+				"path": "C:\\log.txt"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Explorer"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\WPDNSE"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WER\\ERC"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\WER\\ERC\\statecache.lock"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Themes\\"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\3938949242.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\WPDNSE"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\winicons.exe"
+			},
+			{
+				"path": "C:\\good_dogs.scr"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\3938949242.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\sychost.exe"
+			},
+			{
+				"path": "C:\\log.txt"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\8VA461JqXL.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\3938949242.exe"
+			},
+			{
+				"path": "C:\\log.txt"
+			},
+			{
+				"path": "C:\\good_dogs.scr"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\IconCache.db"
+			},
+			{
+				"path": "\\pipe\\srvsvc"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Burn\\Burn\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\Internet Explorer.lnk"
+			},
+			{
+				"path": "C:\\Program Files\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\Windows Explorer.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\Windows Media Player.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\Chrome.lnk"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Maintenance\\Desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Accessibility\\Desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Maintenance\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Accessibility\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Tablet PC\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows PowerShell\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\User Account Pictures\\user.bmp"
+			},
+			{
+				"path": "\\pipe\\samr"
+			},
+			{
+				"path": "C:\\Windows\\win.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Acrobat Reader DC.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Bandizip.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Chrome.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Firefox.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Google Chrome.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\Skype.lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\?? ??????? .lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\?? ?? .lnk"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\????? ?? 2014.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\Telegram.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Libraries\\desktop.ini"
+			},
+			{
+				"path": "\\pipe\\wkssvc"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Libraries\\Documents.library-ms"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\Media\\Windows Logon Sound.wav"
+			},
+			{
+				"path": "C:\\$Recycle.Bin\\S-1-5-21-4206988577-48916863-2504694757-1000\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Libraries\\Pictures.library-ms"
+			},
+			{
+				"path": "C:\\Users\\user\\Pictures\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Pictures\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Libraries\\Music.library-ms"
+			},
+			{
+				"path": "C:\\Users\\user\\Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Music\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\GAOBCVIQIJ.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\SUAVTZKNFL.jpg"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\BNAGMGSPLO.png"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\QNCYCDFIJJ.png"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\langs\\English.lang"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\reg.exe"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\***BELARUS-VIRUS-MAKER***"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\Local\\ExplorerIsShellMutex"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "https://crbug.com/896575",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/371562.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/473845",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://crbug.com/593166",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.google.com/chrome/answer/6098869",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://accounts.google.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://surveys.google.com/unit?site=z4cctguzopq5x2ftal6vdgjrui",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/510270",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://policies.google.com/terms",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/378067",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.foo.com/bar",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.google.com/cloudprint#jobs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://crbug.com/837107):",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.google.com/speech-api/v2/synthesize?",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.dropbox.com/oauth2/authorize",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.google.com/legal/answer/3110420",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docshttps://docs.oracle.com/javase/8/docs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.google.com/cloudprint",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/415315",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://developers.google.com/chrome-developer-tools/docs/remote-debugging",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/497301",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://crbug.com/701034",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/122474.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/642141",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://go.bandisoft.com/amsi",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://foo.com/bar#NAMEDDEST.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/717501",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.symauth.com/cps09",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/839189",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://chrome.google.com/webstore",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://crbug.com/787427.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/320723",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/541769",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.symauth.com/cps0(",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/819404",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/514696",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/908458",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://myactivity.google.com/myactivity/?utm_source=chrome_n",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/319444",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/516527",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://policies.google.com/privacy",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.symauth.com/rpa04",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://chrome.google.com/webstore/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.google.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://myactivity.google.com/myactivity/?utm_source=chrome_h",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/415315.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.google.com/chrome/?p=ui_supervised_users&hl=en",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.google.com/chrome/answer/118142065",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/235689.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/470411",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.google.com/chrome/answer/6258784",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://docs.oracle.com/javase/8/docs1",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/775961",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.google.com/chrome/?p=plugin_flash",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/319444.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://codereview.chromium.org/25305002).",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/258526.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://code.google.com/p/chromium/issues/detail?id=162044",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://code.google.com/p/chromium/issues/detail?id=162042",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://developer.mozilla.org/en/DOM/document.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/275944",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.google.com/chrome/cleanup-tool/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://chrome.google.com/webstore?hl=enShortcut",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.thawte.com/ThawteTimestampingCA.crl0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/478929",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://go.bandi.so/apptranslation",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://developer.chrome.com/devtools/docs/remote-debugging#reverse-port-forwarding",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/932466",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.spumor.narod.ru/a18.jpg",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://developer.chrome.com/apps/usb.html#method-listInterfaces",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/112091",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/263077).",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://chrome.google.com/webstore/category/extensions",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/371562",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/469522",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://github.com/v8/v8/wiki/Stack%20Trace%20API.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://code.google.com/p/chromium/issues/entry",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ocsp.thawte.com0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://wiki.greasespot.net/Greasemonkey_Manual:APIs",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/312900.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://go.band=KC",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.google.com/cloudprint/answer/2541843",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/672186).",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/312900",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.google.com/pixelbook/answer/7659411",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/437891.",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://support.google.com/chrome/go/feedback_confirmation",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://chrome.google.com/webstore?hl=en&category=theme",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.json.com/json-schema-proposal/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.dropbox.com/oauth2/authorizewww.dropbox.comdropbox_hostredirect_urihttps%3A%2F%2Facrobat",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://img.sunhome.ru/UsersGallery/wallpapers/94/23172203.jpg",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crbug.com/456214",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.foo.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.google.com/cloudprint/enable_chrome_connector",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.30",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_CreateToolhelp32Snapshot_CreateToolhelp32Snapshot_CreateToolhelp32Snapshot_CreateToolhelp32Snapshot_RtlUserThreadStart_Process32First_Process32First_Process32Next_Process32Next_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_TerminateProcess_LdrInitializeThunk_LdrInitializeThunk_unknown_RtlUserThreadStart_RtlUserThreadStart_KiUserExceptionDispatcher_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_NtUnmapViewOfSection_VirtualAllocEx_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_WriteProcessMemory_Wow64SetThreadContext_ResumeThread_exit_exit_exit_exit_exit_exit_exit",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1059,T1106",
+		"ATT&CK(Persistence)": "T1547.001,T1574.002,T1546.011",
+		"ATT&CK(Privilege Escalation)": "T1055,T1547.001,T1574.002,T1546.011",
+		"ATT&CK(Defense Evasion)": "T1036,T1112,T1497,T1055,T1027,T1574.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1057,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1105"
+	}
+}

@@ -1,0 +1,414 @@
+{
+	"md5": "0954ea751efc631744016a3bf072d6b0",
+	"data": {
+		"String": [],
+		"Packer": "UPX(3.01)[NRV,brute]",
+		"compiler": "Microsoft Visual Basic(6.0)",
+		"linker": "Microsoft Linker(6.0*)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "98304:vl0l1lZl1ldl0l1lZl1ldl0l1lZl1ldl0l1lZl1ldl0l1lZl1ldl0l1lZl1ldl0F:A",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "44616e53000000000000000000000000831c0e0001000000691f090006000000e91f0d0001000000",
+		"PE Image": "binary_0954ea751efc631744016a3bf072d6b0.jpg",
+		"bytecode": "binary_0954ea751efc631744016a3bf072d6b0.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "UPX1",
+				"md5": "0423bfd9a70f8cdc1f0af07f4cf1bbf0"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "35803b639d72591ab2c889e017953065"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "0954ea751efc631744016a3bf072d6b0",
+		"SHA1": "a1ce9991c50b35f8dc57674de9309a2d5f662f31",
+		"SHA256": "0003f4b6da5178ecd5193403813e3defa0329a0e7e3675b27ba95b38d9128456",
+		"EntryPoint": "4a3760",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 22176121,
+		"Original FileName": "Launch_U3.exe",
+		"Entropy": 6.609,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2008-04-01 10:58:22(2008-04-01 01:58:22 UTC)",
+		"Import Hash": "5f116d8e20f7d894b4b4ecbad1704009",
+		"Section Info": [
+			"UPX0:0x1000:0x85000:0x400:0x0:0",
+			"UPX1:0x86000:0x1e000:0x400:0x1da00:7.88135597621",
+			".rsrc:0xa4000:0x6000:0x1de00:0x5e00:4.3533282852"
+		],
+		"Resource": [
+			"RT_ICON:0xa41dc:0x568:GLS_BINARY_LSB_FIRST::",
+			"RT_ICON:0xa4748:0x8a8:data::",
+			"RT_ICON:0xa4ff4:0xea8:data::",
+			"RT_ICON:0xa5ea0:0x468:GLS_BINARY_LSB_FIRST::",
+			"RT_ICON:0xa630c:0x10a8:data::",
+			"RT_ICON:0xa73b8:0x25a8:data::",
+			"RT_GROUP_ICON:0xa9964:0x5c:data::",
+			"RT_VERSION:0xa99c4:0x1f4:data:English:United States"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\lnkfile\\shell"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\lnkfile\\shell\\open"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\lnkfile\\shell\\open\\command"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Policies\\Microsoft\\Windows NT\\SystemRestore"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Policies\\Microsoft\\Windows\\Installer"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Control Panel\\Desktop",
+				"name": "SCRNSAVE.EXE"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Control Panel\\Desktop",
+				"name": "ScreenSaverIsSecure"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Control Panel\\Desktop",
+				"name": "ScreenSaveTimeOut"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "Depkominfo"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "Serviceinsec"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "Logoninsec"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "System Monitoring"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AeDebug",
+				"name": "Debugger"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AeDebug",
+				"name": "Auto"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\lnkfile\\shell\\open\\command",
+				"name": "NULL"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\SystemRestore",
+				"name": "DisableConfig"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\SystemRestore",
+				"name": "DisableSR"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Installer",
+				"name": "LimitSystemRestoreCheckpointing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Installer",
+				"name": "DisableMSI"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+				"name": "ShowSuperHidden"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\MUICache",
+				"name": "@C:\\WINDOWS\\system32\\SHELL32.dll,-9217"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\MUICache",
+				"name": "@C:\\WINDOWS\\system32\\SHELL32.dll,-8964"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\MUICache",
+				"name": "@shell32.dll,-30509"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\MUICache",
+				"name": "@shell32.dll,-21785"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CabinetState",
+				"name": "FullPathAddress"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "C:\\Windows\\WlNLOGON.EXE"
+			},
+			{
+				"cmdline": "C:\\Windows\\system32\\Shell.exe"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\Local Settings\\Application Data\\WINDOWS\\CSRSS.EXE"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\Local Settings\\Application Data\\WINDOWS\\SERVICES.EXE"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DF5DB66E459B35FBB1.TMP"
+			},
+			{
+				"path": "C:\\Windows\\msvbvm60.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\OEMLOGO.BMP"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\OEMINFO.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Local Settings\\Application Data\\smss.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Local Settings\\Application Data\\csrss.exe"
+			},
+			{
+				"path": "C:\\Explorer"
+			},
+			{
+				"path": "C:\\Explorer\\Folder.htt"
+			},
+			{
+				"path": "C:\\Explorer\\Index.htm"
+			},
+			{
+				"path": "C:\\desktop.ini"
+			},
+			{
+				"path": "C:\\Depkominfo_Didefaced.htm"
+			},
+			{
+				"path": "C:\\Explorer\\Launch_U3.exe"
+			},
+			{
+				"path": "C:\\Explorer\\msvbvm60.dll"
+			},
+			{
+				"path": "C:\\LaunchU3user.exe"
+			},
+			{
+				"path": "C:\\Explorer\\Roy.bmp"
+			},
+			{
+				"path": "C:\\Users\\user\\Local Settings\\Application Data\\WINDOWS"
+			},
+			{
+				"path": "C:\\Windows\\WlNLOGON.EXE"
+			},
+			{
+				"path": "C:\\WlNLOGON.EXE"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shell.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\Telematika.scr"
+			},
+			{
+				"path": "C:\\Users\\All Users\\Start Menu\\Programs\\Startup\\Adobe Gamma Loader.pif"
+			},
+			{
+				"path": "C:\\Users\\user\\Local Settings\\Application Data\\WINDOWS\\CSRSS.EXE"
+			},
+			{
+				"path": "C:\\Users\\user\\Local Settings\\Application Data\\WINDOWS\\SERVICES.EXE"
+			},
+			{
+				"path": "C:\\Users\\user\\Local Settings\\Application Data\\WINDOWS\\SMSS.EXE"
+			},
+			{
+				"path": "C:\\Windows\\120.0.0.1.htm"
+			},
+			{
+				"path": "C:\\Windows\\Desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DF3138D1E58D6469A0.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DFEF7F9054624988D8.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DF21DCA2975F723C8A.TMP"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Windows\\msvbvm60.dll"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\OEMLOGO.BMP"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\OEMINFO.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\smss.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\csrss.exe"
+			},
+			{
+				"path": "C:\\Explorer\\Folder.htt"
+			},
+			{
+				"path": "C:\\Explorer\\Index.htm"
+			},
+			{
+				"path": "C:\\desktop.ini"
+			},
+			{
+				"path": "C:\\Depkominfo_Didefaced.htm"
+			},
+			{
+				"path": "C:\\Explorer\\Launch_U3.exe"
+			},
+			{
+				"path": "C:\\Explorer\\msvbvm60.dll"
+			},
+			{
+				"path": "C:\\LaunchU3user.exe"
+			},
+			{
+				"path": "C:\\Explorer\\Roy.bmp"
+			},
+			{
+				"path": "C:\\Windows\\WlNLOGON.EXE"
+			},
+			{
+				"path": "C:\\WlNLOGON.EXE"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shell.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\Telematika.scr"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Adobe Gamma Loader.pif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\WINDOWS\\CSRSS.EXE"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\WINDOWS\\SERVICES.EXE"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\WINDOWS\\SMSS.EXE"
+			},
+			{
+				"path": "C:\\Windows\\120.0.0.1.htm"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Windows\\Desktop.ini"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\msvbvm60.dll"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Documents\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\oNeLIkgQVM.exe"
+			},
+			{
+				"path": "C:\\LaunchU3user.exe"
+			},
+			{
+				"path": "C:\\Windows\\WlNLOGON.EXE"
+			},
+			{
+				"path": "C:\\WlNLOGON.EXE"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\shell.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\Telematika.scr"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Adobe Gamma Loader.pif"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\WINDOWS\\CSRSS.EXE"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\WINDOWS\\SERVICES.EXE"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\WINDOWS\\SMSS.EXE"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://ns.a",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Adware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_GetFileType_SysAllocStringLen_unknown_VarBstrCat_FindFirstFileA_FindNextFileA_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_FindFirstFileA_FindNextFileA_VarBstrCat_VarBstrCat_VarBstrCat_VarBstrCat_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_GetFileType_FindFirstFileA_FindNextFileA_VariantChangeTypeEx_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW",
+		"ATT&CK(Initial Access)": "T1091",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "T1037.005,T1547.001",
+		"ATT&CK(Privilege Escalation)": "T1037.005,T1055,T1547.001",
+		"ATT&CK(Defense Evasion)": "T1036,T1562.001,T1222,T1055,T1564.001,T1027,T1027.002",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1057,T1120,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "T1091",
+		"ATT&CK(Collection)": "T1185",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}

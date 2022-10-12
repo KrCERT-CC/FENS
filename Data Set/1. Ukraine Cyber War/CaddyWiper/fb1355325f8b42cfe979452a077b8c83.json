@@ -1,0 +1,1436 @@
+{
+	"md5": "fb1355325f8b42cfe979452a077b8c83",
+	"data": {
+		"String": [
+			{
+				"string": "kernel32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetDllDirectoryW",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetSearchPathMode",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetProcessDEPPolicy",
+				"type": "C-Style"
+			},
+			{
+				"string": "\tException",
+				"type": "C-Style"
+			},
+			{
+				"string": "m/d/yy",
+				"type": "C-Style"
+			},
+			{
+				"string": "mmmm d, yyyy",
+				"type": "C-Style"
+			},
+			{
+				"string": " AMPM",
+				"type": "C-Style"
+			},
+			{
+				"string": ":mm:ss",
+				"type": "C-Style"
+			},
+			{
+				"string": "USERPROFILE",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetUserDefaultUILanguage",
+				"type": "C-Style"
+			},
+			{
+				"string": "kernel32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": ".DEFAULT\\Control Panel\\International",
+				"type": "C-Style"
+			},
+			{
+				"string": "Locale",
+				"type": "C-Style"
+			},
+			{
+				"string": "Control Panel\\Desktop\\ResourceLocale",
+				"type": "C-Style"
+			},
+			{
+				"string": "[ExceptObject=nil]",
+				"type": "C-Style"
+			},
+			{
+				"string": "File I/O error %d",
+				"type": "C-Style"
+			},
+			{
+				"string": "Compressed block is corrupted",
+				"type": "C-Style"
+			},
+			{
+				"string": "Compressed block is corrupted",
+				"type": "C-Style"
+			},
+			{
+				"string": "Compressed block is corrupted",
+				"type": "C-Style"
+			},
+			{
+				"string": "lzmadecompsmall: Compressed data is corrupted (%d)",
+				"type": "C-Style"
+			},
+			{
+				"string": "lzmadecompsmall: %s",
+				"type": "C-Style"
+			},
+			{
+				"string": "LzmaDecode failed (%d)",
+				"type": "C-Style"
+			},
+			{
+				"string": "etupLanguageEntryA",
+				"type": "C-Style"
+			},
+			{
+				"string": "The setup files are corrupted. Please obtain a new copy of the program.",
+				"type": "C-Style"
+			},
+			{
+				"string": "Wow64DisableWow64FsRedirection",
+				"type": "C-Style"
+			},
+			{
+				"string": "kernel32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "Wow64RevertWow64FsRedirection",
+				"type": "C-Style"
+			},
+			{
+				"string": "shell32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SeShutdownPrivilege",
+				"type": "C-Style"
+			},
+			{
+				"string": "/SPAWNWND=",
+				"type": "C-Style"
+			},
+			{
+				"string": "/Lang=",
+				"type": "C-Style"
+			},
+			{
+				"string": "The setup files are corrupted. Please obtain a new copy of the program.",
+				"type": "C-Style"
+			},
+			{
+				"string": "InnoSetupLdrWindow",
+				"type": "C-Style"
+			},
+			{
+				"string": "STATIC",
+				"type": "C-Style"
+			},
+			{
+				"string": "/SL5=\"$%x,%d,%d,",
+				"type": "C-Style"
+			},
+			{
+				"string": "Runtime error   ",
+				"type": "C-Style"
+			},
+			{
+				"string": "  at 00000000",
+				"type": "C-Style"
+			},
+			{
+				"string": "Error",
+				"type": "C-Style"
+			},
+			{
+				"string": "Inno Setup Setup Data (5.5.0)",
+				"type": "C-Style"
+			},
+			{
+				"string": "Inno Setup Messages (5.5.0)",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Borland Delphi(2)",
+		"linker": "Turbo Linker(2.25*,Delphi)[EXE32,admin]",
+		"PDB path": "",
+		"full Fuzzyhash": "393216:oIBfTjC9I0rvX+XMwr5Gh0XIn7Bn6jszY0eGeOfdOuVDyzNzPUwKonKzK:5rjC60zX+XRr5WxnoiY6ouMRzceKzK",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_fb1355325f8b42cfe979452a077b8c83.jpg",
+		"bytecode": "binary_fb1355325f8b42cfe979452a077b8c83.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "CODE",
+				"md5": "ab7597fd79b9d0a17bd1baa69835f2f7"
+			},
+			{
+				"section": "DATA",
+				"md5": "acdc962544afd7e8888841346d1b6a37"
+			},
+			{
+				"section": ".idata",
+				"md5": "bb5485bf968b970e5ea81292af2acdba"
+			},
+			{
+				"section": ".rdata",
+				"md5": "9ba824905bf9c7922b6fc87a38b74366"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "a2e166763a86273252628c2a5013e9bd"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "fb1355325f8b42cfe979452a077b8c83",
+		"SHA1": "995c5d1fa5220f40f02ff5f408488fd7a9a77f9d",
+		"SHA256": "00008ca3ecce6264c91072eb13d24fa47f55ca4380b7a06fafa76a94af64ef0c",
+		"EntryPoint": "409c14",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 19990137,
+		"Original FileName": "",
+		"Entropy": 7.999,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, BYTES_REVERSED_LO, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, BYTES_REVERSED_HI, RELOCS_STRIPPED",
+		"Timestamp": "1992-06-20 07:22:17(1992-06-19 22:22:17 UTC)",
+		"Import Hash": "884310b1928934402ea6fec1dbd3cf5e",
+		"Section Info": [
+			"CODE:0x1000:0x9338:0x400:0x9400:6.55605170303",
+			"DATA:0xb000:0x24c:0x9800:0x400:2.73917944482",
+			"BSS:0xc000:0xe8c:0x9c00:0x0:0",
+			".idata:0xd000:0x950:0x9c00:0xa00:4.4307330698",
+			".tls:0xe000:0x8:0xa600:0x0:0",
+			".rdata:0xf000:0x18:0xa600:0x200:0.20448815744",
+			".reloc:0x10000:0x8b0:0xa800:0x0:0",
+			".rsrc:0x11000:0x53b8:0xa800:0x5400:3.59541483356"
+		],
+		"Resource": [
+			"RT_ICON:0x11324:0x25a8:data:English:United States",
+			"RT_ICON:0x138cc:0x10a8:data:English:United States",
+			"RT_ICON:0x14974:0x468:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_STRING:0x14ddc:0x2f2:data::",
+			"RT_STRING:0x150d0:0x30c:data::",
+			"RT_STRING:0x153dc:0x2ce:data::",
+			"RT_STRING:0x156ac:0x68:data::",
+			"RT_STRING:0x15714:0xb4:data::",
+			"RT_STRING:0x157c8:0xae:data::",
+			"RT_RCDATA:0x15878:0x2c:data::",
+			"RT_GROUP_ICON:0x158a4:0x30:data:English:United States",
+			"RT_VERSION:0x158d4:0x4b8:COM executable for DOS:English:United States",
+			"RT_MANIFEST:0x15d8c:0x62c:XML 1.0 document, ASCII text, with CRLF line terminators::"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\ThirdParty\\"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Google\\Chrome"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Google\\Chrome\\Extensions"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Google\\Update\\ClientStateMedium\\{8A69D345-D564-463c-AFF1-A69D9E530F96}\\LastWasDefault"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000",
+				"name": "Owner"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000",
+				"name": "SessionHash"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000",
+				"name": "Sequence"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000",
+				"name": "RegFiles0000"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Microsoft\\RestartManager\\Session0000",
+				"name": "RegFilesHash"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "Inno Setup: Setup Version"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "Inno Setup: App Path"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "InstallLocation"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "Inno Setup: Icon Group"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "Inno Setup: User"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "Inno Setup: Selected Tasks"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "Inno Setup: Deselected Tasks"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "Inno Setup: Language"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "DisplayName"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "DisplayIcon"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "UninstallString"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "UninstallDataFile"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "QuietUninstallString"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "DisplayVersion"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "Publisher"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "URLInfoAbout"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "NoModify"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "NoRepair"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "InstallDate"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "MajorVersion"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "MinorVersion"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\OCCT_is1",
+				"name": "EstimatedSize"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\ThirdParty",
+				"name": "StatusCodes"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "ahfgeienlihckogmohjhadlkjgocpleb"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "gdaefkejpgkiemlaofpalmlakkmbjdnl"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "gfdkimpbcpahaombhbimeihdjnejgicl"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "kmendfapggjehodndflmmgagdbamhnfd"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "mfehgcgbbipciphmccgaenjidiccnmng"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "mhjfbmdgcfjbbpaeojofohoefgiehjai"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "neajdppkdcdipfabeoofebfddakdcjhd"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "nkeimhogjdpnpccoofpliimaahmaaome"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default",
+				"name": "prefs.preference_reset_time"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "nkeimhogjdpnpccoofpliimaahmaaome"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "gdaefkejpgkiemlaofpalmlakkmbjdnl"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "gfdkimpbcpahaombhbimeihdjnejgicl"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "kmendfapggjehodndflmmgagdbamhnfd"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Google\\Update\\ClientStateMedium\\{8A69D345-D564-463C-AFF1-A69D9E530F96}\\LastWasDefault",
+				"name": "S-1-5-21-4206988577-48916863-2504694757-1000"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "gfdkimpbcpahaombhbimeihdjnejgicl"
+			},
+			{
+				"path": "HKEY_CURRENT_USER\\Software\\Google\\Chrome\\PreferenceMACs\\Default\\extensions.settings",
+				"name": "neajdppkdcdipfabeoofebfddakdcjhd"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Users\\user\\AppData\\Local\\Temp\\is-DORRS.tmp\\Aw8M1d13pT.tmp' /SL5='$50156,19657716,64512,C:\\Users\\user\\Desktop\\Aw8M1d13pT.exe' "
+			},
+			{
+				"cmdline": "'C:\\Windows\\regedit.exe' /S 'C:\\Users\\user\\Desktop\\settings.reg'"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe' --start-maximized --enable-automation   --single-argument https://lrepacks.net/"
+			},
+			{
+				"cmdline": "unknown"
+			},
+			{
+				"cmdline": "'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe' --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1032,17515233222380970315,14311165993954546884,131072 --lang=en-US --service-sandbox-type=network --mojo-platform-channel-handle=1208 /prefetch:8"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\Aw8M1d13pT.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-DORRS.tmp\\Aw8M1d13pT.tmp"
+			},
+			{
+				"path": "C:\\Windows\\regedit.exe"
+			},
+			{
+				"path": "unknown"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-DORRS.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-DORRS.tmp\\Aw8M1d13pT.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup\\_RegDLL.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup\\_setup64.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup\\_shfoldr.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\ISTask.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\VclStylesInno.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\MetroBlue.vsf"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\WizardForm.BitmapImage1.bmp"
+			},
+			{
+				"path": "C:\\Program Files\\OCCT"
+			},
+			{
+				"path": "C:\\Program Files\\OCCT\\unins000.dat"
+			},
+			{
+				"path": "C:\\Program Files\\OCCT\\is-AHIC7.tmp"
+			},
+			{
+				"path": "C:\\Program Files\\OCCT\\is-MMQL2.tmp"
+			},
+			{
+				"path": "C:\\Program Files\\OCCT\\is-J539H.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OCCT"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OCCT\\OCCT.lnk"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OCCT\\Uninstall.lnk"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Crashpad"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Crashpad\\reports"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\BrowserMetrics\\BrowserMetrics-630E79E0-920.pma"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\lockfile"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Sync Data\\LevelDB\\LOG"
+			},
+			{
+				"path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\Dictionaries"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\860d57a7-cd2d-494e-b3a7-f52e735a2b33.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Sessions\\Tabs_13306366689880139"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Site Characteristics Database\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Local Storage\\leveldb\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Session Storage\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Platform Notifications\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules\\LOCK"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules\\MANIFEST-000001"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules\\000001.dbtmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Local Storage\\leveldb\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\2de357b6-0de7-413f-9820-b51d4a5bb626.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\ee4e0d33-29e0-4f80-b555-bd5a89b0f349.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Sessions\\Session_13306366689404374"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Platform Notifications\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\75d5cad4-2906-4665-abc7-98500d57e3a9.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF5d8018.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\218b0e81-fcee-478e-b228-bba72f780bb1.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Secure Preferences~RF5d8076.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\b19b41ef-bc70-466a-b555-279283f45a80.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\b4cfcec4-ccec-4b9c-b202-26699a7033d7.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF5e6ac6.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF5e6af5.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\a9a8b09c-6eb6-4e14-aab2-6b1cb8415fd7.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\a9308cc0-4443-419a-a73d-24bf12c7e8a7.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF5f55e2.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF5f55e2.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\f51bbefe-0446-4490-b2c9-8cbf46bde07c.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\e25475d4-8fad-4f8c-a5e6-4552952d135e.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\e9a4b50c-a538-4bc9-b21d-e3d36ef00eb7.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\d7b13751-c565-4a3b-821a-040602710587.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\4c771cd6-36ab-472f-88fd-1d8e45a6e417.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension State\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF60410d.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\d0d63e97-12d3-4af3-9c7e-59d4c24bffe7.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\609be777-c00b-4aad-b59c-62f56d1b87da.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Secure Preferences~RF6041c8.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\blob_storage\\33416354-e4de-4079-9283-3178bdb8f17c"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\c31816a4-4b1c-4c1d-838c-ea955ceaf000.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\ac1c2e8c-8a71-4b3c-b973-0a13fc2e65a1.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF612cb5.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Secure Preferences~RF612cb5.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\4832c6cc-0808-4a68-b936-6fcd4e990ada.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF612ce4.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Session Storage\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\e74fc93a-e830-4070-bdee-f30682ed8ec3.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF630231.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\79d619e3-f67a-40ed-972c-89a2f0079076.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Secure Preferences~RF630231.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\data_reduction_proxy_leveldb\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\data_reduction_proxy_leveldb\\000005.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\data_reduction_proxy_leveldb\\MANIFEST-000004"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Safe Browsing Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Safe Browsing Cookies-journal"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-DORRS.tmp\\Aw8M1d13pT.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-DORRS.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\ISTask.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\MetroBlue.vsf"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\VclStylesInno.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\WizardForm.BitmapImage1.bmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup\\_RegDLL.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup\\_setup64.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup\\_shfoldr.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\860d57a7-cd2d-494e-b3a7-f52e735a2b33.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF5d8018.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Secure Preferences~RF5d8076.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF5e6ac6.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF5e6af5.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF5f55e2.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF5f55e2.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF60410d.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Secure Preferences~RF6041c8.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\blob_storage\\c1d0ea6d-3e8b-4eb5-bad8-854828cabec6"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF612cb5.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Secure Preferences~RF612cb5.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF612ce4.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\CrashpadMetrics.pma"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\BrowserMetrics\\BrowserMetrics-6181222F-918.pma"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\BrowserMetrics\\BrowserMetrics-630E79E0-920.pma"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\chrome_shutdown_ms.txt"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF630231.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Secure Preferences~RF630231.TMP"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-DORRS.tmp\\Aw8M1d13pT.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup\\_RegDLL.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup\\_setup64.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\_isetup\\_shfoldr.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\ISTask.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\VclStylesInno.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\MetroBlue.vsf"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\WizardForm.BitmapImage1.bmp"
+			},
+			{
+				"path": "C:\\Program Files\\OCCT\\is-AHIC7.tmp"
+			},
+			{
+				"path": "C:\\Program Files\\OCCT\\is-MMQL2.tmp"
+			},
+			{
+				"path": "C:\\Program Files\\OCCT\\is-J539H.tmp"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OCCT\\OCCT.lnk"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OCCT\\Uninstall.lnk"
+			},
+			{
+				"path": "C:\\Program Files\\OCCT\\unins000.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Crashpad\\settings.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Last Version"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Sync Data\\LevelDB\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Sync Data\\LevelDB\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\860d57a7-cd2d-494e-b3a7-f52e735a2b33.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Sessions\\Tabs_13306366689880139"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Site Characteristics Database\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Local Storage\\leveldb\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Session Storage\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Session Storage\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Platform Notifications\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules\\MANIFEST-000001"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules\\000001.dbtmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension Rules\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Local Storage\\leveldb\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Sessions\\Session_13306366689404374"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Platform Notifications\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\75d5cad4-2906-4665-abc7-98500d57e3a9.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\218b0e81-fcee-478e-b228-bba72f780bb1.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\b19b41ef-bc70-466a-b555-279283f45a80.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\b4cfcec4-ccec-4b9c-b202-26699a7033d7.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\a9a8b09c-6eb6-4e14-aab2-6b1cb8415fd7.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\a9308cc0-4443-419a-a73d-24bf12c7e8a7.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\d7b13751-c565-4a3b-821a-040602710587.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\4c771cd6-36ab-472f-88fd-1d8e45a6e417.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension State\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extension State\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\c31816a4-4b1c-4c1d-838c-ea955ceaf000.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\ac1c2e8c-8a71-4b3c-b973-0a13fc2e65a1.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\4832c6cc-0808-4a68-b936-6fcd4e990ada.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Session Storage\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\Session Storage\\000003.log"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\e74fc93a-e830-4070-bdee-f30682ed8ec3.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\ShaderCache\\GPUCache\\data_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\gfdkimpbcpahaombhbimeihdjnejgicl\\def\\GPUCache\\data_1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\79d619e3-f67a-40ed-972c-89a2f0079076.tmp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\data_reduction_proxy_leveldb\\LOG"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\data_reduction_proxy_leveldb\\MANIFEST-000004"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Safe Browsing Cookies-journal"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\Safe Browsing Cookies"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\Aw8M1d13pT.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-DORRS.tmp\\Aw8M1d13pT.tmp"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\MetroBlue.vsf"
+			},
+			{
+				"path": "C:\\Windows\\win.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\is-GORSN.tmp\\WizardForm.BitmapImage1.bmp"
+			},
+			{
+				"path": "C:\\Program Files\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "\\pipe\\srvsvc"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://cevcsca2021.ocsp-certum.com07",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.innosetup.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://lrepacks.net/informaciya/91-manifest.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://lrepacks.net/xt",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://restools.hanzify.org/U",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://lrepacks.net/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://ocsp.sectigo.com0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "Http://lrepack.com/donate.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://lrepacks.net/fm",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://lrepacks.net/nt",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.indiantypefoundry.comThis",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://restools.hanzify.org/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.sectigo.com/SectigoRSACodeSigningCA.crl0s",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://cevcsca2021.crl.certum.pl/cevcsca2021.crl0w",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.certum.pl/CPS0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.ocbase.com/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://lrepacks.net/https://lrepacks.net",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crt.sectigo.com/SectigoRSACodeSigningCA.crt0#",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://www.ocbase.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://repository.certum.pl/cevcsca2021.cer0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://lrepacks.net$",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "Http://lrepacks.ru/informaciya/91-manifest.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.dk-soft.org/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.sectigo.com/SectigoRSATimeStampingCA.crl0t",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://scripts.sil.org/OFLhttp://scripts.sil.org/OFLTekoSemiBold",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://lrepacks.net/lut",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://subca.ocsp-certum.com02",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://sectigo.com/CPS0C",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "https://sectigo.com/CPS0D",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://crl.certum.pl/ctnca2.crl0l",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://lrepacks.ru/informaciya/91-manifest.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://repository.certum.pl/ctnca2.cer09",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.hwinfo.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://lrepacks.ru/donate.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.remobjects.com/ps",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.certum.pl/CPS0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://fontawesome.iohttp://fontawesome.io/license/Webfont",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.30",
+				"country": ""
+			},
+			{
+				"ip": "239.255.255.250",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.29",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_LdrInitializeThunk_SetProcessDEPPolicy_LocalAlloc_VirtualAlloc_LocalAlloc_VirtualAlloc_LoadStringA_LoadStringA_LoadStringA_LoadStringA_GetSystemDefaultLCID_GetSystemDefaultLCID_GetSystemDefaultLCID_GetSystemDefaultLCID_GetLocaleInfoA_GetLocaleInfoA_SetErrorMode_SetErrorMode_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_SetErrorMode_SetErrorMode_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_FormatMessageA_GetSystemInfo_GetSystemInfo_GetSystemInfo_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_VirtualProtect_CreateFileA_SetFilePointer_ReadFile_ReadFile_SetFilePointer_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_SetFilePointer_SetFilePointer_GetFileAttributesA_GetFileAttributesA_CreateDirectoryA_CreateDirectoryA_SetFilePointer_CreateFileA_VirtualAlloc_VirtualAlloc_ReadFile_SetFilePointer_VirtualAlloc_VirtualAlloc_SetFilePointer_SetFilePointer_SetFilePointer_SetEndOfFile_SetEndOfFile_SetFilePointer_WriteFile_CloseHandle_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateWindowExA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_GetExitCodeProcess_GetExitCodeProcess_GetExitCodeProcess_DeleteFileA_DeleteFileA_RemoveDirectoryA_RemoveDirectoryA_DestroyWindow_RtlUserThreadStart_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1543.003,T1547.001,T1574.002,T1546.011",
+		"ATT&CK(Privilege Escalation)": "T1068,T1134,T1543.003,T1055,T1547.001,T1574.002,T1546.011,T1055.011",
+		"ATT&CK(Defense Evasion)": "T1036,T1112,T1134,T1055,T1140,T1027,T1027.002,T1574.002,T1055.011",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1046,T1057,T1010,T1087,T1033,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

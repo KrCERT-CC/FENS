@@ -1,0 +1,140 @@
+{
+	"md5": "43f76d95db81ef7720b5d7847b076de9",
+	"data": {
+		"String": [
+			{
+				"string": "KERNEL32",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetProcAddress",
+				"type": "C-Style"
+			},
+			{
+				"string": "LoadLibraryA",
+				"type": "C-Style"
+			},
+			{
+				"string": "OutputDebugStringW",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(11.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "6144:BIe1zBa38KYnvozwWewoRJwvU8zytC89wF/UEzVmRDvL2JTgC:BD1dRnvcewvU82b9wF8EBmxL2JTgC",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "44616e53000000000000000000000000fc77b900020000000000010012000000c30f5d000300000066eed2000800000066eec90001000000000097000100000066eecc0001000000",
+		"PE Image": "binary_43f76d95db81ef7720b5d7847b076de9.jpg",
+		"bytecode": "binary_43f76d95db81ef7720b5d7847b076de9.byte",
+		"opcode": "push,mov,sub,mov,push,push,mov,lea,push,xor,mov,mov,mov,xor,lea,mov,mov,lea,call,jz,lea,call,lea,jz,call,jz,push,xor,pop,lea,call,lea,dec,jnz,mov,jz,mov,sub,mov,mov,jmp,mov,mov,inc,jmp,mov,mov,mov,inc,add,shr,mov,jz,jz,mov,sub,mov,mov,inc,inc,dec,jnz,jmp,xor,inc,mov,jmp,call,jnz,cmp,jnz,lea,call,mov,mov,jz,mov,sub,mov,mov,inc,inc,dec,jnz,jmp,sub,jmp,sub,mov,mov,shl,add,inc,mov,lea,call,mov,cmp,jb,inc,cmp,jb,inc,cmp,jnb,add,mov,jz,mov,sub,mov,mov,inc,inc,dec,jnz,mov,xor,inc,jmp,mov,mov,mov,mov,inc,inc,mov,xor,mov,jz,sub,pop,pop,mov,pop,mov,pop,push,xor,push,mov,inc,mov,call,mov,lea,call,jnz,pop,mov,pop,push,mov,mov,lea,mov,jnz,mov,mov,mov,lea,mov,mov,mov,add,shr,mov,pop,mov,call,mov,call,call,push,push,call,xor,push,mov,sub,push,push,push,xor,mov,push,xor,lea,push,mov,mov,push,mov,mov,call,lea,push,push,push,push,push,push,push,call,mov,cmp,jz,push,push,call,mov,mov,mov,call,mov,push,lea,push,push,push,push,mov,call,jz,cmp,jz,mov,call,xor,xor,mov,mov,push,call,lea,push,lea,push,push,mov,call,mov,mov,lea,push,lea,push,call,mov,push,mov,add,push,mov,mov,add,add,push,push,call,mov,mov,jz,mov,push,mov,call,mov,add,push,mov,mov,mov,call,lea,add,add,add,mov,mov,jz,mov,sub,push,lea,mov,call,add,dec,jnz,mov,mov,mov,jz,lea,mov,mov,push,add,add,call,lea,dec,jnz,mov,add,push,mov,mov,mov,call,mov,add,mov,add,push,mov,call,mov,mov,push,push,mov,call,mov,push,push,call,mov,push,push,call,mov,mov,mov,mov,sub,mov,mov,push,mov,mov,call,mov,mov,mov,xor,lea,inc,sub,cmp,jnb,push,push,push,mov,mov,call,jmp,xor,push,call,push,push,push,call,mov,call,mov,call,pop,xor,pop,inc,pop,push,push,push,call,push,push,push,call,push,mov,push,push,mov,mov,push,shr,mov,mov,mov,mov,jz,push,mov,sub,mov,mov,mov,lea,dec,jnz,mov,mov,pop,lea,cmp,jnb,sub,lea,sub,mov,mov,lea,dec,jnz,pop,pop,mov,pop,push,mov,push,push,mov,mov,shr,mov,jz,mov,mov,add,ror,mov,add,xor,sub,mov,dec,jnz,jmp,mov,jz,lea,xor,lea,dec,jnz,pop,pop,pop,push,mov,mov,sub,mov,mov,push,push,mov,mov,mov,mov,cmp,lea,jnz,push,mov,mov,jz,cmp,jz,lea,add,xor,jz,mov,cmp,jz,inc,add,cmp,jb,pop,pop,xor,pop,mov,pop,mov,add,add,mov,mov,mov,mov,jz,mov,xor,mov,mov,add,mov,add,mov,mov,jz,mov,xor,cmp,jnz,mov,add,mov,add,jz,xor,nop,lea,mov,cmp,mov,jz,inc,cmp,jb,mov,mov,inc,cmp,jb,mov,mov,inc,mov,cmp,jb,pop,pop,xor,pop,mov,pop,mov,add,mov,pop,mov,sub,pop,add,pop,mov,mov,mov,mov,mov,mov,pop,pop,xor,pop,mov,pop,push,mov,sub,push,push,push,mov,push,push,push,mov,mov,call,mov,shr,mov,jz,mov,mov,sub,mov,mov,mov,lea,dec,jnz,mov,mov,shl,cmp,jnb,mov,sub,lea,sub,mov,mov,lea,dec,jnz,mov,lea,lea,add,mov,mov,mov,mov,shr,mov,mov,jz,lea,mov,ror,mov,add,xor,sub,mov,mov,dec,jnz,jz,xor,lea,dec,jnz,mov,mov,push,push,push,call,mov,mov,mov,mov,call,push,push,push,call,mov,mov,mov,pop,mov,pop,pop,mov,pop,push,mov,sub,mov,push,mov,mov,push,mov,jz,mov,jz,sub,push,mov,lea,mov,sub,sub,cmp,jnb,mov,lea,sub,shr,mov,mov,jz,lea,mov,cmp,jnz,mov,add,add,inc,cmp,jb,mov,mov,add,mov,sub,sub,cmp,jb,pop,pop,pop,mov,pop,push,mov,mov,push,mov,mov,push,mov,lea,mov,cmp,jb,mov,add,cmp,jnb,pop,xor,pop,pop,lea,pop,pop,pop",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "b4f3b9d7c61b6510286f1176c111da9d"
+			},
+			{
+				"section": ".rdata",
+				"md5": "83745f995116bfabe0ff297db669a266"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "7bb869be5ad5eaf6f3361973498fe876"
+			},
+			{
+				"section": ".reloc",
+				"md5": "69cf84e203ad14c06cd0160b50b90da3"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "43f76d95db81ef7720b5d7847b076de9",
+		"SHA1": "1234a004b0c600ddc1c15209ec9e6acea2058349",
+		"SHA256": "00006b836325967d9dbe2ab0a63fb203bd8c27cd1338f982cdd163a253b329d4",
+		"EntryPoint": "4011e8",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 250368,
+		"Original FileName": "",
+		"Entropy": 7.978,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE",
+		"Timestamp": "2015-01-24 08:19:49(2015-01-23 23:19:49 UTC)",
+		"Import Hash": "18c89e2ec0a399c68eaedd6551ce71fc",
+		"Section Info": [
+			".text:0x1000:0x864:0x400:0xa00:5.79696118189",
+			".rdata:0x2000:0x1d0:0xe00:0x200:4.3422666182",
+			".data:0x3000:0x10:0x0:0x0:0",
+			".rsrc:0x4000:0x3bd18:0x1000:0x3be00:7.99558746348",
+			".reloc:0x40000:0x2f4:0x3ce00:0x400:0.556894249395"
+		],
+		"Resource": [
+			"RT_DATA:0x4440:0x2eea:data:English:United States",
+			"RT_DATA:0x732c:0x3a53:data:English:United States",
+			"RT_DATA:0xad80:0x4033:data:English:United States",
+			"RT_DATA:0xedb4:0x522d:data:English:United States",
+			"RT_DATA:0x13fe4:0x5248:data:English:United States",
+			"RT_DATA:0x1922c:0x5828:data:English:United States",
+			"RT_DATA:0x1ea54:0xe05:data:English:United States",
+			"RT_DATA:0x1f85c:0x1107:data:English:United States",
+			"RT_DATA:0x20964:0x433b:data:English:United States",
+			"RT_DATA:0x24ca0:0x5141:data:English:United States",
+			"RT_DATA:0x29de4:0x55dc:data:English:United States",
+			"RT_DATA:0x2f3c0:0xf45:data:English:United States",
+			"RT_DATA:0x30308:0x1251:data:English:United States",
+			"RT_DATA:0x3155c:0x13bd:data:English:United States",
+			"RT_DATA:0x3291c:0x18e3:data:English:United States",
+			"RT_DATA:0x34200:0x38d6:COM executable for DOS:English:United States",
+			"RT_DATA:0x37ad8:0x4ef8:data:English:United States",
+			"RT_DATA:0x3c9d0:0x15a9:data:English:United States",
+			"RT_DATA:0x3df7c:0x1795:data:English:United States",
+			"RT_DATA:0x3f714:0x484:data:English:United States",
+			"RT_MANIFEST:0x3fb98:0x17d:XML 1.0 document text:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\td833bu84Z.exe"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Ransomware,Evader",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_SHGetFolderPathW_FindFirstFileW_FindFirstFileW_FindNextFileW_FindNextFileW_FindNextFileW_FindNextFileW_FindNextFileW_FindNextFileW_FindNextFileW_FindNextFileW_FindClose",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1569.002,T1106",
+		"ATT&CK(Persistence)": "T1543.003",
+		"ATT&CK(Privilege Escalation)": "T1543.003,T1055",
+		"ATT&CK(Defense Evasion)": "T1027.002,T1055",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

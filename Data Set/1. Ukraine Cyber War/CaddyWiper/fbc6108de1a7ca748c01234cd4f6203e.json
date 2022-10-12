@@ -1,0 +1,434 @@
+{
+	"md5": "fbc6108de1a7ca748c01234cd4f6203e",
+	"data": {
+		"MD5": "fbc6108de1a7ca748c01234cd4f6203e",
+		"SHA1": "bf9e5a9080ff9e3ddba943ab1179b65f11f7c8f4",
+		"SHA256": "000140911d8496f1fc9c8a49d13b5b704d267cf175dc431a753fd82e357cf352",
+		"EntryPoint": "1415d8447",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "140000000",
+		"FileSize": 10067456,
+		"Original FileName": "",
+		"Entropy": 7.925,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "EXECUTABLE_IMAGE, LARGE_ADDRESS_AWARE, RELOCS_STRIPPED",
+		"Timestamp": "2021-06-25 11:10:30(2021-06-25 02:10:30 UTC)",
+		"Import Hash": "5e66f7c9f0460ebe32f5552673d9d37e",
+		"Section Info": [
+			".text:0x1000:0xd187c6:0x0:0x0:unknown",
+			".rdata:0xd1a000:0xcea44:0x0:0x0:0",
+			".data:0xde9000:0x86a8e:0x0:0x0:0",
+			".pdata:0xe70000:0x16848:0x0:0x0:0",
+			".shared:0xe87000:0x1:0x400:0x200:0",
+			"UPX0:0xe88000:0x14bc0e:0x0:0x0:0",
+			"UPX1:0xfd4000:0x93e340:0x600:0x93e400:unknown",
+			".rsrc:0x1913000:0x5b276:0x93ea00:0x5b400:3.05856090167"
+		],
+		"Resource": [
+			"RT_ICON:0x1913208:0x468:GLS_BINARY_LSB_FIRST:Russian:Russia",
+			"RT_ICON:0x1913670:0x988:data:Russian:Russia",
+			"RT_ICON:0x1913ff8:0x10a8:data:Russian:Russia",
+			"RT_ICON:0x19150a0:0x25a8:data:Russian:Russia",
+			"RT_ICON:0x1917648:0x4228:dBase IV DBT of \\200.DBF, blocks size 0, block length 16896, next free block index 40, next free block 224, next used block 117440512:Russian:Russia",
+			"RT_ICON:0x191b870:0x10828:dBase IV DBT, blocks size 0, block length 2048, next free block index 40, next free block 16777215, next used block 16777215:Russian:Russia",
+			"RT_ICON:0x192c098:0x42028:dBase IV DBT, blocks size 0, block length 8192, next free block index 40, next free block 0, next used block 0:Russian:Russia",
+			"RT_GROUP_ICON:0x196e0c0:0x68:data:Russian:Russia",
+			"RT_MANIFEST:0x196e128:0x14e:XML 1.0 document, ASCII text:English:United States"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "powershell.exe $ProgressPreference = 'SilentlyContinue'"
+			},
+			{
+				"cmdline": "powershell.exe Invoke-WebRequest http://msdl.microsoft.com/download/symbols/wntdll.pdb\\69ddfbcbbc14421d8cb974f8edc414101\\wntdll.pdb -O C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\wntdll.pdb\\69ddfbcbbc14421d8cb974f8edc414101\\wntdll.pdb"
+			},
+			{
+				"cmdline": "powershell.exe Invoke-WebRequest http://msdl.microsoft.com/download/symbols/ntdll.pdb\\9d04eb0aa387494fbd81ed062072b99c1\\ntdll.pdb -O C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\ntdll.pdb\\9d04eb0aa387494fbd81ed062072b99c1\\ntdll.pdb"
+			},
+			{
+				"cmdline": "powershell.exe Invoke-WebRequest http://msdl.microsoft.com/download/symbols/ntkrnlmp.pdb\\f69d000687ec491e87fc0425d4d378ac1\\ntkrnlmp.pdb -O C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\ntkrnlmp.pdb\\f69d000687ec491e87fc0425d4d378ac1\\ntkrnlmp.pdb"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\wntdll.pdb"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\wntdll.pdb\\69ddfbcbbc14421d8cb974f8edc414101"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\ntdll.pdb"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\ntdll.pdb\\9d04eb0aa387494fbd81ed062072b99c1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\ntkrnlmp.pdb"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\pdb_data\\ntkrnlmp.pdb\\f69d000687ec491e87fc0425d4d378ac1"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\RZ3BLO7PQD6A1C6CMI44.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\VR3KU2FBN2Y29IPSYJ5A.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF494dbf.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\GUX8F5HMVW4EBWT1E878.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF49558f.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\40EUZFTOEDFANEV4LX9I.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF495ce2.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\YNN85U303R99PUUK4TWE.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF4962be.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\AM8ABM1TPRUHN84CEQD6.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF496619.TMP"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF494dbf.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF49558f.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF495ce2.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF4962be.TMP"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms~RF496619.TMP"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\RZ3BLO7PQD6A1C6CMI44.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\VR3KU2FBN2Y29IPSYJ5A.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\GUX8F5HMVW4EBWT1E878.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\40EUZFTOEDFANEV4LX9I.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\YNN85U303R99PUUK4TWE.temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\AM8ABM1TPRUHN84CEQD6.temp"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\SysWOW64\\ntdll.dll"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\OKAZJZSS.txt"
+			},
+			{
+				"path": "C:\\Windows\\System32\\ntdll.dll"
+			},
+			{
+				"path": "C:\\Windows\\System32\\ntoskrnl.exe"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\Public\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Desktop.ini"
+			},
+			{
+				"path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows PowerShell\\desktop.ini"
+			},
+			{
+				"path": "\\pipe\\srvsvc"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework64\\v2.0.50727\\CONFIG\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\getevent.types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\types.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\Diagnostics.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\WSMan.Format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\Certificate.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\DotNetTypes.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\FileSystem.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\Help.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\PowerShellCore.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\PowerShellTrace.format.ps1xml"
+			},
+			{
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\Registry.format.ps1xml"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations\\590aee7bdd69b59b.customDestinations-ms"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\GAC_MSIL\\System.Management.Automation\\1.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://msdl.micr",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://msdl.micr0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.31",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win64 Executable GUI (202006/5)",
+		"API Sequence": "unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_CreateProcessW_unknown_unknown_unknown_unknown_unknown_RaiseException_RaiseException_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_KiUserCallbackDispatcher_MessageBoxW_KiUserCallbackDispatcher_MessageBoxW_KiUserCallbackDispatcher_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_unknown_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_MessageBoxW_SetUnhandledExceptionFilter_UnhandledExceptionFilter_UnhandledExceptionFilter_UnhandledExceptionFilter_UnhandledExceptionFilter",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1059",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1036,T1497,T1055,T1027,T1027.002",
+		"ATT&CK(Credential Access)": "T1552.001",
+		"ATT&CK(Discovery)": "T1518.001,T1057,T1497,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1005",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "",
+		"String": [
+			{
+				"string": "ADVAPI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "WS2_32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "d3d9.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "NETAPI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SETUPAPI.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "HID.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "ole32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "bcrypt.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "CFGMGR32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ntdll.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "CRYPT32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "urlmon.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "IPHLPAPI.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "$A[Hc",
+				"type": "C-Style"
+			},
+			{
+				"string": "=AS1<$fA",
+				"type": "C-Style"
+			},
+			{
+				"string": ".AXfD",
+				"type": "C-Style"
+			},
+			{
+				"string": "]AYXA[",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "",
+		"PDB path": "",
+		"full Fuzzyhash": "196608:DghWTfvzNCAHwQmZJLSQ2y/VBMLihiTIvApLkZPeAR4I5gdJexgwEAHl/93n8Nj1:7Tx/sS4/cLi0LpLyeA2I5gdJnAHl/58N",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_fbc6108de1a7ca748c01234cd4f6203e.jpg",
+		"bytecode": "binary_fbc6108de1a7ca748c01234cd4f6203e.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".shared",
+				"md5": "bf619eac0cdf3f68d496ea9344137e8b"
+			},
+			{
+				"section": "UPX1",
+				"md5": "d193a0cad40a983cf584c6ba328934d8"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "95cb762d51dd6dece6d245290ba57fdb"
+			}
+		],
+		"Yara Rule": []
+	}
+}

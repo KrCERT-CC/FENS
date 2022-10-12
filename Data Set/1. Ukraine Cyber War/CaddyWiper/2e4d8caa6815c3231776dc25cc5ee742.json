@@ -1,0 +1,1426 @@
+{
+	"md5": "2e4d8caa6815c3231776dc25cc5ee742",
+	"data": {
+		"String": [
+			{
+				"string": "bad allocation",
+				"type": "C-Style"
+			},
+			{
+				"string": "string too long",
+				"type": "C-Style"
+			},
+			{
+				"string": "invalid string position",
+				"type": "C-Style"
+			},
+			{
+				"string": "invalid string argument",
+				"type": "C-Style"
+			},
+			{
+				"string": "Unknown exception",
+				"type": "C-Style"
+			},
+			{
+				"string": "LC_TIME",
+				"type": "C-Style"
+			},
+			{
+				"string": "LC_NUMERIC",
+				"type": "C-Style"
+			},
+			{
+				"string": "LC_MONETARY",
+				"type": "C-Style"
+			},
+			{
+				"string": "LC_CTYPE",
+				"type": "C-Style"
+			},
+			{
+				"string": "LC_COLLATE",
+				"type": "C-Style"
+			},
+			{
+				"string": "LC_ALL",
+				"type": "C-Style"
+			},
+			{
+				"string": "         (((((                  H",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "        h((((                  H",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "CorExitProcess",
+				"type": "C-Style"
+			},
+			{
+				"string": "e.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "runtime error ",
+				"type": "C-Style"
+			},
+			{
+				"string": "TLOSS error\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "SING error\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "DOMAIN error\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6034\r\nAn application has made an attempt to load the C runtime library incorrectly.\nPlease contact the application's support team for more information.\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6033\r\n- Attempt to use MSIL code from this assembly during native code initialization\nThis indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6032\r\n- not enough space for locale information\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6031\r\n- Attempt to initialize the CRT more than once.\nThis indicates a bug in your application.\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6030\r\n- CRT not initialized\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6028\r\n- unable to initialize heap\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6027\r\n- not enough space for lowio initialization\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6026\r\n- not enough space for stdio initialization\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6025\r\n- pure virtual function call\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6024\r\n- not enough space for _onexit/atexit table\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6019\r\n- unable to open console device\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6018\r\n- unexpected heap error\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6017\r\n- unexpected multithread lock error\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6016\r\n- not enough space for thread data\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "\r\nThis application has requested the Runtime to terminate it in an unusual way.\nPlease contact the application's support team for more information.\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6009\r\n- not enough space for environment\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6008\r\n- not enough space for arguments\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "R6002\r\n- floating point support not loaded\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "Microsoft Visual C++ Runtime Library",
+				"type": "C-Style"
+			},
+			{
+				"string": "<program name unknown>",
+				"type": "C-Style"
+			},
+			{
+				"string": "Runtime Error!\n\nProgram: ",
+				"type": "C-Style"
+			},
+			{
+				"string": "EncodePointer",
+				"type": "C-Style"
+			},
+			{
+				"string": "32.DLL",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "DecodePointer",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsFree",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsSetValue",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsGetValue",
+				"type": "C-Style"
+			},
+			{
+				"string": "FlsAlloc",
+				"type": "C-Style"
+			},
+			{
+				"string": "bad exception",
+				"type": "C-Style"
+			},
+			{
+				"string": "HH:mm:ss",
+				"type": "C-Style"
+			},
+			{
+				"string": "dddd, MMMM dd, yyyy",
+				"type": "C-Style"
+			},
+			{
+				"string": "MM/dd/yy",
+				"type": "C-Style"
+			},
+			{
+				"string": "December",
+				"type": "C-Style"
+			},
+			{
+				"string": "November",
+				"type": "C-Style"
+			},
+			{
+				"string": "October",
+				"type": "C-Style"
+			},
+			{
+				"string": "September",
+				"type": "C-Style"
+			},
+			{
+				"string": "August",
+				"type": "C-Style"
+			},
+			{
+				"string": "April",
+				"type": "C-Style"
+			},
+			{
+				"string": "March",
+				"type": "C-Style"
+			},
+			{
+				"string": "February",
+				"type": "C-Style"
+			},
+			{
+				"string": "January",
+				"type": "C-Style"
+			},
+			{
+				"string": "Saturday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Friday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Thursday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Wednesday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Tuesday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Monday",
+				"type": "C-Style"
+			},
+			{
+				"string": "Sunday",
+				"type": "C-Style"
+			},
+			{
+				"string": "am/pm",
+				"type": "C-Style"
+			},
+			{
+				"string": "united-states",
+				"type": "C-Style"
+			},
+			{
+				"string": "united-kingdom",
+				"type": "C-Style"
+			},
+			{
+				"string": "trinidad & tobago",
+				"type": "C-Style"
+			},
+			{
+				"string": "south-korea",
+				"type": "C-Style"
+			},
+			{
+				"string": "south-africa",
+				"type": "C-Style"
+			},
+			{
+				"string": "south korea",
+				"type": "C-Style"
+			},
+			{
+				"string": "south africa",
+				"type": "C-Style"
+			},
+			{
+				"string": "slovak",
+				"type": "C-Style"
+			},
+			{
+				"string": "puerto-rico",
+				"type": "C-Style"
+			},
+			{
+				"string": "pr-china",
+				"type": "C-Style"
+			},
+			{
+				"string": "pr china",
+				"type": "C-Style"
+			},
+			{
+				"string": "new-zealand",
+				"type": "C-Style"
+			},
+			{
+				"string": "hong-kong",
+				"type": "C-Style"
+			},
+			{
+				"string": "holland",
+				"type": "C-Style"
+			},
+			{
+				"string": "great britain",
+				"type": "C-Style"
+			},
+			{
+				"string": "england",
+				"type": "C-Style"
+			},
+			{
+				"string": "czech",
+				"type": "C-Style"
+			},
+			{
+				"string": "china",
+				"type": "C-Style"
+			},
+			{
+				"string": "britain",
+				"type": "C-Style"
+			},
+			{
+				"string": "america",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-venezuela",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-uruguay",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-puerto rico",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-peru",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-paraguay",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-panama",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-nicaragua",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-modern",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-mexican",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-honduras",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-guatemala",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-el salvador",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-ecuador",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-dominican republic",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-costa rica",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-colombia",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-chile",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-bolivia",
+				"type": "C-Style"
+			},
+			{
+				"string": "spanish-argentina",
+				"type": "C-Style"
+			},
+			{
+				"string": "portuguese-brazilian",
+				"type": "C-Style"
+			},
+			{
+				"string": "norwegian-nynorsk",
+				"type": "C-Style"
+			},
+			{
+				"string": "norwegian-bokmal",
+				"type": "C-Style"
+			},
+			{
+				"string": "norwegian",
+				"type": "C-Style"
+			},
+			{
+				"string": "italian-swiss",
+				"type": "C-Style"
+			},
+			{
+				"string": "irish-english",
+				"type": "C-Style"
+			},
+			{
+				"string": "german-swiss",
+				"type": "C-Style"
+			},
+			{
+				"string": "german-luxembourg",
+				"type": "C-Style"
+			},
+			{
+				"string": "german-lichtenstein",
+				"type": "C-Style"
+			},
+			{
+				"string": "german-austrian",
+				"type": "C-Style"
+			},
+			{
+				"string": "french-swiss",
+				"type": "C-Style"
+			},
+			{
+				"string": "french-luxembourg",
+				"type": "C-Style"
+			},
+			{
+				"string": "french-canadian",
+				"type": "C-Style"
+			},
+			{
+				"string": "french-belgian",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-usa",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-us",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-uk",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-trinidad y tobago",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-south africa",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-nz",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-jamaica",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-ire",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-caribbean",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-can",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-belize",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-aus",
+				"type": "C-Style"
+			},
+			{
+				"string": "english-american",
+				"type": "C-Style"
+			},
+			{
+				"string": "dutch-belgian",
+				"type": "C-Style"
+			},
+			{
+				"string": "chinese-traditional",
+				"type": "C-Style"
+			},
+			{
+				"string": "chinese-singapore",
+				"type": "C-Style"
+			},
+			{
+				"string": "chinese-simplified",
+				"type": "C-Style"
+			},
+			{
+				"string": "chinese-hongkong",
+				"type": "C-Style"
+			},
+			{
+				"string": "chinese",
+				"type": "C-Style"
+			},
+			{
+				"string": "canadian",
+				"type": "C-Style"
+			},
+			{
+				"string": "belgian",
+				"type": "C-Style"
+			},
+			{
+				"string": "australian",
+				"type": "C-Style"
+			},
+			{
+				"string": "american-english",
+				"type": "C-Style"
+			},
+			{
+				"string": "american english",
+				"type": "C-Style"
+			},
+			{
+				"string": "american",
+				"type": "C-Style"
+			},
+			{
+				"string": "Norwegian-Nynorsk",
+				"type": "C-Style"
+			},
+			{
+				"string": "SystemFunction036",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADVAPI32.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetProcessWindowStation",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetUserObjectInformationA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetLastActivePopup",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetActiveWindow",
+				"type": "C-Style"
+			},
+			{
+				"string": "MessageBoxA",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": " Complete Object Locator'",
+				"type": "C-Style"
+			},
+			{
+				"string": " Class Hierarchy Descriptor'",
+				"type": "C-Style"
+			},
+			{
+				"string": " Base Class Array'",
+				"type": "C-Style"
+			},
+			{
+				"string": " Base Class Descriptor at (",
+				"type": "C-Style"
+			},
+			{
+				"string": " Type Descriptor'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`local static thread guard'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`managed vector copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector vbase copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`dynamic atexit destructor for '",
+				"type": "C-Style"
+			},
+			{
+				"string": "`dynamic initializer for '",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector vbase copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector copy constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`managed vector destructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`managed vector constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`placement delete[] closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`placement delete closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`omni callsig'",
+				"type": "C-Style"
+			},
+			{
+				"string": " delete[]",
+				"type": "C-Style"
+			},
+			{
+				"string": " new[]",
+				"type": "C-Style"
+			},
+			{
+				"string": "`local vftable constructor closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`local vftable'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`RTTI",
+				"type": "C-Style"
+			},
+			{
+				"string": "`udt returning'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`copy constructor closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector vbase constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector destructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`eh vector constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`virtual displacement map'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector vbase constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector destructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector constructor iterator'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`scalar deleting destructor'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`default constructor closure'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vector deleting destructor'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vbase destructor'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`string'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`local static guard'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`typeof'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vcall'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vbtable'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vftable'",
+				"type": "C-Style"
+			},
+			{
+				"string": "operator",
+				"type": "C-Style"
+			},
+			{
+				"string": " delete",
+				"type": "C-Style"
+			},
+			{
+				"string": "__unaligned",
+				"type": "C-Style"
+			},
+			{
+				"string": "__restrict",
+				"type": "C-Style"
+			},
+			{
+				"string": "__ptr64",
+				"type": "C-Style"
+			},
+			{
+				"string": "__clrcall",
+				"type": "C-Style"
+			},
+			{
+				"string": "__fastcall",
+				"type": "C-Style"
+			},
+			{
+				"string": "__thiscall",
+				"type": "C-Style"
+			},
+			{
+				"string": "__stdcall",
+				"type": "C-Style"
+			},
+			{
+				"string": "__pascal",
+				"type": "C-Style"
+			},
+			{
+				"string": "__based(",
+				"type": "C-Style"
+			},
+			{
+				"string": "{flat}",
+				"type": "C-Style"
+			},
+			{
+				"string": "{for ",
+				"type": "C-Style"
+			},
+			{
+				"string": "`non-type-template-parameter",
+				"type": "C-Style"
+			},
+			{
+				"string": "unsigned ",
+				"type": "C-Style"
+			},
+			{
+				"string": "long ",
+				"type": "C-Style"
+			},
+			{
+				"string": "short ",
+				"type": "C-Style"
+			},
+			{
+				"string": "char ",
+				"type": "C-Style"
+			},
+			{
+				"string": "<ellipsis>",
+				"type": "C-Style"
+			},
+			{
+				"string": ",<ellipsis>",
+				"type": "C-Style"
+			},
+			{
+				"string": " throw(",
+				"type": "C-Style"
+			},
+			{
+				"string": "`template-parameter",
+				"type": "C-Style"
+			},
+			{
+				"string": "cli::pin_ptr<",
+				"type": "C-Style"
+			},
+			{
+				"string": "cli::array<",
+				"type": "C-Style"
+			},
+			{
+				"string": "void ",
+				"type": "C-Style"
+			},
+			{
+				"string": "`anonymous namespace'",
+				"type": "C-Style"
+			},
+			{
+				"string": "generic-type-",
+				"type": "C-Style"
+			},
+			{
+				"string": "template-parameter-",
+				"type": "C-Style"
+			},
+			{
+				"string": "unknown ecsu'",
+				"type": "C-Style"
+			},
+			{
+				"string": "union ",
+				"type": "C-Style"
+			},
+			{
+				"string": "struct ",
+				"type": "C-Style"
+			},
+			{
+				"string": "class ",
+				"type": "C-Style"
+			},
+			{
+				"string": "enum ",
+				"type": "C-Style"
+			},
+			{
+				"string": "coclass ",
+				"type": "C-Style"
+			},
+			{
+				"string": "cointerface ",
+				"type": "C-Style"
+			},
+			{
+				"string": "extern \"C\" ",
+				"type": "C-Style"
+			},
+			{
+				"string": "[thunk]:",
+				"type": "C-Style"
+			},
+			{
+				"string": "public: ",
+				"type": "C-Style"
+			},
+			{
+				"string": "protected: ",
+				"type": "C-Style"
+			},
+			{
+				"string": "private: ",
+				"type": "C-Style"
+			},
+			{
+				"string": "virtual ",
+				"type": "C-Style"
+			},
+			{
+				"string": "static ",
+				"type": "C-Style"
+			},
+			{
+				"string": "`template static data member destructor helper'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`template static data member constructor helper'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`local static destructor helper'",
+				"type": "C-Style"
+			},
+			{
+				"string": "`adjustor{",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vtordisp{",
+				"type": "C-Style"
+			},
+			{
+				"string": "`vtordispex{",
+				"type": "C-Style"
+			},
+			{
+				"string": "const ",
+				"type": "C-Style"
+			},
+			{
+				"string": "volatile ",
+				"type": "C-Style"
+			},
+			{
+				"string": "volatile",
+				"type": "C-Style"
+			},
+			{
+				"string": " volatile",
+				"type": "C-Style"
+			},
+			{
+				"string": "const",
+				"type": "C-Style"
+			},
+			{
+				"string": "signed ",
+				"type": "C-Style"
+			},
+			{
+				"string": "double",
+				"type": "C-Style"
+			},
+			{
+				"string": "UNKNOWN",
+				"type": "C-Style"
+			},
+			{
+				"string": "__int128",
+				"type": "C-Style"
+			},
+			{
+				"string": "wchar_t",
+				"type": "C-Style"
+			},
+			{
+				"string": "__int64",
+				"type": "C-Style"
+			},
+			{
+				"string": "__int16",
+				"type": "C-Style"
+			},
+			{
+				"string": "__int32",
+				"type": "C-Style"
+			},
+			{
+				"string": "__int8",
+				"type": "C-Style"
+			},
+			{
+				"string": "__w64 ",
+				"type": "C-Style"
+			},
+			{
+				"string": "float",
+				"type": "C-Style"
+			},
+			{
+				"string": "short",
+				"type": "C-Style"
+			},
+			{
+				"string": "SunMonTueWedThuFriSat",
+				"type": "C-Style"
+			},
+			{
+				"string": "JanFebMarAprMayJunJulAugSepOctNovDec",
+				"type": "C-Style"
+			},
+			{
+				"string": "bad allocation",
+				"type": "C-Style"
+			},
+			{
+				"string": "kernel32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "32.dll",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "VertualPratect",
+				"type": "C-Style"
+			},
+			{
+				"string": "ios_base::badbit set",
+				"type": "C-Style"
+			},
+			{
+				"string": "ios_base::failbit set",
+				"type": "C-Style"
+			},
+			{
+				"string": "ios_base::eofbit set",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "GDI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADVAPI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV_Locimp@locale@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVlogic_error@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVinvalid_argument@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVlength_error@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVout_of_range@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": "Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVbad_typeid@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV__non_rtti_object@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVtype_info@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVbad_exception@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": "abcdefghijklmnopqrstuvwxyz",
+				"type": "C-Style"
+			},
+			{
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+				"type": "C-Style"
+			},
+			{
+				"string": "abcdefghijklmnopqrstuvwxyz",
+				"type": "C-Style"
+			},
+			{
+				"string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV?$ctype@D@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AUctype_base@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVfacet@locale@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV?$basic_istream@DU?$char_traits@D@std@@@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV?$basic_ios@DU?$char_traits@D@std@@@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AV?$_Iosb@H@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVios_base@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVruntime_error@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVexception@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVfailure@ios_base@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVbad_cast@std@@",
+				"type": "C-Style"
+			},
+			{
+				"string": ".?AVbad_alloc@std@@",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Microsoft Visual C/C++(2008)[libcmt,wWinMain]",
+		"linker": "Microsoft Linker(9.0)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "196608:viiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiu:",
+		"section Fuzzyhash(.data)": "96:JMT21UaVuvbUBgtvlTdXh04as65ekNnpTpWTy:eW4bUo3atAkNnpV",
+		"rich header": "44616e530000000000000000000000001e529500130000001e5284002a0000001e5283005400000027c67b0007000000000001006d0000001e528a00010000001e529400010000001e52910001000000",
+		"PE Image": "binary_2e4d8caa6815c3231776dc25cc5ee742.jpg",
+		"bytecode": "binary_2e4d8caa6815c3231776dc25cc5ee742.byte",
+		"opcode": "push,lea,push,mov,call,mov,mov,pop,mov,jmp,push,mov,mov,call,jz,push,call,pop,mov,pop,add,push,push,mov,add,push,push,call,add,add,push,push,mov,add,push,push,call,add,mov,mov,jmp,push,push,push,call,mov,add,push,push,push,call,mov,add,mov,xor,cmp,mov,jmp,mov,mov,sub,neg,sbb,inc,mov,call,push,mov,mov,call,push,lea,mov,call,mov,mov,pop,mov,push,mov,push,push,lea,mov,call,mov,pop,jmp,push,mov,call,jz,push,call,pop,mov,pop,mov,call,push,push,mov,push,mov,call,lea,call,lea,mov,call,lea,mov,call,lea,mov,call,push,mov,push,call,pop,pop,mov,mov,pop,pop,mov,mov,call,push,push,mov,push,mov,call,pop,xor,push,push,lea,mov,call,push,push,lea,mov,call,push,push,lea,mov,call,push,push,lea,mov,call,mov,call,mov,pop,pop,mov,push,mov,sub,push,lea,push,push,call,mov,mov,mov,pop,pop,pop,mov,call,push,push,push,mov,mov,push,mov,call,add,push,lea,mov,call,mov,pop,mov,pop,mov,push,mov,push,cmp,jnz,push,lea,call,cmp,jnz,inc,mov,mov,lea,call,mov,call,mov,call,mov,call,mov,mov,mov,call,mov,push,mov,push,mov,mov,add,push,call,mov,mov,cmp,jnb,mov,mov,jmp,xor,jnz,cmp,jz,call,cmp,jnb,mov,mov,xor,push,mov,mov,jz,push,call,pop,mov,pop,mov,mov,mov,push,call,mov,call,push,mov,push,mov,call,mov,mov,pop,mov,mov,call,sub,push,xor,mov,cmp,jz,cmp,jnz,push,call,pop,mov,push,mov,pop,jz,lea,push,mov,call,push,lea,mov,push,mov,call,mov,push,mov,call,jmp,xor,mov,mov,jz,lea,push,call,jz,push,push,lea,call,mov,push,pop,pop,mov,mov,call,push,push,mov,mov,mov,call,mov,mov,pop,mov,push,mov,sub,push,push,lea,push,call,mov,add,mov,pop,pop,add,push,push,call,pop,pop,push,mov,cmp,jz,push,lea,push,push,call,mov,inc,pop,pop,cmp,jnz,pop,mov,pop,add,push,push,call,pop,pop,push,mov,cmp,jz,push,lea,push,push,call,mov,inc,pop,pop,cmp,jnz,pop,mov,pop,push,mov,call,jz,push,call,pop,mov,pop,push,push,call,mov,mov,mov,jmp,push,mov,mov,push,push,push,mov,mov,mov,mov,sub,jz,jz,push,lea,call,lea,push,lea,push,call,mov,push,lea,push,call,jz,push,lea,call,lea,push,lea,push,mov,call,mov,push,lea,jmp,push,lea,call,lea,push,lea,push,mov,call,mov,push,lea,jmp,mov,mov,mov,pop,xor,jmp,mov,mov,mov,mov,call,mov,mov,push,xor,push,xor,mov,mov,mov,mov,mov,mov,mov,mov,call,push,call,pop,cmp,jz,push,mov,call,pop,jmp,xor,mov,pop,push,mov,mov,call,jz,push,call,pop,mov,pop,push,push,mov,call,mov,mov,pop,push,mov,push,mov,call,pop,jz,push,call,pop,mov,pop,push,mov,sub,push,push,push,push,call,mov,push,xor,push,mov,call,cmp,mov,jnz,push,push,call,xor,cmp,jnz,push,push,lea,push,call,mov,cmp,jbe,cmp,jnz,push,call,push,push,push,push,push,push,call,mov,mov,mov,add,mov,mov,mov,cmp,jnz,mov,mov,mov,cmp,jnz,mov,mov,mov,mov,mov,cmp,jnz,push,call,mov,shl,shl,cmp,mov,jnz,push,call,lea,push,push,lea,push,push,push,push,call,mov,shl,cmp,mov,mov,jnz,push,push,push,push,push,push,call,lea,push,push,push,push,push,call,push,push,call,mov,cmp,mov,mov,mov,jnz,push,call,inc,cmp,jnz,lea,push,call,mov,mov,inc,cmp,jnz,push,lea,push,push,call,cmp,mov,mov,mov,mov,jnz,push,push,push,lea,push,push,call,add,mov,mov,inc,cmp,jb,mov,mov,mov,mov,mov,pop,pop,pop,shl,mov,xor,xor,add,add,sub,push,lea,sub,mov,push,push,mov,mov,xor,cmp,push,mov,mov,jnz,push,call,push,push,push,call,mov,mov,mov,mov,lea,mov,call,mov,mov,mov,mov,add,mov,mov,jmp,mov,xor,mov,lea,call,mov,add,cmp,jnz,mov,lea,shr,mov,mov,mov,add,cmp,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,sub,sub,mov,xor,xor,mov,lea,call,cmp,jnz,call,mov,sub,mov,add,mov,mov,mov,shl,mov,mov,lea,call,mov,mov,shr,mov,lea,call,lea,push,mov,call,xor,mov,mov,lea,call,add,dec,jnz,mov,mov,pop,pop,mov,mov,pop,add,mov,shr,push,mov,jbe,push,mov,push,call,add,dec,jnz,pop,pop,mov,xor,jbe,push,mov,mov,mov,mov,inc,cmp,jb,pop,push,call,push,push,call,mov,add,push,push,call,pop,pop,push,mov,push,push,mov,add,lea,push,push,push,push,call,mov,mov,jmp,push,push,call,pop,pop,mov,mov,push,push,push,push,call,mov,push,lea,sub,push,push,call,xor,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,sub,sub,sub,mov,mul,mov,add,sub,add,sub,sub,mov,mul,mov,add,mov,mul,mov,add,add,add,add,sub,sub,sub,sub,mov,mul,mov,add,mov,mul,mov,add,sub,add,add,add,mov,mul,mov,sub,add,sub,add,sub,mov,mul,mov,sub,mov,mul,mov,sub,sub,mov,mul,mov,sub,sub,mov,mul,mov,sub,mov,mul,mov,mov,mul,mov,mov,mul,mov,mov,mul,mov,sub,sub,sub,sub,mov,mul,mov,sub,mov,mul,mov,sub,add,mov,mul,mov,add,mov,mul,mov,sub,add,sub,add,add,add,sub,add,mov,mul,mov,add,sub,mov,mul,mov,mov,mul,mov,sub,add,add,sub,mov,mul,mov,mov,mul,mov,add,mov,mul,mov,sub,add,add,add,mov,mul,mov,mov,mul,mov,sub,sub,mov,mul,mov,add,add,add,sub,add,sub,sub,push,push,push,push,push,call,cmp,jg,inc,mov,cmp,jl,jg,cmp,jb,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,mul,mov,add,mov,mul,mov,mov,mul,mov,sub,sub,mov,mul,mov,add,sub,mov,mul,mov,add,add,add,mov,mul,mov,sub,mov,mul,mov,mov,mul,mov,sub,add,add,mov,mul,mov,sub,mov,mul,mov,mov,mul,mov,add,mov,mul,mov,sub,add,add,sub,mov,mul,mov,add,sub,add,add,sub,sub,add,add,add,sub,add,sub,sub,mov,mul,mov,add,add,add,mov,mul,mov,add,sub,sub,mov,mul,mov,mov,mul,mov,mov,mul,mov,mov,mul,mov,sub,mov,mul,mov,sub,sub,add,add,mov,mul,mov,sub,add,sub,add,sub,sub,sub,sub,add,add,mov,mul,mov,add,mov,mul,mov,sub,sub,add,add,sub,sub,mov,mul,mov,sub,add,sub,sub,mov,mul,mov,add,sub,sub,add,mov,mul,mov,sub,add,add,mov,mul,mov,sub,add,mov,mul,mov,sub,mov,mul,mov,mov,mul,mov,mov,mul,xor,cmp,jbe,cmp,mov,mov,mov,mov,jnz,push,lea,push,call,inc,cmp,jb,xor,mov,add,cmp,jnz,push,push,push,call,inc,cmp,jl,call,push,pop,cmp,jnz,push,push,push,call,push,lea,push,call,push,push,call,push,push,call,push,push,push,push,call,dec,jnz,mov,mov,call,pop,pop,add,mov,call,sub,cmp,push,push,jnz,push,lea,call,call,xor,xor,push,cmp,jnz,xor,mov,lea,lea,push,push,push,push,push,call,push,push,call,lea,push,push,lea,push,push,call,push,call,xor,mov,lea,lea,push,push,push,push,push,call,call,cmp,jnz,call,mov,inc,cmp,jl,mov,add,mov,call,push,call,pop,cmp,jnz,cmp,jnz,push,call,push,push,call,push,push,push,call,push,lea,call,push,xor,call,mov,pop,xor,pop,mov,push,mov,add,mov,call,push,mov,call,pop,pop,push,mov,mov,call,mov,mov,mov,mov,mov,push,mov,call,pop,mov,cmp,jnz,push,mov,call,mov,mov,mov,push,mov,push,mov,mov,jz,mov,call,push,call,pop,pop,lea,pop,jmp,xor,push,mov,push,cmp,push,mov,jle,push,mov,push,mov,cmp,jz,mov,mov,jmp,xor,jle,cmp,jge,mov,push,push,push,push,call,mov,sub,mov,add,sub,add,add,jmp,mov,mov,call,cmp,jz,mov,inc,inc,dec,cmp,jg,pop,pop,mov,pop,push,mov,push,cmp,push,mov,jle,push,mov,push,mov,cmp,jz,mov,mov,jmp,xor,jle,cmp,mov,jge,mov,push,push,push,push,call,mov,sub,mov,add,sub,add,add,jmp,mov,push,mov,call,cmp,jz,inc,inc,dec,cmp,jg,pop,pop,mov,pop,mov,xor,mov,mov,call,push,push,call,mov,push,push,xor,call,pop,mov,call,push,push,push,mov,push,xor,xor,inc,mov,cmp,jz,mov,mov,mov,mov,mov,lea,push,push,call,push,mov,mov,mov,push,mov,call,mov,pop,mov,pop,pop,mov,mov,call,push,mov,mov,push,mov,mov,lea,mov,call,mov,call,mov,pop,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,push,mov,mov,call,mov,pop,jmp,push,mov,push,push,push,push,mov,push,jz,mov,mov,jz,mov,cmp,jnb,mov,mov,add,mov,mov,sub,mov,mov,cmp,jnz,xor,jmp,mov,mov,jz,mov,mov,mov,add,cmp,jnb,dec,mov,mov,lea,mov,mov,mov,jmp,jz,jmp,jnz,xor,jmp,mov,mov,mov,sub,add,mov,shr,mov,cmp,jnb,push,pop,mov,mov,xor,mov,jbe,mov,sub,cmp,jnb,shr,jnz,jbe,add,push,lea,mov,call,mov,jbe,push,push,push,push,call,jnz,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,jnz,mov,mov,mov,jmp,mov,mov,mov,sub,add,mov,mov,mov,sub,sub,add,mov,add,mov,mov,sub,add,mov,mov,jz,mov,mov,mov,mov,mov,jmp,mov,mov,mov,mov,sub,mov,add,mov,mov,sub,mov,mov,inc,mov,jz,push,call,pop,mov,dec,mov,mov,lea,mov,mov,mov,mov,pop,pop,pop,mov,mov,jz,mov,cmp,jbe,mov,cmp,jz,cmp,jz,jnz,mov,inc,mov,dec,cmp,jz,mov,mov,mov,mov,jmp,xor,jmp,mov,push,mov,jnz,pop,mov,push,mov,push,mov,add,cmp,jnb,jmp,jnz,mov,mov,jz,cmp,ja,cmp,jbe,cmp,jnb,mov,mov,mov,sub,mov,mov,mov,jmp,pop,pop,pop,push,mov,mov,mov,jz,cmp,jnb,mov,push,push,push,jz,mov,mov,jz,cmp,mov,jnz,mov,jmp,cmp,jnz,jnz,mov,mov,sub,mov,add,jmp,cmp,jz,mov,jmp,mov,jl,mov,mov,mov,sub,cmp,jg,mov,sub,add,sub,mov,add,jz,mov,mov,jz,mov,mov,mov,mov,add,mov,mov,sub,mov,jmp,mov,jmp,jz,mov,jz,cmp,mov,jnz,mov,jmp,cmp,jnz,mov,mov,sub,mov,add,jmp,cmp,mov,jnz,mov,jl,mov,mov,mov,sub,cmp,jg,sub,mov,add,sub,mov,add,jmp,mov,jmp,mov,mov,pop,xor,mov,pop,mov,mov,mov,pop,pop,push,mov,mov,mov,push,lea,mov,mov,push,jz,cmp,jnb,mov,mov,cmp,jz,push,jz,mov,mov,jz,jl,mov,mov,mov,sub,cmp,jg,sub,mov,add,sub,mov,add,jz,mov,mov,jz,mov,mov,mov,mov,add,mov,mov,sub,mov,jmp,jz,mov,jz,jl,mov,mov,mov,sub,cmp,jg,sub,mov,add,sub,mov,add,jmp,mov,pop,mov,xor,pop,mov,mov,mov,mov,pop,pop,push,lea,mov,call,jz,push,call,pop,mov,pop,push,lea,mov,call,jz,push,call,pop,mov,pop,push,mov,call,jz,push,call,pop,mov,pop,push,lea,mov,call,jz,push,call,pop,mov,pop,push,lea,mov,call,jz,push,call,pop,mov,pop,push,mov,call,jz,push,call,pop,mov,pop,mov,mov,add,mov,push,mov,call,pop,mov,mov,add,mov,push,mov,call,pop,push,mov,add,mov,call,push,mov,call,pop,pop,push,mov,mov,push,push,push,mov,mov,cmp,jnb,call,mov,mov,sub,cmp,jnb,mov,mov,cmp,jnz,push,add,push,call,push,mov,push,call,jmp,push,push,call,jz,cmp,jb,mov,jmp,add,mov,cmp,jb,mov,jmp,lea,mov,push,add,push,push,push,call,push,mov,call,pop,pop,mov,pop,pop,cmp,jb,mov,lea,mov,mov,push,call,pop,cmp,ja,push,call,pop,jmp,cmp,jnz,push,mov,call,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,add,mov,sub,mov,add,push,mov,mov,mov,mov,mov,sub,mov,pop,mov,mov,mov,add,mov,dec,mov,mov,lea,mov,mov,cmp,jz,mov,mov,xor,mov,sub,mov,add,push,mov,mov,mov,mov,mov,sub,mov,pop,push,mov,mov,mov,mov,mov,sub,mov,pop,mov,cmp,jz,mov,mov,xor,push,call,mov,pop,mov,call,cmp,jz,cmp,jb,lea,push,mov,jbe,lea,push,push,push,push,call,add,push,call,pop,pop,mov,mov,mov,call,mov,call,push,push,push,mov,push,call,lea,push,mov,call,mov,mov,mov,mov,mov,pop,mov,mov,call,push,mov,push,call,push,mov,call,mov,mov,mov,pop,mov,jz,mov,push,call,pop,mov,xor,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,xor,mov,mov,mov,push,mov,push,push,mov,mov,cmp,jnb,call,mov,sub,cmp,jnb,mov,cmp,jbe,mov,push,lea,cmp,jb,mov,jmp,mov,cmp,jb,mov,sub,add,add,push,push,sub,push,add,push,call,mov,sub,mov,push,call,pop,pop,mov,pop,pop,push,push,mov,mov,cmp,jbe,call,cmp,jnb,push,mov,push,call,jmp,cmp,jz,cmp,jnb,mov,cmp,jnb,mov,push,push,mov,call,jmp,jnz,push,mov,call,xor,cmp,sbb,pop,neg,pop,mov,call,mov,mov,mov,mov,mov,mov,mov,call,push,push,mov,mov,mov,push,mov,mov,mov,add,call,mov,mov,pop,mov,mov,call,push,mov,lea,mov,call,push,call,pop,jz,push,mov,call,pop,jmp,xor,mov,mov,call,mov,mov,pop,mov,push,push,push,mov,mov,push,mov,mov,call,jz,cmp,jb,mov,jmp,lea,sub,push,sar,push,mov,mov,call,jmp,call,jz,mov,cmp,jb,mov,jmp,lea,push,push,push,mov,call,add,mov,mov,call,mov,pop,pop,pop,cmp,mov,jb,mov,jmp,add,xor,mov,mov,cmp,jz,push,push,lea,call,push,push,mov,push,push,call,lea,mov,jnz,mov,mov,mov,mov,mov,mov,mov,jnz,jnz,mov,mov,mov,mov,mov,mov,sub,mov,add,mov,mov,cmp,jnz,mov,mov,mov,mov,mov,pop,mov,xor,jnz,push,pop,jnz,jz,jz,push,pop,mov,call,sub,push,push,mov,push,mov,mov,mov,cmp,jbe,mov,jmp,xor,push,mov,pop,div,mov,mov,shr,mov,cmp,jnb,push,pop,sub,cmp,ja,lea,lea,push,mov,call,mov,jmp,mov,mov,mov,inc,mov,push,mov,call,mov,mov,mov,mov,mov,mov,cmp,jbe,cmp,jb,mov,jmp,lea,push,push,lea,push,push,call,push,push,mov,call,push,mov,mov,mov,call,mov,pop,pop,mov,pop,mov,xor,push,push,call,push,push,call,cmp,push,jz,mov,lea,cmp,jb,mov,jmp,mov,cmp,jb,cmp,jb,mov,mov,add,cmp,jbe,mov,jmp,xor,pop,push,mov,call,mov,push,mov,call,cmp,mov,jnz,push,mov,call,pop,lea,mov,lea,mov,lea,mov,lea,mov,lea,mov,xor,lea,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,push,mov,push,mov,mov,push,push,mov,cmp,jnb,call,mov,mov,sub,cmp,jnb,mov,cmp,jnz,push,add,call,push,xor,call,jmp,call,jz,cmp,jb,mov,jmp,add,mov,cmp,jb,mov,jmp,lea,mov,lea,push,push,push,mov,call,add,mov,mov,call,pop,mov,pop,pop,pop,cmp,jbe,call,cmp,jnb,push,push,push,call,jmp,jnz,xor,mov,call,xor,cmp,sbb,neg,cmp,push,jz,mov,lea,cmp,jb,mov,jmp,mov,cmp,jb,cmp,jb,mov,mov,lea,cmp,jbe,mov,jmp,xor,pop,mov,call,mov,push,lea,call,push,call,pop,lea,mov,call,mov,push,mov,call,mov,pop,mov,push,mov,push,cmp,jnb,call,mov,sub,cmp,jnb,mov,cmp,jbe,mov,push,lea,cmp,jb,mov,jmp,mov,cmp,jb,mov,mov,mov,sub,add,lea,sub,push,push,mov,lea,push,call,mov,sub,add,mov,call,pop,mov,mov,mov,mov,call,push,push,push,push,mov,push,mov,mov,cmp,jbe,mov,jmp,xor,push,mov,pop,div,mov,mov,shr,mov,cmp,jnb,mov,sub,cmp,ja,lea,lea,ja,push,call,pop,jmp,call,mov,jmp,mov,lea,mov,mov,mov,ja,push,call,pop,jmp,call,mov,mov,mov,mov,mov,cmp,jbe,cmp,jb,mov,jmp,lea,push,lea,push,push,mov,call,add,push,xor,call,mov,mov,mov,mov,mov,call,mov,pop,pop,mov,pop,mov,push,xor,call,push,push,call,cmp,jb,mov,add,ja,push,call,pop,jmp,mov,mov,call,sub,push,push,push,lea,call,mov,mov,call,mov,mov,call,mov,jnz,jz,mov,jmp,push,lea,call,pop,cmp,jnz,push,lea,call,push,lea,push,call,mov,mov,mov,call,push,call,pop,lea,call,mov,pop,mov,pop,mov,push,mov,push,push,push,push,push,call,pop,push,push,push,call,add,push,mov,xor,div,sub,cmp,jnb,lea,push,lea,call,push,lea,push,mov,call,push,call,pop,push,mov,push,push,push,push,push,call,pop,push,push,push,call,add,push,mov,xor,div,sub,cmp,jnb,lea,push,lea,call,push,lea,push,mov,call,lea,push,call,pop,push,push,mov,call,mov,mov,pop,push,push,push,push,call,add,push,mov,pop,push,push,push,call,add,push,push,push,push,call,add,push,push,push,call,add,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,call,mov,push,call,jge,push,mov,push,call,add,cmp,pop,jl,pop,push,call,pop,mov,push,mov,mov,imul,add,push,call,pop,pop,mov,push,mov,mov,imul,add,push,call,pop,pop,push,mov,call,mov,mov,call,push,lea,mov,call,mov,call,mov,push,mov,push,push,lea,mov,call,mov,pop,jmp,mov,push,mov,push,mov,call,jz,push,call,pop,mov,pop,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,jmp,mov,push,mov,push,mov,mov,call,jz,push,call,pop,mov,pop,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,jmp,mov,push,mov,push,mov,mov,call,jz,push,call,pop,mov,pop,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,jmp,mov,push,mov,push,mov,mov,call,jz,push,call,pop,mov,pop,pop,push,mov,call,push,lea,call,lea,push,lea,call,push,lea,push,call,push,mov,call,push,lea,call,lea,push,lea,call,push,lea,push,call,push,mov,call,push,lea,call,lea,push,lea,call,push,lea,push,call,push,mov,call,mov,mov,mov,push,call,add,push,lea,mov,call,mov,call,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,push,call,pop,push,call,pop,mov,push,mov,mov,push,call,pop,pop,mov,push,mov,mov,push,call,pop,pop,mov,push,mov,push,call,pop,mov,mov,cmp,mov,jz,push,call,pop,mov,push,mov,push,lea,push,mov,call,mov,mov,pop,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,jmp,mov,push,mov,push,lea,push,mov,call,mov,mov,pop,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,jmp,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,mov,push,mov,push,mov,call,jz,push,call,pop,mov,pop,pop,mov,push,mov,push,mov,mov,call,jz,push,call,pop,mov,pop,pop,mov,push,mov,push,mov,mov,call,jz,push,call,pop,mov,pop,pop,push,push,push,call,mov,push,call,add,mov,mov,jnz,push,pop,pop,xor,pop,mov,push,mov,mov,mov,pop,mov,push,mov,push,push,call,push,mov,call,pop,pop,mov,mov,pop,pop,push,call,pop,mov,push,mov,call,pop,mov,push,mov,push,mov,call,jz,push,call,pop,mov,pop,pop,push,call,pop,lea,mov,mov,mov,cmp,jnz,mov,cmp,jnz,mov,cmp,jnz,cmp,jbe,xor,cmp,mov,xor,pop,cmp,jnz,jmp,push,push,lea,sub,push,push,push,mov,mov,mov,xor,push,mov,push,mov,lea,mov,push,push,lea,sub,push,push,push,mov,mov,mov,xor,push,mov,mov,push,mov,lea,mov,mov,xor,call,jmp,mov,xor,call,jmp,mov,mov,jmp,jmp,mov,mov,push,mov,mov,mov,mov,pop,mov,push,mov,mov,push,xor,cmp,jnz,call,push,push,push,push,push,mov,call,add,push,pop,jmp,mov,cmp,jz,mov,xor,pop,pop,mov,push,mov,mov,push,xor,cmp,jnz,call,push,push,push,push,push,mov,call,add,push,pop,jmp,mov,cmp,jz,mov,xor,pop,pop,push,call,pop,call,add,call,add,xor,inc,cmp,jnz,push,xor,cmp,push,mov,jle,push,mov,add,push,push,push,call,push,push,push,call,add,inc,cmp,jl,pop,push,push,push,call,pop,pop,push,call,mov,push,push,call,push,call,mov,jz,mov,push,shl,add,push,push,call,mov,mov,mov,shr,mov,mov,mov,mov,mov,dec,mov,mov,cmp,jnz,mov,cmp,jnz,cmp,jle,push,push,push,call,mov,mov,imul,mov,sub,lea,push,lea,push,push,call,add,dec,mov,jmp,jmp,mov,push,mov,mov,mov,pop,push,call,pop,push,call,pop,push,call,xor,mov,push,mov,mov,mov,pop,push,push,mov,mov,jz,lea,jmp,cmp,jz,lea,push,call,mov,add,add,cmp,jb,push,call,pop,add,cmp,jl,pop,pop,mov,push,mov,mov,push,mov,cmp,jnb,mov,jz,call,add,cmp,jb,pop,pop,mov,push,mov,mov,push,mov,cmp,jnb,mov,jz,call,add,cmp,jb,pop,pop,mov,push,mov,push,lea,push,mov,call,mov,mov,pop,pop,mov,jmp,mov,push,mov,push,mov,mov,call,jz,push,call,pop,mov,pop,pop,push,pop,mov,push,mov,push,push,mov,call,mov,mov,pop,pop,xor,cmp,jz,push,push,mov,cmp,jl,cmp,jg,sub,mov,inc,cmp,jnz,pop,pop,cmp,jnz,mov,lea,mov,mov,mov,cmp,jnz,jmp,push,call,pop,push,call,pop,push,call,pop,jmp,call,mov,mov,push,call,sub,neg,pop,sbb,push,inc,push,mov,call,jnz,jz,xor,lea,mov,sub,jz,xor,lea,mov,mov,cmp,jz,sub,jz,xor,lea,mov,jnz,sub,jz,xor,lea,mov,xor,mov,cmp,jz,sub,jz,xor,lea,mov,jnz,sub,jz,xor,lea,mov,jnz,sub,jz,xor,lea,mov,jnz,sub,jz,xor,lea,mov,xor,push,mov,jmp,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,sbb,mov,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,add,add,sub,cmp,jnb,add,add,cmp,ja,jmp,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,jmp,xor,jnz,xor,pop,pop,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,sub,jz,xor,lea,mov,jmp,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,jmp,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,mov,cmp,jz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,mov,mov,jmp,xor,jnz,sub,jz,xor,lea,jnz,sub,jz,xor,lea,jmp,mov,push,mov,mov,mov,pop,call,mov,xor,mov,push,mov,mov,mov,pop,mov,push,mov,mov,mov,pop,mov,push,mov,sub,push,push,push,call,cmp,mov,jnz,push,call,mov,jz,mov,push,push,call,jz,push,call,mov,push,mov,call,push,call,mov,push,mov,call,push,call,mov,push,mov,call,push,call,pop,mov,jz,push,push,call,push,call,pop,mov,mov,cmp,jz,cmp,jz,push,call,push,mov,call,pop,pop,mov,jz,jz,call,jz,lea,push,push,lea,push,push,push,call,jz,jnz,jmp,mov,cmp,jz,push,call,pop,jz,call,mov,jz,mov,cmp,jz,push,call,pop,jz,push,call,mov,push,call,pop,jz,push,push,push,push,call,jmp,xor,pop,pop,pop,mov,push,mov,mov,mov,pop,mov,mov,mov,not,mov,mov,mov,mov,xor,cmp,mov,shr,mov,shr,mov,mov,mov,mov,mov,push,mov,push,push,push,lea,push,push,call,mov,call,mov,mov,push,mov,mov,push,xor,cmp,jnz,call,push,push,push,push,push,mov,call,add,push,pop,jmp,mov,mov,xor,pop,pop,mov,push,mov,mov,push,xor,cmp,jnz,call,push,push,push,push,push,mov,call,add,push,pop,jmp,mov,mov,xor,pop,pop,mov,push,mov,mov,push,xor,cmp,jnz,call,push,push,push,push,push,mov,call,add,push,pop,jmp,mov,mov,xor,pop,pop,mov,mov,mov,mov,mov,push,mov,push,push,call,push,mov,call,pop,pop,mov,mov,pop,pop,push,call,pop,push,push,call,xor,xor,cmp,cmp,jnz,call,mov,push,push,push,push,push,call,add,xor,jmp,mov,push,push,call,pop,pop,cmp,sbb,neg,jz,push,call,pop,mov,push,call,pop,mov,mov,call,mov,call,push,call,pop,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,jmp,xchg,mov,mov,jmp,mov,lea,mov,xor,call,mov,jmp,lea,jmp,mov,lea,mov,xor,call,mov,jmp,mov,jmp,mov,add,jmp,mov,add,jmp,mov,add,jmp,mov,add,jmp,mov,jmp,mov,jmp,mov,add,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,sub,jmp,mov,jmp,push,call,pop,mov,jz,lea,jmp,mov,jz,lea,push,call,mov,jmp,lea,jmp,mov,jmp,lea,jmp,mov,jmp,lea,jmp,lea,jmp,lea,jmp,mov,jmp,mov,jmp,mov,add,jmp,mov,jmp,mov,jz,mov,add,jmp,mov,add,jmp,mov,jmp,lea,jmp,mov,jmp,push,call,pop,mov,call,push,call,pop,mov,call,push,call,pop,push,call,pop,mov,jmp,mov,jmp,mov,jmp,mov,jmp,mov,mov,jmp",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "e4bd24b18a54adefb472dbfd037e236e"
+			},
+			{
+				"section": ".data",
+				"md5": "317ba28f4c1a28c1e1e6774090660292"
+			},
+			{
+				"section": ".gebov",
+				"md5": "deb9a579e4997fee05992608c49024b1"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "0d3e9c5590eb4c59ce01f0e9cb8b9286"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "2e4d8caa6815c3231776dc25cc5ee742",
+		"SHA1": "431c0b50a96df6df7e13c738b0e965e23164df83",
+		"SHA256": "00000cd454602d9cf343bcb1c0df85ea371f14332164fd733f6c504cc81b1d15",
+		"EntryPoint": "40a283",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 13699072,
+		"Original FileName": "",
+		"Entropy": 6.024,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "32BIT_MACHINE, EXECUTABLE_IMAGE, RELOCS_STRIPPED",
+		"Timestamp": "2019-07-16 01:29:21(2019-07-15 16:29:21 UTC)",
+		"Import Hash": "e4224074400a25c830b2132df88cede4",
+		"Section Info": [
+			".text:0x1000:0x2e6c4:0x400:0x2e800:7.20745429076",
+			".data:0x30000:0x76f4e8:0x2ec00:0x7600:unknown",
+			".gebov:0x7a0000:0x1:0x36200:0x200:0.0203931352361",
+			".rsrc:0x7a1000:0xf490:0x36400:0xcda400:6.00280361444"
+		],
+		"Resource": [
+			"AFX_DIALOG_LAYOUT:0x7ae6c0:0xe:data::",
+			"AFX_DIALOG_LAYOUT:0x7ae6d0:0x2:data::",
+			"RT_CURSOR:0x7ae6d8:0xea8:dBase III DBT, version number 0, next free block index 40, 1st item \"\\251\\317\"::",
+			"RT_CURSOR:0x7af580:0x8a8:dBase III DBT, version number 0, next free block index 40, 1st item \"\\251\\317\"::",
+			"RT_CURSOR:0x7afe50:0x130:data::",
+			"RT_CURSOR:0x7aff80:0xb0:GLS_BINARY_LSB_FIRST::",
+			"RT_ICON:0x7a1650:0xea8:data:Norwegian:Norway",
+			"RT_ICON:0x7a24f8:0x8a8:data:Norwegian:Norway",
+			"RT_ICON:0x7a2da0:0x6c8:data:Norwegian:Norway",
+			"RT_ICON:0x7a3468:0x568:GLS_BINARY_LSB_FIRST:Norwegian:Norway",
+			"RT_ICON:0x7a39d0:0x25a8:data:Norwegian:Norway",
+			"RT_ICON:0x7a5f78:0x10a8:data:Norwegian:Norway",
+			"RT_ICON:0x7a7020:0x988:data:Norwegian:Norway",
+			"RT_ICON:0x7a79a8:0x468:GLS_BINARY_LSB_FIRST:Norwegian:Norway",
+			"RT_ICON:0x7a7e88:0xea8:data:Norwegian:Norway",
+			"RT_ICON:0x7a8d30:0x8a8:dBase IV DBT of @.DBF, block length 1024, next free block index 40, next free block 16514761, next used block 13469478:Norwegian:Norway",
+			"RT_ICON:0x7a95d8:0x6c8:data:Norwegian:Norway",
+			"RT_ICON:0x7a9ca0:0x568:GLS_BINARY_LSB_FIRST:Norwegian:Norway",
+			"RT_ICON:0x7aa208:0x25a8:data:Norwegian:Norway",
+			"RT_ICON:0x7ac7b0:0x10a8:data:Norwegian:Norway",
+			"RT_ICON:0x7ad858:0x988:data:Norwegian:Norway",
+			"RT_ICON:0x7ae1e0:0x468:GLS_BINARY_LSB_FIRST:Norwegian:Norway",
+			"RT_STRING:0x7b0240:0x114:data::",
+			"RT_STRING:0x7b0358:0x136:data::",
+			"RT_GROUP_CURSOR:0x7afe28:0x22:data::",
+			"RT_GROUP_CURSOR:0x7b0030:0x22:data::",
+			"RT_GROUP_ICON:0x7a7e10:0x76:data:Norwegian:Norway",
+			"RT_GROUP_ICON:0x7ae648:0x76:data:Norwegian:Norway",
+			"RT_VERSION:0x7b0058:0x1e8:data::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "'C:\\Windows\\System32\\cmd.exe' /C mkdir C:\\Windows\\SysWOW64\\eobiksmu\\"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\cmd.exe' /C move /Y 'C:\\Users\\user\\AppData\\Local\\Temp\\uxdxmxio.exe' C:\\Windows\\SysWOW64\\eobiksmu\\"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\sc.exe' create eobiksmu binPath= 'C:\\Windows\\SysWOW64\\eobiksmu\\uxdxmxio.exe /d\\'C:\\Users\\user\\Desktop\\QbtF9yHiol.exe\\'' type= own start= auto DisplayName= 'wifi support'"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\sc.exe' description eobiksmu 'wifi internet conection'"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\sc.exe' start eobiksmu"
+			},
+			{
+				"cmdline": "'C:\\Windows\\System32\\netsh.exe' advfirewall firewall add rule name='Host-process for services of Windows' dir=in action=allow program='C:\\Windows\\SysWOW64\\svchost.exe' enable=yes>nul"
+			},
+			{
+				"cmdline": "svchost.exe"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\QbtF9yHiol.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\sc.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\eobiksmu\\uxdxmxio.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\netsh.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\uxdxmxio.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\eobiksmu\\"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\QbtF9yHiol.exe"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\uxdxmxio.exe"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\QbtF9yHiol.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\cmd.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\sc.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\netsh.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\svchost.exe"
+			},
+			{
+				"path": "C:\\Windows\\SysWOW64\\eobiksmu\\uxdxmxio.exe"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.32",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Trojan / Bot",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_ShellExecuteA_ShellExecuteA_ShellExecuteA_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "T1078",
+		"ATT&CK(Execution)": "T1106,T1059,T1569.002",
+		"ATT&CK(Persistence)": "T1546.011,T1078,T1543.003",
+		"ATT&CK(Privilege Escalation)": "T1546.011,T1078,T1134,T1543.003,T1055",
+		"ATT&CK(Defense Evasion)": "T1562.001,T1140,T1027,T1027.002,T1070.004,T1036,T1078,T1134,T1497,T1055",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1087,T1083,T1082,T1518.001,T1497,T1033,T1018,T1016",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1105,T1573"
+	}
+}

@@ -1,0 +1,1466 @@
+{
+	"md5": "969d57c7051ffbdbe83093d8d52704c4",
+	"data": {
+		"String": [
+			{
+				"string": "RichEdit",
+				"type": "C-Style"
+			},
+			{
+				"string": "RichEdit20A",
+				"type": "C-Style"
+			},
+			{
+				"string": "RichEd32",
+				"type": "C-Style"
+			},
+			{
+				"string": "RichEd20",
+				"type": "C-Style"
+			},
+			{
+				"string": ".DEFAULT\\Control Panel\\International",
+				"type": "C-Style"
+			},
+			{
+				"string": "Control Panel\\Desktop\\ResourceLocale",
+				"type": "C-Style"
+			},
+			{
+				"string": "[Rename]\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "Software\\Microsoft\\Windows\\CurrentVersion",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\Microsoft\\Internet Explorer\\Quick Launch",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "USER32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "GDI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHELL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADVAPI32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "COMCTL32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "ole32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "VERSION.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "verifying installer: %d%%",
+				"type": "C-Style"
+			},
+			{
+				"string": "Installer integrity check has failed. Common causes include\nincomplete download and damaged media. Contact the\ninstaller's author to obtain a new copy.\n\nMore information at:\nhttp://nsis.sf.net/NSIS_Error",
+				"type": "C-Style"
+			},
+			{
+				"string": "Error launching installer",
+				"type": "C-Style"
+			},
+			{
+				"string": "... %d%%",
+				"type": "C-Style"
+			},
+			{
+				"string": "SeShutdownPrivilege",
+				"type": "C-Style"
+			},
+			{
+				"string": "~nsu.tmp",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\Temp",
+				"type": "C-Style"
+			},
+			{
+				"string": "NSIS Error",
+				"type": "C-Style"
+			},
+			{
+				"string": "Error writing temporary file. Make sure your temp folder is valid.",
+				"type": "C-Style"
+			},
+			{
+				"string": "%u.%u%s%s",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHGetFolderPathA",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHFOLDER",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHAutoComplete",
+				"type": "C-Style"
+			},
+			{
+				"string": "SHLWAPI",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetUserDefaultUILanguage",
+				"type": "C-Style"
+			},
+			{
+				"string": "AdjustTokenPrivileges",
+				"type": "C-Style"
+			},
+			{
+				"string": "LookupPrivilegeValueA",
+				"type": "C-Style"
+			},
+			{
+				"string": "OpenProcessToken",
+				"type": "C-Style"
+			},
+			{
+				"string": "RegDeleteKeyExA",
+				"type": "C-Style"
+			},
+			{
+				"string": "ADVAPI32",
+				"type": "C-Style"
+			},
+			{
+				"string": "MoveFileExA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetDiskFreeSpaceExA",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32",
+				"type": "C-Style"
+			},
+			{
+				"string": "%s=%s\r\n",
+				"type": "C-Style"
+			},
+			{
+				"string": "*?|<>/\":",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "",
+		"linker": "Microsoft Linker(6.0*)[EXE32,admin,signed]",
+		"PDB path": "",
+		"full Fuzzyhash": "12288:7quuJcz/jvPAcHtbL2uzpazN3uaL3hJx/D311ULEWIKWc2aqh:euicr8cNbpzwB+arhJx/D33l0XD0",
+		"section Fuzzyhash(.data)": "24:aRE8emsV34igAU9WFN3fA1b3LDplQmJckw:aRE8K5L1rP2vpFJfw",
+		"rich header": "44616e53000000000000000000000000c30f5f0002000000000001009b000000c30f5d0011000000542330000c000000c706060001000000",
+		"PE Image": "binary_969d57c7051ffbdbe83093d8d52704c4.jpg",
+		"bytecode": "binary_969d57c7051ffbdbe83093d8d52704c4.byte",
+		"opcode": "push,mov,sub,cmp,jz,cmp,mov,jnz,mov,mov,push,push,push,push,call,jmp,push,push,mov,lea,push,push,push,call,mov,lea,push,push,call,mov,mov,jmp,imul,mov,sub,imul,add,mov,idiv,xor,mov,imul,imul,add,mov,idiv,imul,mov,imul,add,idiv,shl,lea,push,mov,call,add,mov,push,lea,push,push,call,push,call,add,cmp,jl,cmp,jz,push,call,mov,jz,mov,push,push,mov,mov,call,push,push,call,push,mov,push,call,mov,lea,push,push,push,push,push,call,push,push,call,push,call,lea,push,push,call,pop,pop,xor,pop,mov,mov,mov,push,imul,push,push,mov,jz,lea,xor,cmp,jnb,mov,imul,lea,mov,jz,inc,jmp,jz,mov,dec,jz,jmp,jnz,mov,xor,xor,mov,inc,add,cmp,jb,pop,pop,pop,push,mov,push,push,mov,push,push,mov,imul,mov,xor,add,push,mov,mov,mov,jz,cmp,jz,inc,mov,cmp,jnb,mov,imul,lea,lea,mov,jz,push,push,call,mov,jnz,jz,inc,jz,inc,jmp,inc,cmp,mov,jb,xor,pop,pop,pop,cmp,jz,cmp,jz,jmp,mov,mov,jmp,mov,mov,push,xor,cmp,jnb,cmp,jbe,lea,push,mov,jnz,xor,inc,shl,jz,jmp,mov,inc,add,cmp,jb,pop,pop,push,mov,sub,mov,push,push,add,push,mov,mov,mov,xor,cmp,jz,cmp,jnb,mov,add,mov,jnz,mov,jz,cmp,jz,mov,xor,inc,shl,mov,mov,mov,shl,cmp,jnz,inc,add,cmp,jb,cmp,jz,inc,add,cmp,jb,mov,pop,pop,pop,mov,jge,inc,mov,shl,sub,push,call,push,mov,jmp,mov,mov,imul,add,cmp,jz,push,call,cmp,jz,push,call,jnz,inc,inc,jmp,dec,mov,mov,sub,cmp,jz,add,push,push,push,push,call,push,push,push,call,jge,xor,pop,mov,jmp,mov,mov,push,push,call,push,push,call,push,mov,sub,mov,push,push,mov,push,push,pop,lea,mov,xor,mov,mov,mov,mov,shl,mov,mov,shl,add,add,lea,mov,mov,add,cmp,ja,jmp,push,push,call,jmp,inc,cmp,jz,push,call,jmp,push,call,dec,push,push,call,jmp,push,push,call,jmp,push,call,cmp,jg,xor,inc,push,call,jmp,push,call,jmp,shl,cmp,jnz,mov,push,mov,call,mov,mov,jmp,mov,mov,jmp,mov,lea,xor,mov,cmp,mov,mov,jmp,push,push,jmp,mov,mov,cmp,jz,push,push,call,mov,mov,cmp,jz,push,push,call,jmp,push,call,push,push,call,jnz,jmp,push,call,mov,push,call,mov,cmp,jz,push,push,call,mov,push,push,mov,mov,mov,call,jnz,call,cmp,jnz,push,call,jnz,inc,mov,mov,inc,cmp,jnz,cmp,jz,push,call,push,push,call,push,call,jmp,push,jmp,push,call,push,call,jmp,push,call,push,mov,call,push,mov,call,push,push,call,jz,push,jmp,cmp,jz,push,call,jz,push,push,call,push,jmp,push,call,mov,lea,push,push,push,push,call,jz,mov,cmp,jbe,cmp,jz,push,call,cmp,jz,add,push,push,call,jmp,mov,mov,cmp,jnz,push,push,push,call,jmp,push,call,lea,push,push,push,push,push,push,call,jnz,jmp,push,call,push,push,call,jmp,push,call,mov,mov,push,mov,mov,call,push,mov,jz,push,call,jmp,push,push,call,push,call,push,call,push,call,mov,cmp,jl,push,call,xor,cmp,jz,lea,add,push,push,call,mov,mov,add,neg,sbb,inc,mov,cmp,jnz,push,call,xor,cmp,inc,push,push,push,call,cmp,mov,jnz,cmp,jnz,push,push,call,push,push,call,push,push,call,push,push,call,mov,sar,push,push,call,sub,jz,dec,jz,push,push,jmp,push,push,call,cmp,jmp,inc,jmp,push,push,call,inc,push,push,push,push,call,dec,cmp,mov,jnz,cmp,jz,lea,push,lea,push,push,push,call,push,call,cmp,jge,cmp,jnz,push,push,call,push,push,call,jmp,push,push,call,push,push,jmp,push,jmp,push,call,push,push,call,cmp,jz,cmp,jz,cmp,jnz,mov,jmp,push,call,push,push,call,jmp,push,call,push,call,jmp,push,call,push,mov,call,push,mov,call,cmp,mov,mov,jz,cmp,jz,push,call,cmp,jge,add,js,cmp,jle,mov,mov,add,push,push,call,mov,cmp,jz,jge,push,call,add,jns,mov,mov,cmp,jge,mov,jmp,push,call,push,mov,call,cmp,push,push,jnz,call,jnz,mov,jmp,call,jmp,xor,inc,push,call,push,push,push,mov,call,jz,cmp,jz,push,push,call,jnz,mov,mov,mov,jmp,push,call,push,mov,call,cmp,jnz,cmp,jl,jle,jmp,cmp,jnb,mov,jmp,jbe,mov,jmp,push,call,push,mov,call,mov,mov,cmp,ja,jmp,add,jmp,sub,jmp,imul,mov,jmp,cmp,jz,mov,idiv,mov,jmp,jmp,jmp,xor,jmp,xor,cmp,jmp,cmp,jnz,jmp,xor,jmp,cmp,jz,cmp,jz,xor,inc,jmp,cmp,jz,mov,idiv,mov,jmp,xor,mov,jmp,shl,jmp,sar,push,jmp,push,call,push,mov,call,push,push,push,call,add,jmp,mov,mov,cmp,jz,dec,cmp,jz,mov,cmp,jnz,cmp,jz,add,mov,push,push,call,mov,add,push,push,call,mov,push,add,push,jmp,cmp,jz,cmp,jz,lea,push,push,call,mov,push,mov,call,jmp,push,push,call,push,mov,lea,push,call,mov,mov,mov,jmp,push,call,push,mov,call,mov,jz,push,call,mov,jz,push,call,mov,cmp,push,jnz,call,push,mov,call,mov,sar,jz,lea,push,push,push,push,push,push,push,call,neg,sbb,inc,mov,jmp,push,push,push,push,call,jmp,call,push,mov,call,mov,neg,sbb,mov,neg,sbb,push,push,push,push,call,mov,cmp,jl,push,jmp,push,call,push,call,jz,mov,jmp,push,call,push,push,call,push,call,jmp,mov,add,push,push,push,call,push,call,jmp,push,push,call,mov,lea,push,push,call,mov,push,imul,push,mov,imul,push,push,push,call,push,push,call,push,push,push,push,call,cmp,jz,push,call,jmp,push,push,push,call,push,call,push,push,call,push,call,neg,push,mov,call,mov,mov,push,mov,mov,mov,mov,push,mov,mov,call,push,call,jmp,push,call,push,mov,call,cmp,push,push,jnz,call,jmp,call,jmp,push,call,push,mov,call,push,mov,call,push,mov,call,push,call,mov,push,neg,sbb,push,push,mov,neg,sbb,push,push,push,call,cmp,jge,jmp,push,call,mov,push,push,call,push,call,cmp,mov,jz,cmp,jz,mov,jmp,push,call,push,push,call,cmp,jz,lea,push,push,call,cmp,jl,push,push,call,jmp,cmp,jz,mov,push,call,jmp,push,call,push,call,cmp,mov,jz,mov,push,push,call,push,jmp,mov,mov,jmp,push,call,lea,mov,push,push,call,mov,cmp,mov,mov,mov,jz,push,push,call,cmp,mov,jz,push,push,push,push,call,jz,lea,push,lea,push,push,push,call,jz,mov,push,push,call,mov,push,push,call,mov,push,jmp,cmp,mov,jl,push,call,push,mov,call,cmp,mov,jz,push,call,mov,cmp,jnz,push,push,push,call,mov,cmp,jz,push,push,call,mov,cmp,jz,cmp,mov,jz,push,call,call,jz,mov,jmp,push,push,push,push,push,call,add,jmp,push,push,call,cmp,jnz,push,call,jz,push,call,jmp,push,jmp,push,jmp,push,call,push,mov,call,push,mov,call,push,mov,call,push,mov,call,push,mov,call,jnz,push,call,lea,push,push,push,push,push,call,cmp,jl,mov,lea,push,push,mov,push,call,mov,cmp,jl,mov,push,push,mov,call,mov,mov,push,push,mov,call,mov,mov,mov,sar,jz,mov,push,push,mov,call,mov,mov,sar,mov,push,push,call,mov,cmp,jz,mov,mov,mov,push,push,push,call,mov,push,mov,push,call,mov,push,mov,push,call,cmp,jl,mov,push,push,push,push,mov,push,push,call,jz,mov,push,push,push,mov,call,mov,mov,push,mov,call,mov,push,mov,call,cmp,jge,mov,push,call,jmp,push,jmp,push,call,push,mov,call,push,mov,call,push,mov,call,jnz,push,push,call,jmp,mov,push,mov,mov,call,push,mov,call,mov,mov,mov,push,push,mov,mov,mov,mov,call,lea,push,call,jz,jmp,cmp,jz,push,push,push,call,push,call,mov,jmp,inc,jmp,xor,xor,cmp,jz,push,call,mov,mov,cmp,jz,push,call,mov,cmp,jz,push,call,mov,push,call,push,push,push,push,call,jmp,push,mov,call,push,mov,call,push,mov,call,push,push,lea,push,push,push,push,call,mov,cmp,jmp,cmp,jnz,push,call,mov,cmp,jz,push,call,push,push,call,push,mov,call,jmp,push,call,mov,push,push,push,call,push,call,mov,cmp,jz,jmp,push,call,mov,mov,mov,push,mov,call,push,mov,call,lea,push,push,mov,push,push,push,push,push,push,push,mov,call,jnz,cmp,mov,jnz,push,call,push,call,inc,cmp,jnz,push,call,push,mov,pop,cmp,jnz,push,push,push,push,call,push,push,push,push,push,push,call,jnz,mov,push,jmp,push,call,push,mov,call,cmp,mov,jz,lea,mov,push,lea,push,push,push,push,push,call,xor,inc,jnz,cmp,jz,cmp,jz,cmp,jnz,mov,mov,mov,mov,jmp,push,xor,cmp,push,mov,call,jmp,mov,mov,jmp,push,call,push,mov,call,cmp,mov,jz,cmp,mov,mov,jz,push,push,push,push,call,jmp,push,push,push,lea,push,push,push,push,push,call,jnz,mov,push,call,jmp,cmp,jz,push,call,push,jmp,push,call,push,push,push,call,cmp,jz,push,jmp,cmp,jz,push,call,mov,xor,inc,jmp,push,call,push,call,cmp,jz,lea,push,push,push,push,push,call,push,call,jmp,push,mov,call,cmp,mov,jl,mov,cmp,jle,mov,cmp,jz,push,mov,call,cmp,mov,jle,mov,lea,push,push,lea,push,push,push,call,jz,cmp,jnz,cmp,jnz,cmp,jz,cmp,jz,mov,mov,inc,cmp,mov,jz,cmp,jl,jmp,push,push,call,jmp,mov,cmp,jz,cmp,jz,cmp,jnz,mov,inc,jmp,push,push,push,push,call,jmp,mov,mov,cmp,jmp,cmp,jz,push,push,push,call,push,push,call,push,call,cmp,jl,jmp,cmp,jz,push,call,push,call,jmp,cmp,jz,lea,push,push,call,push,call,jnz,mov,mov,jmp,push,call,lea,push,push,call,cmp,jnz,mov,mov,mov,jmp,push,push,call,lea,push,push,jmp,push,mov,call,mov,push,mov,call,jnz,push,call,push,call,push,push,push,call,cmp,mov,jz,mov,mov,push,push,mov,call,mov,cmp,jz,push,call,push,push,call,push,push,call,mov,cmp,mov,jz,push,push,push,push,call,jmp,mov,mov,add,push,add,push,push,mov,call,add,cmp,jnz,push,call,lea,push,push,push,push,push,call,push,call,push,push,push,push,call,mov,push,call,cmp,push,pop,jge,push,pop,push,call,mov,push,jmp,push,call,cmp,mov,jnb,mov,mov,imul,add,cmp,jl,mov,jnz,add,push,push,call,jmp,push,jmp,sub,mov,jz,push,call,mov,jmp,push,lea,push,call,mov,mov,mov,cmp,jz,push,call,jmp,push,call,cmp,jnb,cmp,jz,cmp,jz,push,call,push,push,call,jmp,push,call,push,push,call,jmp,cmp,jz,mov,mov,mov,jmp,mov,push,push,call,jmp,mov,push,push,push,push,call,cmp,jz,push,push,push,call,mov,add,xor,pop,pop,pop,mov,mov,push,push,call,push,call,push,mov,push,mov,jge,neg,mov,mov,sar,push,shl,add,push,call,mov,jge,push,call,mov,pop,pop,push,mov,sub,push,push,lea,push,push,mov,xor,push,push,push,push,call,cmp,jnz,mov,mov,jmp,cmp,jnz,lea,push,push,push,call,jnz,lea,push,push,push,push,call,jz,push,call,push,call,cmp,jz,push,push,push,push,call,jmp,push,call,xor,inc,pop,pop,pop,cmp,jnz,push,push,call,jnz,jmp,mov,jnz,mov,add,push,mov,lea,push,mov,push,push,push,call,push,mov,push,call,push,call,neg,sbb,not,pop,push,mov,sub,cmp,jnz,push,push,push,push,call,mov,cmp,jnz,mov,mov,cmp,jl,mov,push,push,push,call,push,lea,push,push,call,add,lea,push,push,call,lea,push,push,push,call,xor,push,xor,cmp,jz,mov,cmp,jz,push,call,mov,pop,cmp,jz,push,call,pop,call,cmp,jbe,push,push,push,push,push,call,push,push,mov,call,pop,push,mov,sub,push,push,xor,push,mov,mov,call,mov,push,add,push,push,mov,call,push,push,push,call,mov,cmp,mov,mov,jnz,mov,jmp,push,mov,push,call,push,call,push,push,call,push,push,call,cmp,mov,mov,jle,mov,mov,mov,neg,sbb,add,cmp,jl,mov,push,push,call,jz,cmp,jnz,push,lea,push,push,call,mov,jnz,cmp,jnz,cmp,jnz,cmp,jnz,cmp,jnz,mov,mov,mov,cmp,mov,jg,jnz,jnz,inc,lea,cmp,jbe,mov,jmp,jnz,push,call,pop,cmp,jge,push,push,push,call,mov,add,sub,jg,xor,push,call,cmp,pop,jz,cmp,jz,push,call,lea,push,push,call,jz,mov,cmp,jnz,push,push,call,mov,mov,add,push,call,push,push,push,push,call,cmp,jz,mov,jmp,push,call,pop,jmp,mov,mov,mov,jz,inc,push,lea,pop,sub,add,dec,jnz,push,push,push,push,call,mov,add,push,push,push,call,xor,pop,pop,pop,push,mov,sub,push,push,mov,push,mov,xor,cmp,mov,jnz,mov,cmp,mov,mov,jnz,mov,mov,cmp,jl,mov,add,push,call,lea,push,push,call,jz,jz,call,mov,mov,mov,mov,mov,jle,mov,mov,cmp,jge,mov,push,push,call,jz,sub,mov,mov,mov,mov,push,mov,mov,call,mov,jl,mov,sub,call,mov,jz,sub,cmp,ja,cmp,jnz,mov,push,sub,push,push,call,push,lea,push,push,call,add,lea,push,push,call,mov,xor,cmp,jz,cmp,jnz,push,lea,push,push,push,push,call,jz,cmp,jnz,add,jmp,mov,add,sub,mov,cmp,jnz,jmp,cmp,jg,jmp,push,jmp,push,jmp,cmp,jnz,cmp,jle,mov,mov,cmp,jge,mov,push,push,call,jz,lea,push,push,push,push,push,call,jz,cmp,jnz,add,sub,cmp,jg,jmp,cmp,jge,mov,push,push,call,jnz,push,pop,jmp,mov,mov,pop,pop,pop,push,mov,push,mov,lea,push,push,push,push,push,call,jz,cmp,jnz,xor,inc,jmp,xor,pop,pop,push,push,push,push,call,push,mov,push,call,push,call,jnz,pop,push,call,push,push,call,push,push,call,pop,sub,push,push,push,xor,push,mov,mov,xor,mov,call,push,call,push,call,push,mov,call,mov,push,lea,push,push,push,push,call,push,push,call,call,mov,push,push,call,push,call,cmp,mov,mov,jnz,mov,mov,push,push,call,push,call,mov,jmp,cmp,jnz,inc,cmp,jz,cmp,mov,jnz,inc,mov,cmp,jnz,inc,cmp,jnz,mov,cmp,jnz,cmp,jnz,mov,cmp,jnz,cmp,jz,push,push,call,cmp,jnz,inc,mov,cmp,jnz,jmp,mov,add,push,push,call,mov,push,push,call,call,jnz,push,push,call,push,push,call,call,jz,push,call,push,call,cmp,mov,jnz,cmp,jz,push,push,call,mov,jmp,cmp,jz,dec,cmp,jnb,cmp,mov,jb,mov,add,push,call,jz,push,push,call,push,push,call,mov,call,mov,call,call,cmp,jz,push,push,call,push,call,push,push,call,mov,push,push,call,jz,push,push,call,push,call,cmp,jnz,push,push,call,push,push,call,push,mov,pop,mov,mov,push,push,call,push,call,cmp,jz,push,push,push,call,jz,push,push,call,mov,push,push,call,push,call,cmp,jz,push,call,mov,inc,dec,jnz,push,push,call,jmp,cmp,jz,push,call,push,mov,call,push,mov,call,cmp,mov,jz,cmp,jz,cmp,jz,lea,push,push,call,push,call,jz,lea,push,push,push,call,push,push,lea,push,push,push,push,mov,mov,call,push,push,call,jnz,push,call,mov,cmp,jz,mov,push,call,mov,cmp,jz,push,call,call,push,push,call,push,mov,jmp,push,call,mov,pop,jnz,pop,push,mov,push,call,jz,push,mov,mov,push,call,push,call,jnz,pop,pop,mov,jmp,mov,cmp,jz,mov,jnz,inc,xor,jmp,push,mov,push,call,jnz,inc,jmp,push,push,call,jz,mov,mov,mov,mov,mov,mov,xor,jmp,pop,sub,push,push,push,mov,push,push,call,xor,cmp,jz,call,push,push,call,jmp,mov,push,push,push,push,push,mov,call,cmp,jnz,push,push,push,push,push,call,push,push,call,call,mov,mov,push,mov,mov,call,jnz,mov,cmp,jz,mov,mov,mov,push,add,push,add,push,push,push,call,mov,cmp,jz,cmp,jnz,mov,push,push,call,mov,push,call,lea,cmp,jbe,push,push,call,jnz,push,call,cmp,jz,jnz,push,call,push,call,push,push,call,push,call,jnz,push,push,call,push,push,push,push,push,push,call,mov,cmp,mov,jz,mov,mov,lea,push,mov,mov,mov,mov,call,jz,lea,push,push,push,push,call,push,push,mov,sub,push,push,push,mov,sub,push,lea,push,push,push,push,push,push,call,mov,push,call,jz,push,pop,jmp,call,cmp,jnz,push,push,call,mov,push,call,jnz,push,call,mov,mov,push,push,push,call,jnz,push,push,push,call,push,mov,call,mov,push,add,push,push,push,push,call,push,mov,call,push,call,mov,jmp,push,call,jz,cmp,jnz,push,call,jmp,push,call,xor,pop,pop,pop,pop,add,push,push,push,push,mov,mov,push,call,mov,jz,mov,mov,mov,imul,neg,add,add,dec,mov,xor,jz,jnz,jmp,mov,mov,mov,mov,lea,jnz,cmp,jnz,mov,jmp,xor,jmp,mov,push,push,call,push,push,call,push,push,call,mov,mov,jz,mov,mov,jz,push,lea,push,call,add,dec,jnz,pop,pop,pop,pop,sub,mov,push,mov,push,push,cmp,push,jz,cmp,jz,mov,xor,cmp,jnz,push,push,push,push,push,push,push,call,cmp,jnz,mov,dec,neg,sbb,push,push,call,cmp,jnz,push,call,mov,mov,jmp,cmp,jnz,push,push,push,call,xor,inc,jmp,cmp,jnz,push,push,call,mov,cmp,jz,push,push,push,push,call,push,call,jz,cmp,jnz,push,jmp,cmp,jnz,cmp,jle,push,jmp,push,pop,cmp,jnz,cmp,jz,push,call,mov,push,call,jmp,push,call,jnz,mov,jmp,push,push,push,push,call,push,push,push,call,jmp,mov,mov,cmp,mov,jnz,mov,push,push,mov,call,push,push,mov,call,push,push,push,mov,call,push,push,push,call,push,call,mov,xor,inc,mov,mov,xor,mov,shl,add,cmp,jl,cmp,jnz,push,push,call,jz,push,push,push,push,call,xor,cmp,jmp,cmp,jz,push,call,mov,add,shl,add,mov,cmp,jnz,push,call,cmp,jnz,mov,cmp,jnb,push,mov,push,call,push,push,push,call,push,push,push,call,push,push,push,call,push,push,call,cmp,mov,jz,mov,push,push,call,mov,push,push,call,mov,push,call,push,push,call,cmp,jz,push,jmp,push,push,push,push,call,push,call,mov,push,push,push,push,call,cmp,jz,push,push,push,push,call,push,jmp,push,call,mov,push,push,call,push,push,call,add,push,call,push,push,call,push,push,call,jnz,cmp,jz,cmp,jnz,cmp,jnz,cmp,jnz,jmp,push,call,mov,cmp,jle,mov,push,push,mov,add,push,push,push,call,cmp,mov,jz,push,push,push,call,lea,push,push,push,call,push,call,lea,push,push,call,push,push,push,push,push,push,push,call,push,push,call,cmp,jnz,push,push,call,push,call,jmp,push,call,push,mov,push,call,cmp,jnz,cmp,jz,push,push,call,mov,xor,pop,pop,pop,pop,add,cmp,jnz,inc,push,push,push,push,call,push,push,call,push,mov,add,push,push,call,push,push,call,push,push,push,push,call,mov,jz,push,push,push,push,call,push,mov,sub,mov,push,add,cmp,ja,push,push,call,mov,jz,mov,push,mov,jz,push,call,jz,push,push,call,push,push,call,mov,mov,jz,push,call,mov,pop,jz,push,push,call,jz,mov,mov,mov,jz,push,call,lea,push,call,mov,mov,jmp,xor,pop,push,mov,mov,mov,push,add,push,push,call,push,call,mov,mov,add,xor,pop,push,mov,sub,cmp,push,push,push,jnz,mov,mov,jge,mov,lea,sub,mov,mov,push,add,push,mov,mov,push,mov,inc,not,shr,mov,mov,call,push,push,push,call,xor,push,add,push,push,call,push,call,push,push,call,mov,push,call,mov,push,push,push,push,call,mov,mov,jge,neg,push,call,push,push,push,push,call,push,push,push,push,call,push,call,push,push,push,push,call,lea,push,push,push,push,call,xor,jmp,cmp,mov,mov,jnz,mov,shr,jnz,xor,cmp,jnz,mov,lea,jz,push,push,push,push,push,call,push,call,mov,push,mov,call,call,cmp,jnz,push,push,call,mov,cmp,jnz,cmp,jnz,mov,mov,mov,sub,cmp,mov,mov,jnb,lea,push,push,push,push,call,mov,push,push,call,mov,push,call,push,push,push,push,push,push,call,push,push,call,push,call,mov,cmp,jnz,cmp,jnz,cmp,jnz,push,push,push,push,call,cmp,jnz,push,push,push,push,call,xor,inc,jmp,cmp,jnz,inc,mov,push,push,push,call,pop,pop,pop,cmp,mov,jnz,mov,push,push,push,push,call,push,mov,cmp,push,mov,jnz,push,push,push,call,mov,shl,add,push,push,push,call,push,push,push,call,pop,pop,push,mov,sub,mov,push,push,mov,mov,mov,shl,add,cmp,push,mov,mov,jnz,push,push,call,push,call,cmp,jnz,mov,push,push,call,push,mov,call,jz,push,call,jnz,push,call,push,mov,push,call,mov,push,push,push,call,mov,push,push,push,call,push,call,push,call,jz,push,push,call,cmp,jnz,cmp,jnz,mov,shr,cmp,jnz,mov,cmp,jnz,push,xor,pop,lea,push,mov,mov,push,mov,mov,mov,mov,call,mov,lea,push,mov,call,jz,push,call,push,call,mov,mov,jz,cmp,jnz,push,push,call,push,mov,push,call,jz,push,push,call,inc,push,push,push,call,jmp,mov,cmp,jz,cmp,jnz,push,push,call,push,call,jnz,mov,mov,push,push,call,xor,push,call,cmp,mov,jz,xor,cmp,jz,lea,push,lea,push,lea,push,push,call,jnz,jz,push,call,mov,dec,cmp,mov,jnz,xor,push,push,call,push,call,cmp,jz,lea,push,lea,push,lea,push,lea,push,push,call,jz,mov,mov,imul,push,push,push,call,mov,mov,jmp,mov,mov,shr,mov,xor,jmp,mov,mov,push,call,cmp,jz,cmp,jnb,mov,mov,cmp,jz,push,push,push,call,cmp,jz,push,push,push,call,jmp,push,push,push,call,mov,cmp,mov,jnz,push,call,mov,mov,jz,mov,xor,cmp,push,call,cmp,jnz,cmp,jnz,call,mov,push,push,push,call,pop,pop,pop,push,mov,cmp,push,mov,jnz,push,push,call,push,push,push,push,call,cmp,jnz,push,push,call,jz,push,call,jnz,inc,jmp,xor,push,push,push,push,call,xor,pop,pop,push,mov,sub,push,push,mov,push,push,cmp,pop,push,pop,jnb,push,pop,push,pop,cmp,jnb,push,xor,pop,cmp,jnb,xor,mov,inc,push,shl,pop,idiv,add,lea,push,push,call,push,lea,push,push,call,push,mov,mov,push,xor,lea,add,shr,pop,div,mov,shr,push,push,push,mov,push,push,call,push,mov,call,add,push,call,add,push,push,push,call,pop,pop,pop,mov,mov,xor,jz,push,jz,mov,add,add,dec,jnz,pop,push,mov,sub,push,mov,push,mov,push,push,push,push,call,cmp,jz,call,shr,mov,lea,push,push,mov,call,lea,push,push,push,push,call,jnz,jmp,mov,mov,lea,push,push,push,push,mov,call,mov,pop,pop,push,mov,sub,push,push,mov,push,push,push,call,push,mov,push,call,mov,mov,mov,mov,add,xor,cmp,mov,mov,jnz,mov,push,mov,mov,pop,mov,shl,push,push,mov,call,push,mov,push,call,push,push,mov,push,call,push,push,push,push,push,mov,call,push,mov,push,push,call,push,push,push,push,call,push,push,push,push,call,cmp,jge,push,push,push,push,call,push,call,xor,mov,mov,cmp,jz,cmp,jz,mov,push,push,call,push,push,push,push,call,push,push,push,push,call,inc,cmp,jl,mov,mov,push,push,push,call,push,push,push,call,xor,xor,cmp,jle,mov,lea,mov,lea,cmp,jz,mov,mov,push,mov,pop,mov,mov,mov,mov,mov,mov,jz,lea,mov,push,push,push,mov,push,call,mov,mov,mov,mov,mov,jmp,jz,push,push,push,push,call,mov,jmp,lea,push,push,push,push,call,mov,mov,mov,inc,add,cmp,mov,jl,cmp,jnz,push,push,call,push,push,push,call,cmp,jnz,push,push,call,push,call,jmp,push,call,mov,xor,cmp,jnz,xor,mov,inc,mov,mov,jmp,mov,cmp,mov,jz,cmp,jnz,cmp,mov,jz,cmp,jnz,jnz,cmp,jz,mov,cmp,jnz,xor,cmp,push,push,call,cmp,jl,mov,imul,lea,mov,jnz,jz,xor,jns,jmp,jmp,xor,push,mov,call,mov,xor,not,inc,mov,shr,mov,mov,cmp,jz,mov,cmp,jnz,push,push,push,push,call,mov,cmp,jnz,cmp,jnz,mov,imul,lea,jmp,mov,imul,lea,cmp,jnz,cmp,jnz,mov,shr,cmp,jnz,push,push,push,push,call,cmp,jz,push,push,push,push,call,mov,cmp,jz,mov,cmp,jnz,push,pop,push,call,push,push,push,push,call,mov,mov,mov,cmp,jnz,push,push,push,push,call,cmp,jnz,mov,cmp,jz,push,call,mov,cmp,jz,push,call,mov,mov,mov,cmp,jnz,push,push,call,cmp,jz,push,call,cmp,jz,push,call,mov,push,call,xor,xor,cmp,jle,mov,cmp,jz,inc,inc,cmp,jl,push,push,push,push,call,mov,mov,push,push,call,mov,cmp,mov,mov,mov,mov,jle,lea,mov,mov,mov,cmp,jz,mov,mov,mov,jz,lea,mov,mov,jz,push,pop,jmp,mov,inc,jz,add,mov,push,shl,mov,sar,add,inc,mov,push,push,push,call,lea,push,push,push,push,call,inc,add,mov,cmp,jl,push,push,push,call,mov,cmp,jz,push,call,push,push,push,call,cmp,jnz,jz,xor,cmp,mov,shl,mov,push,push,call,push,push,push,call,push,call,push,push,push,call,pop,pop,pop,push,mov,cmp,push,push,jnz,cmp,jnz,push,call,xor,jmp,cmp,mov,jnz,push,call,jz,push,push,call,mov,mov,jmp,mov,cmp,jnz,cmp,jz,push,mov,mov,push,push,mov,call,push,push,call,push,call,push,push,call,pop,jmp,mov,push,push,push,push,push,call,pop,pop,pop,push,mov,sub,mov,push,xor,push,cmp,push,mov,jz,mov,mov,mov,mov,jnz,push,push,call,push,call,cmp,mov,jz,push,call,add,cmp,jnb,push,push,call,jnz,push,push,call,jnz,push,push,push,mov,push,mov,mov,call,sub,mov,mov,lea,push,mov,sub,push,push,push,call,push,push,push,push,call,cmp,jz,mov,mov,pop,pop,pop,push,mov,push,mov,push,call,push,call,jz,add,dec,jz,push,push,call,jnz,add,jnz,jmp,inc,push,call,call,mov,pop,pop,push,mov,sub,push,push,push,mov,xor,cmp,mov,jnz,xor,lea,mov,mov,mov,mov,mov,mov,push,mov,mov,push,mov,mov,call,push,mov,push,call,push,mov,push,call,push,mov,mov,call,push,call,mov,lea,push,mov,push,call,push,call,mov,mov,sub,lea,push,push,push,mov,push,call,mov,push,push,push,push,call,cmp,jl,push,push,push,push,call,push,push,push,push,call,cmp,jl,push,push,push,push,call,mov,push,push,push,call,jz,push,push,call,jnz,push,push,call,jmp,mov,push,call,push,push,call,push,mov,push,push,push,call,jz,push,push,push,push,call,push,push,push,push,call,jmp,cmp,jnz,lea,push,push,push,push,call,push,push,push,push,call,push,call,cmp,mov,jnz,cmp,jnz,push,push,call,push,push,call,push,call,cmp,jnz,cmp,jz,push,mov,call,push,push,push,call,pop,pop,pop,push,push,call,cmp,jnz,mov,push,push,call,push,call,cmp,jnz,cmp,jnz,push,push,push,push,call,cmp,mov,jle,call,push,push,mov,call,push,push,push,push,call,mov,cmp,jnz,lea,push,push,call,mov,mov,jmp,shr,push,push,push,push,push,push,push,call,xor,inc,cmp,jnz,mov,mov,mov,mov,mov,mov,dec,lea,push,push,push,push,call,cmp,lea,jnz,push,call,call,push,push,call,push,mov,call,mov,lea,mov,push,push,push,push,call,add,mov,inc,inc,inc,cmp,jl,push,call,push,push,call,call,xor,jmp,push,mov,sub,lea,mov,push,xor,push,push,push,push,push,push,push,push,push,call,jz,push,call,mov,push,push,push,push,call,mov,mov,cmp,jz,shr,jnz,cmp,jz,xor,mov,push,mov,mov,mov,mov,mov,mov,mov,call,push,mov,sub,push,push,mov,push,call,mov,jz,push,call,neg,sbb,inc,add,jmp,push,mov,mov,jz,jz,jz,mov,push,push,call,jz,push,push,call,jmp,push,call,cmp,jnz,cmp,jnz,push,push,call,push,call,mov,lea,push,push,add,call,cmp,mov,jz,lea,push,push,lea,call,cmp,jz,cmp,jz,lea,cmp,jnz,mov,jz,cmp,jnz,cmp,jz,push,push,call,jz,mov,cmp,jnz,push,push,call,jmp,push,call,push,call,jnz,jz,push,push,call,push,push,call,jmp,inc,jmp,push,push,call,lea,push,push,call,jnz,push,call,cmp,jz,xor,pop,cmp,jz,cmp,jnz,inc,jmp,push,call,jz,push,call,push,call,push,call,jnz,jz,push,push,call,push,push,call,jmp,push,push,call,pop,pop,push,mov,push,call,add,push,push,call,cmp,jz,push,push,call,mov,pop,mov,jmp,cmp,jz,push,call,mov,jnz,push,mov,push,call,add,cmp,jz,push,push,call,cmp,ja,inc,pop,mov,mov,cmp,jz,cmp,jl,cmp,jg,cmp,jz,xor,jmp,xor,inc,push,push,mov,push,mov,push,call,mov,push,call,cmp,jz,cmp,jnz,push,call,jmp,cmp,jnz,push,pop,push,push,dec,call,cmp,jz,inc,jnz,jmp,xor,pop,pop,pop,push,push,push,mov,push,call,push,call,mov,jnz,xor,jmp,push,call,jz,mov,jz,cmp,jz,sub,jmp,call,jz,jz,push,call,push,call,cmp,push,jg,call,push,call,xor,cmp,mov,pop,pop,push,push,push,push,call,mov,mov,jmp,push,mov,push,call,mov,jz,push,call,mov,push,call,cmp,jge,xor,pop,pop,pop,mov,jmp,mov,push,mov,jle,mov,sub,mov,mov,inc,dec,jnz,pop,push,call,cmp,jz,push,push,call,push,call,mov,push,inc,neg,sbb,push,push,push,push,push,push,call,push,mov,push,mov,push,push,pop,dec,mov,call,push,xor,pop,div,push,lea,push,push,push,add,call,jnz,jnz,pop,pop,pop,mov,jmp,push,push,push,push,push,call,mov,jz,push,push,push,call,jnz,mov,mov,mov,mov,jz,push,push,push,call,push,call,push,push,push,call,jz,cmp,jg,mov,push,push,push,call,jz,cmp,jg,push,push,push,push,call,mov,mov,add,push,push,call,push,push,push,call,mov,cmp,mov,jz,push,push,call,mov,lea,push,push,call,mov,jz,lea,push,push,push,push,push,call,jz,cmp,jnz,push,push,call,jnz,lea,push,push,call,add,mov,push,add,push,push,call,xor,push,push,push,push,call,lea,push,add,push,push,push,push,call,push,call,push,call,inc,pop,pop,pop,pop,add,push,push,call,jz,inc,lea,cmp,mov,jnb,mov,mov,inc,cmp,jb,mov,sub,jmp,push,mov,push,lea,push,push,mov,xor,neg,sbb,mov,mov,push,push,push,push,call,jnz,lea,mov,push,lea,push,push,push,push,push,call,jnz,cmp,jz,cmp,jz,mov,push,mov,call,pop,pop,pop,push,push,push,call,add,push,mov,push,mov,push,push,push,xor,cmp,mov,mov,mov,jnz,inc,cmp,jnz,inc,mov,cmp,jl,cmp,jg,mov,mov,cmp,jnz,mov,inc,inc,cmp,jl,cmp,jg,sub,jmp,cmp,jnz,mov,cmp,jl,cmp,jg,add,imul,add,mov,jmp,mov,imul,pop,pop,pop,push,push,push,call,push,mov,sub,mov,jge,mov,lea,sub,mov,mov,mov,add,mov,push,sub,push,push,cmp,mov,jnb,mov,jmp,mov,sub,cmp,jge,inc,cmp,mov,jbe,mov,mov,shl,mov,add,mov,mov,mov,mov,cmp,mov,mov,jnz,push,pop,call,jns,cmp,jz,cmp,jz,cmp,jz,jmp,mov,cmp,jz,push,pop,jns,mov,add,push,push,push,push,push,call,cmp,jnz,push,push,call,jmp,cmp,jnz,push,push,call,jmp,cmp,jnz,push,push,call,xor,jmp,mov,xor,dec,cmp,jz,cmp,jz,push,push,push,push,push,call,jz,lea,push,push,push,call,jnz,push,push,call,push,mov,call,jnz,jnz,cmp,jz,cmp,jnz,push,push,call,push,call,jmp,cmp,jnz,cmp,jnz,push,push,call,jmp,mov,shl,add,push,push,call,add,cmp,jnb,jmp,cmp,jnz,sub,push,push,call,push,call,mov,add,mov,jmp,jnz,mov,mov,inc,inc,jmp,mov,inc,mov,jnz,cmp,pop,pop,pop,jz,push,push,call,push,push,mov,push,cmp,jnz,cmp,jnz,cmp,jnz,cmp,jnz,add,cmp,jz,push,call,jz,inc,inc,mov,mov,mov,jz,push,mov,cmp,jbe,push,push,call,cmp,jnz,push,call,sub,push,push,push,call,push,call,mov,push,call,mov,mov,jnz,pop,push,push,call,mov,mov,cmp,jz,cmp,jnz,cmp,jb,pop,pop,pop,push,mov,push,push,call,cmp,jz,push,call,mov,jmp,xor,pop,mov,push,mov,push,shl,mov,push,call,jnz,push,call,jz,push,push,call,pop,pop,push,mov,sub,push,mov,push,mov,jmp,lea,push,call,push,push,push,lea,push,push,call,jnz,pop,pop,cmp,push,jnz,xor,push,mov,pop,mov,neg,sbb,shr,xor,dec,jnz,mov,inc,cmp,jl,mov,mov,not,jbe,mov,push,mov,xor,shr,mov,xor,inc,dec,jnz,pop,not,pop,push,mov,mov,cmp,jz,cmp,jnz,push,call,mov,inc,cmp,jnz,cmp,jnz,mov,cmp,jl,push,call,cmp,jz,cmp,jz,jmp,jmp,xor,jmp,push,pop,pop,push,mov,sub,mov,push,push,push,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,inc,mov,jle,cmp,jz,cmp,jz,mov,dec,inc,dec,mov,jmp,cmp,jz,mov,mov,mov,mov,shr,inc,cmp,jz,mov,jmp,cmp,jnz,cmp,jz,mov,inc,dec,mov,jmp,mov,push,mov,pop,shr,inc,cmp,jz,cmp,jnz,mov,push,mov,pop,shr,inc,cmp,jz,cmp,jz,mov,jmp,mov,shr,add,mov,shr,add,mov,jmp,xor,jmp,xor,inc,mov,mov,mov,mov,mov,mov,mov,mov,pop,mov,pop,mov,mov,pop,push,mov,sub,push,mov,push,push,push,lea,pop,lea,add,xor,cmp,ja,push,pop,jmp,push,lea,push,push,mov,call,jnz,cmp,jnz,mov,push,jmp,cmp,jnz,push,lea,push,push,mov,call,jnz,mov,shl,mov,push,lea,push,push,mov,call,jnz,mov,shl,mov,push,lea,push,push,mov,call,jnz,mov,shl,mov,jl,cmp,jg,jmp,push,lea,push,push,mov,call,jnz,cmp,mov,jnz,mov,jmp,inc,cmp,jl,mov,inc,cmp,jl,jmp,push,lea,push,push,mov,call,jnz,cmp,jnz,mov,shl,add,mov,inc,cmp,jl,inc,cmp,jge,mov,cmp,jz,jmp,xor,cmp,jz,mov,mov,inc,inc,cmp,jl,mov,jz,add,mov,push,lea,push,push,mov,call,jnz,cmp,jl,cmp,jg,push,lea,push,push,mov,call,jnz,cmp,jl,jmp,push,lea,push,push,mov,call,jnz,cmp,jz,inc,mov,cmp,jl,push,pop,push,lea,pop,lea,pop,pop,pop,mov,mov,mov,inc,mov,cmp,jge,jmp,xor,xor,cmp,jle,xor,mov,inc,cmp,jl,cmp,mov,jle,mov,lea,mov,jbe,mov,dec,lea,mov,mov,mov,jnz,mov,mov,inc,mov,cmp,mov,jl,jmp,push,lea,push,push,mov,call,jnz,cmp,jnz,inc,jmp,dec,cmp,jl,cmp,jg,push,lea,push,push,mov,call,jnz,cmp,jnz,mov,mov,imul,add,mov,inc,mov,cmp,jl,inc,mov,cmp,jge,push,lea,push,push,mov,call,jnz,jmp,jle,mov,xor,push,cmp,pop,mov,jle,mov,imul,lea,mov,cmp,jle,mov,cmp,jge,mov,inc,cmp,jl,mov,mov,imul,imul,push,add,push,lea,push,push,lea,push,lea,add,push,push,call,mov,mov,inc,mov,cmp,jl,mov,inc,mov,mov,xor,mov,mov,mov,mov,inc,cmp,jle,push,mov,pop,lea,mov,mov,shl,mov,add,mov,dec,dec,jns,lea,dec,mov,sub,jge,lea,push,push,call,jnz,push,lea,push,mov,push,call,jnz,mov,mov,cmp,jg,mov,cmp,jle,inc,mov,push,lea,push,push,mov,call,jnz,mov,add,mov,jmp,mov,sub,jmp,push,lea,push,push,mov,call,jnz,mov,add,mov,cmp,jg,mov,mov,shl,cmp,jg,mov,sub,js,cmp,jge,mov,mov,mov,jmp,mov,cmp,jz,jz,cmp,jnz,mov,jz,cmp,jz,mov,inc,mov,mov,lea,add,jmp,mov,add,shl,cmp,jnz,mov,add,lea,push,push,call,jnz,push,lea,push,mov,push,call,jnz,mov,mov,cmp,jg,mov,cmp,jle,inc,mov,push,lea,push,push,mov,call,jnz,mov,add,mov,jmp,mov,sub,js,cmp,jge,mov,mov,mov,jmp,mov,cmp,jge,mov,mov,inc,dec,cmp,jg,jmp,mov,cmp,jge,dec,cmp,jnb,mov,lea,mov,jbe,lea,mov,mov,dec,jnz,mov,mov,jmp,mov,shr,lea,add,mov,mov,cmp,jle,lea,mov,mov,dec,cmp,jg,inc,jle,dec,mov,add,dec,mov,mov,mov,jnz,mov,lea,dec,mov,mov,cmp,jnz,push,mov,lea,pop,push,pop,mov,add,dec,dec,mov,mov,jns,lea,mov,sub,dec,jnz,mov,push,lea,inc,mov,mov,mov,inc,lea,push,call,jnz,push,lea,push,mov,push,call,jnz,mov,jmp,inc,jmp,mov,xor,cmp,jl,cmp,jge,xor,inc,mov,mov,mov,mov,mov,mov,add,mov,mov,inc,cmp,mov,jle,cmp,mov,jle,mov,mov,mov,shl,lea,mov,lea,inc,inc,mov,cmp,jl,mov,mov,mov,shr,mov,mov,mov,mov,shr,mov,xor,jmp,mov,push,push,push,mov,cmp,jge,mov,jz,mov,mov,shl,add,mov,mov,inc,dec,cmp,mov,mov,jl,mov,mov,sub,xor,mov,inc,shr,mov,mov,mov,shl,dec,mov,xor,jmp,xor,inc,pop,pop,pop,mov,cmp,jnz,inc,mov,cmp,jl,xor,inc,jmp,mov,mov,mov,mov,mov,mov,imul,lea,mov,mov,imul,lea,mov,mov,imul,lea,mov,mov,dec,mov,xor,push,mov,push,mov,push,mov,xor,cmp,push,mov,jg,xor,cmp,jle,cmp,jnz,mov,mov,inc,inc,cmp,jl,inc,cmp,jle,mov,push,pop,xor,mov,xor,cmp,jle,lea,inc,inc,cmp,jl,xor,inc,mov,lea,add,inc,cmp,jl,mov,push,pop,xor,mov,cmp,jg,mov,sub,sub,lea,mov,inc,lea,mov,mov,sub,add,mov,shl,dec,dec,mov,mov,jnz,mov,lea,cmp,jg,mov,lea,mov,add,lea,sub,mov,inc,cmp,jle,pop,pop,pop,pop",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "5525d73d28606ba0d0bf63419bc6f2d9"
+			},
+			{
+				"section": ".rdata",
+				"md5": "a2c7710fa66fcbb43c7ef0ab9eea5e9a"
+			},
+			{
+				"section": ".data",
+				"md5": "76d3c43f58289bceef3ffe4ae66dc848"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "ed79b6de1a117d32cc0e06a56e7852bd"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "969d57c7051ffbdbe83093d8d52704c4",
+		"SHA1": "174c63016827533ee394d5a1b41efbb3ff561732",
+		"SHA256": "00002abd54e43929ed7aea06e7e4ac6ae006cf57300452b139468e71d30b9409",
+		"EntryPoint": "4030de",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 851888,
+		"Original FileName": "",
+		"Entropy": 7.971,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LINE_NUMS_STRIPPED, RELOCS_STRIPPED",
+		"Timestamp": "2009-12-06 07:50:29(2009-12-05 22:50:29 UTC)",
+		"Import Hash": "7fa974366048f9c551ef45714595665e",
+		"Section Info": [
+			".text:0x1000:0x5a2c:0x400:0x5c00:6.45875891333",
+			".rdata:0x7000:0x1190:0x6000:0x1200:5.17976375781",
+			".data:0x9000:0x399798:0x7200:0x400:unknown",
+			".ndata:0x3a3000:0xf000:0x0:0x0:0",
+			".rsrc:0x3b2000:0x66c8:0x7600:0x6800:6.18315291626"
+		],
+		"Resource": [
+			"RT_ICON:0x3b2328:0x25a8:data:English:United States",
+			"RT_ICON:0x3b48d0:0x10a8:data:English:United States",
+			"RT_ICON:0x3b5978:0xea8:data:English:United States",
+			"RT_ICON:0x3b6820:0x8a8:data:English:United States",
+			"RT_ICON:0x3b70c8:0x568:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_ICON:0x3b7630:0x468:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_ICON:0x3b7a98:0x2e8:data:English:United States",
+			"RT_ICON:0x3b7d80:0x128:GLS_BINARY_LSB_FIRST:English:United States",
+			"RT_DIALOG:0x3b7ea8:0x100:data:English:United States",
+			"RT_DIALOG:0x3b7fa8:0x11c:data:English:United States",
+			"RT_DIALOG:0x3b80c8:0x60:data:English:United States",
+			"RT_GROUP_ICON:0x3b8128:0x76:data:English:United States",
+			"RT_VERSION:0x3b81a0:0x24c:data::",
+			"RT_MANIFEST:0x3b83f0:0x2d7:XML 1.0 document, ASCII text, with very long lines, with no line terminators:English:United States"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Tracing\\e3SbHew0aQ3_RASAPI32"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Tracing\\e3SbHew0aQ3_RASMANCS"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASAPI32",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASAPI32",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASAPI32",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASAPI32",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASAPI32",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASAPI32",
+				"name": "FileDirectory"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASMANCS",
+				"name": "EnableFileTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASMANCS",
+				"name": "EnableConsoleTracing"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASMANCS",
+				"name": "FileTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASMANCS",
+				"name": "ConsoleTracingMask"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASMANCS",
+				"name": "MaxFileSize"
+			},
+			{
+				"path": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\e3SbHew0aQ3_RASMANCS",
+				"name": "FileDirectory"
+			}
+		],
+		"Process Activities(processCreated)": [
+			{
+				"cmdline": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\e3SbHew0aQ3.exe /path='C:\\Users\\user\\Desktop\\3SbHew0aQ3.exe'"
+			}
+		],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\3SbHew0aQ3.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\e3SbHew0aQ3.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nspED0F.tmp"
+			},
+			{
+				"path": "C:\\Users"
+			},
+			{
+				"path": "C:\\Users\\user"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\installer.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\e3SbHew0aQ3.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\3SbHew0aQ3.exe.config"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Roaming"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\bin.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\bin"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\temp"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\software"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\bin\\bin.html"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\config.dll"
+			}
+		],
+		"Files Activities(fileDeleted)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\nspED0F.tmp"
+			}
+		],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\installer.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\e3SbHew0aQ3.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\3SbHew0aQ3.exe.config"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\config.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\bin.dll"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\desktop.ini"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\3SbHew0aQ3.exe"
+			},
+			{
+				"path": "C:\\Windows\\Fonts\\StaticCache.dat"
+			},
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework64\\v2.0.50727\\CONFIG\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\System32\\drivers\\etc\\hosts"
+			},
+			{
+				"path": "C:\\Windows\\System32\\ieframe.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\installer.exe"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\config.dll"
+			},
+			{
+				"path": "C:\\Users\\user\\AppData\\Local\\Temp\\3SbHew0aQ3.exe\\4dba3942916143079e329c03e3c5e676\\e3SbHew0aQ3.exe"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			},
+			{
+				"name": "\\Sessions\\1\\BaseNamedObjects\\Global\\.net clr networking"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://dtrack.secdls.com/debug",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.comH",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure5.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure3.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debugMessage/x",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure10.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.paleokits.net",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure9_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.comP",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure8.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure7.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/paleokits_net/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure9.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure4.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure10.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure9.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure1.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure6_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure4.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure4_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure8_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure2_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/api/151/flashplayer/321/451/english.xml",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure3.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure8.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure6.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure2.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure9.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure6.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure9.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/apiH",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/trace/ReadyState",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/test/trace/PS.DomaTracked",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure6.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure3.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure1.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure4.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/trace/GetXmlDataRequisites",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure5.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure10_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://nsis.sf.net/NSIS_ErrorError",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure1.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure5.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://nsis.sf.net/NSIS_Error",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.secdls.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure7.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure1_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure5_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure8.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debugMessage/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure6.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/api",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure2.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure3.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure7.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure3.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/trace/GetBinaryData",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure9.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure1.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure8.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure4.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.secdls.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/trace/EndLoading",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/trace/DownloadRequisitesFinish",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure4.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.secdls.comH",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure3.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/secdls_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure7.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/api/151/FlashPlayer/321/451/English.xml",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure5.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure10.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure8.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure2.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/trace/GetDataToTrack",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure2.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure10.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure5.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure10.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/TraceErrors/RecievingXml",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure5.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure10.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure4.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure2.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure8.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/trace/Tracked",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure3_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.secdls.com/index.php/api/151/FlashPlayer/321/451/English",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure9.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.paleokits.net/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://dtrack.secdls.com/debug/Domains/sslsecure7_com/KO",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure2.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure6.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.sslsecure7.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://staticrr.paleokits.net/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://track.v2.sslsecure1.com/test.html",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://api.v2.sslsecure6.com",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [
+			{
+				"ip": "192.168.50.32",
+				"country": ""
+			},
+			{
+				"ip": "192.168.50.255",
+				"country": ""
+			}
+		],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "Lunacom Interactive Ltd",
+		"Digitally signed S/N": "374739D0B1B7562D55B8044DEBF0C807",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_CreateProcessA_ShowWindow_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_RtlUserThreadStart_LoadLibraryA_LoadLibraryA_LoadLibraryA_LoadLibraryA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_ShowWindow_KiUserCallbackDispatcher_KiUserCallbackDispatcher_SetWindowTextA_DestroyWindow_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_unknown_unknown_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_SendMessageA_ShowWindow_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_CreateDialogParamA_ShowWindow_CreateThread_CreateThread_CreateThread_CloseHandle_ShowWindow_DialogBoxParamA_DialogBoxParamA_DialogBoxIndirectParamAorW_OleInitialize_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_unknown_LdrInitializeThunk_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_DialogBoxParamA_SendMessageA_SendMessageA_ShowWindow_ShowWindow_KiUserCallbackDispatcher_SendMessageA_SetWindowTextA_DestroyWindow_KiUserCallbackDispatcher_KiUserCallbackDispatcher_EndDialog_RtlUserThreadStart_DialogBoxParamA_DialogBoxParamA_CloseHandle_OleUninitialize_OleUninitialize_RtlUserThreadStart_OleUninitialize_OleUninitialize_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1047,T1106",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "T1055",
+		"ATT&CK(Defense Evasion)": "T1562.001,T1497,T1055,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1018,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560,T1115",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573"
+	}
+}

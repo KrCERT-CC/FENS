@@ -1,0 +1,340 @@
+{
+	"md5": "11e8a0eba89ef742a9ef1f004da4df53",
+	"data": {
+		"MD5": "11e8a0eba89ef742a9ef1f004da4df53",
+		"SHA1": "c13acc56f8794401ee3e536729dab71d9f17f9f7",
+		"SHA256": "0005aeb2fb0efb88e23a50915e91de5b7afbb16232e6c15de037648d1c8169d3",
+		"EntryPoint": "4b362e",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 747520,
+		"Original FileName": "iView_Super.exe",
+		"Entropy": 6.635,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, EXECUTABLE_IMAGE, LARGE_ADDRESS_AWARE, LINE_NUMS_STRIPPED",
+		"Timestamp": "2019-02-12 14:02:18(2019-02-12 05:02:18 UTC)",
+		"Import Hash": "f34d5f2d4577ed6d9ceec516c1f5a744",
+		"Section Info": [
+			".text:0x2000:0xb1634:0x400:0xb1800:6.65565102337",
+			".sdata:0xb4000:0x653:0xb1c00:0x800:5.20593292391",
+			".rsrc:0xb6000:0x415c:0xb2400:0x4200:5.33830126982",
+			".reloc:0xbc000:0xc:0xb6600:0x200:0.0980041756627"
+		],
+		"Resource": [
+			"RT_ICON:0xb6190:0x468:GLS_BINARY_LSB_FIRST::",
+			"RT_ICON:0xb65f8:0x10a8:data::",
+			"RT_ICON:0xb76a0:0x25a8:data::",
+			"RT_GROUP_ICON:0xb9c48:0x30:data::",
+			"RT_VERSION:0xb9c78:0x2f8:data::",
+			"RT_MANIFEST:0xb9f70:0x1ea:XML 1.0 document, UTF-8 Unicode (with BOM) text, with CRLF line terminators::"
+		],
+		"Registry Activities(keyCreated)": [],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+			},
+			{
+				"path": "C:\\Windows\\XgvIShax"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux"
+			},
+			{
+				"path": "C:\\Users\\user\\Desktop\\4oo3JxofYk.exe"
+			}
+		],
+		"MutexName(CreateMutexA)": [
+			{
+				"name": "unknown"
+			}
+		],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [
+			{
+				"url": "http://www.apache.org/licenses/LICENSE-2.0",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.apache.org/licenses/LICENSE-2.0RobotoMedium",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.apache.org/licenses/LICEN",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://jovanny.ru/http://jovanny.ru/http://jovanny.ru/http://jovanny.ru/This",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://scripts.sil.org/OFLhttp://scripts.sil.org/OFLhttp://scripts.sil.org/OFLDays",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.apache.org/licenses/LICENSE-2.0Roboto",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.apache.org/licenses/LICENS",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.apache.org/licenses/LICE",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://scripts.sil.org/OFLhttp://scripts.sil.org/OFL",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://scripts.sil.org/OFL",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://scripts.sil.org/OFLThis",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://www.apache.org/licenses/LICENSE-",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://jovanny.ru/",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			},
+			{
+				"url": "http://scripts.sil.org/OFLhttp://scripts.sil.org/OFLCopyright",
+				"registrar": "",
+				"registrant": "",
+				"email": "",
+				"updated_date": "",
+				"creation_date": "",
+				"expiration_date": "",
+				"country": ""
+			}
+		],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Ransomware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) Net Framework (10011505/4)",
+		"API Sequence": "SetErrorMode_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_SetErrorMode_SetErrorMode_LoadLibraryExW_LoadLibraryExW_RtlUserThreadStart_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_SetErrorMode_SetErrorMode_VirtualAlloc_VirtualAlloc_RtlAllocateHeap_RtlAllocateHeap_RtlAllocateHeap_RtlAllocateHeap_RtlAllocateHeap_RtlAllocateHeap_RtlAllocateHeap_VirtualAlloc_VirtualAlloc_SetErrorMode_SetErrorMode_LoadLibraryExW_SetErrorMode_SetErrorMode_VirtualProtect_CreateActCtxA_CreateActCtxA_CreateActCtxA_CreateActCtxA_CreateActCtxA_CreateActCtxA_CreateActCtxA_CreateActCtxA_VirtualProtect_SetErrorMode_SetErrorMode_SetErrorMode_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_VirtualAlloc_RegOpenKeyExW_RegOpenKeyExW_RtlAllocateHeap_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_GetFileAttributesW_CloseHandle_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegEnumValueW_RegCloseKey_RtlUserThreadStart_unknown_unknown_unknown_VirtualProtect_SetErrorMode_SetErrorMode_LoadLibraryExW_SetErrorMode_SetErrorMode_VirtualProtect_unknown_unknown_unknown_VirtualProtect_unknown_unknown_unknown_unknown_VirtualProtect_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_RtlAllocateHeap_RtlAllocateHeap_RegOpenKeyExW_RegOpenKeyExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegOpenKeyExW_RegOpenKeyExW_RegOpenKeyExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegQueryValueExW_RegOpenKeyExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_LoadLibraryExW_SetErrorMode_SetErrorMode_GetFileAttributesW_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_unknown_SetErrorMode_SetErrorMode_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart_RtlUserThreadStart",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "T1106",
+		"ATT&CK(Persistence)": "T1574.002",
+		"ATT&CK(Privilege Escalation)": "T1055,T1574.002",
+		"ATT&CK(Defense Evasion)": "T1497,T1562.001,T1027.002,T1055,T1140,T1574.002,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1518.001,T1497,T1057,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "T1560",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": "T1573",
+		"String": [
+			{
+				"type": "Unicode C-Style",
+				"string": "iView_2.Properties.Resources"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "System.Security.Cryptography.AesCryptoServiceProvider"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "System.Security.Cryptography.CryptoConfig"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "get_AllowOnlyFipsAlgorithms"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "MDVELNvF1H1XNmyiW5.Y7wZMv3EcsmLA5NfAC"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "D51ZCOSbLhqEgbRYwe.gIdwfSGYp0hvKIDrLg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{11111-22222-50001-00000}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "GetDelegateForFunctionPointer"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "m_ptr"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "System.Reflection.RuntimeModule"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "m_pData"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "clrjit.dll"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "1TtWlMVe9UBO5TyAGh.YKBo70pfKRl5sGK9hg"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "System.Reflection.ReflectionContext"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "file:///"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "Location"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{11111-22222-40001-00001}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{11111-22222-40001-00002}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{11111-22222-50001-00001}"
+			},
+			{
+				"type": "Unicode C-Style",
+				"string": "{11111-22222-50001-00002}"
+			}
+		],
+		"Packer": ".NET Reactor(4.8-4.9)",
+		"compiler": "",
+		"linker": "Microsoft Linker(6.0)[EXE32]",
+		"PDB path": "iView_Super.pdb",
+		"full Fuzzyhash": "12288:/uEE5Cf+FzXHLEnjuj2wkxswcXKC2zNWgFBm2YRm5:i4f+VbA6j2wZX9uWmBm2Yy",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_11e8a0eba89ef742a9ef1f004da4df53.jpg",
+		"bytecode": "binary_11e8a0eba89ef742a9ef1f004da4df53.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": ".text",
+				"md5": "7bc229bf647669ffcb6622df767d211e"
+			},
+			{
+				"section": ".sdata",
+				"md5": "f18142b66bec702f0bbae572c1a8d36c"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "be90035baed097133af6aa4a9f041250"
+			},
+			{
+				"section": ".reloc",
+				"md5": "ba2d419436755494ae895642722b11ae"
+			}
+		],
+		"Yara Rule": []
+	}
+}

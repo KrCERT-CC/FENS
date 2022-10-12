@@ -1,0 +1,987 @@
+{
+	"md5": "cda0edefcfde38d57c9163e14bb061c5",
+	"data": {
+		"String": [
+			{
+				"string": "SOFTWARE\\Borland\\Delphi\\RTL",
+				"type": "C-Style"
+			},
+			{
+				"string": "FPUMaskValue",
+				"type": "C-Style"
+			},
+			{
+				"string": "kernel32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetLongPathNameA",
+				"type": "C-Style"
+			},
+			{
+				"string": "Software\\Borland\\Locales",
+				"type": "C-Style"
+			},
+			{
+				"string": "Software\\Borland\\Delphi\\Locales",
+				"type": "C-Style"
+			},
+			{
+				"string": "\tException$q@",
+				"type": "C-Style"
+			},
+			{
+				"string": "m/d/yy",
+				"type": "C-Style"
+			},
+			{
+				"string": "mmmm d, yyyy",
+				"type": "C-Style"
+			},
+			{
+				"string": " AMPM",
+				"type": "C-Style"
+			},
+			{
+				"string": "AMPM ",
+				"type": "C-Style"
+			},
+			{
+				"string": ":mm:ss",
+				"type": "C-Style"
+			},
+			{
+				"string": "kernel32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetDiskFreeSpaceExA",
+				"type": "C-Style"
+			},
+			{
+				"string": "RealOp",
+				"type": "C-Style"
+			},
+			{
+				"string": "IntOp",
+				"type": "C-Style"
+			},
+			{
+				"string": "Int64Op",
+				"type": "C-Style"
+			},
+			{
+				"string": "VarOp",
+				"type": "C-Style"
+			},
+			{
+				"string": "False",
+				"type": "C-Style"
+			},
+			{
+				"string": "Strings",
+				"type": "C-Style"
+			},
+			{
+				"string": "Owner",
+				"type": "C-Style"
+			},
+			{
+				"string": "False",
+				"type": "C-Style"
+			},
+			{
+				"string": "False",
+				"type": "C-Style"
+			},
+			{
+				"string": "Owner",
+				"type": "C-Style"
+			},
+			{
+				"string": ".Owner",
+				"type": "C-Style"
+			},
+			{
+				"string": "dextor32",
+				"type": "C-Style"
+			},
+			{
+				"string": "Star Wars Episode 2 - Attack Of The Clones Full Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Jenna Jameson - Built For Speed Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "[DiVX] Lord of The Rings Full Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "[DiVX] Harry Potter And The Sorcerors Stone Full Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "CKY3 - Bam Margera World Industries Alien Workshop Full Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Cat Attacks Child Full Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "PS1 Boot Disc Full Dwonloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Sony Play station boot disc - Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "How To Hack Websites.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "AIM Account Stealer Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "MSN Password Hacker and Stealer.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Hacking Tool Collection.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Windows XP Full Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Macromedia Flash 5.0 Full Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "DSL Modem Uncapper.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Internet and Computer Speed Booster.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "ZoneAlarm Firewall Full Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Borland Delphi 6 Key Generator.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "ScaryMovie 2 Full Downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "StarWars2 - CloneAttack - FullDownloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Spiderman FullDownloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Shakira FullDownloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Gladiator FullDownloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "AikaQuest3Hentai FullDownloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "MoviezChannelsInstaler.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Zidane-ScreenInstaler.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "LordOfTheRings-FullDownloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "SIMS FullDownloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Britney spears nude.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Quake 4 BETA.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Windows XP key generator.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Windows XP serial generator.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Xbox.info.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "DivX.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "GTA3 crack.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Battle.net key generator (WORKS!!).exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Warcraft 3 battle.net serial generator.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Half-life WON key generator.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Star wars episode 2 downloader.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Winzip 8.0 + serial.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Winrar + crack.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Key generator for all windows XP versions.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Warcraft 3 ONLINE key generator.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Half-life ONLINE key generator.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Grand theft auto 3 CD1 crack.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Macromedia key generator (all products).exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "KaZaA media desktop v2.0 UNOFFICIAL.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Microsoft key generator, works for ALL microsoft products!!.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Microsoft Windows XP crack pack.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Hack into any computer!!.exe",
+				"type": "C-Style"
+			},
+			{
+				"string": "Temp\\",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\Software\\Morpheus\\LocalContent",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\Software\\Kazaa\\LocalContent",
+				"type": "C-Style"
+			},
+			{
+				"string": "Temp\\",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\Software\\Morpheus\\LocalContent",
+				"type": "C-Style"
+			},
+			{
+				"string": "InstallDir",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\GnuConfig.ini",
+				"type": "C-Style"
+			},
+			{
+				"string": "MaxUploads=",
+				"type": "C-Style"
+			},
+			{
+				"string": "MaxUploads=3",
+				"type": "C-Style"
+			},
+			{
+				"string": "[Search Screen]",
+				"type": "C-Style"
+			},
+			{
+				"string": "Temp, Recursive",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\Software\\Kazaa\\LocalContent",
+				"type": "C-Style"
+			},
+			{
+				"string": "012345:",
+				"type": "C-Style"
+			},
+			{
+				"string": "DisableSharing",
+				"type": "C-Style"
+			},
+			{
+				"string": "\\Software\\HP710C",
+				"type": "C-Style"
+			},
+			{
+				"string": "Runtime error     at 00000000",
+				"type": "C-Style"
+			},
+			{
+				"string": "Error",
+				"type": "C-Style"
+			},
+			{
+				"string": "123456789ABCDEF",
+				"type": "C-Style"
+			},
+			{
+				"string": "\tSeptember\u0007October\bNovember\bDecember",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "!'%s' is not a valid integer value\rOut of memory",
+				"type": "Unicode C-Style"
+			},
+			{
+				"string": "ActiveX",
+				"type": "C-Style"
+			},
+			{
+				"string": "TlsSetValue",
+				"type": "C-Style"
+			},
+			{
+				"string": "sGetValue",
+				"type": "C-Style"
+			},
+			{
+				"string": "ocalAlloc",
+				"type": "C-Style"
+			},
+			{
+				"string": "etModuleHandleA",
+				"type": "C-Style"
+			},
+			{
+				"string": "eleteCriticalSection",
+				"type": "C-Style"
+			},
+			{
+				"string": "LeaveCriticalSection",
+				"type": "C-Style"
+			},
+			{
+				"string": "nterCriticalSection",
+				"type": "C-Style"
+			},
+			{
+				"string": "InitializeCriticalSection",
+				"type": "C-Style"
+			},
+			{
+				"string": "VirtualFree",
+				"type": "C-Style"
+			},
+			{
+				"string": "VirtualAlloc",
+				"type": "C-Style"
+			},
+			{
+				"string": "ocalFree",
+				"type": "C-Style"
+			},
+			{
+				"string": "calAlloc",
+				"type": "C-Style"
+			},
+			{
+				"string": "tCurrentThreadId",
+				"type": "C-Style"
+			},
+			{
+				"string": "terlockedDecrement",
+				"type": "C-Style"
+			},
+			{
+				"string": "InterlockedIncrement",
+				"type": "C-Style"
+			},
+			{
+				"string": "rtualQuery",
+				"type": "C-Style"
+			},
+			{
+				"string": "WideCharToMultiByte",
+				"type": "C-Style"
+			},
+			{
+				"string": "MultiByteToWideChar",
+				"type": "C-Style"
+			},
+			{
+				"string": "trlenA",
+				"type": "C-Style"
+			},
+			{
+				"string": "lstrcpynA",
+				"type": "C-Style"
+			},
+			{
+				"string": "oadLibraryExA",
+				"type": "C-Style"
+			},
+			{
+				"string": "etThreadLocale",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetStartupInfoA",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetProcAddress",
+				"type": "C-Style"
+			},
+			{
+				"string": "GetModuleHandleA",
+				"type": "C-Style"
+			},
+			{
+				"string": "etModuleFileNameA",
+				"type": "C-Style"
+			},
+			{
+				"string": "etLocaleInfoA",
+				"type": "C-Style"
+			},
+			{
+				"string": "etLastError",
+				"type": "C-Style"
+			},
+			{
+				"string": "handledExceptionFilter",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetFilePointer",
+				"type": "C-Style"
+			},
+			{
+				"string": "SetEndOf",
+				"type": "C-Style"
+			},
+			{
+				"string": "lUnwind",
+				"type": "C-Style"
+			},
+			{
+				"string": "aiseException",
+				"type": "C-Style"
+			},
+			{
+				"string": "etStdHandle",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "user32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "advapi32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "oleaut32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "advapi32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "user32.dll",
+				"type": "C-Style"
+			},
+			{
+				"string": "KERNEL32.DLL",
+				"type": "C-Style"
+			},
+			{
+				"string": "oleaut32.dll",
+				"type": "C-Style"
+			}
+		],
+		"Packer": "",
+		"compiler": "Borland Delphi(6-7 or 2005)",
+		"linker": "Turbo Linker(2.25*,Delphi)[EXE32]",
+		"PDB path": "",
+		"full Fuzzyhash": "3072:HxTqpdA3f6QNf2IPO4DpmWpAsfYbTOBoefYi6a9k20tA3ZCqkz1Mt5mzll:R2pdqfv2IPOGfXf5ovWJCN1MKzX",
+		"section Fuzzyhash(.data)": "",
+		"rich header": "",
+		"PE Image": "binary_cda0edefcfde38d57c9163e14bb061c5.jpg",
+		"bytecode": "binary_cda0edefcfde38d57c9163e14bb061c5.byte",
+		"opcode": "",
+		"MD5 of Sections": [
+			{
+				"section": "UPX0",
+				"md5": "ac67c0dbb894460e53452866130a4025"
+			},
+			{
+				"section": "UPX1",
+				"md5": "20e206ad4a4227a8c094860b03fa672a"
+			},
+			{
+				"section": ".rsrc",
+				"md5": "70a3bb5ed53803f63f184c67fb4d46dc"
+			},
+			{
+				"section": ".imports",
+				"md5": "f1e44302dd598768bc9e605f07567288"
+			}
+		],
+		"Yara Rule": [],
+		"MD5": "cda0edefcfde38d57c9163e14bb061c5",
+		"SHA1": "82269f2175dcd39c564ac3bb8fd87ab7740b3b62",
+		"SHA256": "eee273211964c4eee16704b9fc152ed84fbb7a4ccbdb7fe42b6e210e214c558c",
+		"EntryPoint": "41afd4",
+		"EntryPoint Data": "0x0:\tarpl\tword ptr [ecx + 0x70], sp\n0x3:\tjae\t0x79\n0x5:\toutsd\tdx, dword ptr [esi]\n0x6:\toutsb\tdx, byte ptr [esi]\n0x7:\tpop\tedi\n0x9:\tinsd\tdword ptr es:[edi], dx\n0xa:\toutsd\tdx, dword ptr [esi]\n0xb:\tjne\t0x71\n0xd:\tinsb\tbyte ptr es:[edi], dx\n0xe:\tjo\t0x8b\n",
+		"ImageBase": "400000",
+		"FileSize": 165412,
+		"Original FileName": "",
+		"Entropy": 5.699,
+		"Subsystem": "windows gui",
+		"Image File Characteristics": "LOCAL_SYMS_STRIPPED, 32BIT_MACHINE, BYTES_REVERSED_LO, EXECUTABLE_IMAGE, DEBUG_STRIPPED, LINE_NUMS_STRIPPED, BYTES_REVERSED_HI, RELOCS_STRIPPED",
+		"Timestamp": "1992-06-20 07:22:17(1992-06-19 22:22:17 UTC)",
+		"Import Hash": "700e5c09ef1924c7531712f6fe894f1c",
+		"Section Info": [
+			"UPX0:0x1000:0x18000:0x400:0x18000:6.51481169499",
+			"UPX1:0x19000:0xe000:0x18400:0xd600:2.80247962356",
+			".rsrc:0x27000:0x1000:0x25a00:0x400:2.84325863803",
+			".imports:0x28000:0x1000:0x25e00:0xa00:4.53468518531"
+		],
+		"Resource": [
+			"RT_STRING:0x23218:0x2ac:data::",
+			"RT_STRING:0x234c4:0x360:data::",
+			"RT_STRING:0x23824:0xf4:data::",
+			"RT_STRING:0x23918:0xc4:data::",
+			"RT_STRING:0x239dc:0x2e0:data::",
+			"RT_STRING:0x23cbc:0x35c:data::",
+			"RT_STRING:0x24018:0x2b4:data::",
+			"RT_RCDATA:0x242cc:0x10:data::",
+			"RT_RCDATA:0x242dc:0xb4:data::"
+		],
+		"Registry Activities(keyCreated)": [
+			{
+				"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\HP710C"
+			}
+		],
+		"Registry Activities(keyValueCreated)": [],
+		"Process Activities(processCreated)": [],
+		"Process Activities(processSuspended)": [],
+		"Process Activities(processTerminated)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\7hrRiIlL2W.exe"
+			}
+		],
+		"Process Activities(shellExecuted)": [],
+		"Files Activities(fileCreated)": [
+			{
+				"path": "C:\\Windows\\Temp"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Star Wars Episode 2 - Attack Of The Clones Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Jenna Jameson - Built For Speed Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\[DiVX] Lord of The Rings Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\[DiVX] Harry Potter And The Sorcerors Stone Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\CKY3 - Bam Margera World Industries Alien Workshop Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Cat Attacks Child Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\PS1 Boot Disc Full Dwonloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Sony Play station boot disc - Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\How To Hack Websites.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\AIM Account Stealer Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\MSN Password Hacker and Stealer.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Hacking Tool Collection.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Windows XP Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Macromedia Flash 5.0 Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\DSL Modem Uncapper.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Internet and Computer Speed Booster.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\ZoneAlarm Firewall Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Borland Delphi 6 Key Generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\ScaryMovie 2 Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\StarWars2 - CloneAttack - FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Spiderman FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Shakira FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Gladiator FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\AikaQuest3Hentai FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\MoviezChannelsInstaler.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Zidane-ScreenInstaler.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\LordOfTheRings-FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\SIMS FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Britney spears nude.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Quake 4 BETA.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Windows XP key generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Windows XP serial generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Xbox.info.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\DivX.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\GTA3 crack.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Battle.net key generator (WORKS!!).exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Warcraft 3 battle.net serial generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Half-life WON key generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Star wars episode 2 downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Winzip 8.0 + serial.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Winrar + crack.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Key generator for all windows XP versions.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Warcraft 3 ONLINE key generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Half-life ONLINE key generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Grand theft auto 3 CD1 crack.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Macromedia key generator (all products).exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\KaZaA media desktop v2.0 UNOFFICIAL.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Microsoft key generator, works for ALL microsoft products!!.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Microsoft Windows XP crack pack.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Hack into any computer!!.exe"
+			},
+			{
+				"path": "C:\\Windows\\dextor32.exe"
+			}
+		],
+		"Files Activities(fileDeleted)": [],
+		"Files Activities(fileWritten)": [
+			{
+				"path": "C:\\Windows\\Temp\\Star Wars Episode 2 - Attack Of The Clones Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Jenna Jameson - Built For Speed Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\[DiVX] Lord of The Rings Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\[DiVX] Harry Potter And The Sorcerors Stone Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\CKY3 - Bam Margera World Industries Alien Workshop Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Cat Attacks Child Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\PS1 Boot Disc Full Dwonloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Sony Play station boot disc - Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\How To Hack Websites.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\AIM Account Stealer Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\MSN Password Hacker and Stealer.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Hacking Tool Collection.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Windows XP Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Macromedia Flash 5.0 Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\DSL Modem Uncapper.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Internet and Computer Speed Booster.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\ZoneAlarm Firewall Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Borland Delphi 6 Key Generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\ScaryMovie 2 Full Downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\StarWars2 - CloneAttack - FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Spiderman FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Shakira FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Gladiator FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\AikaQuest3Hentai FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\MoviezChannelsInstaler.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Zidane-ScreenInstaler.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\LordOfTheRings-FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\SIMS FullDownloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Britney spears nude.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Quake 4 BETA.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Windows XP key generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Windows XP serial generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Xbox.info.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\DivX.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\GTA3 crack.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Battle.net key generator (WORKS!!).exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Warcraft 3 battle.net serial generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Half-life WON key generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Star wars episode 2 downloader.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Winzip 8.0 + serial.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Winrar + crack.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Key generator for all windows XP versions.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Warcraft 3 ONLINE key generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Half-life ONLINE key generator.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Grand theft auto 3 CD1 crack.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Macromedia key generator (all products).exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\KaZaA media desktop v2.0 UNOFFICIAL.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Microsoft key generator, works for ALL microsoft products!!.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Microsoft Windows XP crack pack.exe"
+			},
+			{
+				"path": "C:\\Windows\\Temp\\Hack into any computer!!.exe"
+			},
+			{
+				"path": "C:\\Windows\\dextor32.exe"
+			}
+		],
+		"Files Activities(fileRead)": [
+			{
+				"path": "C:\\Users\\user\\Desktop\\7hrRiIlL2W.exe"
+			}
+		],
+		"MutexName(CreateMutexA)": [],
+		"URL(Contacted URL)": [],
+		"URL(from Memory and Binaries)": [],
+		"IP(Contacted IP)": [],
+		"Classification": "Evader,Spyware",
+		"Digitally signed name": "",
+		"Digitally signed S/N": "",
+		"Trid(Antivirus detection name)": "Win32 Executable (generic) a (10002005/4)",
+		"API Sequence": "CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_FindFirstFileA_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_FindFirstFileA_CreateFileA_SetFilePointer_WriteFile_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_CopyFileA_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess_ExitProcess",
+		"ATT&CK(Initial Access)": "",
+		"ATT&CK(Execution)": "",
+		"ATT&CK(Persistence)": "",
+		"ATT&CK(Privilege Escalation)": "",
+		"ATT&CK(Defense Evasion)": "T1036,T1027.002,T1140,T1027",
+		"ATT&CK(Credential Access)": "",
+		"ATT&CK(Discovery)": "T1124,T1083,T1082",
+		"ATT&CK(Lateral Movement)": "",
+		"ATT&CK(Collection)": "",
+		"ATT&CK(Exfiltration)": "",
+		"ATT&CK(Command and Control)": ""
+	}
+}
