@@ -1,5 +1,4 @@
 # Cyber Threat Information Sharing 
-> KrCERT는 AI 및 데이터 연관 분석을 위해 FENS 시스템을 개발하여 내부적으로 활용하고 있으며, 해당 시스템을 통해 추출된 최근 침해사고 위협정보 & 특징정보 데이터셋을 외부에 공유하고 기업 및 연구기관에서 적극 활용하여 AI 모델 개발, 위협 헌팅 등 보안 성능의 향상을 기대한다.
 > KrCERT has developed and internally used the FENS system for AI and data correlation analysis. It is expected that the security performance such as AI model development and threat hunting will be improved by sharing the recent intrusion threat information & feature dataset extracted through the system and actively utilizing it in companies and research institutes.
 
 ## FENS(Feature Engineering Normalization System)
@@ -30,12 +29,11 @@
 2. APK Feature : <a href = "Feature Sheet/Android Feature Data Sheet.pdf">Feature Sheet/Android Feature Data Sheet.pdf</a>
 
 ## Data Set
-> 이슈에 대해 침해사고 유형별 특징정보를 추출하고 있으며, 이를 통해 AI 학습, 룰 제작, 위협 헌팅 등에 활용 할 수 있다.
+> Feature Data Set is extracted from incidents that are becoming issues. This can be used for AI learning, rule making, and threat hunting.
 1. Ukraine cyber war
 ```sh
-우크라이나 전쟁 발발(2022년 2월) 이후 현재(2022년 9월)까지 1000여건 이상의 사이버 공격이 발생하고 있다. 
-KrCERT는 여기에서 사용된 무기(악성코드)가 재사용될 가능성이 높다고 판단됐고 변종 악성코드 유포로부터 피해를 최소화히기 위해
-이를 지속적으로 수집하고 특징정보를 추출하고 있으며, 이렇게 수집되고 관리되고 있는 악성코드 패밀리는 총 12종이다. 
+Since the outbreak of the Ukrainian War (February 2022) to the present (October 2022), more than 1,000 cyberattacks have occurred.
+KrCERT has determined that the weapon (malware) used here is likely to be reused. In order to minimize damage from the distribution of malicious code variants, it is continuously collecting and extracting feature data set, and there are a total of 12 types of malicious code families that are collected and managed in this way.
 ```
 
 2. Proecessing...
