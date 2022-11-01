@@ -33,7 +33,10 @@
 1. Ukraine cyber war
 ```sh
 Since the outbreak of the Ukrainian War (February 2022) to the present (October 2022), more than 1,000 cyberattacks have occurred.
-KrCERT has determined that the weapon (malware) used here is likely to be reused. In order to minimize damage from the distribution of malicious code variants, it is continuously collecting and extracting feature data set, and there are a total of 12 types of malicious code families that are collected and managed in this way.
+KrCERT has determined that the weapon (malware) used here is likely to be reused. 
+In order to minimize damage from the distribution of malicious code variants, 
+it is continuously collecting and extracting feature data set, 
+and there are a total of 12 types of malicious code families that are collected and managed in this way.
 ```
 
 2. Proecessing...
