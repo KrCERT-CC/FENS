@@ -1,5 +1,5 @@
-### <img width="1224" alt="스크린샷 2022-11-01 오후 2 25 02" src="https://user-images.githubusercontent.com/115598887/199164952-ccdada89-c4a6-47e5-8f0f-2e60b485d9b5.png">
-addyWiper
+<img width="1224" alt="스크린샷 2022-11-01 오후 2 25 02" src="https://user-images.githubusercontent.com/115598887/199164952-ccdada89-c4a6-47e5-8f0f-2e60b485d9b5.png">
+### CaddyWiper
 > <a href="https://www.zdnet.com/article/caddywiper-more-destructive-wiper-malware-strikes-ukrainian-targets/">CaddyWiper is wiper malware, malicious code specifically designed to damage target systems by erasing user data, programs, hard drives, and in some cases, partition information. 
 The new wiper follows this pattern by wiping out user data and partition information. However, ESET says that CaddyWiper does avoid erasing information on domain controllers.</a>
 
